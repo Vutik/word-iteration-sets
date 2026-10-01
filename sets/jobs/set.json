@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "Jobs",
+    "ru": "Профессии",
+    "pl": "Zawody"
+  },
+  "description": {
+    "en": "Who does what for a living.",
+    "ru": "Кто кем работает.",
+    "pl": "Kto czym się zajmuje."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "work",
+    "people"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

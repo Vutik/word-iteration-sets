@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "restaurant",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ресторан",
+        "pl": "restauracja"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "café",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кафе",
+        "pl": "kawiarnia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "menu",
+          "partOfSpeech": "noun"
+        },
+        "ru": "меню",
+        "pl": {
+          "text": "menu",
+          "alternates": [
+            "karta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "table",
+          "partOfSpeech": "noun"
+        },
+        "ru": "столик",
+        "pl": "stolik"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "waiter",
+          "partOfSpeech": "noun"
+        },
+        "ru": "официант",
+        "pl": "kelner"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "waitress",
+          "partOfSpeech": "noun"
+        },
+        "ru": "официантка",
+        "pl": "kelnerka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "starter",
+          "partOfSpeech": "noun"
+        },
+        "ru": "закуска",
+        "pl": "przystawka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "main course",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "основное блюдо",
+          "alternates": [
+            "горячее"
+          ]
+        },
+        "pl": "danie główne"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dessert",
+          "partOfSpeech": "noun"
+        },
+        "ru": "десерт",
+        "pl": "deser"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dish",
+          "partOfSpeech": "noun"
+        },
+        "ru": "блюдо",
+        "pl": "danie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bill",
+          "alternates": [
+            "check"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "счёт",
+        "pl": "rachunek"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "Could we have the bill, please?",
+          "translations": {
+            "ru": "Можно счёт, пожалуйста?",
+            "pl": "Możemy prosić o rachunek?"
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tip",
+          "partOfSpeech": "noun"
+        },
+        "ru": "чаевые",
+        "pl": "napiwek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "reservation",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "бронь",
+          "alternates": [
+            "бронирование"
+          ]
+        },
+        "pl": "rezerwacja"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tasty",
+          "alternates": [
+            "delicious"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "вкусный",
+        "pl": {
+          "text": "smaczny",
+          "alternates": [
+            "pyszny"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "spicy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "острый",
+        "pl": {
+          "text": "ostry",
+          "alternates": [
+            "pikantny"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sweet",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "сладкий",
+        "pl": "słodki"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "salty",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "солёный",
+        "pl": "słony"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "vegetarian",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "вегетарианский",
+        "pl": "wegetariański"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to order",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "заказывать",
+          "alternates": [
+            "заказать"
+          ]
+        },
+        "pl": {
+          "text": "zamawiać",
+          "alternates": [
+            "zamówić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to book",
+          "alternates": [
+            "to reserve"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "бронировать",
+          "alternates": [
+            "забронировать"
+          ]
+        },
+        "pl": {
+          "text": "rezerwować",
+          "alternates": [
+            "zarezerwować"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to recommend",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "советовать",
+          "alternates": [
+            "рекомендовать"
+          ]
+        },
+        "pl": {
+          "text": "polecać",
+          "alternates": [
+            "polecić"
+          ]
+        }
+      }
+    }
+  ]
+}

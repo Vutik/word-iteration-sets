@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Technology and the internet",
+    "ru": "Техника и интернет",
+    "pl": "Technologia i internet"
+  },
+  "description": {
+    "en": "Devices, apps and life online.",
+    "ru": "Устройства, приложения и жизнь онлайн.",
+    "pl": "Urządzenia, aplikacje i życie w sieci."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "B1",
+  "tags": [
+    "technology"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

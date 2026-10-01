@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Numbers",
+    "ru": "Числа",
+    "pl": "Liczby"
+  },
+  "description": {
+    "en": "Counting from zero to a thousand.",
+    "ru": "Счёт от нуля до тысячи.",
+    "pl": "Liczenie od zera do tysiąca."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "numbers"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

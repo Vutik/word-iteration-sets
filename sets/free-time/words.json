@@ -1,0 +1,266 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "hobby",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "хобби",
+          "alternates": [
+            "увлечение"
+          ]
+        },
+        "pl": "hobby"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sport",
+          "partOfSpeech": "noun"
+        },
+        "ru": "спорт",
+        "pl": "sport"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "football",
+          "alternates": [
+            "soccer"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "футбол",
+        "pl": "piłka nożna"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "basketball",
+          "partOfSpeech": "noun"
+        },
+        "ru": "баскетбол",
+        "pl": "koszykówka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tennis",
+          "partOfSpeech": "noun"
+        },
+        "ru": "теннис",
+        "pl": "tenis"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "swimming",
+          "partOfSpeech": "noun"
+        },
+        "ru": "плавание",
+        "pl": "pływanie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "game",
+          "partOfSpeech": "noun"
+        },
+        "ru": "игра",
+        "pl": "gra"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "match",
+          "partOfSpeech": "noun"
+        },
+        "ru": "матч",
+        "pl": "mecz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "team",
+          "partOfSpeech": "noun"
+        },
+        "ru": "команда",
+        "pl": "drużyna"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "music",
+          "partOfSpeech": "noun"
+        },
+        "ru": "музыка",
+        "pl": "muzyka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "film",
+          "alternates": [
+            "movie"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "фильм",
+        "pl": "film"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cinema",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "кинотеатр",
+          "alternates": [
+            "кино"
+          ]
+        },
+        "pl": "kino"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "concert",
+          "partOfSpeech": "noun"
+        },
+        "ru": "концерт",
+        "pl": "koncert"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "photo",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "фотография",
+          "alternates": [
+            "фото"
+          ]
+        },
+        "pl": "zdjęcie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "walk",
+          "partOfSpeech": "noun"
+        },
+        "ru": "прогулка",
+        "pl": "spacer"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to play",
+          "partOfSpeech": "verb"
+        },
+        "ru": "играть",
+        "pl": "grać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to swim",
+          "partOfSpeech": "verb"
+        },
+        "ru": "плавать",
+        "pl": "pływać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to run",
+          "partOfSpeech": "verb"
+        },
+        "ru": "бегать",
+        "pl": "biegać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to dance",
+          "partOfSpeech": "verb"
+        },
+        "ru": "танцевать",
+        "pl": "tańczyć"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to sing",
+          "partOfSpeech": "verb"
+        },
+        "ru": "петь",
+        "pl": "śpiewać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to draw",
+          "partOfSpeech": "verb"
+        },
+        "ru": "рисовать",
+        "pl": "rysować"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to relax",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "отдыхать",
+          "alternates": [
+            "расслабляться"
+          ]
+        },
+        "pl": {
+          "text": "odpoczywać",
+          "alternates": [
+            "relaksować się"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "At the weekend I like to relax at home.",
+          "translations": {
+            "ru": "По выходным я люблю отдыхать дома.",
+            "pl": "W weekend lubię odpoczywać w domu."
+          }
+        }
+      ]
+    }
+  ]
+}

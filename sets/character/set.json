@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "Character",
+    "ru": "Характер",
+    "pl": "Charakter"
+  },
+  "description": {
+    "en": "Describing what people are like.",
+    "ru": "Как описать человека.",
+    "pl": "Jak opisać człowieka."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "B1",
+  "tags": [
+    "people",
+    "adjectives"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

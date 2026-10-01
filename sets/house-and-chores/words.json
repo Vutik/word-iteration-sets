@@ -1,0 +1,316 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "housework",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "работа по дому",
+          "alternates": [
+            "домашние дела"
+          ]
+        },
+        "pl": "prace domowe"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dust",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пыль",
+        "pl": "kurz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "vacuum cleaner",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пылесос",
+        "pl": "odkurzacz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "washing machine",
+          "partOfSpeech": "noun"
+        },
+        "ru": "стиральная машина",
+        "pl": "pralka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dishwasher",
+          "partOfSpeech": "noun"
+        },
+        "ru": "посудомоечная машина",
+        "pl": "zmywarka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "iron",
+          "partOfSpeech": "noun"
+        },
+        "ru": "утюг",
+        "pl": "żelazko"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "laundry",
+          "alternates": [
+            "washing"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "стирка",
+          "alternates": [
+            "бельё"
+          ]
+        },
+        "pl": "pranie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rubbish bin",
+          "alternates": [
+            "trash can"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "мусорное ведро",
+        "pl": "kosz na śmieci"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tap",
+          "alternates": [
+            "faucet"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "кран",
+        "pl": "kran"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "light bulb",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лампочка",
+        "pl": "żarówka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tool",
+          "partOfSpeech": "noun"
+        },
+        "ru": "инструмент",
+        "pl": "narzędzie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to clean",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "убирать",
+          "alternates": [
+            "чистить"
+          ]
+        },
+        "pl": {
+          "text": "sprzątać",
+          "alternates": [
+            "czyścić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to tidy up",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "прибираться",
+          "alternates": [
+            "наводить порядок"
+          ]
+        },
+        "pl": {
+          "text": "sprzątać",
+          "alternates": [
+            "porządkować"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to vacuum",
+          "partOfSpeech": "verb"
+        },
+        "ru": "пылесосить",
+        "pl": "odkurzać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to do the washing-up",
+          "alternates": [
+            "to wash the dishes"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": "мыть посуду",
+        "pl": "zmywać naczynia"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "It's your turn to do the washing-up.",
+          "translations": {
+            "ru": "Твоя очередь мыть посуду.",
+            "pl": "Twoja kolej na zmywanie naczyń."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to iron",
+          "partOfSpeech": "verb"
+        },
+        "ru": "гладить",
+        "pl": "prasować"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to take out the rubbish",
+          "alternates": [
+            "to take out the trash"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": "выносить мусор",
+        "pl": "wynosić śmieci"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to repair",
+          "alternates": [
+            "to fix"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "чинить",
+          "alternates": [
+            "ремонтировать"
+          ]
+        },
+        "pl": {
+          "text": "naprawiać",
+          "alternates": [
+            "naprawić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to paint",
+          "partOfSpeech": "verb"
+        },
+        "ru": "красить",
+        "pl": "malować"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to move house",
+          "alternates": [
+            "to move"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": "переезжать",
+        "pl": "przeprowadzać się"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tidy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "аккуратный",
+          "alternates": [
+            "убранный"
+          ]
+        },
+        "pl": {
+          "text": "posprzątany",
+          "alternates": [
+            "schludny"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "messy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "неубранный",
+          "alternates": [
+            "в беспорядке"
+          ]
+        },
+        "pl": {
+          "text": "nieposprzątany",
+          "alternates": [
+            "zabałaganiony"
+          ]
+        }
+      }
+    }
+  ]
+}

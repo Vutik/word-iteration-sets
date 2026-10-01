@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "happy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "счастливый",
+        "pl": "szczęśliwy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sad",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "грустный",
+          "alternates": [
+            "печальный"
+          ]
+        },
+        "pl": "smutny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "angry",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "злой",
+          "alternates": [
+            "сердитый"
+          ]
+        },
+        "pl": {
+          "text": "zły",
+          "alternates": [
+            "wściekły"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tired",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "уставший",
+          "alternates": [
+            "усталый"
+          ]
+        },
+        "pl": "zmęczony"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "I'm too tired to go out tonight.",
+          "translations": {
+            "ru": "Я слишком устал, чтобы куда-то идти вечером.",
+            "pl": "Jestem za bardzo zmęczony, żeby dziś wyjść."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bored",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "скучающий",
+        "pl": "znudzony"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "scared",
+          "alternates": [
+            "afraid"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "испуганный",
+        "pl": "przestraszony"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "surprised",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "удивлённый",
+        "pl": {
+          "text": "zaskoczony",
+          "alternates": [
+            "zdziwiony"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nervous",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "нервный",
+          "alternates": [
+            "взволнованный"
+          ]
+        },
+        "pl": "zdenerwowany"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "worried",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "обеспокоенный",
+        "pl": "zmartwiony"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "calm",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "спокойный",
+        "pl": "spokojny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lonely",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "одинокий",
+        "pl": "samotny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "proud",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "гордый",
+        "pl": "dumny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "glad",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "рад",
+        "pl": {
+          "text": "zadowolony",
+          "alternates": [
+            "rad"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "love",
+          "partOfSpeech": "noun"
+        },
+        "ru": "любовь",
+        "pl": "miłość"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fear",
+          "partOfSpeech": "noun"
+        },
+        "ru": "страх",
+        "pl": "strach"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "joy",
+          "partOfSpeech": "noun"
+        },
+        "ru": "радость",
+        "pl": "radość"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to laugh",
+          "partOfSpeech": "verb"
+        },
+        "ru": "смеяться",
+        "pl": "śmiać się"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to cry",
+          "partOfSpeech": "verb"
+        },
+        "ru": "плакать",
+        "pl": "płakać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to smile",
+          "partOfSpeech": "verb"
+        },
+        "ru": "улыбаться",
+        "pl": "uśmiechać się"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to worry",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "волноваться",
+          "alternates": [
+            "беспокоиться"
+          ]
+        },
+        "pl": "martwić się"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Everyday verbs",
+    "ru": "Глаголы на каждый день",
+    "pl": "Czasowniki na co dzień"
+  },
+  "description": {
+    "en": "Verbs for a usual day.",
+    "ru": "Глаголы для обычного дня.",
+    "pl": "Czasowniki na zwykły dzień."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "verbs"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

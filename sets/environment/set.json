@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "The environment",
+    "ru": "Окружающая среда",
+    "pl": "Środowisko"
+  },
+  "description": {
+    "en": "Climate, pollution and taking care of the planet.",
+    "ru": "Климат, загрязнение и забота о планете.",
+    "pl": "Klimat, zanieczyszczenie i dbanie o planetę."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "B1",
+  "tags": [
+    "nature",
+    "society"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

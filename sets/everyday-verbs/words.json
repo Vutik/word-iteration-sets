@@ -1,0 +1,403 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "to wake up",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "просыпаться",
+          "alternates": [
+            "проснуться"
+          ]
+        },
+        "pl": {
+          "text": "budzić się",
+          "alternates": [
+            "obudzić się"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to get up",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "вставать",
+          "alternates": [
+            "встать"
+          ]
+        },
+        "pl": {
+          "text": "wstawać",
+          "alternates": [
+            "wstać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to wash",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "мыть",
+          "alternates": [
+            "умываться"
+          ]
+        },
+        "pl": {
+          "text": "myć",
+          "alternates": [
+            "myć się"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to get dressed",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "одеваться",
+          "alternates": [
+            "одеться"
+          ]
+        },
+        "pl": {
+          "text": "ubierać się",
+          "alternates": [
+            "ubrać się"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to cook",
+          "partOfSpeech": "verb"
+        },
+        "ru": "готовить",
+        "pl": "gotować"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to eat",
+          "partOfSpeech": "verb"
+        },
+        "ru": "есть",
+        "pl": "jeść"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to drink",
+          "partOfSpeech": "verb"
+        },
+        "ru": "пить",
+        "pl": "pić"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to work",
+          "partOfSpeech": "verb"
+        },
+        "ru": "работать",
+        "pl": "pracować"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to go",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "идти",
+          "alternates": [
+            "ехать"
+          ]
+        },
+        "pl": {
+          "text": "iść",
+          "alternates": [
+            "jechać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to come",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "приходить",
+          "alternates": [
+            "прийти"
+          ]
+        },
+        "pl": {
+          "text": "przychodzić",
+          "alternates": [
+            "przyjść"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to leave",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "уходить",
+          "alternates": [
+            "уезжать"
+          ]
+        },
+        "pl": {
+          "text": "wychodzić",
+          "alternates": [
+            "wyjeżdżać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to come back",
+          "alternates": [
+            "to return"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "возвращаться",
+          "alternates": [
+            "вернуться"
+          ]
+        },
+        "pl": {
+          "text": "wracać",
+          "alternates": [
+            "wrócić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to open",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "открывать",
+          "alternates": [
+            "открыть"
+          ]
+        },
+        "pl": {
+          "text": "otwierać",
+          "alternates": [
+            "otworzyć"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to close",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "закрывать",
+          "alternates": [
+            "закрыть"
+          ]
+        },
+        "pl": {
+          "text": "zamykać",
+          "alternates": [
+            "zamknąć"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to wait",
+          "partOfSpeech": "verb"
+        },
+        "ru": "ждать",
+        "pl": "czekać"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "I'll wait for you at the entrance.",
+          "translations": {
+            "ru": "Я подожду тебя у входа.",
+            "pl": "Poczekam na ciebie przy wejściu."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to call",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "звонить",
+          "alternates": [
+            "позвонить"
+          ]
+        },
+        "pl": {
+          "text": "dzwonić",
+          "alternates": [
+            "zadzwonić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to help",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "помогать",
+          "alternates": [
+            "помочь"
+          ]
+        },
+        "pl": {
+          "text": "pomagać",
+          "alternates": [
+            "pomóc"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to understand",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "понимать",
+          "alternates": [
+            "понять"
+          ]
+        },
+        "pl": {
+          "text": "rozumieć",
+          "alternates": [
+            "zrozumieć"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to know",
+          "partOfSpeech": "verb"
+        },
+        "ru": "знать",
+        "pl": {
+          "text": "wiedzieć",
+          "alternates": [
+            "znać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to remember",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "помнить",
+          "alternates": [
+            "вспомнить"
+          ]
+        },
+        "pl": "pamiętać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to forget",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "забывать",
+          "alternates": [
+            "забыть"
+          ]
+        },
+        "pl": {
+          "text": "zapominać",
+          "alternates": [
+            "zapomnieć"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to sleep",
+          "partOfSpeech": "verb"
+        },
+        "ru": "спать",
+        "pl": "spać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to go to bed",
+          "partOfSpeech": "verb"
+        },
+        "ru": "ложиться спать",
+        "pl": {
+          "text": "kłaść się spać",
+          "alternates": [
+            "iść spać"
+          ]
+        }
+      }
+    }
+  ]
+}

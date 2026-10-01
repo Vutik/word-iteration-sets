@@ -1,0 +1,283 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "environment",
+          "partOfSpeech": "noun"
+        },
+        "ru": "окружающая среда",
+        "pl": "środowisko"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "climate",
+          "partOfSpeech": "noun"
+        },
+        "ru": "климат",
+        "pl": "klimat"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "climate change",
+          "partOfSpeech": "noun"
+        },
+        "ru": "изменение климата",
+        "pl": {
+          "text": "zmiana klimatu",
+          "alternates": [
+            "zmiany klimatyczne"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pollution",
+          "partOfSpeech": "noun"
+        },
+        "ru": "загрязнение",
+        "pl": "zanieczyszczenie"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "Air pollution is a big problem in many cities.",
+          "translations": {
+            "ru": "Загрязнение воздуха — большая проблема во многих городах.",
+            "pl": "Zanieczyszczenie powietrza to duży problem w wielu miastach."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "waste",
+          "alternates": [
+            "rubbish"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "отходы",
+          "alternates": [
+            "мусор"
+          ]
+        },
+        "pl": {
+          "text": "odpady",
+          "alternates": [
+            "śmieci"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "recycling",
+          "partOfSpeech": "noun"
+        },
+        "ru": "переработка",
+        "pl": "recykling"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "energy",
+          "partOfSpeech": "noun"
+        },
+        "ru": "энергия",
+        "pl": "energia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "solar energy",
+          "partOfSpeech": "noun"
+        },
+        "ru": "солнечная энергия",
+        "pl": "energia słoneczna"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fuel",
+          "partOfSpeech": "noun"
+        },
+        "ru": "топливо",
+        "pl": "paliwo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "resources",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ресурсы",
+        "pl": "zasoby"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "species",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вид",
+        "pl": "gatunek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "drought",
+          "partOfSpeech": "noun"
+        },
+        "ru": "засуха",
+        "pl": "susza"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "flood",
+          "partOfSpeech": "noun"
+        },
+        "ru": "наводнение",
+        "pl": "powódź"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "global warming",
+          "partOfSpeech": "noun"
+        },
+        "ru": "глобальное потепление",
+        "pl": "globalne ocieplenie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "plastic",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пластик",
+        "pl": "plastik"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to protect",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "защищать",
+          "alternates": [
+            "охранять"
+          ]
+        },
+        "pl": "chronić"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to pollute",
+          "partOfSpeech": "verb"
+        },
+        "ru": "загрязнять",
+        "pl": "zanieczyszczać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to recycle",
+          "partOfSpeech": "verb"
+        },
+        "ru": "перерабатывать",
+        "pl": {
+          "text": "poddawać recyklingowi",
+          "alternates": [
+            "segregować"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to reduce",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "сокращать",
+          "alternates": [
+            "уменьшать"
+          ]
+        },
+        "pl": {
+          "text": "ograniczać",
+          "alternates": [
+            "zmniejszać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to waste",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "тратить впустую",
+          "alternates": [
+            "расходовать зря"
+          ]
+        },
+        "pl": "marnować"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "endangered",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "исчезающий",
+          "alternates": [
+            "находящийся под угрозой"
+          ]
+        },
+        "pl": "zagrożony"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "renewable",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "возобновляемый",
+        "pl": "odnawialny"
+      }
+    }
+  ]
+}

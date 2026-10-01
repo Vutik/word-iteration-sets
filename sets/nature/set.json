@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Nature",
+    "ru": "Природа",
+    "pl": "Przyroda"
+  },
+  "description": {
+    "en": "Forests, rivers, mountains and the sea.",
+    "ru": "Леса, реки, горы и море.",
+    "pl": "Lasy, rzeki, góry i morze."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "nature"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

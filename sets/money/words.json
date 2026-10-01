@@ -1,0 +1,364 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "bank",
+          "partOfSpeech": "noun"
+        },
+        "ru": "банк",
+        "pl": "bank"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "account",
+          "partOfSpeech": "noun"
+        },
+        "ru": "счёт",
+        "pl": {
+          "text": "konto",
+          "alternates": [
+            "rachunek"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "loan",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "кредит",
+          "alternates": [
+            "заём"
+          ]
+        },
+        "pl": {
+          "text": "pożyczka",
+          "alternates": [
+            "kredyt"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "debt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "долг",
+        "pl": "dług"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "interest",
+          "partOfSpeech": "noun"
+        },
+        "ru": "проценты",
+        "pl": {
+          "text": "odsetki",
+          "alternates": [
+            "oprocentowanie"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "savings",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сбережения",
+        "pl": "oszczędności"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "income",
+          "partOfSpeech": "noun"
+        },
+        "ru": "доход",
+        "pl": "dochód"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tax",
+          "partOfSpeech": "noun"
+        },
+        "ru": "налог",
+        "pl": "podatek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bill",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "счёт",
+          "alternates": [
+            "квитанция"
+          ]
+        },
+        "pl": "rachunek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rent",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "аренда",
+          "alternates": [
+            "арендная плата"
+          ]
+        },
+        "pl": "czynsz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "budget",
+          "partOfSpeech": "noun"
+        },
+        "ru": "бюджет",
+        "pl": "budżet"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "coin",
+          "partOfSpeech": "noun"
+        },
+        "ru": "монета",
+        "pl": "moneta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "banknote",
+          "alternates": [
+            "note"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "купюра",
+          "alternates": [
+            "банкнота"
+          ]
+        },
+        "pl": "banknot"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cash machine",
+          "alternates": [
+            "ATM"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "банкомат",
+        "pl": "bankomat"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "currency",
+          "partOfSpeech": "noun"
+        },
+        "ru": "валюта",
+        "pl": "waluta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "exchange rate",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "курс валют",
+          "alternates": [
+            "обменный курс"
+          ]
+        },
+        "pl": {
+          "text": "kurs walut",
+          "alternates": [
+            "kurs wymiany"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to save",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "копить",
+          "alternates": [
+            "экономить"
+          ]
+        },
+        "pl": "oszczędzać"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "I'm saving for a new car.",
+          "translations": {
+            "ru": "Я коплю на новую машину.",
+            "pl": "Oszczędzam na nowy samochód."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to spend",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "тратить",
+          "alternates": [
+            "потратить"
+          ]
+        },
+        "pl": {
+          "text": "wydawać",
+          "alternates": [
+            "wydać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to borrow",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "занимать",
+          "alternates": [
+            "брать в долг"
+          ]
+        },
+        "pl": {
+          "text": "pożyczać od kogoś",
+          "alternates": [
+            "pożyczyć od kogoś"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to lend",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "давать в долг",
+          "alternates": [
+            "одалживать"
+          ]
+        },
+        "pl": {
+          "text": "pożyczać komuś",
+          "alternates": [
+            "pożyczyć komuś"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to withdraw",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "снимать",
+          "alternates": [
+            "снять"
+          ]
+        },
+        "pl": {
+          "text": "wypłacać",
+          "alternates": [
+            "wypłacić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to owe",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "быть должным",
+          "alternates": [
+            "задолжать"
+          ]
+        },
+        "pl": {
+          "text": "być winnym",
+          "alternates": [
+            "być dłużnym"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rich",
+          "alternates": [
+            "wealthy"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "богатый",
+        "pl": "bogaty"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "poor",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "бедный",
+        "pl": "biedny"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Studying",
+    "ru": "Учёба",
+    "pl": "Nauka"
+  },
+  "description": {
+    "en": "University, courses and exams.",
+    "ru": "Университет, курсы и экзамены.",
+    "pl": "Studia, kursy i egzaminy."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "B1",
+  "tags": [
+    "education"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

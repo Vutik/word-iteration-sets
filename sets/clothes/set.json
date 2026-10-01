@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Clothes",
+    "ru": "Одежда",
+    "pl": "Ubrania"
+  },
+  "description": {
+    "en": "What we wear, from hats to shoes.",
+    "ru": "Что мы носим — от шапки до обуви.",
+    "pl": "To, co nosimy, od czapki po buty."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "clothes"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

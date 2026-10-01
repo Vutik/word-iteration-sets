@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Animals",
+    "ru": "Животные",
+    "pl": "Zwierzęta"
+  },
+  "description": {
+    "en": "Pets, farm animals and a few wild ones.",
+    "ru": "Домашние, сельские и несколько диких животных.",
+    "pl": "Zwierzęta domowe, gospodarskie i kilka dzikich."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "animals"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

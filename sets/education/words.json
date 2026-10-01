@@ -1,0 +1,316 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "university",
+          "partOfSpeech": "noun"
+        },
+        "ru": "университет",
+        "pl": "uniwersytet"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "student",
+          "partOfSpeech": "noun"
+        },
+        "ru": "студент",
+        "pl": "student"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lecture",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лекция",
+        "pl": "wykład"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lecturer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "преподаватель",
+        "pl": "wykładowca"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "course",
+          "partOfSpeech": "noun"
+        },
+        "ru": "курс",
+        "pl": "kurs"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "subject",
+          "partOfSpeech": "noun"
+        },
+        "ru": "предмет",
+        "pl": "przedmiot"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "degree",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "степень",
+          "alternates": [
+            "диплом"
+          ]
+        },
+        "pl": {
+          "text": "stopień",
+          "alternates": [
+            "dyplom"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "knowledge",
+          "partOfSpeech": "noun"
+        },
+        "ru": "знания",
+        "pl": "wiedza"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "research",
+          "partOfSpeech": "noun"
+        },
+        "ru": "исследование",
+        "pl": "badania"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "essay",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "эссе",
+          "alternates": [
+            "сочинение"
+          ]
+        },
+        "pl": {
+          "text": "esej",
+          "alternates": [
+            "wypracowanie"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mark",
+          "alternates": [
+            "grade"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "оценка",
+        "pl": {
+          "text": "ocena",
+          "alternates": [
+            "stopień"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "I got a good mark in the exam.",
+          "translations": {
+            "ru": "Я получил хорошую оценку на экзамене.",
+            "pl": "Dostałem dobrą ocenę z egzaminu."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "timetable",
+          "partOfSpeech": "noun"
+        },
+        "ru": "расписание",
+        "pl": "plan zajęć"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "scholarship",
+          "partOfSpeech": "noun"
+        },
+        "ru": "стипендия",
+        "pl": "stypendium"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "library",
+          "partOfSpeech": "noun"
+        },
+        "ru": "библиотека",
+        "pl": "biblioteka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to study",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "учиться",
+          "alternates": [
+            "изучать"
+          ]
+        },
+        "pl": {
+          "text": "studiować",
+          "alternates": [
+            "uczyć się"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to pass",
+          "partOfSpeech": "verb"
+        },
+        "ru": "сдать",
+        "pl": "zdać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to fail",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "провалить",
+          "alternates": [
+            "не сдать"
+          ]
+        },
+        "pl": {
+          "text": "oblać",
+          "alternates": [
+            "nie zdać"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "If you don't study, you'll fail the exam.",
+          "translations": {
+            "ru": "Если не будешь учиться, провалишь экзамен.",
+            "pl": "Jeśli nie będziesz się uczyć, oblejesz egzamin."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to revise",
+          "alternates": [
+            "to review"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": "повторять",
+        "pl": "powtarzać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to graduate",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "окончить",
+          "alternates": [
+            "выпуститься"
+          ]
+        },
+        "pl": {
+          "text": "ukończyć",
+          "alternates": [
+            "skończyć studia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to improve",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "улучшать",
+          "alternates": [
+            "совершенствовать"
+          ]
+        },
+        "pl": {
+          "text": "poprawiać",
+          "alternates": [
+            "doskonalić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to explain",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "объяснять",
+          "alternates": [
+            "объяснить"
+          ]
+        },
+        "pl": {
+          "text": "wyjaśniać",
+          "alternates": [
+            "tłumaczyć"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "Media and news",
+    "ru": "СМИ и новости",
+    "pl": "Media i wiadomości"
+  },
+  "description": {
+    "en": "Newspapers, TV and how news is made.",
+    "ru": "Газеты, телевидение и как делаются новости.",
+    "pl": "Gazety, telewizja i jak powstają wiadomości."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "B1",
+  "tags": [
+    "society",
+    "media"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

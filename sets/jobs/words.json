@@ -1,0 +1,253 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "doctor",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "врач",
+          "alternates": [
+            "доктор"
+          ]
+        },
+        "pl": "lekarz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nurse",
+          "partOfSpeech": "noun"
+        },
+        "ru": "медсестра",
+        "pl": "pielęgniarka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "teacher",
+          "partOfSpeech": "noun"
+        },
+        "ru": "учитель",
+        "pl": "nauczyciel"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "engineer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "инженер",
+        "pl": "inżynier"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lawyer",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "юрист",
+          "alternates": [
+            "адвокат"
+          ]
+        },
+        "pl": "prawnik"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cook",
+          "alternates": [
+            "chef"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "повар",
+        "pl": "kucharz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "waiter",
+          "partOfSpeech": "noun"
+        },
+        "ru": "официант",
+        "pl": "kelner"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "driver",
+          "partOfSpeech": "noun"
+        },
+        "ru": "водитель",
+        "pl": "kierowca"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "farmer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "фермер",
+        "pl": "rolnik"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "police officer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "полицейский",
+        "pl": "policjant"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "firefighter",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пожарный",
+        "pl": "strażak"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shop assistant",
+          "partOfSpeech": "noun"
+        },
+        "ru": "продавец",
+        "pl": {
+          "text": "sprzedawca",
+          "alternates": [
+            "ekspedient"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hairdresser",
+          "partOfSpeech": "noun"
+        },
+        "ru": "парикмахер",
+        "pl": "fryzjer"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "builder",
+          "partOfSpeech": "noun"
+        },
+        "ru": "строитель",
+        "pl": "budowlaniec"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "programmer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "программист",
+        "pl": "programista"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "My brother works as a programmer.",
+          "translations": {
+            "ru": "Мой брат работает программистом.",
+            "pl": "Mój brat pracuje jako programista."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "journalist",
+          "partOfSpeech": "noun"
+        },
+        "ru": "журналист",
+        "pl": "dziennikarz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "accountant",
+          "partOfSpeech": "noun"
+        },
+        "ru": "бухгалтер",
+        "pl": "księgowy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dentist",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "стоматолог",
+          "alternates": [
+            "зубной врач"
+          ]
+        },
+        "pl": "dentysta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pilot",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "пилот",
+          "alternates": [
+            "лётчик"
+          ]
+        },
+        "pl": "pilot"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "manager",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "менеджер",
+          "alternates": [
+            "руководитель"
+          ]
+        },
+        "pl": {
+          "text": "menedżer",
+          "alternates": [
+            "kierownik"
+          ]
+        }
+      }
+    }
+  ]
+}

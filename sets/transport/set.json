@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "Transport",
+    "ru": "Транспорт",
+    "pl": "Transport"
+  },
+  "description": {
+    "en": "Getting around by bus, train, car and bike.",
+    "ru": "Как добраться: автобус, поезд, машина и велосипед.",
+    "pl": "Jak się poruszać: autobus, pociąg, samochód i rower."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "travel",
+    "city"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

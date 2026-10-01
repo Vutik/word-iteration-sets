@@ -1,0 +1,275 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "car",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "машина",
+          "alternates": [
+            "автомобиль"
+          ]
+        },
+        "pl": "samochód"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bus",
+          "partOfSpeech": "noun"
+        },
+        "ru": "автобус",
+        "pl": "autobus"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tram",
+          "partOfSpeech": "noun"
+        },
+        "ru": "трамвай",
+        "pl": "tramwaj"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "underground",
+          "alternates": [
+            "metro",
+            "subway"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "метро",
+        "pl": "metro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "train",
+          "partOfSpeech": "noun"
+        },
+        "ru": "поезд",
+        "pl": "pociąg"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "plane",
+          "partOfSpeech": "noun"
+        },
+        "ru": "самолёт",
+        "pl": "samolot"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ship",
+          "partOfSpeech": "noun"
+        },
+        "ru": "корабль",
+        "pl": "statek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bicycle",
+          "alternates": [
+            "bike"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "велосипед",
+        "pl": "rower"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "taxi",
+          "partOfSpeech": "noun"
+        },
+        "ru": "такси",
+        "pl": "taksówka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ticket",
+          "partOfSpeech": "noun"
+        },
+        "ru": "билет",
+        "pl": "bilet"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "A return ticket, please.",
+          "translations": {
+            "ru": "Билет туда и обратно, пожалуйста.",
+            "pl": "Poproszę bilet w obie strony."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "stop",
+          "partOfSpeech": "noun"
+        },
+        "ru": "остановка",
+        "pl": "przystanek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "station",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "вокзал",
+          "alternates": [
+            "станция"
+          ]
+        },
+        "pl": {
+          "text": "dworzec",
+          "alternates": [
+            "stacja"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "platform",
+          "partOfSpeech": "noun"
+        },
+        "ru": "платформа",
+        "pl": "peron"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "timetable",
+          "alternates": [
+            "schedule"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "расписание",
+        "pl": "rozkład jazdy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "road",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дорога",
+        "pl": "droga"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "traffic jam",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пробка",
+        "pl": "korek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "passenger",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пассажир",
+        "pl": "pasażer"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to drive",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "водить",
+          "alternates": [
+            "ехать"
+          ]
+        },
+        "pl": {
+          "text": "prowadzić",
+          "alternates": [
+            "jechać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to get on",
+          "partOfSpeech": "verb"
+        },
+        "ru": "садиться",
+        "pl": "wsiadać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to get off",
+          "partOfSpeech": "verb"
+        },
+        "ru": "выходить",
+        "pl": "wysiadać"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "We get off at the next stop.",
+          "translations": {
+            "ru": "Мы выходим на следующей остановке.",
+            "pl": "Wysiadamy na następnym przystanku."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to change",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "делать пересадку",
+          "alternates": [
+            "пересаживаться"
+          ]
+        },
+        "pl": "przesiadać się"
+      }
+    }
+  ]
+}

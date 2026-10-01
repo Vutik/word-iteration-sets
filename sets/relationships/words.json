@@ -1,0 +1,347 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "relationship",
+          "partOfSpeech": "noun"
+        },
+        "ru": "отношения",
+        "pl": {
+          "text": "związek",
+          "alternates": [
+            "relacja"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "friendship",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дружба",
+        "pl": "przyjaźń"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "friend",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "друг",
+          "alternates": [
+            "подруга"
+          ]
+        },
+        "pl": {
+          "text": "przyjaciel",
+          "alternates": [
+            "przyjaciółka"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "acquaintance",
+          "partOfSpeech": "noun"
+        },
+        "ru": "знакомый",
+        "pl": "znajomy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "neighbour",
+          "alternates": [
+            "neighbor"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "сосед",
+        "pl": "sąsiad"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "partner",
+          "partOfSpeech": "noun"
+        },
+        "ru": "партнёр",
+        "pl": "partner"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "boyfriend",
+          "partOfSpeech": "noun"
+        },
+        "ru": "парень",
+        "pl": "chłopak"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "girlfriend",
+          "partOfSpeech": "noun"
+        },
+        "ru": "девушка",
+        "pl": "dziewczyna"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wedding",
+          "partOfSpeech": "noun"
+        },
+        "ru": "свадьба",
+        "pl": {
+          "text": "wesele",
+          "alternates": [
+            "ślub"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "marriage",
+          "partOfSpeech": "noun"
+        },
+        "ru": "брак",
+        "pl": "małżeństwo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "divorce",
+          "partOfSpeech": "noun"
+        },
+        "ru": "развод",
+        "pl": "rozwód"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "argument",
+          "alternates": [
+            "quarrel"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "ссора",
+          "alternates": [
+            "спор"
+          ]
+        },
+        "pl": "kłótnia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "trust",
+          "partOfSpeech": "noun"
+        },
+        "ru": "доверие",
+        "pl": "zaufanie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to meet",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "встречать",
+          "alternates": [
+            "знакомиться"
+          ]
+        },
+        "pl": {
+          "text": "spotykać",
+          "alternates": [
+            "poznawać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to get married",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "жениться",
+          "alternates": [
+            "выходить замуж"
+          ]
+        },
+        "pl": {
+          "text": "brać ślub",
+          "alternates": [
+            "pobrać się"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "They got married last summer.",
+          "translations": {
+            "ru": "Они поженились прошлым летом.",
+            "pl": "Pobrali się zeszłego lata."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to fall in love",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "влюбляться",
+          "alternates": [
+            "влюбиться"
+          ]
+        },
+        "pl": "zakochać się"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to break up",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "расстаться",
+          "alternates": [
+            "расставаться"
+          ]
+        },
+        "pl": {
+          "text": "rozstać się",
+          "alternates": [
+            "zerwać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to get on",
+          "alternates": [
+            "to get along"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": "ладить",
+        "pl": "dogadywać się"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to argue",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "ссориться",
+          "alternates": [
+            "спорить"
+          ]
+        },
+        "pl": "kłócić się"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to apologise",
+          "alternates": [
+            "to apologize"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "извиняться",
+          "alternates": [
+            "извиниться"
+          ]
+        },
+        "pl": {
+          "text": "przepraszać",
+          "alternates": [
+            "przeprosić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to forgive",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "прощать",
+          "alternates": [
+            "простить"
+          ]
+        },
+        "pl": {
+          "text": "wybaczać",
+          "alternates": [
+            "wybaczyć"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to trust",
+          "partOfSpeech": "verb"
+        },
+        "ru": "доверять",
+        "pl": "ufać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to support",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "поддерживать",
+          "alternates": [
+            "поддержать"
+          ]
+        },
+        "pl": "wspierać"
+      }
+    }
+  ]
+}

@@ -1,0 +1,385 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "job",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "работа",
+          "alternates": [
+            "должность"
+          ]
+        },
+        "pl": {
+          "text": "praca",
+          "alternates": [
+            "posada"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "company",
+          "alternates": [
+            "firm"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "компания",
+          "alternates": [
+            "фирма"
+          ]
+        },
+        "pl": {
+          "text": "firma",
+          "alternates": [
+            "przedsiębiorstwo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "office",
+          "partOfSpeech": "noun"
+        },
+        "ru": "офис",
+        "pl": "biuro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "colleague",
+          "partOfSpeech": "noun"
+        },
+        "ru": "коллега",
+        "pl": {
+          "text": "kolega z pracy",
+          "alternates": [
+            "współpracownik"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "boss",
+          "partOfSpeech": "noun"
+        },
+        "ru": "начальник",
+        "pl": "szef"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "employee",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "сотрудник",
+          "alternates": [
+            "работник"
+          ]
+        },
+        "pl": "pracownik"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "employer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "работодатель",
+        "pl": "pracodawca"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "salary",
+          "partOfSpeech": "noun"
+        },
+        "ru": "зарплата",
+        "pl": {
+          "text": "pensja",
+          "alternates": [
+            "wynagrodzenie"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "contract",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "договор",
+          "alternates": [
+            "контракт"
+          ]
+        },
+        "pl": {
+          "text": "umowa",
+          "alternates": [
+            "kontrakt"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "meeting",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "встреча",
+          "alternates": [
+            "совещание"
+          ]
+        },
+        "pl": {
+          "text": "spotkanie",
+          "alternates": [
+            "zebranie"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "The meeting has been moved to Thursday.",
+          "translations": {
+            "ru": "Встречу перенесли на четверг.",
+            "pl": "Spotkanie zostało przełożone na czwartek."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "deadline",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "срок",
+          "alternates": [
+            "дедлайн"
+          ]
+        },
+        "pl": "termin"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "task",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "задача",
+          "alternates": [
+            "задание"
+          ]
+        },
+        "pl": "zadanie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "experience",
+          "partOfSpeech": "noun"
+        },
+        "ru": "опыт",
+        "pl": "doświadczenie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "interview",
+          "partOfSpeech": "noun"
+        },
+        "ru": "собеседование",
+        "pl": "rozmowa kwalifikacyjna"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "CV",
+          "alternates": [
+            "resume"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "резюме",
+        "pl": {
+          "text": "CV",
+          "alternates": [
+            "życiorys"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "skill",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "навык",
+          "alternates": [
+            "умение"
+          ]
+        },
+        "pl": "umiejętność"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "promotion",
+          "partOfSpeech": "noun"
+        },
+        "ru": "повышение",
+        "pl": "awans"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "holiday",
+          "alternates": [
+            "vacation"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "отпуск",
+        "pl": "urlop"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to apply",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "подавать заявку",
+          "alternates": [
+            "откликаться"
+          ]
+        },
+        "pl": {
+          "text": "aplikować",
+          "alternates": [
+            "ubiegać się"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to hire",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "нанимать",
+          "alternates": [
+            "нанять"
+          ]
+        },
+        "pl": {
+          "text": "zatrudniać",
+          "alternates": [
+            "zatrudnić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to fire",
+          "alternates": [
+            "to dismiss"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "увольнять",
+          "alternates": [
+            "уволить"
+          ]
+        },
+        "pl": {
+          "text": "zwalniać",
+          "alternates": [
+            "zwolnić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to resign",
+          "alternates": [
+            "to quit"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "увольняться",
+          "alternates": [
+            "уволиться"
+          ]
+        },
+        "pl": {
+          "text": "rezygnować",
+          "alternates": [
+            "zwolnić się"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to earn",
+          "partOfSpeech": "verb"
+        },
+        "ru": "зарабатывать",
+        "pl": "zarabiać"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "She earns more than her husband.",
+          "translations": {
+            "ru": "Она зарабатывает больше мужа.",
+            "pl": "Ona zarabia więcej niż jej mąż."
+          }
+        }
+      ]
+    }
+  ]
+}

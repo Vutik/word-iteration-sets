@@ -1,0 +1,292 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "shirt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рубашка",
+        "pl": "koszula"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "T-shirt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "футболка",
+        "pl": {
+          "text": "koszulka",
+          "alternates": [
+            "T-shirt"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "trousers",
+          "alternates": [
+            "pants"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "брюки",
+          "alternates": [
+            "штаны"
+          ]
+        },
+        "pl": "spodnie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "jeans",
+          "partOfSpeech": "noun"
+        },
+        "ru": "джинсы",
+        "pl": {
+          "text": "dżinsy",
+          "alternates": [
+            "jeansy"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dress",
+          "partOfSpeech": "noun"
+        },
+        "ru": "платье",
+        "pl": "sukienka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "skirt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "юбка",
+        "pl": {
+          "text": "spódnica",
+          "alternates": [
+            "spódniczka"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sweater",
+          "alternates": [
+            "jumper"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "свитер",
+        "pl": "sweter"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "jacket",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "куртка",
+          "alternates": [
+            "пиджак"
+          ]
+        },
+        "pl": {
+          "text": "kurtka",
+          "alternates": [
+            "marynarka"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "coat",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пальто",
+        "pl": "płaszcz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hat",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "шляпа",
+          "alternates": [
+            "шапка"
+          ]
+        },
+        "pl": {
+          "text": "kapelusz",
+          "alternates": [
+            "czapka"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "scarf",
+          "partOfSpeech": "noun"
+        },
+        "ru": "шарф",
+        "pl": "szalik"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "gloves",
+          "partOfSpeech": "noun"
+        },
+        "ru": "перчатки",
+        "pl": "rękawiczki"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "socks",
+          "partOfSpeech": "noun"
+        },
+        "ru": "носки",
+        "pl": "skarpetki"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shoes",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "туфли",
+          "alternates": [
+            "ботинки",
+            "обувь"
+          ]
+        },
+        "pl": "buty"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "boots",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "сапоги",
+          "alternates": [
+            "ботинки"
+          ]
+        },
+        "pl": {
+          "text": "kozaki",
+          "alternates": [
+            "buty za kostkę"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "belt",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "ремень",
+          "alternates": [
+            "пояс"
+          ]
+        },
+        "pl": "pasek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pocket",
+          "partOfSpeech": "noun"
+        },
+        "ru": "карман",
+        "pl": "kieszeń"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to wear",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "носить",
+          "alternates": [
+            "быть одетым в"
+          ]
+        },
+        "pl": {
+          "text": "nosić",
+          "alternates": [
+            "mieć na sobie"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "She is wearing a red dress.",
+          "translations": {
+            "ru": "Она в красном платье.",
+            "pl": "Ma na sobie czerwoną sukienkę."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to put on",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "надевать",
+          "alternates": [
+            "надеть"
+          ]
+        },
+        "pl": {
+          "text": "zakładać",
+          "alternates": [
+            "założyć"
+          ]
+        }
+      }
+    }
+  ]
+}

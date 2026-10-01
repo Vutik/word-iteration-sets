@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "At school",
+    "ru": "В школе",
+    "pl": "W szkole"
+  },
+  "description": {
+    "en": "Classroom things and school subjects.",
+    "ru": "Школьные принадлежности и предметы.",
+    "pl": "Przybory szkolne i przedmioty."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "education"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

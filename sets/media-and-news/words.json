@@ -1,0 +1,317 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "news",
+          "partOfSpeech": "noun"
+        },
+        "ru": "новости",
+        "pl": "wiadomości"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "newspaper",
+          "partOfSpeech": "noun"
+        },
+        "ru": "газета",
+        "pl": "gazeta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "magazine",
+          "partOfSpeech": "noun"
+        },
+        "ru": "журнал",
+        "pl": {
+          "text": "czasopismo",
+          "alternates": [
+            "magazyn"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "article",
+          "partOfSpeech": "noun"
+        },
+        "ru": "статья",
+        "pl": "artykuł"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "headline",
+          "partOfSpeech": "noun"
+        },
+        "ru": "заголовок",
+        "pl": "nagłówek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "journalist",
+          "partOfSpeech": "noun"
+        },
+        "ru": "журналист",
+        "pl": "dziennikarz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "reporter",
+          "partOfSpeech": "noun"
+        },
+        "ru": "репортёр",
+        "pl": "reporter"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "channel",
+          "partOfSpeech": "noun"
+        },
+        "ru": "канал",
+        "pl": "kanał"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "programme",
+          "alternates": [
+            "program"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "передача",
+          "alternates": [
+            "программа"
+          ]
+        },
+        "pl": "program"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "advertisement",
+          "alternates": [
+            "advert",
+            "ad"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "реклама",
+          "alternates": [
+            "объявление"
+          ]
+        },
+        "pl": {
+          "text": "reklama",
+          "alternates": [
+            "ogłoszenie"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "audience",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "аудитория",
+          "alternates": [
+            "зрители"
+          ]
+        },
+        "pl": {
+          "text": "publiczność",
+          "alternates": [
+            "widownia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "interview",
+          "partOfSpeech": "noun"
+        },
+        "ru": "интервью",
+        "pl": "wywiad"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "event",
+          "partOfSpeech": "noun"
+        },
+        "ru": "событие",
+        "pl": "wydarzenie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "opinion",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мнение",
+        "pl": {
+          "text": "opinia",
+          "alternates": [
+            "zdanie"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "In my opinion, the article was unfair.",
+          "translations": {
+            "ru": "По-моему, статья была несправедливой.",
+            "pl": "Moim zdaniem artykuł był niesprawiedliwy."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "source",
+          "partOfSpeech": "noun"
+        },
+        "ru": "источник",
+        "pl": "źródło"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fake news",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "фейковые новости",
+          "alternates": [
+            "фейк"
+          ]
+        },
+        "pl": {
+          "text": "fałszywe wiadomości",
+          "alternates": [
+            "fake news"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to publish",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "публиковать",
+          "alternates": [
+            "опубликовать"
+          ]
+        },
+        "pl": {
+          "text": "publikować",
+          "alternates": [
+            "opublikować"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to broadcast",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "транслировать",
+          "alternates": [
+            "передавать"
+          ]
+        },
+        "pl": {
+          "text": "nadawać",
+          "alternates": [
+            "transmitować"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to inform",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "сообщать",
+          "alternates": [
+            "информировать"
+          ]
+        },
+        "pl": "informować"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "live",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "прямой",
+          "alternates": [
+            "в прямом эфире"
+          ]
+        },
+        "pl": "na żywo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "reliable",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "надёжный",
+          "alternates": [
+            "достоверный"
+          ]
+        },
+        "pl": {
+          "text": "wiarygodny",
+          "alternates": [
+            "rzetelny"
+          ]
+        }
+      }
+    }
+  ]
+}

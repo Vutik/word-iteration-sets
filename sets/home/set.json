@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "At home",
+    "ru": "Дом",
+    "pl": "W domu"
+  },
+  "description": {
+    "en": "Rooms and furniture.",
+    "ru": "Комнаты и мебель.",
+    "pl": "Pokoje i meble."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "home"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

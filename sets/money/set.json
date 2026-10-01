@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Money and the bank",
+    "ru": "Деньги и банк",
+    "pl": "Pieniądze i bank"
+  },
+  "description": {
+    "en": "Accounts, loans, bills and saving.",
+    "ru": "Счета, кредиты, оплата и сбережения.",
+    "pl": "Konta, kredyty, rachunki i oszczędzanie."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "B1",
+  "tags": [
+    "money"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

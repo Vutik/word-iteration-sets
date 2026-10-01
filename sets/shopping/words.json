@@ -1,0 +1,281 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "shop",
+          "alternates": [
+            "store"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "магазин",
+        "pl": "sklep"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "supermarket",
+          "partOfSpeech": "noun"
+        },
+        "ru": "супермаркет",
+        "pl": "supermarket"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "market",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рынок",
+        "pl": {
+          "text": "targ",
+          "alternates": [
+            "rynek"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "price",
+          "partOfSpeech": "noun"
+        },
+        "ru": "цена",
+        "pl": "cena"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "What's the price of this jacket?",
+          "translations": {
+            "ru": "Сколько стоит эта куртка?",
+            "pl": "Ile kosztuje ta kurtka?"
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "money",
+          "partOfSpeech": "noun"
+        },
+        "ru": "деньги",
+        "pl": "pieniądze"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cash",
+          "partOfSpeech": "noun"
+        },
+        "ru": "наличные",
+        "pl": "gotówka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "card",
+          "partOfSpeech": "noun"
+        },
+        "ru": "карта",
+        "pl": "karta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "receipt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "чек",
+        "pl": "paragon"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "change",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сдача",
+        "pl": "reszta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "discount",
+          "partOfSpeech": "noun"
+        },
+        "ru": "скидка",
+        "pl": {
+          "text": "zniżka",
+          "alternates": [
+            "rabat"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sale",
+          "partOfSpeech": "noun"
+        },
+        "ru": "распродажа",
+        "pl": "wyprzedaż"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "size",
+          "partOfSpeech": "noun"
+        },
+        "ru": "размер",
+        "pl": "rozmiar"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fitting room",
+          "alternates": [
+            "changing room"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "примерочная",
+        "pl": "przymierzalnia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "checkout",
+          "partOfSpeech": "noun"
+        },
+        "ru": "касса",
+        "pl": "kasa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bag",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "пакет",
+          "alternates": [
+            "сумка"
+          ]
+        },
+        "pl": {
+          "text": "torba",
+          "alternates": [
+            "reklamówka"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cheap",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "дешёвый",
+        "pl": "tani"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "expensive",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "дорогой",
+        "pl": "drogi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to buy",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "покупать",
+          "alternates": [
+            "купить"
+          ]
+        },
+        "pl": {
+          "text": "kupować",
+          "alternates": [
+            "kupić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to pay",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "платить",
+          "alternates": [
+            "заплатить"
+          ]
+        },
+        "pl": {
+          "text": "płacić",
+          "alternates": [
+            "zapłacić"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to try on",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "примерять",
+          "alternates": [
+            "примерить"
+          ]
+        },
+        "pl": {
+          "text": "przymierzać",
+          "alternates": [
+            "przymierzyć"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to cost",
+          "partOfSpeech": "verb"
+        },
+        "ru": "стоить",
+        "pl": "kosztować"
+      }
+    }
+  ]
+}

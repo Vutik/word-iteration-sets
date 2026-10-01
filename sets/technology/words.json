@@ -1,0 +1,338 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "computer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "компьютер",
+        "pl": "komputer"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "laptop",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ноутбук",
+        "pl": "laptop"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "device",
+          "partOfSpeech": "noun"
+        },
+        "ru": "устройство",
+        "pl": "urządzenie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "screen",
+          "partOfSpeech": "noun"
+        },
+        "ru": "экран",
+        "pl": "ekran"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "keyboard",
+          "partOfSpeech": "noun"
+        },
+        "ru": "клавиатура",
+        "pl": "klawiatura"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "password",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пароль",
+        "pl": "hasło"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "Never share your password with anyone.",
+          "translations": {
+            "ru": "Никому не сообщай свой пароль.",
+            "pl": "Nigdy nikomu nie podawaj swojego hasła."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "app",
+          "alternates": [
+            "application"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "приложение",
+        "pl": "aplikacja"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "website",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "сайт",
+          "alternates": [
+            "веб-сайт"
+          ]
+        },
+        "pl": "strona internetowa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "file",
+          "partOfSpeech": "noun"
+        },
+        "ru": "файл",
+        "pl": "plik"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "folder",
+          "partOfSpeech": "noun"
+        },
+        "ru": "папка",
+        "pl": {
+          "text": "folder",
+          "alternates": [
+            "katalog"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "battery",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "батарея",
+          "alternates": [
+            "аккумулятор"
+          ]
+        },
+        "pl": "bateria"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "charger",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "зарядное устройство",
+          "alternates": [
+            "зарядка"
+          ]
+        },
+        "pl": "ładowarka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "update",
+          "partOfSpeech": "noun"
+        },
+        "ru": "обновление",
+        "pl": "aktualizacja"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "social media",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "социальные сети",
+          "alternates": [
+            "соцсети"
+          ]
+        },
+        "pl": "media społecznościowe"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "message",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сообщение",
+        "pl": "wiadomość"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to download",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "скачивать",
+          "alternates": [
+            "загружать"
+          ]
+        },
+        "pl": {
+          "text": "pobierać",
+          "alternates": [
+            "ściągać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to upload",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "загружать",
+          "alternates": [
+            "выкладывать"
+          ]
+        },
+        "pl": {
+          "text": "przesyłać",
+          "alternates": [
+            "wrzucać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to save",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "сохранять",
+          "alternates": [
+            "сохранить"
+          ]
+        },
+        "pl": {
+          "text": "zapisywać",
+          "alternates": [
+            "zapisać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to delete",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "удалять",
+          "alternates": [
+            "удалить"
+          ]
+        },
+        "pl": {
+          "text": "usuwać",
+          "alternates": [
+            "usunąć"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to search",
+          "partOfSpeech": "verb"
+        },
+        "ru": "искать",
+        "pl": {
+          "text": "szukać",
+          "alternates": [
+            "wyszukiwać"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to log in",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "входить",
+          "alternates": [
+            "авторизоваться"
+          ]
+        },
+        "pl": {
+          "text": "logować się",
+          "alternates": [
+            "zalogować się"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to charge",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "заряжать",
+          "alternates": [
+            "зарядить"
+          ]
+        },
+        "pl": {
+          "text": "ładować",
+          "alternates": [
+            "naładować"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "My phone needs charging.",
+          "translations": {
+            "ru": "Мне нужно зарядить телефон.",
+            "pl": "Muszę naładować telefon."
+          }
+        }
+      ]
+    }
+  ]
+}

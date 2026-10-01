@@ -1,0 +1,270 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "big",
+          "alternates": [
+            "large"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "большой",
+        "pl": "duży"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "small",
+          "alternates": [
+            "little"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "маленький",
+        "pl": "mały"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "long",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "длинный",
+        "pl": "długi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "short",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "короткий",
+        "pl": "krótki"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tall",
+          "alternates": [
+            "high"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "высокий",
+        "pl": "wysoki"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "low",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "низкий",
+        "pl": "niski"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "new",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "новый",
+        "pl": "nowy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "old",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "старый",
+        "pl": "stary"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "young",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "молодой",
+        "pl": "młody"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "good",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "хороший",
+        "pl": "dobry"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bad",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "плохой",
+        "pl": "zły"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "easy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "простой",
+          "alternates": [
+            "лёгкий"
+          ]
+        },
+        "pl": "łatwy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "difficult",
+          "alternates": [
+            "hard"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "трудный",
+          "alternates": [
+            "сложный"
+          ]
+        },
+        "pl": "trudny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fast",
+          "alternates": [
+            "quick"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "быстрый",
+        "pl": "szybki"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "slow",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "медленный",
+        "pl": "wolny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "full",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "полный",
+        "pl": "pełny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "empty",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "пустой",
+        "pl": "pusty"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "clean",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "чистый",
+        "pl": "czysty"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dirty",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "грязный",
+        "pl": "brudny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "light",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "лёгкий",
+        "pl": "lekki"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "heavy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "тяжёлый",
+        "pl": "ciężki"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "This bag is too heavy for me.",
+          "translations": {
+            "ru": "Эта сумка слишком тяжёлая для меня.",
+            "pl": "Ta torba jest dla mnie za ciężka."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "open",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "открытый",
+        "pl": "otwarty"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "closed",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "закрытый",
+        "pl": "zamknięty"
+      }
+    }
+  ]
+}

@@ -1,0 +1,241 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "school",
+          "partOfSpeech": "noun"
+        },
+        "ru": "школа",
+        "pl": "szkoła"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "teacher",
+          "partOfSpeech": "noun"
+        },
+        "ru": "учитель",
+        "pl": "nauczyciel"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pupil",
+          "alternates": [
+            "student"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "ученик",
+        "pl": "uczeń"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lesson",
+          "partOfSpeech": "noun"
+        },
+        "ru": "урок",
+        "pl": "lekcja"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "homework",
+          "partOfSpeech": "noun"
+        },
+        "ru": "домашнее задание",
+        "pl": {
+          "text": "praca domowa",
+          "alternates": [
+            "zadanie domowe"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "Did you do your homework?",
+          "translations": {
+            "ru": "Ты сделал домашнее задание?",
+            "pl": "Odrobiłeś pracę domową?"
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "book",
+          "partOfSpeech": "noun"
+        },
+        "ru": "книга",
+        "pl": "książka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "notebook",
+          "partOfSpeech": "noun"
+        },
+        "ru": "тетрадь",
+        "pl": "zeszyt"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pen",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ручка",
+        "pl": "długopis"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pencil",
+          "partOfSpeech": "noun"
+        },
+        "ru": "карандаш",
+        "pl": "ołówek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "desk",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "парта",
+          "alternates": [
+            "письменный стол"
+          ]
+        },
+        "pl": {
+          "text": "ławka",
+          "alternates": [
+            "biurko"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "board",
+          "partOfSpeech": "noun"
+        },
+        "ru": "доска",
+        "pl": "tablica"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dictionary",
+          "partOfSpeech": "noun"
+        },
+        "ru": "словарь",
+        "pl": "słownik"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "exam",
+          "partOfSpeech": "noun"
+        },
+        "ru": "экзамен",
+        "pl": "egzamin"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mistake",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ошибка",
+        "pl": "błąd"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "maths",
+          "alternates": [
+            "math"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "математика",
+        "pl": "matematyka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "history",
+          "partOfSpeech": "noun"
+        },
+        "ru": "история",
+        "pl": "historia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "geography",
+          "partOfSpeech": "noun"
+        },
+        "ru": "география",
+        "pl": "geografia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to learn",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "учить",
+          "alternates": [
+            "изучать"
+          ]
+        },
+        "pl": "uczyć się"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to read",
+          "partOfSpeech": "verb"
+        },
+        "ru": "читать",
+        "pl": "czytać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to write",
+          "partOfSpeech": "verb"
+        },
+        "ru": "писать",
+        "pl": "pisać"
+      }
+    }
+  ]
+}

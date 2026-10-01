@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "head",
+          "partOfSpeech": "noun"
+        },
+        "ru": "голова",
+        "pl": "głowa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "face",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лицо",
+        "pl": "twarz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "eye",
+          "partOfSpeech": "noun"
+        },
+        "ru": "глаз",
+        "pl": "oko"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ear",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ухо",
+        "pl": "ucho"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nose",
+          "partOfSpeech": "noun"
+        },
+        "ru": "нос",
+        "pl": "nos"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mouth",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рот",
+        "pl": "usta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tooth",
+          "partOfSpeech": "noun"
+        },
+        "ru": "зуб",
+        "pl": "ząb"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hair",
+          "partOfSpeech": "noun"
+        },
+        "ru": "волосы",
+        "pl": "włosy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "neck",
+          "partOfSpeech": "noun"
+        },
+        "ru": "шея",
+        "pl": "szyja"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shoulder",
+          "partOfSpeech": "noun"
+        },
+        "ru": "плечо",
+        "pl": "ramię"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "arm",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рука",
+        "pl": {
+          "text": "ręka",
+          "alternates": [
+            "ramię"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hand",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "рука",
+          "alternates": [
+            "кисть"
+          ]
+        },
+        "pl": {
+          "text": "ręka",
+          "alternates": [
+            "dłoń"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "finger",
+          "partOfSpeech": "noun"
+        },
+        "ru": "палец",
+        "pl": "palec"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "back",
+          "partOfSpeech": "noun"
+        },
+        "ru": "спина",
+        "pl": "plecy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "stomach",
+          "alternates": [
+            "belly"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "живот",
+        "pl": "brzuch"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "My stomach hurts.",
+          "translations": {
+            "ru": "У меня болит живот.",
+            "pl": "Boli mnie brzuch."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "leg",
+          "partOfSpeech": "noun"
+        },
+        "ru": "нога",
+        "pl": "noga"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "knee",
+          "partOfSpeech": "noun"
+        },
+        "ru": "колено",
+        "pl": "kolano"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "foot",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "ступня",
+          "alternates": [
+            "нога"
+          ]
+        },
+        "pl": "stopa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "heart",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сердце",
+        "pl": "serce"
+      }
+    }
+  ]
+}

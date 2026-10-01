@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "At the restaurant",
+    "ru": "В ресторане",
+    "pl": "W restauracji"
+  },
+  "description": {
+    "en": "Ordering, eating out and paying the bill.",
+    "ru": "Заказ, еда вне дома и счёт.",
+    "pl": "Zamawianie, jedzenie na mieście i rachunek."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "food",
+    "travel"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

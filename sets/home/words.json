@@ -1,0 +1,264 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "house",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дом",
+        "pl": "dom"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "flat",
+          "alternates": [
+            "apartment"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "квартира",
+        "pl": "mieszkanie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "room",
+          "partOfSpeech": "noun"
+        },
+        "ru": "комната",
+        "pl": "pokój"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "kitchen",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кухня",
+        "pl": "kuchnia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bedroom",
+          "partOfSpeech": "noun"
+        },
+        "ru": "спальня",
+        "pl": "sypialnia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "living room",
+          "partOfSpeech": "noun"
+        },
+        "ru": "гостиная",
+        "pl": {
+          "text": "salon",
+          "alternates": [
+            "pokój dzienny"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bathroom",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ванная",
+        "pl": "łazienka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "toilet",
+          "partOfSpeech": "noun"
+        },
+        "ru": "туалет",
+        "pl": "toaleta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hall",
+          "alternates": [
+            "hallway"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "прихожая",
+          "alternates": [
+            "коридор"
+          ]
+        },
+        "pl": {
+          "text": "przedpokój",
+          "alternates": [
+            "korytarz"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "door",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дверь",
+        "pl": "drzwi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "window",
+          "partOfSpeech": "noun"
+        },
+        "ru": "окно",
+        "pl": "okno"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wall",
+          "partOfSpeech": "noun"
+        },
+        "ru": "стена",
+        "pl": "ściana"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "floor",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пол",
+        "pl": "podłoga"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "stairs",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лестница",
+        "pl": "schody"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "table",
+          "partOfSpeech": "noun"
+        },
+        "ru": "стол",
+        "pl": "stół"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "chair",
+          "partOfSpeech": "noun"
+        },
+        "ru": "стул",
+        "pl": "krzesło"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bed",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кровать",
+        "pl": "łóżko"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sofa",
+          "alternates": [
+            "couch"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "диван",
+        "pl": {
+          "text": "kanapa",
+          "alternates": [
+            "sofa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wardrobe",
+          "partOfSpeech": "noun"
+        },
+        "ru": "шкаф",
+        "pl": "szafa"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "My clothes are in the wardrobe.",
+          "translations": {
+            "ru": "Моя одежда в шкафу.",
+            "pl": "Moje ubrania są w szafie."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lamp",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лампа",
+        "pl": "lampa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mirror",
+          "partOfSpeech": "noun"
+        },
+        "ru": "зеркало",
+        "pl": "lustro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "key",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ключ",
+        "pl": "klucz"
+      }
+    }
+  ]
+}

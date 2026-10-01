@@ -2,6 +2,95 @@
   "format": 1,
   "sets": [
     {
+      "id": "animals",
+      "title": {
+        "en": "Animals",
+        "ru": "Животные",
+        "pl": "Zwierzęta"
+      },
+      "description": {
+        "en": "Pets, farm animals and a few wild ones.",
+        "ru": "Домашние, сельские и несколько диких животных.",
+        "pl": "Zwierzęta domowe, gospodarskie i kilka dzikich."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/animals/cover.png",
+      "level": "A1",
+      "tags": [
+        "animals"
+      ],
+      "wordCount": 20,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/animals/words.json"
+      }
+    },
+    {
+      "id": "body",
+      "title": {
+        "en": "The body",
+        "ru": "Тело",
+        "pl": "Ciało"
+      },
+      "description": {
+        "en": "Head, hands, feet and everything in between.",
+        "ru": "Голова, руки, ноги и всё, что между ними.",
+        "pl": "Głowa, ręce, nogi i wszystko pomiędzy."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/body/cover.png",
+      "level": "A1",
+      "tags": [
+        "people",
+        "body"
+      ],
+      "wordCount": 19,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/body/words.json"
+      }
+    },
+    {
+      "id": "character",
+      "title": {
+        "en": "Character",
+        "ru": "Характер",
+        "pl": "Charakter"
+      },
+      "description": {
+        "en": "Describing what people are like.",
+        "ru": "Как описать человека.",
+        "pl": "Jak opisać człowieka."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/character/cover.png",
+      "level": "B1",
+      "tags": [
+        "people",
+        "adjectives"
+      ],
+      "wordCount": 21,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/character/words.json"
+      }
+    },
+    {
       "id": "city-pl-ru",
       "title": {
         "en": "Polish: in the city",
@@ -27,6 +116,35 @@
       "source": {
         "type": "json",
         "url": "sets/city-pl-ru/words.json"
+      }
+    },
+    {
+      "id": "clothes",
+      "title": {
+        "en": "Clothes",
+        "ru": "Одежда",
+        "pl": "Ubrania"
+      },
+      "description": {
+        "en": "What we wear, from hats to shoes.",
+        "ru": "Что мы носим — от шапки до обуви.",
+        "pl": "To, co nosimy, od czapki po buty."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/clothes/cover.png",
+      "level": "A1",
+      "tags": [
+        "clothes"
+      ],
+      "wordCount": 19,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/clothes/words.json"
       }
     },
     {
@@ -59,6 +177,123 @@
       }
     },
     {
+      "id": "days-and-months",
+      "title": {
+        "en": "Days and months",
+        "ru": "Дни и месяцы",
+        "pl": "Dni i miesiące"
+      },
+      "description": {
+        "en": "The days of the week and the months of the year.",
+        "ru": "Дни недели и месяцы года.",
+        "pl": "Dni tygodnia i miesiące roku."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/days-and-months/cover.png",
+      "level": "A1",
+      "tags": [
+        "time"
+      ],
+      "wordCount": 23,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/days-and-months/words.json"
+      }
+    },
+    {
+      "id": "education",
+      "title": {
+        "en": "Studying",
+        "ru": "Учёба",
+        "pl": "Nauka"
+      },
+      "description": {
+        "en": "University, courses and exams.",
+        "ru": "Университет, курсы и экзамены.",
+        "pl": "Studia, kursy i egzaminy."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/education/cover.png",
+      "level": "B1",
+      "tags": [
+        "education"
+      ],
+      "wordCount": 21,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/education/words.json"
+      }
+    },
+    {
+      "id": "environment",
+      "title": {
+        "en": "The environment",
+        "ru": "Окружающая среда",
+        "pl": "Środowisko"
+      },
+      "description": {
+        "en": "Climate, pollution and taking care of the planet.",
+        "ru": "Климат, загрязнение и забота о планете.",
+        "pl": "Klimat, zanieczyszczenie i dbanie o planetę."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/environment/cover.png",
+      "level": "B1",
+      "tags": [
+        "nature",
+        "society"
+      ],
+      "wordCount": 22,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/environment/words.json"
+      }
+    },
+    {
+      "id": "everyday-verbs",
+      "title": {
+        "en": "Everyday verbs",
+        "ru": "Глаголы на каждый день",
+        "pl": "Czasowniki na co dzień"
+      },
+      "description": {
+        "en": "Verbs for a usual day.",
+        "ru": "Глаголы для обычного дня.",
+        "pl": "Czasowniki na zwykły dzień."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/everyday-verbs/cover.png",
+      "level": "A2",
+      "tags": [
+        "verbs"
+      ],
+      "wordCount": 23,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/everyday-verbs/words.json"
+      }
+    },
+    {
       "id": "family",
       "title": {
         "en": "Family",
@@ -85,6 +320,95 @@
       "source": {
         "type": "json",
         "url": "sets/family/words.json"
+      }
+    },
+    {
+      "id": "feelings",
+      "title": {
+        "en": "Feelings",
+        "ru": "Чувства",
+        "pl": "Uczucia"
+      },
+      "description": {
+        "en": "How we feel and how we say it.",
+        "ru": "Что мы чувствуем и как об этом сказать.",
+        "pl": "Co czujemy i jak to powiedzieć."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/feelings/cover.png",
+      "level": "A2",
+      "tags": [
+        "emotions",
+        "adjectives"
+      ],
+      "wordCount": 20,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/feelings/words.json"
+      }
+    },
+    {
+      "id": "food-and-drinks",
+      "title": {
+        "en": "Food and drinks",
+        "ru": "Еда и напитки",
+        "pl": "Jedzenie i napoje"
+      },
+      "description": {
+        "en": "Everyday food and what we drink with it.",
+        "ru": "Повседневная еда и то, что мы пьём.",
+        "pl": "Codzienne jedzenie i to, co pijemy."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/food-and-drinks/cover.png",
+      "level": "A1",
+      "tags": [
+        "food"
+      ],
+      "wordCount": 23,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/food-and-drinks/words.json"
+      }
+    },
+    {
+      "id": "free-time",
+      "title": {
+        "en": "Free time and sport",
+        "ru": "Свободное время и спорт",
+        "pl": "Czas wolny i sport"
+      },
+      "description": {
+        "en": "Hobbies, games and sports.",
+        "ru": "Хобби, игры и спорт.",
+        "pl": "Hobby, gry i sport."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/free-time/cover.png",
+      "level": "A2",
+      "tags": [
+        "hobbies",
+        "sport"
+      ],
+      "wordCount": 22,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/free-time/words.json"
       }
     },
     {
@@ -117,6 +441,123 @@
       }
     },
     {
+      "id": "health",
+      "title": {
+        "en": "Health",
+        "ru": "Здоровье",
+        "pl": "Zdrowie"
+      },
+      "description": {
+        "en": "At the doctor's and at the chemist's.",
+        "ru": "У врача и в аптеке.",
+        "pl": "U lekarza i w aptece."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/health/cover.png",
+      "level": "A2",
+      "tags": [
+        "health"
+      ],
+      "wordCount": 20,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/health/words.json"
+      }
+    },
+    {
+      "id": "home",
+      "title": {
+        "en": "At home",
+        "ru": "Дом",
+        "pl": "W domu"
+      },
+      "description": {
+        "en": "Rooms and furniture.",
+        "ru": "Комнаты и мебель.",
+        "pl": "Pokoje i meble."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/home/cover.png",
+      "level": "A1",
+      "tags": [
+        "home"
+      ],
+      "wordCount": 22,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/home/words.json"
+      }
+    },
+    {
+      "id": "house-and-chores",
+      "title": {
+        "en": "Housework",
+        "ru": "Домашние дела",
+        "pl": "Prace domowe"
+      },
+      "description": {
+        "en": "Cleaning, repairs and keeping a home.",
+        "ru": "Уборка, ремонт и хозяйство.",
+        "pl": "Sprzątanie, naprawy i prowadzenie domu."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/house-and-chores/cover.png",
+      "level": "B1",
+      "tags": [
+        "home"
+      ],
+      "wordCount": 22,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/house-and-chores/words.json"
+      }
+    },
+    {
+      "id": "jobs",
+      "title": {
+        "en": "Jobs",
+        "ru": "Профессии",
+        "pl": "Zawody"
+      },
+      "description": {
+        "en": "Who does what for a living.",
+        "ru": "Кто кем работает.",
+        "pl": "Kto czym się zajmuje."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/jobs/cover.png",
+      "level": "A2",
+      "tags": [
+        "work",
+        "people"
+      ],
+      "wordCount": 20,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/jobs/words.json"
+      }
+    },
+    {
       "id": "kitchen-en-ru",
       "title": {
         "en": "In the kitchen",
@@ -144,6 +585,181 @@
           "en",
           "ru"
         ]
+      }
+    },
+    {
+      "id": "linking-words",
+      "title": {
+        "en": "Linking words",
+        "ru": "Связующие слова",
+        "pl": "Wyrazy łączące"
+      },
+      "description": {
+        "en": "Words that join ideas: because, however, although.",
+        "ru": "Слова, которые связывают мысли: потому что, однако, хотя.",
+        "pl": "Słowa łączące myśli: bo, jednak, chociaż."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/linking-words/cover.png",
+      "level": "B1",
+      "tags": [
+        "grammar"
+      ],
+      "wordCount": 20,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/linking-words/words.json"
+      }
+    },
+    {
+      "id": "media-and-news",
+      "title": {
+        "en": "Media and news",
+        "ru": "СМИ и новости",
+        "pl": "Media i wiadomości"
+      },
+      "description": {
+        "en": "Newspapers, TV and how news is made.",
+        "ru": "Газеты, телевидение и как делаются новости.",
+        "pl": "Gazety, telewizja i jak powstają wiadomości."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/media-and-news/cover.png",
+      "level": "B1",
+      "tags": [
+        "society",
+        "media"
+      ],
+      "wordCount": 21,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/media-and-news/words.json"
+      }
+    },
+    {
+      "id": "money",
+      "title": {
+        "en": "Money and the bank",
+        "ru": "Деньги и банк",
+        "pl": "Pieniądze i bank"
+      },
+      "description": {
+        "en": "Accounts, loans, bills and saving.",
+        "ru": "Счета, кредиты, оплата и сбережения.",
+        "pl": "Konta, kredyty, rachunki i oszczędzanie."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/money/cover.png",
+      "level": "B1",
+      "tags": [
+        "money"
+      ],
+      "wordCount": 24,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/money/words.json"
+      }
+    },
+    {
+      "id": "nature",
+      "title": {
+        "en": "Nature",
+        "ru": "Природа",
+        "pl": "Przyroda"
+      },
+      "description": {
+        "en": "Forests, rivers, mountains and the sea.",
+        "ru": "Леса, реки, горы и море.",
+        "pl": "Lasy, rzeki, góry i morze."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/nature/cover.png",
+      "level": "A2",
+      "tags": [
+        "nature"
+      ],
+      "wordCount": 19,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/nature/words.json"
+      }
+    },
+    {
+      "id": "numbers",
+      "title": {
+        "en": "Numbers",
+        "ru": "Числа",
+        "pl": "Liczby"
+      },
+      "description": {
+        "en": "Counting from zero to a thousand.",
+        "ru": "Счёт от нуля до тысячи.",
+        "pl": "Liczenie od zera do tysiąca."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/numbers/cover.png",
+      "level": "A1",
+      "tags": [
+        "numbers"
+      ],
+      "wordCount": 20,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/numbers/words.json"
+      }
+    },
+    {
+      "id": "opposites",
+      "title": {
+        "en": "Opposites",
+        "ru": "Противоположности",
+        "pl": "Przeciwieństwa"
+      },
+      "description": {
+        "en": "Common adjectives in pairs.",
+        "ru": "Частые прилагательные парами.",
+        "pl": "Popularne przymiotniki w parach."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/opposites/cover.png",
+      "level": "A2",
+      "tags": [
+        "adjectives"
+      ],
+      "wordCount": 23,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/opposites/words.json"
       }
     },
     {
@@ -179,6 +795,182 @@
       }
     },
     {
+      "id": "relationships",
+      "title": {
+        "en": "Relationships",
+        "ru": "Отношения",
+        "pl": "Relacje"
+      },
+      "description": {
+        "en": "Friends, partners and getting along.",
+        "ru": "Друзья, пары и как ладить.",
+        "pl": "Przyjaciele, partnerzy i dogadywanie się."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/relationships/cover.png",
+      "level": "B1",
+      "tags": [
+        "people"
+      ],
+      "wordCount": 23,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/relationships/words.json"
+      }
+    },
+    {
+      "id": "restaurant",
+      "title": {
+        "en": "At the restaurant",
+        "ru": "В ресторане",
+        "pl": "W restauracji"
+      },
+      "description": {
+        "en": "Ordering, eating out and paying the bill.",
+        "ru": "Заказ, еда вне дома и счёт.",
+        "pl": "Zamawianie, jedzenie na mieście i rachunek."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/restaurant/cover.png",
+      "level": "A2",
+      "tags": [
+        "food",
+        "travel"
+      ],
+      "wordCount": 21,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/restaurant/words.json"
+      }
+    },
+    {
+      "id": "school",
+      "title": {
+        "en": "At school",
+        "ru": "В школе",
+        "pl": "W szkole"
+      },
+      "description": {
+        "en": "Classroom things and school subjects.",
+        "ru": "Школьные принадлежности и предметы.",
+        "pl": "Przybory szkolne i przedmioty."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/school/cover.png",
+      "level": "A1",
+      "tags": [
+        "education"
+      ],
+      "wordCount": 20,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/school/words.json"
+      }
+    },
+    {
+      "id": "shopping",
+      "title": {
+        "en": "Shopping",
+        "ru": "Покупки",
+        "pl": "Zakupy"
+      },
+      "description": {
+        "en": "Shops, prices and paying.",
+        "ru": "Магазины, цены и оплата.",
+        "pl": "Sklepy, ceny i płacenie."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/shopping/cover.png",
+      "level": "A2",
+      "tags": [
+        "shopping"
+      ],
+      "wordCount": 21,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/shopping/words.json"
+      }
+    },
+    {
+      "id": "technology",
+      "title": {
+        "en": "Technology and the internet",
+        "ru": "Техника и интернет",
+        "pl": "Technologia i internet"
+      },
+      "description": {
+        "en": "Devices, apps and life online.",
+        "ru": "Устройства, приложения и жизнь онлайн.",
+        "pl": "Urządzenia, aplikacje i życie w sieci."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/technology/cover.png",
+      "level": "B1",
+      "tags": [
+        "technology"
+      ],
+      "wordCount": 22,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/technology/words.json"
+      }
+    },
+    {
+      "id": "transport",
+      "title": {
+        "en": "Transport",
+        "ru": "Транспорт",
+        "pl": "Transport"
+      },
+      "description": {
+        "en": "Getting around by bus, train, car and bike.",
+        "ru": "Как добраться: автобус, поезд, машина и велосипед.",
+        "pl": "Jak się poruszać: autobus, pociąg, samochód i rower."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/transport/cover.png",
+      "level": "A2",
+      "tags": [
+        "travel",
+        "city"
+      ],
+      "wordCount": 21,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/transport/words.json"
+      }
+    },
+    {
       "id": "travel-en-ru",
       "title": {
         "en": "Travel",
@@ -202,6 +994,65 @@
       "source": {
         "type": "json",
         "url": "sets/travel-en-ru/words.json"
+      }
+    },
+    {
+      "id": "weather",
+      "title": {
+        "en": "Weather",
+        "ru": "Погода",
+        "pl": "Pogoda"
+      },
+      "description": {
+        "en": "Sun, rain, snow and the seasons.",
+        "ru": "Солнце, дождь, снег и времена года.",
+        "pl": "Słońce, deszcz, śnieg i pory roku."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/weather/cover.png",
+      "level": "A1",
+      "tags": [
+        "nature",
+        "weather"
+      ],
+      "wordCount": 20,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/weather/words.json"
+      }
+    },
+    {
+      "id": "work-and-office",
+      "title": {
+        "en": "Work and office",
+        "ru": "Работа и офис",
+        "pl": "Praca i biuro"
+      },
+      "description": {
+        "en": "Jobs, meetings, colleagues and contracts.",
+        "ru": "Работа, встречи, коллеги и договоры.",
+        "pl": "Praca, spotkania, współpracownicy i umowy."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/work-and-office/cover.png",
+      "level": "B1",
+      "tags": [
+        "work"
+      ],
+      "wordCount": 23,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/work-and-office/words.json"
       }
     }
   ]

@@ -1,0 +1,238 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "weather",
+          "partOfSpeech": "noun"
+        },
+        "ru": "погода",
+        "pl": "pogoda"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "What's the weather like today?",
+          "translations": {
+            "ru": "Какая сегодня погода?",
+            "pl": "Jaka jest dziś pogoda?"
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sun",
+          "partOfSpeech": "noun"
+        },
+        "ru": "солнце",
+        "pl": "słońce"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rain",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дождь",
+        "pl": "deszcz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "snow",
+          "partOfSpeech": "noun"
+        },
+        "ru": "снег",
+        "pl": "śnieg"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wind",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ветер",
+        "pl": "wiatr"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cloud",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "облако",
+          "alternates": [
+            "туча"
+          ]
+        },
+        "pl": "chmura"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fog",
+          "partOfSpeech": "noun"
+        },
+        "ru": "туман",
+        "pl": "mgła"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "storm",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "гроза",
+          "alternates": [
+            "буря"
+          ]
+        },
+        "pl": "burza"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ice",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лёд",
+        "pl": "lód"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sunny",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "солнечный",
+        "pl": "słoneczny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rainy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "дождливый",
+        "pl": "deszczowy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cloudy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "облачный",
+          "alternates": [
+            "пасмурный"
+          ]
+        },
+        "pl": "pochmurny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "windy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "ветреный",
+        "pl": "wietrzny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hot",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "жаркий",
+          "alternates": [
+            "горячий"
+          ]
+        },
+        "pl": "gorący"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "warm",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "тёплый",
+        "pl": "ciepły"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cold",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "холодный",
+        "pl": "zimny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "spring",
+          "partOfSpeech": "noun"
+        },
+        "ru": "весна",
+        "pl": "wiosna"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "summer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лето",
+        "pl": "lato"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "autumn",
+          "alternates": [
+            "fall"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "осень",
+        "pl": "jesień"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "winter",
+          "partOfSpeech": "noun"
+        },
+        "ru": "зима",
+        "pl": "zima"
+      }
+    }
+  ]
+}

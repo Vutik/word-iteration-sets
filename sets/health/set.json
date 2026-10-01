@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Health",
+    "ru": "Здоровье",
+    "pl": "Zdrowie"
+  },
+  "description": {
+    "en": "At the doctor's and at the chemist's.",
+    "ru": "У врача и в аптеке.",
+    "pl": "U lekarza i w aptece."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "health"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

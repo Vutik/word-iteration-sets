@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Work and office",
+    "ru": "Работа и офис",
+    "pl": "Praca i biuro"
+  },
+  "description": {
+    "en": "Jobs, meetings, colleagues and contracts.",
+    "ru": "Работа, встречи, коллеги и договоры.",
+    "pl": "Praca, spotkania, współpracownicy i umowy."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "B1",
+  "tags": [
+    "work"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

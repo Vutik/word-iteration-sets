@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Housework",
+    "ru": "Домашние дела",
+    "pl": "Prace domowe"
+  },
+  "description": {
+    "en": "Cleaning, repairs and keeping a home.",
+    "ru": "Уборка, ремонт и хозяйство.",
+    "pl": "Sprzątanie, naprawy i prowadzenie domu."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "B1",
+  "tags": [
+    "home"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

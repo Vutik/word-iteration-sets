@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Relationships",
+    "ru": "Отношения",
+    "pl": "Relacje"
+  },
+  "description": {
+    "en": "Friends, partners and getting along.",
+    "ru": "Друзья, пары и как ладить.",
+    "pl": "Przyjaciele, partnerzy i dogadywanie się."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "B1",
+  "tags": [
+    "people"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

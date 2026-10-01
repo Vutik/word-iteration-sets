@@ -1,0 +1,273 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "bread",
+          "partOfSpeech": "noun"
+        },
+        "ru": "хлеб",
+        "pl": "chleb"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "butter",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "сливочное масло",
+          "alternates": [
+            "масло"
+          ]
+        },
+        "pl": "masło"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cheese",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сыр",
+        "pl": "ser"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "egg",
+          "partOfSpeech": "noun"
+        },
+        "ru": "яйцо",
+        "pl": "jajko"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "meat",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мясо",
+        "pl": "mięso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "chicken",
+          "partOfSpeech": "noun"
+        },
+        "ru": "курица",
+        "pl": "kurczak"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fish",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рыба",
+        "pl": "ryba"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rice",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рис",
+        "pl": "ryż"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "potato",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "картофель",
+          "alternates": [
+            "картошка"
+          ]
+        },
+        "pl": "ziemniak"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "soup",
+          "partOfSpeech": "noun"
+        },
+        "ru": "суп",
+        "pl": "zupa"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "The soup is too hot.",
+          "translations": {
+            "ru": "Суп слишком горячий.",
+            "pl": "Zupa jest za gorąca."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "salad",
+          "partOfSpeech": "noun"
+        },
+        "ru": "салат",
+        "pl": "sałatka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sugar",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сахар",
+        "pl": "cukier"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "salt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "соль",
+        "pl": "sól"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "water",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вода",
+        "pl": "woda"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "milk",
+          "partOfSpeech": "noun"
+        },
+        "ru": "молоко",
+        "pl": "mleko"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "coffee",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кофе",
+        "pl": "kawa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tea",
+          "partOfSpeech": "noun"
+        },
+        "ru": "чай",
+        "pl": "herbata"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "juice",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сок",
+        "pl": "sok"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "beer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пиво",
+        "pl": "piwo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wine",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вино",
+        "pl": "wino"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "breakfast",
+          "partOfSpeech": "noun"
+        },
+        "ru": "завтрак",
+        "pl": "śniadanie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lunch",
+          "partOfSpeech": "noun"
+        },
+        "ru": "обед",
+        "pl": {
+          "text": "obiad",
+          "alternates": [
+            "lunch"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dinner",
+          "alternates": [
+            "supper"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "ужин",
+        "pl": "kolacja"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "We have dinner at seven.",
+          "translations": {
+            "ru": "Мы ужинаем в семь.",
+            "pl": "Jemy kolację o siódmej."
+          }
+        }
+      ]
+    }
+  ]
+}

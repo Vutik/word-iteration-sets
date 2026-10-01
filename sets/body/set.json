@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "The body",
+    "ru": "Тело",
+    "pl": "Ciało"
+  },
+  "description": {
+    "en": "Head, hands, feet and everything in between.",
+    "ru": "Голова, руки, ноги и всё, что между ними.",
+    "pl": "Głowa, ręce, nogi i wszystko pomiędzy."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "people",
+    "body"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

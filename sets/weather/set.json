@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "Weather",
+    "ru": "Погода",
+    "pl": "Pogoda"
+  },
+  "description": {
+    "en": "Sun, rain, snow and the seasons.",
+    "ru": "Солнце, дождь, снег и времена года.",
+    "pl": "Słońce, deszcz, śnieg i pory roku."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "nature",
+    "weather"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

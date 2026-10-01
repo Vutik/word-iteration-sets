@@ -1,0 +1,226 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "zero",
+          "partOfSpeech": "numeral"
+        },
+        "ru": {
+          "text": "ноль",
+          "alternates": [
+            "нуль"
+          ]
+        },
+        "pl": "zero"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "one",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "один",
+        "pl": "jeden"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "two",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "два",
+        "pl": "dwa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "three",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "три",
+        "pl": "trzy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "four",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "четыре",
+        "pl": "cztery"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "five",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "пять",
+        "pl": "pięć"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "six",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "шесть",
+        "pl": "sześć"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "seven",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "семь",
+        "pl": "siedem"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "eight",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "восемь",
+        "pl": "osiem"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nine",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "девять",
+        "pl": "dziewięć"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ten",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "десять",
+        "pl": "dziesięć"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "eleven",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "одиннадцать",
+        "pl": "jedenaście"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "twelve",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "двенадцать",
+        "pl": "dwanaście"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fifteen",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "пятнадцать",
+        "pl": "piętnaście"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "twenty",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "двадцать",
+        "pl": "dwadzieścia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "thirty",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "тридцать",
+        "pl": "trzydzieści"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "forty",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "сорок",
+        "pl": "czterdzieści"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fifty",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "пятьдесят",
+        "pl": "pięćdziesiąt"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "a hundred",
+          "alternates": [
+            "one hundred"
+          ],
+          "partOfSpeech": "numeral"
+        },
+        "ru": "сто",
+        "pl": "sto"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "I have a hundred photos from the trip.",
+          "translations": {
+            "ru": "У меня сто фотографий из поездки.",
+            "pl": "Mam sto zdjęć z wycieczki."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "a thousand",
+          "alternates": [
+            "one thousand"
+          ],
+          "partOfSpeech": "numeral"
+        },
+        "ru": "тысяча",
+        "pl": "tysiąc"
+      }
+    }
+  ]
+}

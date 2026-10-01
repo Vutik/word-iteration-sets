@@ -1,0 +1,313 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "kind",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "добрый",
+        "pl": {
+          "text": "życzliwy",
+          "alternates": [
+            "dobry"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "friendly",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "дружелюбный",
+        "pl": {
+          "text": "przyjazny",
+          "alternates": [
+            "przyjacielski"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "polite",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "вежливый",
+        "pl": {
+          "text": "uprzejmy",
+          "alternates": [
+            "grzeczny"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rude",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "грубый",
+        "pl": {
+          "text": "niegrzeczny",
+          "alternates": [
+            "nieuprzejmy"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "honest",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "честный",
+        "pl": {
+          "text": "uczciwy",
+          "alternates": [
+            "szczery"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "generous",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "щедрый",
+        "pl": "hojny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "selfish",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "эгоистичный",
+        "pl": {
+          "text": "samolubny",
+          "alternates": [
+            "egoistyczny"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "застенчивый",
+          "alternates": [
+            "стеснительный"
+          ]
+        },
+        "pl": "nieśmiały"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "confident",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "уверенный в себе",
+        "pl": "pewny siebie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lazy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "ленивый",
+        "pl": "leniwy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hard-working",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "трудолюбивый",
+        "pl": "pracowity"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "patient",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "терпеливый",
+        "pl": "cierpliwy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "reliable",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "надёжный",
+        "pl": {
+          "text": "niezawodny",
+          "alternates": [
+            "solidny"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "funny",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "смешной",
+          "alternates": [
+            "забавный"
+          ]
+        },
+        "pl": {
+          "text": "zabawny",
+          "alternates": [
+            "śmieszny"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "clever",
+          "alternates": [
+            "smart"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "умный",
+        "pl": {
+          "text": "mądry",
+          "alternates": [
+            "bystry"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "stubborn",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "упрямый",
+        "pl": "uparty"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "He's too stubborn to admit he was wrong.",
+          "translations": {
+            "ru": "Он слишком упрям, чтобы признать, что был неправ.",
+            "pl": "Jest zbyt uparty, żeby przyznać się do błędu."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "brave",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "смелый",
+          "alternates": [
+            "храбрый"
+          ]
+        },
+        "pl": "odważny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "careful",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "осторожный",
+          "alternates": [
+            "аккуратный"
+          ]
+        },
+        "pl": {
+          "text": "ostrożny",
+          "alternates": [
+            "staranny"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sensible",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "благоразумный",
+          "alternates": [
+            "рассудительный"
+          ]
+        },
+        "pl": "rozsądny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sensitive",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "чувствительный",
+          "alternates": [
+            "ранимый"
+          ]
+        },
+        "pl": "wrażliwy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "jealous",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "ревнивый",
+          "alternates": [
+            "завистливый"
+          ]
+        },
+        "pl": "zazdrosny"
+      }
+    }
+  ]
+}

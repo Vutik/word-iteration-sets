@@ -1,0 +1,216 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "nature",
+          "partOfSpeech": "noun"
+        },
+        "ru": "природа",
+        "pl": {
+          "text": "przyroda",
+          "alternates": [
+            "natura"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tree",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дерево",
+        "pl": "drzewo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "flower",
+          "partOfSpeech": "noun"
+        },
+        "ru": "цветок",
+        "pl": "kwiat"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "grass",
+          "partOfSpeech": "noun"
+        },
+        "ru": "трава",
+        "pl": "trawa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "leaf",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лист",
+        "pl": "liść"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "forest",
+          "alternates": [
+            "wood"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "лес",
+        "pl": "las"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "field",
+          "partOfSpeech": "noun"
+        },
+        "ru": "поле",
+        "pl": "pole"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "river",
+          "partOfSpeech": "noun"
+        },
+        "ru": "река",
+        "pl": "rzeka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lake",
+          "partOfSpeech": "noun"
+        },
+        "ru": "озеро",
+        "pl": "jezioro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sea",
+          "partOfSpeech": "noun"
+        },
+        "ru": "море",
+        "pl": "morze"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "beach",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пляж",
+        "pl": "plaża"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mountain",
+          "partOfSpeech": "noun"
+        },
+        "ru": "гора",
+        "pl": "góra"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hill",
+          "partOfSpeech": "noun"
+        },
+        "ru": "холм",
+        "pl": "wzgórze"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "island",
+          "partOfSpeech": "noun"
+        },
+        "ru": "остров",
+        "pl": "wyspa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sky",
+          "partOfSpeech": "noun"
+        },
+        "ru": "небо",
+        "pl": "niebo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "star",
+          "partOfSpeech": "noun"
+        },
+        "ru": "звезда",
+        "pl": "gwiazda"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "moon",
+          "partOfSpeech": "noun"
+        },
+        "ru": "луна",
+        "pl": "księżyc"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "earth",
+          "alternates": [
+            "ground"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "земля",
+        "pl": "ziemia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "stone",
+          "partOfSpeech": "noun"
+        },
+        "ru": "камень",
+        "pl": "kamień"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "We sat on a big stone by the river.",
+          "translations": {
+            "ru": "Мы сидели на большом камне у реки.",
+            "pl": "Siedzieliśmy na dużym kamieniu nad rzeką."
+          }
+        }
+      ]
+    }
+  ]
+}

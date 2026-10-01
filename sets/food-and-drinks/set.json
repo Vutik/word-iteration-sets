@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Food and drinks",
+    "ru": "Еда и напитки",
+    "pl": "Jedzenie i napoje"
+  },
+  "description": {
+    "en": "Everyday food and what we drink with it.",
+    "ru": "Повседневная еда и то, что мы пьём.",
+    "pl": "Codzienne jedzenie i to, co pijemy."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "food"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

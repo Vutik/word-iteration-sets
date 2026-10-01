@@ -1,0 +1,252 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "health",
+          "partOfSpeech": "noun"
+        },
+        "ru": "здоровье",
+        "pl": "zdrowie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "illness",
+          "partOfSpeech": "noun"
+        },
+        "ru": "болезнь",
+        "pl": "choroba"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pain",
+          "partOfSpeech": "noun"
+        },
+        "ru": "боль",
+        "pl": "ból"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "headache",
+          "partOfSpeech": "noun"
+        },
+        "ru": "головная боль",
+        "pl": "ból głowy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cold",
+          "partOfSpeech": "noun"
+        },
+        "ru": "простуда",
+        "pl": "przeziębienie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "flu",
+          "partOfSpeech": "noun"
+        },
+        "ru": "грипп",
+        "pl": "grypa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fever",
+          "alternates": [
+            "temperature"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "температура",
+          "alternates": [
+            "жар"
+          ]
+        },
+        "pl": "gorączka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cough",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кашель",
+        "pl": "kaszel"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "medicine",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лекарство",
+        "pl": {
+          "text": "lekarstwo",
+          "alternates": [
+            "lek"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pill",
+          "alternates": [
+            "tablet"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "таблетка",
+        "pl": "tabletka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pharmacy",
+          "alternates": [
+            "chemist's"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "аптека",
+        "pl": "apteka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hospital",
+          "partOfSpeech": "noun"
+        },
+        "ru": "больница",
+        "pl": "szpital"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "appointment",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "приём",
+          "alternates": [
+            "запись"
+          ]
+        },
+        "pl": "wizyta"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "I'd like to make an appointment with the doctor.",
+          "translations": {
+            "ru": "Я хочу записаться к врачу.",
+            "pl": "Chciałbym umówić się na wizytę u lekarza."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "prescription",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рецепт",
+        "pl": "recepta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ill",
+          "alternates": [
+            "sick"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "больной",
+        "pl": "chory"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "healthy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "здоровый",
+        "pl": "zdrowy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to hurt",
+          "partOfSpeech": "verb"
+        },
+        "ru": "болеть",
+        "pl": "boleć"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to feel",
+          "partOfSpeech": "verb"
+        },
+        "ru": "чувствовать себя",
+        "pl": "czuć się"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to rest",
+          "partOfSpeech": "verb"
+        },
+        "ru": "отдыхать",
+        "pl": "odpoczywać"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to recover",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "выздоравливать",
+          "alternates": [
+            "выздороветь"
+          ]
+        },
+        "pl": {
+          "text": "wyzdrowieć",
+          "alternates": [
+            "zdrowieć"
+          ]
+        }
+      }
+    }
+  ]
+}

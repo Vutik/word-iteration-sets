@@ -1,0 +1,255 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "Monday",
+          "partOfSpeech": "noun"
+        },
+        "ru": "понедельник",
+        "pl": "poniedziałek"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "The shop is closed on Monday.",
+          "translations": {
+            "ru": "В понедельник магазин закрыт.",
+            "pl": "W poniedziałek sklep jest zamknięty."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "Tuesday",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вторник",
+        "pl": "wtorek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "Wednesday",
+          "partOfSpeech": "noun"
+        },
+        "ru": "среда",
+        "pl": "środa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "Thursday",
+          "partOfSpeech": "noun"
+        },
+        "ru": "четверг",
+        "pl": "czwartek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "Friday",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пятница",
+        "pl": "piątek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "Saturday",
+          "partOfSpeech": "noun"
+        },
+        "ru": "суббота",
+        "pl": "sobota"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "Sunday",
+          "partOfSpeech": "noun"
+        },
+        "ru": "воскресенье",
+        "pl": "niedziela"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "January",
+          "partOfSpeech": "noun"
+        },
+        "ru": "январь",
+        "pl": "styczeń"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "February",
+          "partOfSpeech": "noun"
+        },
+        "ru": "февраль",
+        "pl": "luty"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "March",
+          "partOfSpeech": "noun"
+        },
+        "ru": "март",
+        "pl": "marzec"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "April",
+          "partOfSpeech": "noun"
+        },
+        "ru": "апрель",
+        "pl": "kwiecień"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "May",
+          "partOfSpeech": "noun"
+        },
+        "ru": "май",
+        "pl": "maj"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "June",
+          "partOfSpeech": "noun"
+        },
+        "ru": "июнь",
+        "pl": "czerwiec"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "July",
+          "partOfSpeech": "noun"
+        },
+        "ru": "июль",
+        "pl": "lipiec"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "August",
+          "partOfSpeech": "noun"
+        },
+        "ru": "август",
+        "pl": "sierpień"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "September",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сентябрь",
+        "pl": "wrzesień"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "October",
+          "partOfSpeech": "noun"
+        },
+        "ru": "октябрь",
+        "pl": "październik"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "November",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ноябрь",
+        "pl": "listopad"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "December",
+          "partOfSpeech": "noun"
+        },
+        "ru": "декабрь",
+        "pl": "grudzień"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "My birthday is in December.",
+          "translations": {
+            "ru": "Мой день рождения в декабре.",
+            "pl": "Moje urodziny są w grudniu."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "week",
+          "partOfSpeech": "noun"
+        },
+        "ru": "неделя",
+        "pl": "tydzień"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "month",
+          "partOfSpeech": "noun"
+        },
+        "ru": "месяц",
+        "pl": "miesiąc"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "year",
+          "partOfSpeech": "noun"
+        },
+        "ru": "год",
+        "pl": "rok"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "weekend",
+          "partOfSpeech": "noun"
+        },
+        "ru": "выходные",
+        "pl": "weekend"
+      }
+    }
+  ]
+}

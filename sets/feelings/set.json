@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "Feelings",
+    "ru": "Чувства",
+    "pl": "Uczucia"
+  },
+  "description": {
+    "en": "How we feel and how we say it.",
+    "ru": "Что мы чувствуем и как об этом сказать.",
+    "pl": "Co czujemy i jak to powiedzieć."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "emotions",
+    "adjectives"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

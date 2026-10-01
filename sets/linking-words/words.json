@@ -1,0 +1,331 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "and",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "и",
+        "pl": "i"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "but",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "но",
+        "pl": "ale"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "or",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "или",
+        "pl": {
+          "text": "lub",
+          "alternates": [
+            "albo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "because",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "потому что",
+        "pl": {
+          "text": "ponieważ",
+          "alternates": [
+            "bo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "so",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": {
+          "text": "поэтому",
+          "alternates": [
+            "так что"
+          ]
+        },
+        "pl": "więc"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "if",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "если",
+        "pl": {
+          "text": "jeśli",
+          "alternates": [
+            "jeżeli"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "although",
+          "alternates": [
+            "though"
+          ],
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "хотя",
+        "pl": {
+          "text": "chociaż",
+          "alternates": [
+            "choć"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "Although it was raining, we went for a walk.",
+          "translations": {
+            "ru": "Хотя шёл дождь, мы пошли гулять.",
+            "pl": "Chociaż padało, poszliśmy na spacer."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "while",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": {
+          "text": "пока",
+          "alternates": [
+            "в то время как"
+          ]
+        },
+        "pl": {
+          "text": "podczas gdy",
+          "alternates": [
+            "kiedy"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "unless",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "если не",
+        "pl": "chyba że"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "until",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": {
+          "text": "пока не",
+          "alternates": [
+            "до тех пор пока"
+          ]
+        },
+        "pl": {
+          "text": "dopóki nie",
+          "alternates": [
+            "aż"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "however",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "однако",
+        "pl": "jednak"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "The plan is good. However, it's too expensive.",
+          "translations": {
+            "ru": "План хороший. Однако он слишком дорогой.",
+            "pl": "Plan jest dobry. Jest jednak za drogi."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "therefore",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "поэтому",
+          "alternates": [
+            "следовательно"
+          ]
+        },
+        "pl": {
+          "text": "dlatego",
+          "alternates": [
+            "zatem"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "also",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "также",
+          "alternates": [
+            "тоже"
+          ]
+        },
+        "pl": {
+          "text": "także",
+          "alternates": [
+            "też"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "instead",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "вместо этого",
+        "pl": "zamiast tego"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "besides",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "кроме того",
+        "pl": {
+          "text": "poza tym",
+          "alternates": [
+            "ponadto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "finally",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "наконец",
+        "pl": {
+          "text": "w końcu",
+          "alternates": [
+            "wreszcie"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "actually",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "на самом деле",
+          "alternates": [
+            "вообще-то"
+          ]
+        },
+        "pl": {
+          "text": "właściwie",
+          "alternates": [
+            "tak naprawdę"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "probably",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "вероятно",
+          "alternates": [
+            "наверное"
+          ]
+        },
+        "pl": {
+          "text": "prawdopodobnie",
+          "alternates": [
+            "pewnie"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "of course",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "конечно",
+        "pl": "oczywiście"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "despite",
+          "alternates": [
+            "in spite of"
+          ],
+          "partOfSpeech": "preposition"
+        },
+        "ru": "несмотря на",
+        "pl": {
+          "text": "mimo",
+          "alternates": [
+            "pomimo"
+          ]
+        }
+      }
+    }
+  ]
+}

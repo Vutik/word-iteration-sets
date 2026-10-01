@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Linking words",
+    "ru": "Связующие слова",
+    "pl": "Wyrazy łączące"
+  },
+  "description": {
+    "en": "Words that join ideas: because, however, although.",
+    "ru": "Слова, которые связывают мысли: потому что, однако, хотя.",
+    "pl": "Słowa łączące myśli: bo, jednak, chociaż."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "B1",
+  "tags": [
+    "grammar"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

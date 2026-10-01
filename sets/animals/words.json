@@ -1,0 +1,228 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "dog",
+          "partOfSpeech": "noun"
+        },
+        "ru": "собака",
+        "pl": "pies"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "Our dog loves long walks.",
+          "translations": {
+            "ru": "Наша собака любит долгие прогулки.",
+            "pl": "Nasz pies uwielbia długie spacery."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cat",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "кошка",
+          "alternates": [
+            "кот"
+          ]
+        },
+        "pl": "kot"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bird",
+          "partOfSpeech": "noun"
+        },
+        "ru": "птица",
+        "pl": "ptak"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fish",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рыба",
+        "pl": "ryba"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "horse",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "лошадь",
+          "alternates": [
+            "конь"
+          ]
+        },
+        "pl": "koń"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cow",
+          "partOfSpeech": "noun"
+        },
+        "ru": "корова",
+        "pl": "krowa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pig",
+          "partOfSpeech": "noun"
+        },
+        "ru": "свинья",
+        "pl": "świnia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sheep",
+          "partOfSpeech": "noun"
+        },
+        "ru": "овца",
+        "pl": "owca"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "chicken",
+          "alternates": [
+            "hen"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "курица",
+        "pl": "kura"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mouse",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мышь",
+        "pl": "mysz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rabbit",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кролик",
+        "pl": "królik"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "duck",
+          "partOfSpeech": "noun"
+        },
+        "ru": "утка",
+        "pl": "kaczka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bear",
+          "partOfSpeech": "noun"
+        },
+        "ru": "медведь",
+        "pl": "niedźwiedź"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wolf",
+          "partOfSpeech": "noun"
+        },
+        "ru": "волк",
+        "pl": "wilk"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fox",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лиса",
+        "pl": "lis"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lion",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лев",
+        "pl": "lew"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "elephant",
+          "partOfSpeech": "noun"
+        },
+        "ru": "слон",
+        "pl": "słoń"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "monkey",
+          "partOfSpeech": "noun"
+        },
+        "ru": "обезьяна",
+        "pl": "małpa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "snake",
+          "partOfSpeech": "noun"
+        },
+        "ru": "змея",
+        "pl": "wąż"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "frog",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лягушка",
+        "pl": "żaba"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "Free time and sport",
+    "ru": "Свободное время и спорт",
+    "pl": "Czas wolny i sport"
+  },
+  "description": {
+    "en": "Hobbies, games and sports.",
+    "ru": "Хобби, игры и спорт.",
+    "pl": "Hobby, gry i sport."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "hobbies",
+    "sport"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}
