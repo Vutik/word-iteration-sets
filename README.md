@@ -57,7 +57,7 @@ so never rename or reuse a folder.
 
 | Field | Required | Meaning |
 |---|---|---|
-| `title` | yes | Language code → text. `en` is required as the fallback; the app shows the learner's own language when present. |
+| `title` | yes | Language code → text. `en` is required as the fallback. The app shows the title in the language being learned with the learner's own under it, and names an added set `Owoce — Фрукты`. Give a title in every language of the set. |
 | `description` | no | Same shape as `title`. |
 | `languages` | yes | ISO 639-1 codes the set contains, at least two. The app offers a set when both languages of the learner's pair are listed. |
 | `image` | no | Cover: a file in the folder or an `https://` URL. PNG, JPEG, WebP or HEIC; iOS does not draw SVG. |
