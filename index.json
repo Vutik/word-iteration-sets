@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "sets": [
+    {
+      "id": "fruits",
+      "title": {
+        "en": "Fruits",
+        "ru": "Фрукты",
+        "pl": "Owoce"
+      },
+      "description": {
+        "en": "Twelve everyday fruits with pronunciation and examples.",
+        "ru": "Двенадцать привычных фруктов с транскрипцией и примерами.",
+        "pl": "Dwanaście popularnych owoców z wymową i przykładami."
+      },
+      "languages": ["en", "ru", "pl"],
+      "image": "images/fruits.png",
+      "level": "A1",
+      "tags": ["food"],
+      "wordCount": 12,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/fruits.json"
+      }
+    },
+    {
+      "id": "polish-everyday-verbs",
+      "title": {
+        "en": "Polish: everyday verbs",
+        "ru": "Польский: базовые глаголы",
+        "pl": "Podstawowe czasowniki"
+      },
+      "description": {
+        "en": "Fifteen verbs you need first, Polish to Russian.",
+        "ru": "Пятнадцать глаголов, которые нужны в первую очередь.",
+        "pl": "Piętnaście czasowników na początek, po polsku i rosyjsku."
+      },
+      "languages": ["pl", "ru"],
+      "image": "images/polish-everyday-verbs.png",
+      "level": "A1",
+      "tags": ["verbs"],
+      "wordCount": 15,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "text",
+        "url": "sets/polish-everyday-verbs.txt",
+        "columns": ["pl", "ru"]
+      }
+    }
+  ]
+}
