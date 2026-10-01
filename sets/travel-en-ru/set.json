@@ -1,0 +1,24 @@
+{
+  "title": {
+    "en": "Travel",
+    "ru": "Путешествия"
+  },
+  "description": {
+    "en": "Airports, stations and hotels.",
+    "ru": "Аэропорт, вокзал и гостиница."
+  },
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "travel"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

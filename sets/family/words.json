@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "mother",
+          "alternates": [
+            "mum"
+          ],
+          "transcription": "ˈmʌð.ər",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "мать",
+          "alternates": [
+            "мама"
+          ]
+        },
+        "pl": {
+          "text": "matka",
+          "alternates": [
+            "mama"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "My mother is a teacher.",
+          "translations": {
+            "ru": "Моя мама — учительница.",
+            "pl": "Moja mama jest nauczycielką."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "father",
+          "alternates": [
+            "dad"
+          ],
+          "transcription": "ˈfɑː.ðər",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "отец",
+          "alternates": [
+            "папа"
+          ]
+        },
+        "pl": {
+          "text": "ojciec",
+          "alternates": [
+            "tata"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sister",
+          "transcription": "ˈsɪs.tər",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сестра",
+        "pl": "siostra"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "brother",
+          "transcription": "ˈbrʌð.ər",
+          "partOfSpeech": "noun"
+        },
+        "ru": "брат",
+        "pl": "brat"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "son",
+          "transcription": "sʌn",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сын",
+        "pl": "syn"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "daughter",
+          "transcription": "ˈdɔː.tər",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дочь",
+        "pl": "córka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "grandmother",
+          "alternates": [
+            "grandma"
+          ],
+          "transcription": "ˈɡræn.mʌð.ər",
+          "partOfSpeech": "noun"
+        },
+        "ru": "бабушка",
+        "pl": "babcia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "grandfather",
+          "alternates": [
+            "grandpa"
+          ],
+          "transcription": "ˈɡræn.fɑː.ðər",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дедушка",
+        "pl": "dziadek"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "husband",
+          "transcription": "ˈhʌz.bənd",
+          "partOfSpeech": "noun"
+        },
+        "ru": "муж",
+        "pl": "mąż"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wife",
+          "transcription": "waɪf",
+          "partOfSpeech": "noun"
+        },
+        "ru": "жена",
+        "pl": "żona"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "aunt",
+          "transcription": "ɑːnt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "тётя",
+        "pl": {
+          "text": "ciocia",
+          "alternates": [
+            "ciotka"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "uncle",
+          "transcription": "ˈʌŋ.kəl",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дядя",
+        "pl": {
+          "text": "wujek",
+          "alternates": [
+            "stryj"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cousin",
+          "transcription": "ˈkʌz.ən",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "двоюродный брат",
+          "alternates": [
+            "двоюродная сестра"
+          ]
+        },
+        "pl": {
+          "text": "kuzyn",
+          "alternates": [
+            "kuzynka"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "parents",
+          "transcription": "ˈpeə.rənts",
+          "partOfSpeech": "noun"
+        },
+        "ru": "родители",
+        "pl": "rodzice"
+      },
+      "examples": [
+        {
+          "language": "pl",
+          "text": "Moi rodzice mieszkają w Krakowie.",
+          "translations": {
+            "en": "My parents live in Kraków.",
+            "ru": "Мои родители живут в Кракове."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "children",
+          "transcription": "ˈtʃɪl.drən",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дети",
+        "pl": "dzieci"
+      }
+    }
+  ]
+}

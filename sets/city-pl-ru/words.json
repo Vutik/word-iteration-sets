@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "pl": {
+          "text": "ulica",
+          "partOfSpeech": "noun"
+        },
+        "ru": "улица"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "skrzyżowanie",
+          "partOfSpeech": "noun"
+        },
+        "ru": "перекрёсток"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "przystanek",
+          "partOfSpeech": "noun"
+        },
+        "ru": "остановка"
+      },
+      "examples": [
+        {
+          "language": "pl",
+          "text": "Przystanek jest za rogiem.",
+          "translations": {
+            "ru": "Остановка за углом."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "tramwaj",
+          "partOfSpeech": "noun"
+        },
+        "ru": "трамвай"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "dworzec",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вокзал"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "apteka",
+          "partOfSpeech": "noun"
+        },
+        "ru": "аптека"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "sklep",
+          "partOfSpeech": "noun"
+        },
+        "ru": "магазин"
+      },
+      "examples": [
+        {
+          "language": "pl",
+          "text": "Sklep jest otwarty do dwudziestej.",
+          "translations": {
+            "ru": "Магазин открыт до восьми вечера."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "poczta",
+          "partOfSpeech": "noun"
+        },
+        "ru": "почта"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "bank",
+          "partOfSpeech": "noun"
+        },
+        "ru": "банк"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "szpital",
+          "partOfSpeech": "noun"
+        },
+        "ru": "больница"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "kościół",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "церковь",
+          "alternates": [
+            "костёл"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "rynek",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "рыночная площадь",
+          "alternates": [
+            "рынок"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "pl",
+          "text": "Spotkajmy się na rynku.",
+          "translations": {
+            "ru": "Давай встретимся на рыночной площади."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "most",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мост"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "park",
+          "partOfSpeech": "noun"
+        },
+        "ru": "парк"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "biblioteka",
+          "partOfSpeech": "noun"
+        },
+        "ru": "библиотека"
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "kawiarnia",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "кафе",
+          "alternates": [
+            "кофейня"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "pl": {
+          "text": "ratusz",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ратуша"
+      }
+    }
+  ]
+}

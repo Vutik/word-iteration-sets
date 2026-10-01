@@ -1,0 +1,26 @@
+{
+  "title": {
+    "en": "Polish: in the city",
+    "ru": "Польский: в городе",
+    "pl": "W mieście"
+  },
+  "description": {
+    "en": "Streets, shops and places around town, Polish to Russian.",
+    "ru": "Улицы, магазины и места в городе.",
+    "pl": "Ulice, sklepy i miejsca w mieście, po polsku i rosyjsku."
+  },
+  "languages": [
+    "pl",
+    "ru"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "city"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

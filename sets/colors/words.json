@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "red",
+          "transcription": "red",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "красный",
+        "pl": "czerwony"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "orange",
+          "transcription": "ˈɒr.ɪndʒ",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "оранжевый",
+        "pl": "pomarańczowy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "yellow",
+          "transcription": "ˈjel.əʊ",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "жёлтый",
+        "pl": "żółty"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "green",
+          "transcription": "ɡriːn",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "зелёный",
+        "pl": "zielony"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "blue",
+          "transcription": "bluː",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "синий",
+          "alternates": [
+            "голубой"
+          ]
+        },
+        "pl": "niebieski"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "The sky is blue today.",
+          "translations": {
+            "ru": "Сегодня небо голубое.",
+            "pl": "Niebo jest dziś niebieskie."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "purple",
+          "transcription": "ˈpɜː.pəl",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "фиолетовый",
+        "pl": "fioletowy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pink",
+          "transcription": "pɪŋk",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "розовый",
+        "pl": "różowy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "brown",
+          "transcription": "braʊn",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "коричневый",
+        "pl": "brązowy"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "black",
+          "transcription": "blæk",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "чёрный",
+        "pl": "czarny"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "white",
+          "transcription": "waɪt",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "белый",
+        "pl": "biały"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "grey",
+          "alternates": [
+            "gray"
+          ],
+          "transcription": "ɡreɪ",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "серый",
+        "pl": "szary"
+      }
+    }
+  ]
+}

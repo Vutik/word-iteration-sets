@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Fruits",
+    "ru": "Фрукты",
+    "pl": "Owoce"
+  },
+  "description": {
+    "en": "Twelve everyday fruits with pronunciation and examples.",
+    "ru": "Двенадцать привычных фруктов с транскрипцией и примерами.",
+    "pl": "Dwanaście popularnych owoców z wymową i przykładami."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "food"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
-"""Validates index.json and every set it points to. Standard library only.
+"""Validates every set under sets/ and writes index.json from their set.json files.
 
-Usage: python3 tools/check.py            # from the repository root
-Exit code 0 when everything is valid, 1 otherwise.
+Usage, from the repository root:
+    python3 tools/build.py           # validate, then rewrite index.json
+    python3 tools/build.py --check   # validate, and fail if index.json is out of date (CI)
+
+Standard library only. Exit code 0 when everything is valid, 1 otherwise.
 """
 
 import json
@@ -12,12 +15,18 @@ from pathlib import Path
 from urllib.parse import urlparse
 
 ROOT = Path(__file__).resolve().parent.parent
+SETS = ROOT / "sets"
+INDEX = ROOT / "index.json"
+FORMAT = 1
+
 LANGUAGE = re.compile(r"^[a-z]{2}$")
 SET_ID = re.compile(r"^[a-z0-9]+(-[a-z0-9]+)*$")
 DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 LEVELS = {"A1", "A2", "B1", "B2", "C1", "C2"}
 SOURCE_TYPES = {"json", "anki", "text"}
 IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".webp", ".heic"}
+SET_KEYS = {"title", "description", "languages", "image", "level", "tags", "updated", "source"}
+FORM_KEYS = {"text", "alternates", "transcription", "partOfSpeech"}
 
 errors: list[str] = []
 
@@ -30,18 +39,18 @@ def is_remote(url: str) -> bool:
     return urlparse(url).scheme in ("http", "https")
 
 
-def local_file(url: str, relative_to: Path, where: str) -> Path | None:
-    """Resolves a relative URL against the file it appears in; None for remote URLs."""
+def local_file(url: str, folder: Path, where: str) -> Path | None:
+    """The file a relative URL in `folder` names; None for a remote or bad URL."""
     if is_remote(url):
         if urlparse(url).scheme != "https":
             error(where, f"remote URL must be https: {url}")
         return None
     if url.startswith("/") or urlparse(url).scheme:
-        error(where, f"URL must be relative to the file or absolute https: {url}")
+        error(where, f"URL must be relative to the set folder or absolute https: {url}")
         return None
-    path = (relative_to.parent / url).resolve()
-    if ROOT not in path.parents:
-        error(where, f"URL points outside the repository: {url}")
+    path = (folder / url).resolve()
+    if folder.resolve() not in path.parents:
+        error(where, f"URL points outside the set folder: {url}")
         return None
     if not path.is_file():
         error(where, f"file not found: {url}")
@@ -49,11 +58,16 @@ def local_file(url: str, relative_to: Path, where: str) -> Path | None:
     return path
 
 
-def check_image(value, relative_to: Path, where: str) -> None:
+def index_url(url: str, set_id: str) -> str:
+    """A set-relative URL as index.json needs it: relative to the repository root."""
+    return url if is_remote(url) else f"sets/{set_id}/{url}"
+
+
+def check_image(value, folder: Path, where: str) -> None:
     if not isinstance(value, str) or not value:
         error(where, "image must be a non-empty string")
         return
-    path = local_file(value, relative_to, where)
+    path = local_file(value, folder, where)
     if path and path.suffix.lower() not in IMAGE_SUFFIXES:
         error(where, f"image must be one of {sorted(IMAGE_SUFFIXES)} (iOS cannot show SVG): {value}")
 
@@ -101,24 +115,20 @@ def check_form(value, where: str) -> None:
     for key in ("transcription", "partOfSpeech"):
         if key in value and not isinstance(value[key], str):
             error(where, f"{key} must be a string")
-    unknown = set(value) - {"text", "alternates", "transcription", "partOfSpeech"}
+    unknown = set(value) - FORM_KEYS
     if unknown:
         error(where, f"unknown keys {sorted(unknown)}")
 
 
-def check_json_set(path: Path, entry_id: str, languages: list[str], where: str) -> int:
+def check_words_json(path: Path, languages: list[str]) -> int:
+    where = str(path.relative_to(ROOT))
     try:
         document = json.loads(path.read_text(encoding="utf-8"))
     except json.JSONDecodeError as exc:
-        error(where, f"invalid JSON in {path.relative_to(ROOT)}: {exc}")
+        error(where, f"invalid JSON: {exc}")
         return 0
-    where = str(path.relative_to(ROOT))
-    if document.get("format") != 1:
-        error(where, "format must be 1")
-    if document.get("id") != entry_id:
-        error(where, f"id {document.get('id')!r} differs from index entry {entry_id!r}")
-    if document.get("languages") != languages:
-        error(where, "languages must match the index entry exactly")
+    if document.get("format") != FORMAT:
+        error(where, f"format must be {FORMAT}")
     words = document.get("words")
     if not isinstance(words, list) or not words:
         error(where, "words must be a non-empty list")
@@ -147,96 +157,122 @@ def check_json_set(path: Path, entry_id: str, languages: list[str], where: str) 
             if not isinstance(translations, dict) or any(code not in languages for code in translations):
                 error(at, "example translations must be keyed by set languages")
         if "image" in word:
-            check_image(word["image"], path, at)
+            check_image(word["image"], path.parent, at)
     return len(words)
 
 
-def check_text_set(path: Path, columns: list[str], where: str) -> int:
+def check_words_text(path: Path, columns: list[str]) -> int:
     lines = [line for line in path.read_text(encoding="utf-8").splitlines() if line.strip()]
     for number, line in enumerate(lines, start=1):
-        if len(line.split("\t")) != len(columns):
-            error(f"{path.relative_to(ROOT)} line {number}", f"expected {len(columns)} tab-separated columns")
+        cells = line.split("\t")
+        if len(cells) != len(columns) or not all(cell.strip() for cell in cells):
+            error(f"{path.relative_to(ROOT)} line {number}", f"expected {len(columns)} non-empty tab-separated cells")
     return len(lines)
 
 
-def check_entry(entry, index_path: Path, seen: set[str]) -> None:
-    entry_id = entry.get("id") if isinstance(entry, dict) else None
-    where = f"index.json set {entry_id or '?'}"
-    if not isinstance(entry_id, str) or not SET_ID.match(entry_id):
-        error(where, "id must be lowercase kebab-case")
-        return
-    if entry_id in seen:
-        error(where, "id is not unique")
-    seen.add(entry_id)
+def build_entry(folder: Path) -> dict | None:
+    """Validates one set folder and returns its index.json entry."""
+    set_id = folder.name
+    where = f"sets/{set_id}"
+    if not SET_ID.match(set_id):
+        error(where, "folder name is the set id and must be lowercase kebab-case")
+        return None
+    try:
+        meta = json.loads((folder / "set.json").read_text(encoding="utf-8"))
+    except FileNotFoundError:
+        error(where, "set.json is missing")
+        return None
+    except json.JSONDecodeError as exc:
+        error(where, f"set.json is invalid JSON: {exc}")
+        return None
+    where += "/set.json"
 
-    check_localized(entry.get("title"), f"{where} title", required=True)
-    check_localized(entry.get("description"), f"{where} description", required=False)
-    languages = check_languages(entry.get("languages"), where)
-    if "image" in entry:
-        check_image(entry["image"], index_path, where)
-    if "level" in entry and entry["level"] not in LEVELS:
+    unknown = set(meta) - SET_KEYS
+    if unknown:
+        error(where, f"unknown keys {sorted(unknown)}")
+    check_localized(meta.get("title"), f"{where} title", required=True)
+    check_localized(meta.get("description"), f"{where} description", required=False)
+    languages = check_languages(meta.get("languages"), where)
+    if "image" in meta:
+        check_image(meta["image"], folder, where)
+    if "level" in meta and meta["level"] not in LEVELS:
         error(where, f"level must be one of {sorted(LEVELS)}")
-    if "tags" in entry and not (isinstance(entry["tags"], list) and all(isinstance(t, str) for t in entry["tags"])):
+    if "tags" in meta and not (isinstance(meta["tags"], list) and all(isinstance(t, str) for t in meta["tags"])):
         error(where, "tags must be a list of strings")
-    if "updated" in entry and not (isinstance(entry["updated"], str) and DATE.match(entry["updated"])):
+    if "updated" in meta and not (isinstance(meta["updated"], str) and DATE.match(meta["updated"])):
         error(where, "updated must be YYYY-MM-DD")
 
-    source = entry.get("source")
+    source = meta.get("source")
     if not isinstance(source, dict) or source.get("type") not in SOURCE_TYPES:
         error(where, f"source.type must be one of {sorted(SOURCE_TYPES)}")
-        return
+        return None
     url = source.get("url")
     if not isinstance(url, str) or not url:
         error(where, "source.url is required")
-        return
-    path = local_file(url, index_path, where)
+        return None
+    path = local_file(url, folder, where)
 
-    counted = None
+    count = None
     kind = source["type"]
     if kind == "json":
         if is_remote(url):
-            error(where, "json sets must live in this repository")
+            error(where, "json words must live in the set folder")
         elif path:
-            counted = check_json_set(path, entry_id, languages, where)
+            count = check_words_json(path, languages)
     elif kind == "text":
         columns = source.get("columns")
         if not isinstance(columns, list) or len(columns) != 2 or sorted(columns) != sorted(languages):
             error(where, "text source needs \"columns\": the two set languages in column order")
         elif path:
-            counted = check_text_set(path, columns, where)
+            count = check_words_text(path, columns)
     elif kind == "anki":
+        if len(languages) != 2:
+            error(where, "an anki set has exactly two languages, in the order of the note fields")
         if path and path.suffix.lower() != ".apkg":
             error(where, "anki source must be an .apkg file")
         if "deck" in source and not isinstance(source["deck"], str):
             error(where, "source.deck must be a string")
 
-    if "wordCount" in entry:
-        if not isinstance(entry["wordCount"], int) or entry["wordCount"] < 1:
-            error(where, "wordCount must be a positive integer")
-        elif counted is not None and counted != entry["wordCount"]:
-            error(where, f"wordCount is {entry['wordCount']} but the source has {counted}")
+    entry = {"id": set_id, **{key: meta[key] for key in ("title", "description", "languages") if key in meta}}
+    if "image" in meta:
+        entry["image"] = index_url(meta["image"], set_id)
+    for key in ("level", "tags"):
+        if key in meta:
+            entry[key] = meta[key]
+    if count is not None:
+        entry["wordCount"] = count
+    if "updated" in meta:
+        entry["updated"] = meta["updated"]
+    entry["source"] = {**source, "url": index_url(url, set_id)}
+    return entry
+
+
+def build_index() -> dict:
+    folders = sorted(p for p in SETS.iterdir() if p.is_dir()) if SETS.is_dir() else []
+    entries = [entry for entry in map(build_entry, folders) if entry]
+    return {"format": FORMAT, "sets": entries}
+
+
+def render(index: dict) -> str:
+    return json.dumps(index, ensure_ascii=False, indent=2) + "\n"
 
 
 def main() -> int:
-    index_path = ROOT / "index.json"
-    try:
-        index = json.loads(index_path.read_text(encoding="utf-8"))
-    except (OSError, json.JSONDecodeError) as exc:
-        print(f"index.json: {exc}")
-        return 1
-    if index.get("format") != 1:
-        error("index.json", "format must be 1")
-    sets = index.get("sets")
-    if not isinstance(sets, list):
-        error("index.json", "sets must be a list")
-        sets = []
-    seen: set[str] = set()
-    for entry in sets:
-        check_entry(entry, index_path, seen)
+    check_only = "--check" in sys.argv[1:]
+    text = render(build_index())
+
+    if not errors:
+        if check_only:
+            current = INDEX.read_text(encoding="utf-8") if INDEX.is_file() else ""
+            if current != text:
+                error("index.json", "out of date; run python3 tools/build.py and commit the result")
+        else:
+            INDEX.write_text(text, encoding="utf-8")
 
     for message in errors:
         print(message)
-    print(f"{len(seen)} sets, {len(errors)} errors")
+    sets = len(json.loads(text)["sets"])
+    print(f"{sets} sets, {len(errors)} errors" + ("" if errors or check_only else ", index.json written"))
     return 1 if errors else 0
 
 

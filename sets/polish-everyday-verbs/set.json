@@ -1,0 +1,30 @@
+{
+  "title": {
+    "en": "Polish: everyday verbs",
+    "ru": "Польский: базовые глаголы",
+    "pl": "Podstawowe czasowniki"
+  },
+  "description": {
+    "en": "Fifteen verbs you need first, Polish to Russian.",
+    "ru": "Пятнадцать глаголов, которые нужны в первую очередь.",
+    "pl": "Piętnaście czasowników na początek, po polsku i rosyjsku."
+  },
+  "languages": [
+    "pl",
+    "ru"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "verbs"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "text",
+    "url": "words.txt",
+    "columns": [
+      "pl",
+      "ru"
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "apple",
+          "transcription": "ˈæp.əl",
+          "partOfSpeech": "noun"
+        },
+        "ru": "яблоко",
+        "pl": "jabłko"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "I eat an apple every day.",
+          "translations": {
+            "ru": "Я ем яблоко каждый день.",
+            "pl": "Codziennie jem jabłko."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "banana",
+          "transcription": "bəˈnɑː.nə",
+          "partOfSpeech": "noun"
+        },
+        "ru": "банан",
+        "pl": "banan"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pear",
+          "transcription": "peə",
+          "partOfSpeech": "noun"
+        },
+        "ru": "груша",
+        "pl": "gruszka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "orange",
+          "transcription": "ˈɒr.ɪndʒ",
+          "partOfSpeech": "noun"
+        },
+        "ru": "апельсин",
+        "pl": "pomarańcza"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "Would you like some orange juice?",
+          "translations": {
+            "ru": "Хочешь апельсинового сока?",
+            "pl": "Chcesz soku pomarańczowego?"
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lemon",
+          "transcription": "ˈlem.ən",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лимон",
+        "pl": "cytryna"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "grapes",
+          "transcription": "ɡreɪps",
+          "partOfSpeech": "noun"
+        },
+        "ru": "виноград",
+        "pl": "winogrona"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cherry",
+          "transcription": "ˈtʃer.i",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "вишня",
+          "alternates": [
+            "черешня"
+          ]
+        },
+        "pl": {
+          "text": "wiśnia",
+          "alternates": [
+            "czereśnia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "strawberry",
+          "transcription": "ˈstrɔː.bər.i",
+          "partOfSpeech": "noun"
+        },
+        "ru": "клубника",
+        "pl": "truskawka"
+      },
+      "examples": [
+        {
+          "language": "pl",
+          "text": "Truskawki są najlepsze w czerwcu.",
+          "translations": {
+            "en": "Strawberries are best in June.",
+            "ru": "Клубника лучше всего в июне."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "plum",
+          "transcription": "plʌm",
+          "partOfSpeech": "noun"
+        },
+        "ru": "слива",
+        "pl": "śliwka"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "peach",
+          "transcription": "piːtʃ",
+          "partOfSpeech": "noun"
+        },
+        "ru": "персик",
+        "pl": "brzoskwinia"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "watermelon",
+          "transcription": "ˈwɔː.təˌmel.ən",
+          "partOfSpeech": "noun"
+        },
+        "ru": "арбуз",
+        "pl": "arbuz"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pineapple",
+          "transcription": "ˈpaɪnˌæp.əl",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ананас",
+        "pl": "ananas"
+      }
+    }
+  ]
+}

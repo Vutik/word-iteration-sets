@@ -1,0 +1,28 @@
+{
+  "title": {
+    "en": "In the kitchen",
+    "ru": "На кухне"
+  },
+  "description": {
+    "en": "Cutlery, dishes and what you do with them.",
+    "ru": "Посуда, приборы и что с ними делают."
+  },
+  "languages": [
+    "en",
+    "ru"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "home"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "text",
+    "url": "words.txt",
+    "columns": [
+      "en",
+      "ru"
+    ]
+  }
+}

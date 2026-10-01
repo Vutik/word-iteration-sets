@@ -1,98 +1,103 @@
 # Word Iteration sets
 
-Ready-made word sets for the WordsIteration app, served as static JSON through GitHub Pages:
+Ready-made word sets for the WordsIteration app, served as static files through GitHub Pages:
 
 **https://vutik.github.io/word-iteration-sets/index.json**
 
-The app downloads `index.json`, shows the sets whose languages cover the learner's pair, and imports
-the one the learner picks. Nothing here is compiled; edit the files, push, and Pages republishes in a
-minute or two.
+The app downloads `index.json`, shows the sets whose languages cover the learner's pair, and
+downloads the words of the one the learner picks. Edit the files, rebuild the index, push, and
+Pages republishes in a minute or two.
 
 ## Layout
 
+Every set is its own folder; nothing is kept in one big file.
+
 ```
-index.json                 catalogue of every set
-sets/<id>.json             a set stored in our own format ("json" source)
-sets/<id>.txt              a set stored as a word list ("text" source)
-images/<id>.png            set covers
-tools/check.py             validator, also run by CI on every push
-tools/make_cover.py        draws a gradient cover with a title
+sets/
+  fruits/
+    set.json        what the set is: title, languages, cover, where the words are
+    words.json      the words, in our own format
+    cover.png
+  kitchen-en-ru/
+    set.json
+    words.txt       or the words as a tab-separated list
+    cover.png
+index.json          GENERATED from every sets/*/set.json — do not edit by hand
+tools/build.py      validates every set and writes index.json; CI runs it with --check
+tools/make_cover.py draws a gradient cover with a title
 ```
 
-## URLs
+The folder name is the set's **id**. The app uses it to recognise a set it has already imported,
+so never rename or reuse a folder.
 
-Every `url` and `image` is either **relative to the file it is written in** (resolved like a link on
-a web page: `sets/fruits.json` in `index.json` means
-`https://vutik.github.io/word-iteration-sets/sets/fruits.json`) or an absolute `https://` URL
-somewhere else. Images must be PNG, JPEG, WebP or HEIC; iOS does not draw SVG.
+## Adding a set
 
-## `index.json`
+1. Make `sets/<id>/` (lowercase, kebab-case).
+2. Put the words in `words.json` or `words.txt`, or find a direct link to an `.apkg`.
+3. Write `set.json`.
+4. Optionally draw a cover:
+   `python3 tools/make_cover.py sets/<id>/cover.png "Title" "#FF7A59" "#FFC15E"`.
+5. `python3 tools/build.py` — it must print `0 errors`, and it rewrites `index.json`.
+6. Commit the set folder **and** `index.json`, push.
+
+## `set.json`
 
 ```json
 {
-  "format": 1,
-  "sets": [
-    {
-      "id": "fruits",
-      "title": { "en": "Fruits", "ru": "Фрукты", "pl": "Owoce" },
-      "description": { "en": "Twelve everyday fruits." },
-      "languages": ["en", "ru", "pl"],
-      "image": "images/fruits.png",
-      "level": "A1",
-      "tags": ["food"],
-      "wordCount": 12,
-      "updated": "2026-10-01",
-      "source": { "type": "json", "url": "sets/fruits.json" }
-    }
-  ]
+  "title": { "en": "Fruits", "ru": "Фрукты", "pl": "Owoce" },
+  "description": { "en": "Twelve everyday fruits." },
+  "languages": ["en", "ru", "pl"],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": ["food"],
+  "updated": "2026-10-01",
+  "source": { "type": "json", "url": "words.json" }
 }
 ```
 
 | Field | Required | Meaning |
 |---|---|---|
-| `format` | yes | Format version, currently `1`. The app ignores catalogues with a newer major format. |
-| `id` | yes | Stable kebab-case id. The app uses it to recognise a set it has already imported, so never reuse or rename it. |
-| `title` | yes | Language code → text. `en` is required as the fallback; the app picks the learner's known language when present. |
+| `title` | yes | Language code → text. `en` is required as the fallback; the app shows the learner's own language when present. |
 | `description` | no | Same shape as `title`. |
 | `languages` | yes | ISO 639-1 codes the set contains, at least two. The app offers a set when both languages of the learner's pair are listed. |
-| `image` | no | Cover image, relative or `https://`. |
+| `image` | no | Cover: a file in the folder or an `https://` URL. PNG, JPEG, WebP or HEIC; iOS does not draw SVG. |
 | `level` | no | CEFR level, `A1` … `C2`. |
-| `tags` | no | Free-form strings for filtering. |
-| `wordCount` | no | Shown before download. The validator checks it for `json` and `text` sources. |
-| `updated` | no | `YYYY-MM-DD`; lets the app tell a learner the set changed. |
+| `tags` | no | Free-form strings. |
+| `updated` | no | `YYYY-MM-DD`; bump it when the words change. |
 | `source` | yes | Where the words are, see below. |
+
+URLs in `set.json` are relative to the set folder, or absolute `https://`. In `index.json` the
+build rewrites them relative to the repository root (`sets/fruits/words.json`) and adds `id` and
+`wordCount`.
 
 ### Sources
 
-**`json`**: words in our own format, kept in this repository.
+**`json`** — words in our own format, `words.json` in the set folder:
 
 ```json
-{ "type": "json", "url": "sets/fruits.json" }
+{ "type": "json", "url": "words.json" }
 ```
 
-**`text`**: a word list, one pair per line, the two columns separated by a tab. `columns` names the
-language of each column in order. Inside a cell, commas separate several translations and semicolons
-separate alternate wordings, as in the app's text import.
+**`text`** — one word per line, two cells separated by a tab. `columns` names the language of each
+cell in order. Inside a cell `;` separates wordings that are all accepted (`сковорода;сковородка`):
 
 ```json
-{ "type": "text", "url": "sets/polish-everyday-verbs.txt", "columns": ["pl", "ru"] }
+{ "type": "text", "url": "words.txt", "columns": ["en", "ru"] }
 ```
 
-**`anki`**: an Anki package (`.apkg`), in this repository or a direct `https://` download link
-elsewhere. `deck` optionally picks one deck from a package that holds several. The app maps the note
-fields to `languages` the way its Anki import does.
+**`anki`** — an Anki package (`.apkg`) in the folder or a direct `https://` download link. The set
+has exactly two `languages`, in the order of the note fields: the first field is `languages[0]`,
+the second `languages[1]`. `deck` optionally picks one deck of a package that holds several:
 
 ```json
 { "type": "anki", "url": "https://example.org/decks/polish-1000.apkg", "deck": "Polish 1000" }
 ```
 
-## Set file (`json` source)
+## `words.json`
 
 ```json
 {
   "format": 1,
-  "id": "fruits",
-  "languages": ["en", "ru", "pl"],
   "words": [
     {
       "forms": {
@@ -104,28 +109,32 @@ fields to `languages` the way its Anki import does.
         {
           "language": "en",
           "text": "I eat an apple every day.",
-          "translations": { "ru": "Я ем яблоко каждый день." }
+          "translations": { "ru": "Я ем яблоко каждый день.", "pl": "Codziennie jem jabłko." }
         }
       ],
-      "image": "../images/apple.png"
+      "image": "apple.png"
     }
   ]
 }
 ```
 
-- `id` and `languages` must match the entry in `index.json`.
-- Every word needs a form in every set language. A form is either a plain string or an object with
-  `text` and optional `alternates`, `transcription` and `partOfSpeech`.
-- `examples` and `image` are optional. A word's `image` is relative to the set file.
+- Every word needs a form in every language of the set. A form is a plain string, or an object
+  with `text` and optional `alternates` (also accepted as answers), `transcription` and
+  `partOfSpeech`.
+- `examples` and `image` (relative to the set folder, or `https://`) are optional. A word without
+  an image gets one the usual way after import.
 
-One word carries all its languages, so a single set serves every pair it covers: the `fruits` set
-trains en↔ru, en↔pl and ru↔pl.
+One word carries all its languages, so one set serves every pair it covers: `fruits` trains
+en↔ru, en↔pl and ru↔pl.
 
-## Adding a set
+## Sets
 
-1. Put the words in `sets/<id>.json` or `sets/<id>.txt`, or find a direct link to an `.apkg`.
-2. Optionally draw a cover:
-   `python3 tools/make_cover.py images/<id>.png "Title" "#FF7A59" "#FFC15E"`.
-3. Add an entry to `index.json`.
-4. Run `python3 tools/check.py`; it must print `0 errors`.
-5. Commit and push.
+| id | Languages | Source | Words |
+|---|---|---|---|
+| `fruits` | en ru pl | json | 12 |
+| `family` | en ru pl | json | 15 |
+| `colors` | en ru pl | json | 11 |
+| `travel-en-ru` | en ru | json | 18 |
+| `kitchen-en-ru` | en ru | text | 15 |
+| `city-pl-ru` | pl ru | json | 17 |
+| `polish-everyday-verbs` | pl ru | text | 15 |

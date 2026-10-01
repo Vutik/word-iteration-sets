@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Family",
+    "ru": "Семья",
+    "pl": "Rodzina"
+  },
+  "description": {
+    "en": "Parents, children, grandparents and the rest of the family.",
+    "ru": "Родители, дети, бабушки, дедушки и остальная родня.",
+    "pl": "Rodzice, dzieci, dziadkowie i reszta rodziny."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "people"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "title": {
+    "en": "Colours",
+    "ru": "Цвета",
+    "pl": "Kolory"
+  },
+  "description": {
+    "en": "The eleven basic colours.",
+    "ru": "Одиннадцать основных цветов.",
+    "pl": "Jedenaście podstawowych kolorów."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "adjectives"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

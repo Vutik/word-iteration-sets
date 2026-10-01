@@ -2,6 +2,92 @@
   "format": 1,
   "sets": [
     {
+      "id": "city-pl-ru",
+      "title": {
+        "en": "Polish: in the city",
+        "ru": "Польский: в городе",
+        "pl": "W mieście"
+      },
+      "description": {
+        "en": "Streets, shops and places around town, Polish to Russian.",
+        "ru": "Улицы, магазины и места в городе.",
+        "pl": "Ulice, sklepy i miejsca w mieście, po polsku i rosyjsku."
+      },
+      "languages": [
+        "pl",
+        "ru"
+      ],
+      "image": "sets/city-pl-ru/cover.png",
+      "level": "A1",
+      "tags": [
+        "city"
+      ],
+      "wordCount": 17,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/city-pl-ru/words.json"
+      }
+    },
+    {
+      "id": "colors",
+      "title": {
+        "en": "Colours",
+        "ru": "Цвета",
+        "pl": "Kolory"
+      },
+      "description": {
+        "en": "The eleven basic colours.",
+        "ru": "Одиннадцать основных цветов.",
+        "pl": "Jedenaście podstawowych kolorów."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/colors/cover.png",
+      "level": "A1",
+      "tags": [
+        "adjectives"
+      ],
+      "wordCount": 11,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/colors/words.json"
+      }
+    },
+    {
+      "id": "family",
+      "title": {
+        "en": "Family",
+        "ru": "Семья",
+        "pl": "Rodzina"
+      },
+      "description": {
+        "en": "Parents, children, grandparents and the rest of the family.",
+        "ru": "Родители, дети, бабушки, дедушки и остальная родня.",
+        "pl": "Rodzice, dzieci, dziadkowie i reszta rodziny."
+      },
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/family/cover.png",
+      "level": "A1",
+      "tags": [
+        "people"
+      ],
+      "wordCount": 15,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/family/words.json"
+      }
+    },
+    {
       "id": "fruits",
       "title": {
         "en": "Fruits",
@@ -13,15 +99,51 @@
         "ru": "Двенадцать привычных фруктов с транскрипцией и примерами.",
         "pl": "Dwanaście popularnych owoców z wymową i przykładami."
       },
-      "languages": ["en", "ru", "pl"],
-      "image": "images/fruits.png",
+      "languages": [
+        "en",
+        "ru",
+        "pl"
+      ],
+      "image": "sets/fruits/cover.png",
       "level": "A1",
-      "tags": ["food"],
+      "tags": [
+        "food"
+      ],
       "wordCount": 12,
       "updated": "2026-10-01",
       "source": {
         "type": "json",
-        "url": "sets/fruits.json"
+        "url": "sets/fruits/words.json"
+      }
+    },
+    {
+      "id": "kitchen-en-ru",
+      "title": {
+        "en": "In the kitchen",
+        "ru": "На кухне"
+      },
+      "description": {
+        "en": "Cutlery, dishes and what you do with them.",
+        "ru": "Посуда, приборы и что с ними делают."
+      },
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "image": "sets/kitchen-en-ru/cover.png",
+      "level": "A2",
+      "tags": [
+        "home"
+      ],
+      "wordCount": 15,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "text",
+        "url": "sets/kitchen-en-ru/words.txt",
+        "columns": [
+          "en",
+          "ru"
+        ]
       }
     },
     {
@@ -36,16 +158,50 @@
         "ru": "Пятнадцать глаголов, которые нужны в первую очередь.",
         "pl": "Piętnaście czasowników na początek, po polsku i rosyjsku."
       },
-      "languages": ["pl", "ru"],
-      "image": "images/polish-everyday-verbs.png",
+      "languages": [
+        "pl",
+        "ru"
+      ],
+      "image": "sets/polish-everyday-verbs/cover.png",
       "level": "A1",
-      "tags": ["verbs"],
+      "tags": [
+        "verbs"
+      ],
       "wordCount": 15,
       "updated": "2026-10-01",
       "source": {
         "type": "text",
-        "url": "sets/polish-everyday-verbs.txt",
-        "columns": ["pl", "ru"]
+        "url": "sets/polish-everyday-verbs/words.txt",
+        "columns": [
+          "pl",
+          "ru"
+        ]
+      }
+    },
+    {
+      "id": "travel-en-ru",
+      "title": {
+        "en": "Travel",
+        "ru": "Путешествия"
+      },
+      "description": {
+        "en": "Airports, stations and hotels.",
+        "ru": "Аэропорт, вокзал и гостиница."
+      },
+      "languages": [
+        "en",
+        "ru"
+      ],
+      "image": "sets/travel-en-ru/cover.png",
+      "level": "A2",
+      "tags": [
+        "travel"
+      ],
+      "wordCount": 18,
+      "updated": "2026-10-01",
+      "source": {
+        "type": "json",
+        "url": "sets/travel-en-ru/words.json"
       }
     }
   ]

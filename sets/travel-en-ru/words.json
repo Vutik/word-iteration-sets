@@ -1,0 +1,247 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "airport",
+          "transcription": "ˈeə.pɔːt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "аэропорт"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ticket",
+          "transcription": "ˈtɪk.ɪt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "билет"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "I bought a ticket to London.",
+          "translations": {
+            "ru": "Я купил билет в Лондон."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "passport",
+          "transcription": "ˈpɑːs.pɔːt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "паспорт"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "luggage",
+          "transcription": "ˈlʌɡ.ɪdʒ",
+          "partOfSpeech": "noun"
+        },
+        "ru": "багаж"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "suitcase",
+          "transcription": "ˈsuːt.keɪs",
+          "partOfSpeech": "noun"
+        },
+        "ru": "чемодан"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "train",
+          "transcription": "treɪn",
+          "partOfSpeech": "noun"
+        },
+        "ru": "поезд"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "station",
+          "transcription": "ˈsteɪ.ʃən",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "вокзал",
+          "alternates": [
+            "станция"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "platform",
+          "transcription": "ˈplæt.fɔːm",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "платформа",
+          "alternates": [
+            "перрон"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "flight",
+          "transcription": "flaɪt",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "рейс",
+          "alternates": [
+            "полёт"
+          ]
+        }
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "Our flight is delayed by two hours.",
+          "translations": {
+            "ru": "Наш рейс задерживается на два часа."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hotel",
+          "transcription": "həʊˈtel",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "гостиница",
+          "alternates": [
+            "отель"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "reservation",
+          "transcription": "ˌrez.əˈveɪ.ʃən",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "бронирование",
+          "alternates": [
+            "бронь"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "map",
+          "transcription": "mæp",
+          "partOfSpeech": "noun"
+        },
+        "ru": "карта"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "departure",
+          "transcription": "dɪˈpɑː.tʃər",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "отправление",
+          "alternates": [
+            "вылет"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "arrival",
+          "transcription": "əˈraɪ.vəl",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "прибытие",
+          "alternates": [
+            "прилёт"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "customs",
+          "transcription": "ˈkʌs.təmz",
+          "partOfSpeech": "noun"
+        },
+        "ru": "таможня"
+      },
+      "examples": [
+        {
+          "language": "en",
+          "text": "We went through customs quickly.",
+          "translations": {
+            "ru": "Мы быстро прошли таможню."
+          }
+        }
+      ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "delay",
+          "transcription": "dɪˈleɪ",
+          "partOfSpeech": "noun"
+        },
+        "ru": "задержка"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "boarding pass",
+          "transcription": "ˈbɔː.dɪŋ ˌpɑːs",
+          "partOfSpeech": "noun"
+        },
+        "ru": "посадочный талон"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to travel",
+          "transcription": "ˈtræv.əl",
+          "partOfSpeech": "verb"
+        },
+        "ru": "путешествовать"
+      }
+    }
+  ]
+}
