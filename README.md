@@ -87,7 +87,8 @@ cell in order. Inside a cell `;` separates wordings that are all accepted (`ск
 
 **`anki`** — an Anki package (`.apkg`) in the folder or a direct `https://` download link. The set
 has exactly two `languages`, in the order of the note fields: the first field is `languages[0]`,
-the second `languages[1]`. `deck` optionally picks one deck of a package that holds several:
+the second `languages[1]`. `deck` optionally picks one deck of a package that holds several,
+with the decks nested in it; a nested deck is written `Parent / Child`:
 
 ```json
 { "type": "anki", "url": "https://example.org/decks/polish-1000.apkg", "deck": "Polish 1000" }
