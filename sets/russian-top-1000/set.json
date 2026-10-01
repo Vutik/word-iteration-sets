@@ -1,0 +1,26 @@
+{
+  "title": {
+    "en": "Russian: top 1000 words",
+    "ru": "1000 самых частых слов"
+  },
+  "description": {
+    "en": "The thousand most frequent Russian words, with stress marks. Anki deck by Carter Spreen (github.com/carterspreen/anki-russian), data from OpenRussian.org under CC BY-SA 4.0.",
+    "ru": "Тысяча самых частых русских слов с ударениями. Колода Anki Картера Сприна (github.com/carterspreen/anki-russian), данные OpenRussian.org по лицензии CC BY-SA 4.0."
+  },
+  "languages": [
+    "ru",
+    "en"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "frequency",
+    "anki"
+  ],
+  "updated": "2026-10-01",
+  "source": {
+    "type": "anki",
+    "url": "https://raw.githubusercontent.com/carterspreen/anki-russian/bc234800b938afdb44893bdd9fff11a348848173/anki-russian.apkg",
+    "deck": "anki-russian / 1-1000"
+  }
+}

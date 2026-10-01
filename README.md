@@ -168,3 +168,4 @@ en↔ru, en↔pl and ru↔pl.
 | `education` | en ru pl | json | 21 |
 | `linking-words` | en ru pl | json | 20 |
 | `house-and-chores` | en ru pl | json | 22 |
+| `russian-top-1000` | ru en | anki (carterspreen/anki-russian, CC BY-SA) | 999 |
