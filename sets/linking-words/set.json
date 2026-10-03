@@ -2,24 +2,39 @@
   "title": {
     "en": "Linking words",
     "ru": "Связующие слова",
-    "pl": "Wyrazy łączące"
+    "pl": "Wyrazy łączące",
+    "uk": "Сполучні слова",
+    "de": "Bindewörter",
+    "es": "Palabras de enlace",
+    "fr": "Mots de liaison",
+    "it": "Parole di collegamento"
   },
   "description": {
     "en": "Words that join ideas: because, however, although.",
     "ru": "Слова, которые связывают мысли: потому что, однако, хотя.",
-    "pl": "Słowa łączące myśli: bo, jednak, chociaż."
+    "pl": "Słowa łączące myśli: bo, jednak, chociaż.",
+    "uk": "Слова, що зв'язують думки: тому що, проте, хоча.",
+    "de": "Wörter, die Gedanken verbinden: weil, jedoch, obwohl.",
+    "es": "Palabras que unen ideas: porque, sin embargo, aunque.",
+    "fr": "Des mots qui relient les idées : parce que, cependant, bien que.",
+    "it": "Parole che collegano le idee: perché, tuttavia, sebbene."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "B1",
   "tags": [
     "grammar"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

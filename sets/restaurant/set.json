@@ -2,17 +2,32 @@
   "title": {
     "en": "At the restaurant",
     "ru": "В ресторане",
-    "pl": "W restauracji"
+    "pl": "W restauracji",
+    "uk": "У ресторані",
+    "de": "Im Restaurant",
+    "es": "En el restaurante",
+    "fr": "Au restaurant",
+    "it": "Al ristorante"
   },
   "description": {
     "en": "Ordering, eating out and paying the bill.",
     "ru": "Заказ, еда вне дома и счёт.",
-    "pl": "Zamawianie, jedzenie na mieście i rachunek."
+    "pl": "Zamawianie, jedzenie na mieście i rachunek.",
+    "uk": "Замовлення, їжа поза домом і рахунок.",
+    "de": "Bestellen, auswärts essen und die Rechnung bezahlen.",
+    "es": "Pedir, comer fuera y pagar la cuenta.",
+    "fr": "Commander, manger au restaurant et payer l'addition.",
+    "it": "Ordinare, mangiare fuori e pagare il conto."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A2",
@@ -20,7 +35,7 @@
     "food",
     "travel"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

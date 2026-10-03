@@ -8,7 +8,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "школа",
-        "pl": "szkoła"
+        "pl": "szkoła",
+        "uk": "школа",
+        "de": {
+          "text": "die Schule",
+          "alternates": [
+            "Schule"
+          ]
+        },
+        "es": {
+          "text": "la escuela",
+          "alternates": [
+            "escuela",
+            "el colegio"
+          ]
+        },
+        "fr": {
+          "text": "l'école",
+          "alternates": [
+            "école"
+          ]
+        },
+        "it": {
+          "text": "la scuola",
+          "alternates": [
+            "scuola"
+          ]
+        }
       }
     },
     {
@@ -18,7 +44,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "учитель",
-        "pl": "nauczyciel"
+        "pl": "nauczyciel",
+        "uk": "учитель",
+        "de": {
+          "text": "der Lehrer",
+          "alternates": [
+            "Lehrer"
+          ]
+        },
+        "es": {
+          "text": "el profesor",
+          "alternates": [
+            "profesor",
+            "el maestro"
+          ]
+        },
+        "fr": {
+          "text": "le professeur",
+          "alternates": [
+            "professeur",
+            "l'enseignant"
+          ]
+        },
+        "it": {
+          "text": "l'insegnante",
+          "alternates": [
+            "insegnante",
+            "il maestro",
+            "il professore"
+          ]
+        }
       }
     },
     {
@@ -31,7 +86,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "ученик",
-        "pl": "uczeń"
+        "pl": "uczeń",
+        "uk": "учень",
+        "de": {
+          "text": "der Schüler",
+          "alternates": [
+            "Schüler"
+          ]
+        },
+        "es": {
+          "text": "el alumno",
+          "alternates": [
+            "alumno",
+            "el estudiante"
+          ]
+        },
+        "fr": {
+          "text": "l'élève",
+          "alternates": [
+            "élève"
+          ]
+        },
+        "it": {
+          "text": "l'alunno",
+          "alternates": [
+            "alunno",
+            "lo studente"
+          ]
+        }
       }
     },
     {
@@ -41,7 +123,35 @@
           "partOfSpeech": "noun"
         },
         "ru": "урок",
-        "pl": "lekcja"
+        "pl": "lekcja",
+        "uk": "урок",
+        "de": {
+          "text": "die Stunde",
+          "alternates": [
+            "Stunde",
+            "die Unterrichtsstunde"
+          ]
+        },
+        "es": {
+          "text": "la clase",
+          "alternates": [
+            "clase",
+            "la lección"
+          ]
+        },
+        "fr": {
+          "text": "le cours",
+          "alternates": [
+            "cours",
+            "la leçon"
+          ]
+        },
+        "it": {
+          "text": "la lezione",
+          "alternates": [
+            "lezione"
+          ]
+        }
       }
     },
     {
@@ -56,6 +166,34 @@
           "alternates": [
             "zadanie domowe"
           ]
+        },
+        "uk": "домашнє завдання",
+        "de": {
+          "text": "die Hausaufgabe",
+          "alternates": [
+            "Hausaufgabe",
+            "die Hausaufgaben",
+            "Hausaufgaben"
+          ]
+        },
+        "es": {
+          "text": "los deberes",
+          "alternates": [
+            "deberes",
+            "la tarea"
+          ]
+        },
+        "fr": {
+          "text": "les devoirs",
+          "alternates": [
+            "devoirs"
+          ]
+        },
+        "it": {
+          "text": "i compiti",
+          "alternates": [
+            "compiti"
+          ]
         }
       },
       "examples": [
@@ -64,7 +202,12 @@
           "text": "Did you do your homework?",
           "translations": {
             "ru": "Ты сделал домашнее задание?",
-            "pl": "Odrobiłeś pracę domową?"
+            "pl": "Odrobiłeś pracę domową?",
+            "uk": "Ти зробив домашнє завдання?",
+            "de": "Hast du deine Hausaufgaben gemacht?",
+            "es": "¿Hiciste los deberes?",
+            "fr": "Tu as fait tes devoirs ?",
+            "it": "Hai fatto i compiti?"
           }
         }
       ]
@@ -76,7 +219,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "книга",
-        "pl": "książka"
+        "pl": "książka",
+        "uk": "книга",
+        "de": {
+          "text": "das Buch",
+          "alternates": [
+            "Buch"
+          ]
+        },
+        "es": {
+          "text": "el libro",
+          "alternates": [
+            "libro"
+          ]
+        },
+        "fr": {
+          "text": "le livre",
+          "alternates": [
+            "livre"
+          ]
+        },
+        "it": {
+          "text": "il libro",
+          "alternates": [
+            "libro"
+          ]
+        }
       }
     },
     {
@@ -86,7 +254,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "тетрадь",
-        "pl": "zeszyt"
+        "pl": "zeszyt",
+        "uk": "зошит",
+        "de": {
+          "text": "das Heft",
+          "alternates": [
+            "Heft"
+          ]
+        },
+        "es": {
+          "text": "el cuaderno",
+          "alternates": [
+            "cuaderno"
+          ]
+        },
+        "fr": {
+          "text": "le cahier",
+          "alternates": [
+            "cahier"
+          ]
+        },
+        "it": {
+          "text": "il quaderno",
+          "alternates": [
+            "quaderno"
+          ]
+        }
       }
     },
     {
@@ -96,7 +289,35 @@
           "partOfSpeech": "noun"
         },
         "ru": "ручка",
-        "pl": "długopis"
+        "pl": "długopis",
+        "uk": "ручка",
+        "de": {
+          "text": "der Kugelschreiber",
+          "alternates": [
+            "Kugelschreiber",
+            "der Kuli",
+            "Kuli"
+          ]
+        },
+        "es": {
+          "text": "el bolígrafo",
+          "alternates": [
+            "bolígrafo",
+            "el boli"
+          ]
+        },
+        "fr": {
+          "text": "le stylo",
+          "alternates": [
+            "stylo"
+          ]
+        },
+        "it": {
+          "text": "la penna",
+          "alternates": [
+            "penna"
+          ]
+        }
       }
     },
     {
@@ -106,7 +327,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "карандаш",
-        "pl": "ołówek"
+        "pl": "ołówek",
+        "uk": "олівець",
+        "de": {
+          "text": "der Bleistift",
+          "alternates": [
+            "Bleistift"
+          ]
+        },
+        "es": {
+          "text": "el lápiz",
+          "alternates": [
+            "lápiz"
+          ]
+        },
+        "fr": {
+          "text": "le crayon",
+          "alternates": [
+            "crayon"
+          ]
+        },
+        "it": {
+          "text": "la matita",
+          "alternates": [
+            "matita"
+          ]
+        }
       }
     },
     {
@@ -126,6 +372,40 @@
           "alternates": [
             "biurko"
           ]
+        },
+        "uk": {
+          "text": "парта",
+          "alternates": [
+            "письмовий стіл"
+          ]
+        },
+        "de": {
+          "text": "der Schreibtisch",
+          "alternates": [
+            "Schreibtisch",
+            "die Schulbank"
+          ]
+        },
+        "es": {
+          "text": "el pupitre",
+          "alternates": [
+            "pupitre",
+            "el escritorio"
+          ]
+        },
+        "fr": {
+          "text": "le bureau",
+          "alternates": [
+            "bureau",
+            "le pupitre"
+          ]
+        },
+        "it": {
+          "text": "il banco",
+          "alternates": [
+            "banco",
+            "la scrivania"
+          ]
         }
       }
     },
@@ -136,7 +416,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "доска",
-        "pl": "tablica"
+        "pl": "tablica",
+        "uk": "дошка",
+        "de": {
+          "text": "die Tafel",
+          "alternates": [
+            "Tafel"
+          ]
+        },
+        "es": {
+          "text": "la pizarra",
+          "alternates": [
+            "pizarra"
+          ]
+        },
+        "fr": {
+          "text": "le tableau",
+          "alternates": [
+            "tableau"
+          ]
+        },
+        "it": {
+          "text": "la lavagna",
+          "alternates": [
+            "lavagna"
+          ]
+        }
       }
     },
     {
@@ -146,7 +451,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "словарь",
-        "pl": "słownik"
+        "pl": "słownik",
+        "uk": "словник",
+        "de": {
+          "text": "das Wörterbuch",
+          "alternates": [
+            "Wörterbuch"
+          ]
+        },
+        "es": {
+          "text": "el diccionario",
+          "alternates": [
+            "diccionario"
+          ]
+        },
+        "fr": {
+          "text": "le dictionnaire",
+          "alternates": [
+            "dictionnaire"
+          ]
+        },
+        "it": {
+          "text": "il dizionario",
+          "alternates": [
+            "dizionario"
+          ]
+        }
       }
     },
     {
@@ -156,7 +486,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "экзамен",
-        "pl": "egzamin"
+        "pl": "egzamin",
+        "uk": "іспит",
+        "de": {
+          "text": "die Prüfung",
+          "alternates": [
+            "Prüfung",
+            "das Examen"
+          ]
+        },
+        "es": {
+          "text": "el examen",
+          "alternates": [
+            "examen"
+          ]
+        },
+        "fr": {
+          "text": "l'examen",
+          "alternates": [
+            "examen"
+          ]
+        },
+        "it": {
+          "text": "l'esame",
+          "alternates": [
+            "esame"
+          ]
+        }
       }
     },
     {
@@ -166,7 +522,35 @@
           "partOfSpeech": "noun"
         },
         "ru": "ошибка",
-        "pl": "błąd"
+        "pl": "błąd",
+        "uk": "помилка",
+        "de": {
+          "text": "der Fehler",
+          "alternates": [
+            "Fehler"
+          ]
+        },
+        "es": {
+          "text": "el error",
+          "alternates": [
+            "error",
+            "la falta"
+          ]
+        },
+        "fr": {
+          "text": "l'erreur",
+          "alternates": [
+            "erreur",
+            "la faute"
+          ]
+        },
+        "it": {
+          "text": "l'errore",
+          "alternates": [
+            "errore",
+            "lo sbaglio"
+          ]
+        }
       }
     },
     {
@@ -179,7 +563,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "математика",
-        "pl": "matematyka"
+        "pl": "matematyka",
+        "uk": "математика",
+        "de": {
+          "text": "die Mathematik",
+          "alternates": [
+            "Mathematik",
+            "die Mathe",
+            "Mathe"
+          ]
+        },
+        "es": {
+          "text": "las matemáticas",
+          "alternates": [
+            "matemáticas"
+          ]
+        },
+        "fr": {
+          "text": "les mathématiques",
+          "alternates": [
+            "mathématiques",
+            "les maths",
+            "maths"
+          ]
+        },
+        "it": {
+          "text": "la matematica",
+          "alternates": [
+            "matematica"
+          ]
+        }
       }
     },
     {
@@ -189,7 +602,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "история",
-        "pl": "historia"
+        "pl": "historia",
+        "uk": "історія",
+        "de": {
+          "text": "die Geschichte",
+          "alternates": [
+            "Geschichte"
+          ]
+        },
+        "es": {
+          "text": "la historia",
+          "alternates": [
+            "historia"
+          ]
+        },
+        "fr": {
+          "text": "l'histoire",
+          "alternates": [
+            "histoire"
+          ]
+        },
+        "it": {
+          "text": "la storia",
+          "alternates": [
+            "storia"
+          ]
+        }
       }
     },
     {
@@ -199,7 +637,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "география",
-        "pl": "geografia"
+        "pl": "geografia",
+        "uk": "географія",
+        "de": {
+          "text": "die Geografie",
+          "alternates": [
+            "Geografie",
+            "die Geographie",
+            "Geographie"
+          ]
+        },
+        "es": {
+          "text": "la geografía",
+          "alternates": [
+            "geografía"
+          ]
+        },
+        "fr": {
+          "text": "la géographie",
+          "alternates": [
+            "géographie"
+          ]
+        },
+        "it": {
+          "text": "la geografia",
+          "alternates": [
+            "geografia"
+          ]
+        }
       }
     },
     {
@@ -214,7 +679,32 @@
             "изучать"
           ]
         },
-        "pl": "uczyć się"
+        "pl": "uczyć się",
+        "uk": {
+          "text": "вчити",
+          "alternates": [
+            "вивчати"
+          ]
+        },
+        "de": "lernen",
+        "es": {
+          "text": "aprender",
+          "alternates": [
+            "estudiar"
+          ]
+        },
+        "fr": {
+          "text": "apprendre",
+          "alternates": [
+            "étudier"
+          ]
+        },
+        "it": {
+          "text": "imparare",
+          "alternates": [
+            "studiare"
+          ]
+        }
       }
     },
     {
@@ -224,7 +714,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "читать",
-        "pl": "czytać"
+        "pl": "czytać",
+        "uk": "читати",
+        "de": "lesen",
+        "es": "leer",
+        "fr": "lire",
+        "it": "leggere"
       }
     },
     {
@@ -234,7 +729,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "писать",
-        "pl": "pisać"
+        "pl": "pisać",
+        "uk": "писати",
+        "de": "schreiben",
+        "es": "escribir",
+        "fr": "écrire",
+        "it": "scrivere"
       }
     }
   ]

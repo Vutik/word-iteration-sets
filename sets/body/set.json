@@ -2,17 +2,32 @@
   "title": {
     "en": "The body",
     "ru": "Тело",
-    "pl": "Ciało"
+    "pl": "Ciało",
+    "uk": "Тіло",
+    "de": "Der Körper",
+    "es": "El cuerpo",
+    "fr": "Le corps",
+    "it": "Il corpo"
   },
   "description": {
     "en": "Head, hands, feet and everything in between.",
     "ru": "Голова, руки, ноги и всё, что между ними.",
-    "pl": "Głowa, ręce, nogi i wszystko pomiędzy."
+    "pl": "Głowa, ręce, nogi i wszystko pomiędzy.",
+    "uk": "Голова, руки, ноги й усе, що між ними.",
+    "de": "Kopf, Hände, Füße und alles dazwischen.",
+    "es": "La cabeza, las manos, los pies y todo lo que hay entre medias.",
+    "fr": "La tête, les mains, les pieds et tout ce qu'il y a entre les deux.",
+    "it": "Testa, mani, piedi e tutto quello che c'è in mezzo."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
@@ -20,7 +35,7 @@
     "people",
     "body"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

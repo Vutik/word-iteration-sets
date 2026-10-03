@@ -2,17 +2,32 @@
   "title": {
     "en": "Media and news",
     "ru": "СМИ и новости",
-    "pl": "Media i wiadomości"
+    "pl": "Media i wiadomości",
+    "uk": "ЗМІ та новини",
+    "de": "Medien und Nachrichten",
+    "es": "Medios y noticias",
+    "fr": "Médias et actualités",
+    "it": "Media e notizie"
   },
   "description": {
     "en": "Newspapers, TV and how news is made.",
     "ru": "Газеты, телевидение и как делаются новости.",
-    "pl": "Gazety, telewizja i jak powstają wiadomości."
+    "pl": "Gazety, telewizja i jak powstają wiadomości.",
+    "uk": "Газети, телебачення і як роблять новини.",
+    "de": "Zeitungen, Fernsehen und wie Nachrichten entstehen.",
+    "es": "Periódicos, televisión y cómo se hacen las noticias.",
+    "fr": "Journaux, télévision et fabrication de l'information.",
+    "it": "Giornali, televisione e come nascono le notizie."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "B1",
@@ -20,7 +35,7 @@
     "society",
     "media"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

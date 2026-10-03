@@ -2,24 +2,39 @@
   "title": {
     "en": "Work and office",
     "ru": "Работа и офис",
-    "pl": "Praca i biuro"
+    "pl": "Praca i biuro",
+    "uk": "Робота й офіс",
+    "de": "Arbeit und Büro",
+    "es": "Trabajo y oficina",
+    "fr": "Travail et bureau",
+    "it": "Lavoro e ufficio"
   },
   "description": {
     "en": "Jobs, meetings, colleagues and contracts.",
     "ru": "Работа, встречи, коллеги и договоры.",
-    "pl": "Praca, spotkania, współpracownicy i umowy."
+    "pl": "Praca, spotkania, współpracownicy i umowy.",
+    "uk": "Робота, зустрічі, колеги та договори.",
+    "de": "Jobs, Besprechungen, Kollegen und Verträge.",
+    "es": "Empleos, reuniones, compañeros y contratos.",
+    "fr": "Emplois, réunions, collègues et contrats.",
+    "it": "Lavori, riunioni, colleghi e contratti."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "B1",
   "tags": [
     "work"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

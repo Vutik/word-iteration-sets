@@ -8,7 +8,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "университет",
-        "pl": "uniwersytet"
+        "pl": "uniwersytet",
+        "uk": "університет",
+        "de": {
+          "text": "die Universität",
+          "alternates": [
+            "Universität"
+          ]
+        },
+        "es": {
+          "text": "la universidad",
+          "alternates": [
+            "universidad"
+          ]
+        },
+        "fr": {
+          "text": "l'université",
+          "alternates": [
+            "université"
+          ]
+        },
+        "it": {
+          "text": "l'università",
+          "alternates": [
+            "università"
+          ]
+        }
       }
     },
     {
@@ -18,7 +43,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "студент",
-        "pl": "student"
+        "pl": "student",
+        "uk": "студент",
+        "de": {
+          "text": "der Student",
+          "alternates": [
+            "Student"
+          ]
+        },
+        "es": {
+          "text": "el estudiante",
+          "alternates": [
+            "estudiante"
+          ]
+        },
+        "fr": {
+          "text": "l'étudiant",
+          "alternates": [
+            "étudiant"
+          ]
+        },
+        "it": {
+          "text": "lo studente",
+          "alternates": [
+            "studente"
+          ]
+        }
       }
     },
     {
@@ -28,7 +78,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "лекция",
-        "pl": "wykład"
+        "pl": "wykład",
+        "uk": "лекція",
+        "de": {
+          "text": "die Vorlesung",
+          "alternates": [
+            "Vorlesung"
+          ]
+        },
+        "es": {
+          "text": "la conferencia",
+          "alternates": [
+            "conferencia",
+            "la clase magistral",
+            "clase magistral"
+          ]
+        },
+        "fr": {
+          "text": "le cours magistral",
+          "alternates": [
+            "cours magistral",
+            "la conférence",
+            "conférence"
+          ]
+        },
+        "it": {
+          "text": "la lezione",
+          "alternates": [
+            "lezione"
+          ]
+        }
       }
     },
     {
@@ -38,7 +117,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "преподаватель",
-        "pl": "wykładowca"
+        "pl": "wykładowca",
+        "uk": "викладач",
+        "de": {
+          "text": "der Dozent",
+          "alternates": [
+            "Dozent"
+          ]
+        },
+        "es": {
+          "text": "el profesor",
+          "alternates": [
+            "profesor",
+            "el docente",
+            "docente"
+          ]
+        },
+        "fr": {
+          "text": "le professeur",
+          "alternates": [
+            "professeur",
+            "l'enseignant",
+            "enseignant"
+          ]
+        },
+        "it": {
+          "text": "il docente",
+          "alternates": [
+            "docente",
+            "il professore",
+            "professore"
+          ]
+        }
       }
     },
     {
@@ -48,7 +158,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "курс",
-        "pl": "kurs"
+        "pl": "kurs",
+        "uk": "курс",
+        "de": {
+          "text": "der Kurs",
+          "alternates": [
+            "Kurs"
+          ]
+        },
+        "es": {
+          "text": "el curso",
+          "alternates": [
+            "curso"
+          ]
+        },
+        "fr": {
+          "text": "le cours",
+          "alternates": [
+            "cours",
+            "la formation",
+            "formation"
+          ]
+        },
+        "it": {
+          "text": "il corso",
+          "alternates": [
+            "corso"
+          ]
+        }
       }
     },
     {
@@ -58,7 +195,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "предмет",
-        "pl": "przedmiot"
+        "pl": "przedmiot",
+        "uk": "предмет",
+        "de": {
+          "text": "das Fach",
+          "alternates": [
+            "Fach"
+          ]
+        },
+        "es": {
+          "text": "la asignatura",
+          "alternates": [
+            "asignatura",
+            "la materia",
+            "materia"
+          ]
+        },
+        "fr": {
+          "text": "la matière",
+          "alternates": [
+            "matière"
+          ]
+        },
+        "it": {
+          "text": "la materia",
+          "alternates": [
+            "materia"
+          ]
+        }
       }
     },
     {
@@ -78,6 +242,40 @@
           "alternates": [
             "dyplom"
           ]
+        },
+        "uk": {
+          "text": "ступінь",
+          "alternates": [
+            "диплом"
+          ]
+        },
+        "de": {
+          "text": "der Abschluss",
+          "alternates": [
+            "Abschluss",
+            "das Diplom",
+            "Diplom"
+          ]
+        },
+        "es": {
+          "text": "el título",
+          "alternates": [
+            "título"
+          ]
+        },
+        "fr": {
+          "text": "le diplôme",
+          "alternates": [
+            "diplôme"
+          ]
+        },
+        "it": {
+          "text": "la laurea",
+          "alternates": [
+            "laurea",
+            "il titolo di studio",
+            "titolo di studio"
+          ]
         }
       }
     },
@@ -88,7 +286,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "знания",
-        "pl": "wiedza"
+        "pl": "wiedza",
+        "uk": "знання",
+        "de": {
+          "text": "das Wissen",
+          "alternates": [
+            "Wissen"
+          ]
+        },
+        "es": {
+          "text": "los conocimientos",
+          "alternates": [
+            "conocimientos"
+          ]
+        },
+        "fr": {
+          "text": "les connaissances",
+          "alternates": [
+            "connaissances"
+          ]
+        },
+        "it": {
+          "text": "la conoscenza",
+          "alternates": [
+            "conoscenza",
+            "le conoscenze",
+            "conoscenze"
+          ]
+        }
       }
     },
     {
@@ -98,7 +323,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "исследование",
-        "pl": "badania"
+        "pl": "badania",
+        "uk": "дослідження",
+        "de": {
+          "text": "die Forschung",
+          "alternates": [
+            "Forschung"
+          ]
+        },
+        "es": {
+          "text": "la investigación",
+          "alternates": [
+            "investigación"
+          ]
+        },
+        "fr": {
+          "text": "la recherche",
+          "alternates": [
+            "recherche"
+          ]
+        },
+        "it": {
+          "text": "la ricerca",
+          "alternates": [
+            "ricerca"
+          ]
+        }
       }
     },
     {
@@ -118,6 +368,44 @@
           "alternates": [
             "wypracowanie"
           ]
+        },
+        "uk": {
+          "text": "есе",
+          "alternates": [
+            "твір"
+          ]
+        },
+        "de": {
+          "text": "der Aufsatz",
+          "alternates": [
+            "Aufsatz",
+            "das Essay",
+            "Essay"
+          ]
+        },
+        "es": {
+          "text": "el ensayo",
+          "alternates": [
+            "ensayo",
+            "la redacción",
+            "redacción"
+          ]
+        },
+        "fr": {
+          "text": "l'essai",
+          "alternates": [
+            "essai",
+            "la dissertation",
+            "dissertation"
+          ]
+        },
+        "it": {
+          "text": "il saggio",
+          "alternates": [
+            "saggio",
+            "il tema",
+            "tema"
+          ]
         }
       }
     },
@@ -136,6 +424,33 @@
           "alternates": [
             "stopień"
           ]
+        },
+        "uk": "оцінка",
+        "de": {
+          "text": "die Note",
+          "alternates": [
+            "Note"
+          ]
+        },
+        "es": {
+          "text": "la nota",
+          "alternates": [
+            "nota",
+            "la calificación",
+            "calificación"
+          ]
+        },
+        "fr": {
+          "text": "la note",
+          "alternates": [
+            "note"
+          ]
+        },
+        "it": {
+          "text": "il voto",
+          "alternates": [
+            "voto"
+          ]
         }
       },
       "examples": [
@@ -144,7 +459,12 @@
           "text": "I got a good mark in the exam.",
           "translations": {
             "ru": "Я получил хорошую оценку на экзамене.",
-            "pl": "Dostałem dobrą ocenę z egzaminu."
+            "pl": "Dostałem dobrą ocenę z egzaminu.",
+            "uk": "Я отримав хорошу оцінку на іспиті.",
+            "de": "Ich habe in der Prüfung eine gute Note bekommen.",
+            "es": "Saqué una buena nota en el examen.",
+            "fr": "J'ai eu une bonne note à l'examen.",
+            "it": "Ho preso un buon voto all'esame."
           }
         }
       ]
@@ -156,7 +476,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "расписание",
-        "pl": "plan zajęć"
+        "pl": "plan zajęć",
+        "uk": "розклад",
+        "de": {
+          "text": "der Stundenplan",
+          "alternates": [
+            "Stundenplan"
+          ]
+        },
+        "es": {
+          "text": "el horario",
+          "alternates": [
+            "horario"
+          ]
+        },
+        "fr": {
+          "text": "l'emploi du temps",
+          "alternates": [
+            "emploi du temps"
+          ]
+        },
+        "it": {
+          "text": "l'orario",
+          "alternates": [
+            "orario"
+          ]
+        }
       }
     },
     {
@@ -166,7 +511,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "стипендия",
-        "pl": "stypendium"
+        "pl": "stypendium",
+        "uk": "стипендія",
+        "de": {
+          "text": "das Stipendium",
+          "alternates": [
+            "Stipendium"
+          ]
+        },
+        "es": {
+          "text": "la beca",
+          "alternates": [
+            "beca"
+          ]
+        },
+        "fr": {
+          "text": "la bourse",
+          "alternates": [
+            "bourse"
+          ]
+        },
+        "it": {
+          "text": "la borsa di studio",
+          "alternates": [
+            "borsa di studio"
+          ]
+        }
       }
     },
     {
@@ -176,7 +546,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "библиотека",
-        "pl": "biblioteka"
+        "pl": "biblioteka",
+        "uk": "бібліотека",
+        "de": {
+          "text": "die Bibliothek",
+          "alternates": [
+            "Bibliothek"
+          ]
+        },
+        "es": {
+          "text": "la biblioteca",
+          "alternates": [
+            "biblioteca"
+          ]
+        },
+        "fr": {
+          "text": "la bibliothèque",
+          "alternates": [
+            "bibliothèque"
+          ]
+        },
+        "it": {
+          "text": "la biblioteca",
+          "alternates": [
+            "biblioteca"
+          ]
+        }
       }
     },
     {
@@ -196,7 +591,22 @@
           "alternates": [
             "uczyć się"
           ]
-        }
+        },
+        "uk": {
+          "text": "вчитися",
+          "alternates": [
+            "вивчати"
+          ]
+        },
+        "de": {
+          "text": "lernen",
+          "alternates": [
+            "studieren"
+          ]
+        },
+        "es": "estudiar",
+        "fr": "étudier",
+        "it": "studiare"
       }
     },
     {
@@ -206,7 +616,17 @@
           "partOfSpeech": "verb"
         },
         "ru": "сдать",
-        "pl": "zdać"
+        "pl": "zdać",
+        "uk": {
+          "text": "скласти",
+          "alternates": [
+            "здати"
+          ]
+        },
+        "de": "bestehen",
+        "es": "aprobar",
+        "fr": "réussir",
+        "it": "superare"
       }
     },
     {
@@ -226,6 +646,31 @@
           "alternates": [
             "nie zdać"
           ]
+        },
+        "uk": {
+          "text": "провалити",
+          "alternates": [
+            "не скласти"
+          ]
+        },
+        "de": {
+          "text": "durchfallen",
+          "alternates": [
+            "nicht bestehen"
+          ]
+        },
+        "es": "suspender",
+        "fr": {
+          "text": "échouer",
+          "alternates": [
+            "rater"
+          ]
+        },
+        "it": {
+          "text": "essere bocciato",
+          "alternates": [
+            "non superare"
+          ]
         }
       },
       "examples": [
@@ -234,7 +679,12 @@
           "text": "If you don't study, you'll fail the exam.",
           "translations": {
             "ru": "Если не будешь учиться, провалишь экзамен.",
-            "pl": "Jeśli nie będziesz się uczyć, oblejesz egzamin."
+            "pl": "Jeśli nie będziesz się uczyć, oblejesz egzamin.",
+            "uk": "Якщо не будеш вчитися, провалиш іспит.",
+            "de": "Wenn du nicht lernst, fällst du durch die Prüfung.",
+            "es": "Si no estudias, suspenderás el examen.",
+            "fr": "Si tu n'étudies pas, tu vas échouer à l'examen.",
+            "it": "Se non studi, non supererai l'esame."
           }
         }
       ]
@@ -249,7 +699,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "повторять",
-        "pl": "powtarzać"
+        "pl": "powtarzać",
+        "uk": "повторювати",
+        "de": "wiederholen",
+        "es": "repasar",
+        "fr": "réviser",
+        "it": "ripassare"
       }
     },
     {
@@ -268,6 +723,37 @@
           "text": "ukończyć",
           "alternates": [
             "skończyć studia"
+          ]
+        },
+        "uk": {
+          "text": "закінчити",
+          "alternates": [
+            "випуститися"
+          ]
+        },
+        "de": {
+          "text": "das Studium abschließen",
+          "alternates": [
+            "abschließen"
+          ]
+        },
+        "es": {
+          "text": "graduarse",
+          "alternates": [
+            "licenciarse"
+          ]
+        },
+        "fr": {
+          "text": "obtenir son diplôme",
+          "alternates": [
+            "être diplômé",
+            "finir ses études"
+          ]
+        },
+        "it": {
+          "text": "laurearsi",
+          "alternates": [
+            "diplomarsi"
           ]
         }
       }
@@ -289,7 +775,17 @@
           "alternates": [
             "doskonalić"
           ]
-        }
+        },
+        "uk": {
+          "text": "покращувати",
+          "alternates": [
+            "вдосконалювати"
+          ]
+        },
+        "de": "verbessern",
+        "es": "mejorar",
+        "fr": "améliorer",
+        "it": "migliorare"
       }
     },
     {
@@ -309,7 +805,12 @@
           "alternates": [
             "tłumaczyć"
           ]
-        }
+        },
+        "uk": "пояснювати",
+        "de": "erklären",
+        "es": "explicar",
+        "fr": "expliquer",
+        "it": "spiegare"
       }
     }
   ]

@@ -8,7 +8,22 @@
           "partOfSpeech": "conjunction"
         },
         "ru": "и",
-        "pl": "i"
+        "pl": "i",
+        "uk": {
+          "text": "і",
+          "alternates": [
+            "й"
+          ]
+        },
+        "de": "und",
+        "es": {
+          "text": "y",
+          "alternates": [
+            "e"
+          ]
+        },
+        "fr": "et",
+        "it": "e"
       }
     },
     {
@@ -18,7 +33,17 @@
           "partOfSpeech": "conjunction"
         },
         "ru": "но",
-        "pl": "ale"
+        "pl": "ale",
+        "uk": {
+          "text": "але",
+          "alternates": [
+            "проте"
+          ]
+        },
+        "de": "aber",
+        "es": "pero",
+        "fr": "mais",
+        "it": "ma"
       }
     },
     {
@@ -33,7 +58,17 @@
           "alternates": [
             "albo"
           ]
-        }
+        },
+        "uk": {
+          "text": "або",
+          "alternates": [
+            "чи"
+          ]
+        },
+        "de": "oder",
+        "es": "o",
+        "fr": "ou",
+        "it": "o"
       }
     },
     {
@@ -47,6 +82,26 @@
           "text": "ponieważ",
           "alternates": [
             "bo"
+          ]
+        },
+        "uk": {
+          "text": "тому що",
+          "alternates": [
+            "бо"
+          ]
+        },
+        "de": {
+          "text": "weil",
+          "alternates": [
+            "denn"
+          ]
+        },
+        "es": "porque",
+        "fr": "parce que",
+        "it": {
+          "text": "perché",
+          "alternates": [
+            "poiché"
           ]
         }
       }
@@ -63,7 +118,37 @@
             "так что"
           ]
         },
-        "pl": "więc"
+        "pl": "więc",
+        "uk": {
+          "text": "тому",
+          "alternates": [
+            "так що"
+          ]
+        },
+        "de": {
+          "text": "also",
+          "alternates": [
+            "deshalb"
+          ]
+        },
+        "es": {
+          "text": "así que",
+          "alternates": [
+            "por eso"
+          ]
+        },
+        "fr": {
+          "text": "donc",
+          "alternates": [
+            "alors"
+          ]
+        },
+        "it": {
+          "text": "quindi",
+          "alternates": [
+            "allora"
+          ]
+        }
       }
     },
     {
@@ -78,7 +163,17 @@
           "alternates": [
             "jeżeli"
           ]
-        }
+        },
+        "uk": "якщо",
+        "de": {
+          "text": "wenn",
+          "alternates": [
+            "falls"
+          ]
+        },
+        "es": "si",
+        "fr": "si",
+        "it": "se"
       }
     },
     {
@@ -96,6 +191,27 @@
           "alternates": [
             "choć"
           ]
+        },
+        "uk": {
+          "text": "хоча",
+          "alternates": [
+            "хоч"
+          ]
+        },
+        "de": "obwohl",
+        "es": "aunque",
+        "fr": {
+          "text": "bien que",
+          "alternates": [
+            "quoique"
+          ]
+        },
+        "it": {
+          "text": "sebbene",
+          "alternates": [
+            "benché",
+            "anche se"
+          ]
         }
       },
       "examples": [
@@ -104,7 +220,12 @@
           "text": "Although it was raining, we went for a walk.",
           "translations": {
             "ru": "Хотя шёл дождь, мы пошли гулять.",
-            "pl": "Chociaż padało, poszliśmy na spacer."
+            "pl": "Chociaż padało, poszliśmy na spacer.",
+            "uk": "Хоча йшов дощ, ми пішли гуляти.",
+            "de": "Obwohl es regnete, sind wir spazieren gegangen.",
+            "es": "Aunque llovía, salimos a pasear.",
+            "fr": "Bien qu'il pleuve, nous sommes allés nous promener.",
+            "it": "Sebbene piovesse, siamo andati a fare una passeggiata."
           }
         }
       ]
@@ -126,7 +247,27 @@
           "alternates": [
             "kiedy"
           ]
-        }
+        },
+        "uk": {
+          "text": "поки",
+          "alternates": [
+            "тоді як"
+          ]
+        },
+        "de": "während",
+        "es": {
+          "text": "mientras",
+          "alternates": [
+            "mientras que"
+          ]
+        },
+        "fr": {
+          "text": "pendant que",
+          "alternates": [
+            "tandis que"
+          ]
+        },
+        "it": "mentre"
       }
     },
     {
@@ -136,7 +277,37 @@
           "partOfSpeech": "conjunction"
         },
         "ru": "если не",
-        "pl": "chyba że"
+        "pl": "chyba że",
+        "uk": {
+          "text": "якщо не",
+          "alternates": [
+            "хіба що"
+          ]
+        },
+        "de": {
+          "text": "es sei denn",
+          "alternates": [
+            "außer wenn"
+          ]
+        },
+        "es": {
+          "text": "a menos que",
+          "alternates": [
+            "a no ser que"
+          ]
+        },
+        "fr": {
+          "text": "à moins que",
+          "alternates": [
+            "sauf si"
+          ]
+        },
+        "it": {
+          "text": "a meno che",
+          "alternates": [
+            "salvo che"
+          ]
+        }
       }
     },
     {
@@ -156,6 +327,21 @@
           "alternates": [
             "aż"
           ]
+        },
+        "uk": {
+          "text": "поки не",
+          "alternates": [
+            "доки не"
+          ]
+        },
+        "de": "bis",
+        "es": "hasta que",
+        "fr": "jusqu'à ce que",
+        "it": {
+          "text": "finché non",
+          "alternates": [
+            "fino a quando"
+          ]
         }
       }
     },
@@ -166,7 +352,37 @@
           "partOfSpeech": "adverb"
         },
         "ru": "однако",
-        "pl": "jednak"
+        "pl": "jednak",
+        "uk": {
+          "text": "однак",
+          "alternates": [
+            "проте"
+          ]
+        },
+        "de": {
+          "text": "jedoch",
+          "alternates": [
+            "allerdings"
+          ]
+        },
+        "es": {
+          "text": "sin embargo",
+          "alternates": [
+            "no obstante"
+          ]
+        },
+        "fr": {
+          "text": "cependant",
+          "alternates": [
+            "pourtant"
+          ]
+        },
+        "it": {
+          "text": "tuttavia",
+          "alternates": [
+            "però"
+          ]
+        }
       },
       "examples": [
         {
@@ -174,7 +390,12 @@
           "text": "The plan is good. However, it's too expensive.",
           "translations": {
             "ru": "План хороший. Однако он слишком дорогой.",
-            "pl": "Plan jest dobry. Jest jednak za drogi."
+            "pl": "Plan jest dobry. Jest jednak za drogi.",
+            "uk": "План гарний. Однак він надто дорогий.",
+            "de": "Der Plan ist gut. Er ist jedoch zu teuer.",
+            "es": "El plan es bueno. Sin embargo, es demasiado caro.",
+            "fr": "Le plan est bon. Cependant, il est trop cher.",
+            "it": "Il piano è buono. Tuttavia, è troppo costoso."
           }
         }
       ]
@@ -196,6 +417,36 @@
           "alternates": [
             "zatem"
           ]
+        },
+        "uk": {
+          "text": "отже",
+          "alternates": [
+            "через це"
+          ]
+        },
+        "de": {
+          "text": "daher",
+          "alternates": [
+            "folglich"
+          ]
+        },
+        "es": {
+          "text": "por lo tanto",
+          "alternates": [
+            "por tanto"
+          ]
+        },
+        "fr": {
+          "text": "par conséquent",
+          "alternates": [
+            "ainsi"
+          ]
+        },
+        "it": {
+          "text": "perciò",
+          "alternates": [
+            "di conseguenza"
+          ]
         }
       }
     },
@@ -216,7 +467,17 @@
           "alternates": [
             "też"
           ]
-        }
+        },
+        "uk": {
+          "text": "також",
+          "alternates": [
+            "теж"
+          ]
+        },
+        "de": "auch",
+        "es": "también",
+        "fr": "aussi",
+        "it": "anche"
       }
     },
     {
@@ -226,7 +487,32 @@
           "partOfSpeech": "adverb"
         },
         "ru": "вместо этого",
-        "pl": "zamiast tego"
+        "pl": "zamiast tego",
+        "uk": {
+          "text": "натомість",
+          "alternates": [
+            "замість цього"
+          ]
+        },
+        "de": "stattdessen",
+        "es": {
+          "text": "en vez de eso",
+          "alternates": [
+            "en su lugar"
+          ]
+        },
+        "fr": {
+          "text": "à la place",
+          "alternates": [
+            "au lieu de cela"
+          ]
+        },
+        "it": {
+          "text": "invece",
+          "alternates": [
+            "al suo posto"
+          ]
+        }
       }
     },
     {
@@ -240,6 +526,36 @@
           "text": "poza tym",
           "alternates": [
             "ponadto"
+          ]
+        },
+        "uk": {
+          "text": "крім того",
+          "alternates": [
+            "до того ж"
+          ]
+        },
+        "de": {
+          "text": "außerdem",
+          "alternates": [
+            "zudem"
+          ]
+        },
+        "es": {
+          "text": "además",
+          "alternates": [
+            "asimismo"
+          ]
+        },
+        "fr": {
+          "text": "de plus",
+          "alternates": [
+            "en outre"
+          ]
+        },
+        "it": {
+          "text": "inoltre",
+          "alternates": [
+            "per di più"
           ]
         }
       }
@@ -255,6 +571,36 @@
           "text": "w końcu",
           "alternates": [
             "wreszcie"
+          ]
+        },
+        "uk": {
+          "text": "нарешті",
+          "alternates": [
+            "врешті-решт"
+          ]
+        },
+        "de": {
+          "text": "endlich",
+          "alternates": [
+            "schließlich"
+          ]
+        },
+        "es": {
+          "text": "por fin",
+          "alternates": [
+            "finalmente"
+          ]
+        },
+        "fr": {
+          "text": "enfin",
+          "alternates": [
+            "finalement"
+          ]
+        },
+        "it": {
+          "text": "finalmente",
+          "alternates": [
+            "alla fine"
           ]
         }
       }
@@ -276,6 +622,36 @@
           "alternates": [
             "tak naprawdę"
           ]
+        },
+        "uk": {
+          "text": "насправді",
+          "alternates": [
+            "власне"
+          ]
+        },
+        "de": {
+          "text": "eigentlich",
+          "alternates": [
+            "tatsächlich"
+          ]
+        },
+        "es": {
+          "text": "en realidad",
+          "alternates": [
+            "de hecho"
+          ]
+        },
+        "fr": {
+          "text": "en fait",
+          "alternates": [
+            "en réalité"
+          ]
+        },
+        "it": {
+          "text": "in realtà",
+          "alternates": [
+            "in effetti"
+          ]
         }
       }
     },
@@ -296,7 +672,23 @@
           "alternates": [
             "pewnie"
           ]
-        }
+        },
+        "uk": {
+          "text": "імовірно",
+          "alternates": [
+            "мабуть",
+            "напевно"
+          ]
+        },
+        "de": {
+          "text": "wahrscheinlich",
+          "alternates": [
+            "vermutlich"
+          ]
+        },
+        "es": "probablemente",
+        "fr": "probablement",
+        "it": "probabilmente"
       }
     },
     {
@@ -306,7 +698,39 @@
           "partOfSpeech": "adverb"
         },
         "ru": "конечно",
-        "pl": "oczywiście"
+        "pl": "oczywiście",
+        "uk": {
+          "text": "звичайно",
+          "alternates": [
+            "звісно",
+            "авжеж"
+          ]
+        },
+        "de": {
+          "text": "natürlich",
+          "alternates": [
+            "selbstverständlich"
+          ]
+        },
+        "es": {
+          "text": "por supuesto",
+          "alternates": [
+            "claro"
+          ]
+        },
+        "fr": {
+          "text": "bien sûr",
+          "alternates": [
+            "évidemment"
+          ]
+        },
+        "it": {
+          "text": "certo",
+          "alternates": [
+            "certamente",
+            "naturalmente"
+          ]
+        }
       }
     },
     {
@@ -323,6 +747,26 @@
           "text": "mimo",
           "alternates": [
             "pomimo"
+          ]
+        },
+        "uk": {
+          "text": "незважаючи на",
+          "alternates": [
+            "попри"
+          ]
+        },
+        "de": "trotz",
+        "es": {
+          "text": "a pesar de",
+          "alternates": [
+            "pese a"
+          ]
+        },
+        "fr": "malgré",
+        "it": {
+          "text": "nonostante",
+          "alternates": [
+            "malgrado"
           ]
         }
       }

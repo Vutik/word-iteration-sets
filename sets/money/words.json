@@ -8,7 +8,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "банк",
-        "pl": "bank"
+        "pl": "bank",
+        "uk": "банк",
+        "de": {
+          "text": "die Bank",
+          "alternates": [
+            "Bank"
+          ]
+        },
+        "es": {
+          "text": "el banco",
+          "alternates": [
+            "banco"
+          ]
+        },
+        "fr": {
+          "text": "la banque",
+          "alternates": [
+            "banque"
+          ]
+        },
+        "it": {
+          "text": "la banca",
+          "alternates": [
+            "banca"
+          ]
+        }
       }
     },
     {
@@ -22,6 +47,31 @@
           "text": "konto",
           "alternates": [
             "rachunek"
+          ]
+        },
+        "uk": "рахунок",
+        "de": {
+          "text": "das Konto",
+          "alternates": [
+            "Konto"
+          ]
+        },
+        "es": {
+          "text": "la cuenta",
+          "alternates": [
+            "cuenta"
+          ]
+        },
+        "fr": {
+          "text": "le compte",
+          "alternates": [
+            "compte"
+          ]
+        },
+        "it": {
+          "text": "il conto",
+          "alternates": [
+            "conto"
           ]
         }
       }
@@ -43,6 +93,44 @@
           "alternates": [
             "kredyt"
           ]
+        },
+        "uk": {
+          "text": "кредит",
+          "alternates": [
+            "позика"
+          ]
+        },
+        "de": {
+          "text": "der Kredit",
+          "alternates": [
+            "Kredit",
+            "das Darlehen",
+            "Darlehen"
+          ]
+        },
+        "es": {
+          "text": "el préstamo",
+          "alternates": [
+            "préstamo",
+            "el crédito",
+            "crédito"
+          ]
+        },
+        "fr": {
+          "text": "le prêt",
+          "alternates": [
+            "prêt",
+            "le crédit",
+            "crédit"
+          ]
+        },
+        "it": {
+          "text": "il prestito",
+          "alternates": [
+            "prestito",
+            "il finanziamento",
+            "finanziamento"
+          ]
         }
       }
     },
@@ -53,7 +141,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "долг",
-        "pl": "dług"
+        "pl": "dług",
+        "uk": "борг",
+        "de": {
+          "text": "die Schulden",
+          "alternates": [
+            "Schulden",
+            "die Schuld",
+            "Schuld"
+          ]
+        },
+        "es": {
+          "text": "la deuda",
+          "alternates": [
+            "deuda"
+          ]
+        },
+        "fr": {
+          "text": "la dette",
+          "alternates": [
+            "dette"
+          ]
+        },
+        "it": {
+          "text": "il debito",
+          "alternates": [
+            "debito"
+          ]
+        }
       }
     },
     {
@@ -68,6 +183,31 @@
           "alternates": [
             "oprocentowanie"
           ]
+        },
+        "uk": "відсотки",
+        "de": {
+          "text": "die Zinsen",
+          "alternates": [
+            "Zinsen"
+          ]
+        },
+        "es": {
+          "text": "los intereses",
+          "alternates": [
+            "intereses"
+          ]
+        },
+        "fr": {
+          "text": "les intérêts",
+          "alternates": [
+            "s intérêts"
+          ]
+        },
+        "it": {
+          "text": "gli interessi",
+          "alternates": [
+            "interessi"
+          ]
         }
       }
     },
@@ -78,7 +218,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "сбережения",
-        "pl": "oszczędności"
+        "pl": "oszczędności",
+        "uk": "заощадження",
+        "de": {
+          "text": "die Ersparnisse",
+          "alternates": [
+            "Ersparnisse",
+            "das Ersparte",
+            "Ersparte"
+          ]
+        },
+        "es": {
+          "text": "los ahorros",
+          "alternates": [
+            "ahorros"
+          ]
+        },
+        "fr": {
+          "text": "les économies",
+          "alternates": [
+            "s économies"
+          ]
+        },
+        "it": {
+          "text": "i risparmi",
+          "alternates": [
+            "risparmi"
+          ]
+        }
       }
     },
     {
@@ -88,7 +255,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "доход",
-        "pl": "dochód"
+        "pl": "dochód",
+        "uk": "дохід",
+        "de": {
+          "text": "das Einkommen",
+          "alternates": [
+            "Einkommen"
+          ]
+        },
+        "es": {
+          "text": "los ingresos",
+          "alternates": [
+            "ingresos",
+            "el ingreso",
+            "ingreso"
+          ]
+        },
+        "fr": {
+          "text": "le revenu",
+          "alternates": [
+            "revenu"
+          ]
+        },
+        "it": {
+          "text": "il reddito",
+          "alternates": [
+            "reddito"
+          ]
+        }
       }
     },
     {
@@ -98,7 +292,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "налог",
-        "pl": "podatek"
+        "pl": "podatek",
+        "uk": "податок",
+        "de": {
+          "text": "die Steuer",
+          "alternates": [
+            "Steuer"
+          ]
+        },
+        "es": {
+          "text": "el impuesto",
+          "alternates": [
+            "impuesto"
+          ]
+        },
+        "fr": {
+          "text": "l'impôt",
+          "alternates": [
+            "impôt"
+          ]
+        },
+        "it": {
+          "text": "l'imposta",
+          "alternates": [
+            "imposta",
+            "la tassa",
+            "tassa"
+          ]
+        }
       }
     },
     {
@@ -113,7 +334,39 @@
             "квитанция"
           ]
         },
-        "pl": "rachunek"
+        "pl": "rachunek",
+        "uk": {
+          "text": "рахунок",
+          "alternates": [
+            "квитанція"
+          ]
+        },
+        "de": {
+          "text": "die Rechnung",
+          "alternates": [
+            "Rechnung"
+          ]
+        },
+        "es": {
+          "text": "la factura",
+          "alternates": [
+            "factura"
+          ]
+        },
+        "fr": {
+          "text": "la facture",
+          "alternates": [
+            "facture"
+          ]
+        },
+        "it": {
+          "text": "la fattura",
+          "alternates": [
+            "fattura",
+            "la bolletta",
+            "bolletta"
+          ]
+        }
       }
     },
     {
@@ -128,7 +381,37 @@
             "арендная плата"
           ]
         },
-        "pl": "czynsz"
+        "pl": "czynsz",
+        "uk": {
+          "text": "оренда",
+          "alternates": [
+            "орендна плата"
+          ]
+        },
+        "de": {
+          "text": "die Miete",
+          "alternates": [
+            "Miete"
+          ]
+        },
+        "es": {
+          "text": "el alquiler",
+          "alternates": [
+            "alquiler"
+          ]
+        },
+        "fr": {
+          "text": "le loyer",
+          "alternates": [
+            "loyer"
+          ]
+        },
+        "it": {
+          "text": "l'affitto",
+          "alternates": [
+            "affitto"
+          ]
+        }
       }
     },
     {
@@ -138,7 +421,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "бюджет",
-        "pl": "budżet"
+        "pl": "budżet",
+        "uk": "бюджет",
+        "de": {
+          "text": "das Budget",
+          "alternates": [
+            "Budget"
+          ]
+        },
+        "es": {
+          "text": "el presupuesto",
+          "alternates": [
+            "presupuesto"
+          ]
+        },
+        "fr": {
+          "text": "le budget",
+          "alternates": [
+            "budget"
+          ]
+        },
+        "it": {
+          "text": "il budget",
+          "alternates": [
+            "budget"
+          ]
+        }
       }
     },
     {
@@ -148,7 +456,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "монета",
-        "pl": "moneta"
+        "pl": "moneta",
+        "uk": "монета",
+        "de": {
+          "text": "die Münze",
+          "alternates": [
+            "Münze"
+          ]
+        },
+        "es": {
+          "text": "la moneda",
+          "alternates": [
+            "moneda"
+          ]
+        },
+        "fr": {
+          "text": "la pièce",
+          "alternates": [
+            "pièce"
+          ]
+        },
+        "it": {
+          "text": "la moneta",
+          "alternates": [
+            "moneta"
+          ]
+        }
       }
     },
     {
@@ -166,7 +499,39 @@
             "банкнота"
           ]
         },
-        "pl": "banknot"
+        "pl": "banknot",
+        "uk": {
+          "text": "банкнота",
+          "alternates": [
+            "купюра"
+          ]
+        },
+        "de": {
+          "text": "der Geldschein",
+          "alternates": [
+            "Geldschein",
+            "die Banknote",
+            "Banknote"
+          ]
+        },
+        "es": {
+          "text": "el billete",
+          "alternates": [
+            "billete"
+          ]
+        },
+        "fr": {
+          "text": "le billet",
+          "alternates": [
+            "billet"
+          ]
+        },
+        "it": {
+          "text": "la banconota",
+          "alternates": [
+            "banconota"
+          ]
+        }
       }
     },
     {
@@ -179,7 +544,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "банкомат",
-        "pl": "bankomat"
+        "pl": "bankomat",
+        "uk": "банкомат",
+        "de": {
+          "text": "der Geldautomat",
+          "alternates": [
+            "Geldautomat",
+            "der Bankomat",
+            "Bankomat"
+          ]
+        },
+        "es": {
+          "text": "el cajero automático",
+          "alternates": [
+            "cajero automático"
+          ]
+        },
+        "fr": {
+          "text": "le distributeur de billets",
+          "alternates": [
+            "distributeur de billets",
+            "le distributeur",
+            "distributeur"
+          ]
+        },
+        "it": {
+          "text": "il bancomat",
+          "alternates": [
+            "bancomat"
+          ]
+        }
       }
     },
     {
@@ -189,7 +583,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "валюта",
-        "pl": "waluta"
+        "pl": "waluta",
+        "uk": "валюта",
+        "de": {
+          "text": "die Währung",
+          "alternates": [
+            "Währung"
+          ]
+        },
+        "es": {
+          "text": "la divisa",
+          "alternates": [
+            "divisa",
+            "la moneda",
+            "moneda"
+          ]
+        },
+        "fr": {
+          "text": "la devise",
+          "alternates": [
+            "devise",
+            "la monnaie",
+            "monnaie"
+          ]
+        },
+        "it": {
+          "text": "la valuta",
+          "alternates": [
+            "valuta"
+          ]
+        }
       }
     },
     {
@@ -209,6 +632,40 @@
           "alternates": [
             "kurs wymiany"
           ]
+        },
+        "uk": {
+          "text": "курс валют",
+          "alternates": [
+            "обмінний курс"
+          ]
+        },
+        "de": {
+          "text": "der Wechselkurs",
+          "alternates": [
+            "Wechselkurs"
+          ]
+        },
+        "es": {
+          "text": "el tipo de cambio",
+          "alternates": [
+            "tipo de cambio",
+            "la tasa de cambio",
+            "tasa de cambio"
+          ]
+        },
+        "fr": {
+          "text": "le taux de change",
+          "alternates": [
+            "taux de change"
+          ]
+        },
+        "it": {
+          "text": "il tasso di cambio",
+          "alternates": [
+            "tasso di cambio",
+            "il cambio",
+            "cambio"
+          ]
         }
       }
     },
@@ -224,7 +681,27 @@
             "экономить"
           ]
         },
-        "pl": "oszczędzać"
+        "pl": "oszczędzać",
+        "uk": {
+          "text": "заощаджувати",
+          "alternates": [
+            "економити"
+          ]
+        },
+        "de": "sparen",
+        "es": "ahorrar",
+        "fr": {
+          "text": "économiser",
+          "alternates": [
+            "épargner"
+          ]
+        },
+        "it": {
+          "text": "risparmiare",
+          "alternates": [
+            "mettere da parte"
+          ]
+        }
       },
       "examples": [
         {
@@ -232,7 +709,12 @@
           "text": "I'm saving for a new car.",
           "translations": {
             "ru": "Я коплю на новую машину.",
-            "pl": "Oszczędzam na nowy samochód."
+            "pl": "Oszczędzam na nowy samochód.",
+            "uk": "Я заощаджую на нову машину.",
+            "de": "Ich spare auf ein neues Auto.",
+            "es": "Estoy ahorrando para un coche nuevo.",
+            "fr": "J'économise pour une nouvelle voiture.",
+            "it": "Sto risparmiando per una macchina nuova."
           }
         }
       ]
@@ -254,7 +736,17 @@
           "alternates": [
             "wydać"
           ]
-        }
+        },
+        "uk": {
+          "text": "витрачати",
+          "alternates": [
+            "витратити"
+          ]
+        },
+        "de": "ausgeben",
+        "es": "gastar",
+        "fr": "dépenser",
+        "it": "spendere"
       }
     },
     {
@@ -273,6 +765,26 @@
           "text": "pożyczać od kogoś",
           "alternates": [
             "pożyczyć od kogoś"
+          ]
+        },
+        "uk": {
+          "text": "позичати в когось",
+          "alternates": [
+            "брати в борг"
+          ]
+        },
+        "de": {
+          "text": "sich leihen",
+          "alternates": [
+            "ausleihen"
+          ]
+        },
+        "es": "pedir prestado",
+        "fr": "emprunter",
+        "it": {
+          "text": "prendere in prestito",
+          "alternates": [
+            "farsi prestare"
           ]
         }
       }
@@ -294,7 +806,27 @@
           "alternates": [
             "pożyczyć komuś"
           ]
-        }
+        },
+        "uk": {
+          "text": "давати в борг",
+          "alternates": [
+            "позичати комусь"
+          ]
+        },
+        "de": {
+          "text": "verleihen",
+          "alternates": [
+            "leihen"
+          ]
+        },
+        "es": {
+          "text": "prestar",
+          "alternates": [
+            "dejar"
+          ]
+        },
+        "fr": "prêter",
+        "it": "prestare"
       }
     },
     {
@@ -313,6 +845,26 @@
           "text": "wypłacać",
           "alternates": [
             "wypłacić"
+          ]
+        },
+        "uk": {
+          "text": "знімати",
+          "alternates": [
+            "зняти"
+          ]
+        },
+        "de": "abheben",
+        "es": {
+          "text": "sacar",
+          "alternates": [
+            "retirar"
+          ]
+        },
+        "fr": "retirer",
+        "it": {
+          "text": "prelevare",
+          "alternates": [
+            "ritirare"
           ]
         }
       }
@@ -334,6 +886,26 @@
           "alternates": [
             "być dłużnym"
           ]
+        },
+        "uk": {
+          "text": "бути винним",
+          "alternates": [
+            "заборгувати"
+          ]
+        },
+        "de": {
+          "text": "schulden",
+          "alternates": [
+            "schuldig sein"
+          ]
+        },
+        "es": "deber",
+        "fr": "devoir",
+        "it": {
+          "text": "dovere",
+          "alternates": [
+            "essere debitore"
+          ]
         }
       }
     },
@@ -347,7 +919,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "богатый",
-        "pl": "bogaty"
+        "pl": "bogaty",
+        "uk": "багатий",
+        "de": "reich",
+        "es": "rico",
+        "fr": "riche",
+        "it": "ricco"
       }
     },
     {
@@ -357,7 +934,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "бедный",
-        "pl": "biedny"
+        "pl": "biedny",
+        "uk": "бідний",
+        "de": "arm",
+        "es": "pobre",
+        "fr": "pauvre",
+        "it": "povero"
       }
     }
   ]

@@ -8,7 +8,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "окружающая среда",
-        "pl": "środowisko"
+        "pl": "środowisko",
+        "uk": "навколишнє середовище",
+        "de": {
+          "text": "die Umwelt",
+          "alternates": [
+            "Umwelt"
+          ]
+        },
+        "es": {
+          "text": "el medio ambiente",
+          "alternates": [
+            "medio ambiente"
+          ]
+        },
+        "fr": {
+          "text": "l'environnement",
+          "alternates": [
+            "environnement"
+          ]
+        },
+        "it": {
+          "text": "l'ambiente",
+          "alternates": [
+            "ambiente"
+          ]
+        }
       }
     },
     {
@@ -18,7 +43,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "климат",
-        "pl": "klimat"
+        "pl": "klimat",
+        "uk": "клімат",
+        "de": {
+          "text": "das Klima",
+          "alternates": [
+            "Klima"
+          ]
+        },
+        "es": {
+          "text": "el clima",
+          "alternates": [
+            "clima"
+          ]
+        },
+        "fr": {
+          "text": "le climat",
+          "alternates": [
+            "climat"
+          ]
+        },
+        "it": {
+          "text": "il clima",
+          "alternates": [
+            "clima"
+          ]
+        }
       }
     },
     {
@@ -33,6 +83,36 @@
           "alternates": [
             "zmiany klimatyczne"
           ]
+        },
+        "uk": {
+          "text": "зміна клімату",
+          "alternates": [
+            "зміни клімату"
+          ]
+        },
+        "de": {
+          "text": "der Klimawandel",
+          "alternates": [
+            "Klimawandel"
+          ]
+        },
+        "es": {
+          "text": "el cambio climático",
+          "alternates": [
+            "cambio climático"
+          ]
+        },
+        "fr": {
+          "text": "le changement climatique",
+          "alternates": [
+            "changement climatique"
+          ]
+        },
+        "it": {
+          "text": "il cambiamento climatico",
+          "alternates": [
+            "cambiamento climatico"
+          ]
         }
       }
     },
@@ -43,7 +123,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "загрязнение",
-        "pl": "zanieczyszczenie"
+        "pl": "zanieczyszczenie",
+        "uk": "забруднення",
+        "de": {
+          "text": "die Verschmutzung",
+          "alternates": [
+            "Verschmutzung",
+            "die Umweltverschmutzung",
+            "Umweltverschmutzung"
+          ]
+        },
+        "es": {
+          "text": "la contaminación",
+          "alternates": [
+            "contaminación"
+          ]
+        },
+        "fr": {
+          "text": "la pollution",
+          "alternates": [
+            "pollution"
+          ]
+        },
+        "it": {
+          "text": "l'inquinamento",
+          "alternates": [
+            "inquinamento"
+          ]
+        }
       },
       "examples": [
         {
@@ -51,7 +158,12 @@
           "text": "Air pollution is a big problem in many cities.",
           "translations": {
             "ru": "Загрязнение воздуха — большая проблема во многих городах.",
-            "pl": "Zanieczyszczenie powietrza to duży problem w wielu miastach."
+            "pl": "Zanieczyszczenie powietrza to duży problem w wielu miastach.",
+            "uk": "Забруднення повітря — велика проблема в багатьох містах.",
+            "de": "Luftverschmutzung ist in vielen Städten ein großes Problem.",
+            "es": "La contaminación del aire es un gran problema en muchas ciudades.",
+            "fr": "La pollution de l'air est un gros problème dans de nombreuses villes.",
+            "it": "L'inquinamento atmosferico è un grosso problema in molte città."
           }
         }
       ]
@@ -76,6 +188,42 @@
           "alternates": [
             "śmieci"
           ]
+        },
+        "uk": {
+          "text": "відходи",
+          "alternates": [
+            "сміття"
+          ]
+        },
+        "de": {
+          "text": "der Müll",
+          "alternates": [
+            "Müll",
+            "der Abfall",
+            "Abfall"
+          ]
+        },
+        "es": {
+          "text": "los residuos",
+          "alternates": [
+            "residuos",
+            "la basura",
+            "basura"
+          ]
+        },
+        "fr": {
+          "text": "les déchets",
+          "alternates": [
+            "déchets"
+          ]
+        },
+        "it": {
+          "text": "i rifiuti",
+          "alternates": [
+            "rifiuti",
+            "la spazzatura",
+            "spazzatura"
+          ]
         }
       }
     },
@@ -86,7 +234,39 @@
           "partOfSpeech": "noun"
         },
         "ru": "переработка",
-        "pl": "recykling"
+        "pl": "recykling",
+        "uk": {
+          "text": "переробка",
+          "alternates": [
+            "рециклінг"
+          ]
+        },
+        "de": {
+          "text": "das Recycling",
+          "alternates": [
+            "Recycling"
+          ]
+        },
+        "es": {
+          "text": "el reciclaje",
+          "alternates": [
+            "reciclaje"
+          ]
+        },
+        "fr": {
+          "text": "le recyclage",
+          "alternates": [
+            "recyclage"
+          ]
+        },
+        "it": {
+          "text": "il riciclaggio",
+          "alternates": [
+            "riciclaggio",
+            "il riciclo",
+            "riciclo"
+          ]
+        }
       }
     },
     {
@@ -96,7 +276,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "энергия",
-        "pl": "energia"
+        "pl": "energia",
+        "uk": "енергія",
+        "de": {
+          "text": "die Energie",
+          "alternates": [
+            "Energie"
+          ]
+        },
+        "es": {
+          "text": "la energía",
+          "alternates": [
+            "energía"
+          ]
+        },
+        "fr": {
+          "text": "l'énergie",
+          "alternates": [
+            "énergie"
+          ]
+        },
+        "it": {
+          "text": "l'energia",
+          "alternates": [
+            "energia"
+          ]
+        }
       }
     },
     {
@@ -106,7 +311,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "солнечная энергия",
-        "pl": "energia słoneczna"
+        "pl": "energia słoneczna",
+        "uk": "сонячна енергія",
+        "de": {
+          "text": "die Solarenergie",
+          "alternates": [
+            "Solarenergie",
+            "die Sonnenenergie",
+            "Sonnenenergie"
+          ]
+        },
+        "es": {
+          "text": "la energía solar",
+          "alternates": [
+            "energía solar"
+          ]
+        },
+        "fr": {
+          "text": "l'énergie solaire",
+          "alternates": [
+            "énergie solaire"
+          ]
+        },
+        "it": {
+          "text": "l'energia solare",
+          "alternates": [
+            "energia solare"
+          ]
+        }
       }
     },
     {
@@ -116,7 +348,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "топливо",
-        "pl": "paliwo"
+        "pl": "paliwo",
+        "uk": "паливо",
+        "de": {
+          "text": "der Kraftstoff",
+          "alternates": [
+            "Kraftstoff",
+            "der Brennstoff",
+            "Brennstoff"
+          ]
+        },
+        "es": {
+          "text": "el combustible",
+          "alternates": [
+            "combustible"
+          ]
+        },
+        "fr": {
+          "text": "le carburant",
+          "alternates": [
+            "carburant",
+            "le combustible",
+            "combustible"
+          ]
+        },
+        "it": {
+          "text": "il carburante",
+          "alternates": [
+            "carburante",
+            "il combustibile",
+            "combustibile"
+          ]
+        }
       }
     },
     {
@@ -126,7 +389,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "ресурсы",
-        "pl": "zasoby"
+        "pl": "zasoby",
+        "uk": "ресурси",
+        "de": {
+          "text": "die Ressourcen",
+          "alternates": [
+            "Ressourcen"
+          ]
+        },
+        "es": {
+          "text": "los recursos",
+          "alternates": [
+            "recursos"
+          ]
+        },
+        "fr": {
+          "text": "les ressources",
+          "alternates": [
+            "ressources"
+          ]
+        },
+        "it": {
+          "text": "le risorse",
+          "alternates": [
+            "risorse"
+          ]
+        }
       }
     },
     {
@@ -136,7 +424,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "вид",
-        "pl": "gatunek"
+        "pl": "gatunek",
+        "uk": "вид",
+        "de": {
+          "text": "die Art",
+          "alternates": [
+            "Art"
+          ]
+        },
+        "es": {
+          "text": "la especie",
+          "alternates": [
+            "especie"
+          ]
+        },
+        "fr": {
+          "text": "l'espèce",
+          "alternates": [
+            "espèce"
+          ]
+        },
+        "it": {
+          "text": "la specie",
+          "alternates": [
+            "specie"
+          ]
+        }
       }
     },
     {
@@ -146,7 +459,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "засуха",
-        "pl": "susza"
+        "pl": "susza",
+        "uk": "посуха",
+        "de": {
+          "text": "die Dürre",
+          "alternates": [
+            "Dürre"
+          ]
+        },
+        "es": {
+          "text": "la sequía",
+          "alternates": [
+            "sequía"
+          ]
+        },
+        "fr": {
+          "text": "la sécheresse",
+          "alternates": [
+            "sécheresse"
+          ]
+        },
+        "it": {
+          "text": "la siccità",
+          "alternates": [
+            "siccità"
+          ]
+        }
       }
     },
     {
@@ -156,7 +494,41 @@
           "partOfSpeech": "noun"
         },
         "ru": "наводнение",
-        "pl": "powódź"
+        "pl": "powódź",
+        "uk": {
+          "text": "повінь",
+          "alternates": [
+            "паводок"
+          ]
+        },
+        "de": {
+          "text": "die Überschwemmung",
+          "alternates": [
+            "Überschwemmung",
+            "das Hochwasser",
+            "Hochwasser"
+          ]
+        },
+        "es": {
+          "text": "la inundación",
+          "alternates": [
+            "inundación"
+          ]
+        },
+        "fr": {
+          "text": "l'inondation",
+          "alternates": [
+            "inondation"
+          ]
+        },
+        "it": {
+          "text": "l'inondazione",
+          "alternates": [
+            "inondazione",
+            "l'alluvione",
+            "alluvione"
+          ]
+        }
       }
     },
     {
@@ -166,7 +538,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "глобальное потепление",
-        "pl": "globalne ocieplenie"
+        "pl": "globalne ocieplenie",
+        "uk": "глобальне потепління",
+        "de": {
+          "text": "die globale Erwärmung",
+          "alternates": [
+            "globale Erwärmung",
+            "die Erderwärmung",
+            "Erderwärmung"
+          ]
+        },
+        "es": {
+          "text": "el calentamiento global",
+          "alternates": [
+            "calentamiento global"
+          ]
+        },
+        "fr": {
+          "text": "le réchauffement climatique",
+          "alternates": [
+            "réchauffement climatique",
+            "le réchauffement planétaire",
+            "réchauffement planétaire"
+          ]
+        },
+        "it": {
+          "text": "il riscaldamento globale",
+          "alternates": [
+            "riscaldamento globale"
+          ]
+        }
       }
     },
     {
@@ -176,7 +577,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "пластик",
-        "pl": "plastik"
+        "pl": "plastik",
+        "uk": "пластик",
+        "de": {
+          "text": "das Plastik",
+          "alternates": [
+            "Plastik"
+          ]
+        },
+        "es": {
+          "text": "el plástico",
+          "alternates": [
+            "plástico"
+          ]
+        },
+        "fr": {
+          "text": "le plastique",
+          "alternates": [
+            "plastique"
+          ]
+        },
+        "it": {
+          "text": "la plastica",
+          "alternates": [
+            "plastica"
+          ]
+        }
       }
     },
     {
@@ -191,7 +617,17 @@
             "охранять"
           ]
         },
-        "pl": "chronić"
+        "pl": "chronić",
+        "uk": {
+          "text": "захищати",
+          "alternates": [
+            "охороняти"
+          ]
+        },
+        "de": "schützen",
+        "es": "proteger",
+        "fr": "protéger",
+        "it": "proteggere"
       }
     },
     {
@@ -201,7 +637,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "загрязнять",
-        "pl": "zanieczyszczać"
+        "pl": "zanieczyszczać",
+        "uk": "забруднювати",
+        "de": "verschmutzen",
+        "es": "contaminar",
+        "fr": "polluer",
+        "it": "inquinare"
       }
     },
     {
@@ -216,7 +657,22 @@
           "alternates": [
             "segregować"
           ]
-        }
+        },
+        "uk": {
+          "text": "переробляти",
+          "alternates": [
+            "рециклювати"
+          ]
+        },
+        "de": {
+          "text": "recyceln",
+          "alternates": [
+            "wiederverwerten"
+          ]
+        },
+        "es": "reciclar",
+        "fr": "recycler",
+        "it": "riciclare"
       }
     },
     {
@@ -236,6 +692,26 @@
           "alternates": [
             "zmniejszać"
           ]
+        },
+        "uk": {
+          "text": "скорочувати",
+          "alternates": [
+            "зменшувати"
+          ]
+        },
+        "de": {
+          "text": "reduzieren",
+          "alternates": [
+            "verringern"
+          ]
+        },
+        "es": "reducir",
+        "fr": "réduire",
+        "it": {
+          "text": "ridurre",
+          "alternates": [
+            "diminuire"
+          ]
         }
       }
     },
@@ -251,7 +727,22 @@
             "расходовать зря"
           ]
         },
-        "pl": "marnować"
+        "pl": "marnować",
+        "uk": {
+          "text": "марнувати",
+          "alternates": [
+            "витрачати даремно"
+          ]
+        },
+        "de": "verschwenden",
+        "es": {
+          "text": "malgastar",
+          "alternates": [
+            "desperdiciar"
+          ]
+        },
+        "fr": "gaspiller",
+        "it": "sprecare"
       }
     },
     {
@@ -266,7 +757,38 @@
             "находящийся под угрозой"
           ]
         },
-        "pl": "zagrożony"
+        "pl": "zagrożony",
+        "uk": {
+          "text": "зникаючий",
+          "alternates": [
+            "під загрозою зникнення"
+          ]
+        },
+        "de": {
+          "text": "gefährdet",
+          "alternates": [
+            "vom Aussterben bedroht"
+          ]
+        },
+        "es": {
+          "text": "amenazado",
+          "alternates": [
+            "en peligro de extinción"
+          ]
+        },
+        "fr": {
+          "text": "menacé",
+          "alternates": [
+            "en voie de disparition",
+            "en danger"
+          ]
+        },
+        "it": {
+          "text": "minacciato",
+          "alternates": [
+            "in via d'estinzione"
+          ]
+        }
       }
     },
     {
@@ -276,7 +798,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "возобновляемый",
-        "pl": "odnawialny"
+        "pl": "odnawialny",
+        "uk": "відновлюваний",
+        "de": "erneuerbar",
+        "es": "renovable",
+        "fr": "renouvelable",
+        "it": "rinnovabile"
       }
     }
   ]

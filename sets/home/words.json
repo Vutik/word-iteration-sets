@@ -8,7 +8,37 @@
           "partOfSpeech": "noun"
         },
         "ru": "дом",
-        "pl": "dom"
+        "pl": "dom",
+        "uk": {
+          "text": "будинок",
+          "alternates": [
+            "дім"
+          ]
+        },
+        "de": {
+          "text": "das Haus",
+          "alternates": [
+            "Haus"
+          ]
+        },
+        "es": {
+          "text": "la casa",
+          "alternates": [
+            "casa"
+          ]
+        },
+        "fr": {
+          "text": "la maison",
+          "alternates": [
+            "maison"
+          ]
+        },
+        "it": {
+          "text": "la casa",
+          "alternates": [
+            "casa"
+          ]
+        }
       }
     },
     {
@@ -21,7 +51,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "квартира",
-        "pl": "mieszkanie"
+        "pl": "mieszkanie",
+        "uk": "квартира",
+        "de": {
+          "text": "die Wohnung",
+          "alternates": [
+            "Wohnung"
+          ]
+        },
+        "es": {
+          "text": "el piso",
+          "alternates": [
+            "piso",
+            "apartamento",
+            "el apartamento"
+          ]
+        },
+        "fr": {
+          "text": "l'appartement",
+          "alternates": [
+            "appartement"
+          ]
+        },
+        "it": {
+          "text": "l'appartamento",
+          "alternates": [
+            "appartamento"
+          ]
+        }
       }
     },
     {
@@ -31,7 +88,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "комната",
-        "pl": "pokój"
+        "pl": "pokój",
+        "uk": "кімната",
+        "de": {
+          "text": "das Zimmer",
+          "alternates": [
+            "Zimmer"
+          ]
+        },
+        "es": {
+          "text": "la habitación",
+          "alternates": [
+            "habitación"
+          ]
+        },
+        "fr": {
+          "text": "la pièce",
+          "alternates": [
+            "pièce"
+          ]
+        },
+        "it": {
+          "text": "la stanza",
+          "alternates": [
+            "stanza"
+          ]
+        }
       }
     },
     {
@@ -41,7 +123,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "кухня",
-        "pl": "kuchnia"
+        "pl": "kuchnia",
+        "uk": "кухня",
+        "de": {
+          "text": "die Küche",
+          "alternates": [
+            "Küche"
+          ]
+        },
+        "es": {
+          "text": "la cocina",
+          "alternates": [
+            "cocina"
+          ]
+        },
+        "fr": {
+          "text": "la cuisine",
+          "alternates": [
+            "cuisine"
+          ]
+        },
+        "it": {
+          "text": "la cucina",
+          "alternates": [
+            "cucina"
+          ]
+        }
       }
     },
     {
@@ -51,7 +158,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "спальня",
-        "pl": "sypialnia"
+        "pl": "sypialnia",
+        "uk": "спальня",
+        "de": {
+          "text": "das Schlafzimmer",
+          "alternates": [
+            "Schlafzimmer"
+          ]
+        },
+        "es": {
+          "text": "el dormitorio",
+          "alternates": [
+            "dormitorio"
+          ]
+        },
+        "fr": {
+          "text": "la chambre",
+          "alternates": [
+            "chambre"
+          ]
+        },
+        "it": {
+          "text": "la camera da letto",
+          "alternates": [
+            "camera da letto"
+          ]
+        }
       }
     },
     {
@@ -66,6 +198,37 @@
           "alternates": [
             "pokój dzienny"
           ]
+        },
+        "uk": "вітальня",
+        "de": {
+          "text": "das Wohnzimmer",
+          "alternates": [
+            "Wohnzimmer"
+          ]
+        },
+        "es": {
+          "text": "el salón",
+          "alternates": [
+            "salón",
+            "sala",
+            "la sala"
+          ]
+        },
+        "fr": {
+          "text": "le salon",
+          "alternates": [
+            "salon",
+            "séjour",
+            "le séjour"
+          ]
+        },
+        "it": {
+          "text": "il soggiorno",
+          "alternates": [
+            "soggiorno",
+            "salotto",
+            "il salotto"
+          ]
         }
       }
     },
@@ -76,7 +239,39 @@
           "partOfSpeech": "noun"
         },
         "ru": "ванная",
-        "pl": "łazienka"
+        "pl": "łazienka",
+        "uk": {
+          "text": "ванна кімната",
+          "alternates": [
+            "ванна"
+          ]
+        },
+        "de": {
+          "text": "das Badezimmer",
+          "alternates": [
+            "Badezimmer",
+            "Bad",
+            "das Bad"
+          ]
+        },
+        "es": {
+          "text": "el baño",
+          "alternates": [
+            "baño"
+          ]
+        },
+        "fr": {
+          "text": "la salle de bains",
+          "alternates": [
+            "salle de bains"
+          ]
+        },
+        "it": {
+          "text": "il bagno",
+          "alternates": [
+            "bagno"
+          ]
+        }
       }
     },
     {
@@ -86,7 +281,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "туалет",
-        "pl": "toaleta"
+        "pl": "toaleta",
+        "uk": "туалет",
+        "de": {
+          "text": "die Toilette",
+          "alternates": [
+            "Toilette",
+            "WC",
+            "das WC"
+          ]
+        },
+        "es": {
+          "text": "el aseo",
+          "alternates": [
+            "aseo",
+            "servicio",
+            "el servicio"
+          ]
+        },
+        "fr": {
+          "text": "les toilettes",
+          "alternates": [
+            "toilettes",
+            "WC",
+            "les WC"
+          ]
+        },
+        "it": {
+          "text": "la toilette",
+          "alternates": [
+            "toilette"
+          ]
+        }
       }
     },
     {
@@ -109,6 +335,44 @@
           "alternates": [
             "korytarz"
           ]
+        },
+        "uk": {
+          "text": "передпокій",
+          "alternates": [
+            "коридор"
+          ]
+        },
+        "de": {
+          "text": "der Flur",
+          "alternates": [
+            "Flur",
+            "Korridor",
+            "der Korridor"
+          ]
+        },
+        "es": {
+          "text": "el recibidor",
+          "alternates": [
+            "recibidor",
+            "pasillo",
+            "el pasillo"
+          ]
+        },
+        "fr": {
+          "text": "l'entrée",
+          "alternates": [
+            "entrée",
+            "couloir",
+            "le couloir"
+          ]
+        },
+        "it": {
+          "text": "l'ingresso",
+          "alternates": [
+            "ingresso",
+            "corridoio",
+            "il corridoio"
+          ]
         }
       }
     },
@@ -119,7 +383,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "дверь",
-        "pl": "drzwi"
+        "pl": "drzwi",
+        "uk": "двері",
+        "de": {
+          "text": "die Tür",
+          "alternates": [
+            "Tür"
+          ]
+        },
+        "es": {
+          "text": "la puerta",
+          "alternates": [
+            "puerta"
+          ]
+        },
+        "fr": {
+          "text": "la porte",
+          "alternates": [
+            "porte"
+          ]
+        },
+        "it": {
+          "text": "la porta",
+          "alternates": [
+            "porta"
+          ]
+        }
       }
     },
     {
@@ -129,7 +418,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "окно",
-        "pl": "okno"
+        "pl": "okno",
+        "uk": "вікно",
+        "de": {
+          "text": "das Fenster",
+          "alternates": [
+            "Fenster"
+          ]
+        },
+        "es": {
+          "text": "la ventana",
+          "alternates": [
+            "ventana"
+          ]
+        },
+        "fr": {
+          "text": "la fenêtre",
+          "alternates": [
+            "fenêtre"
+          ]
+        },
+        "it": {
+          "text": "la finestra",
+          "alternates": [
+            "finestra"
+          ]
+        }
       }
     },
     {
@@ -139,7 +453,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "стена",
-        "pl": "ściana"
+        "pl": "ściana",
+        "uk": "стіна",
+        "de": {
+          "text": "die Wand",
+          "alternates": [
+            "Wand",
+            "Mauer",
+            "die Mauer"
+          ]
+        },
+        "es": {
+          "text": "la pared",
+          "alternates": [
+            "pared",
+            "muro",
+            "el muro"
+          ]
+        },
+        "fr": {
+          "text": "le mur",
+          "alternates": [
+            "mur"
+          ]
+        },
+        "it": {
+          "text": "la parete",
+          "alternates": [
+            "parete",
+            "muro",
+            "il muro"
+          ]
+        }
       }
     },
     {
@@ -149,7 +494,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "пол",
-        "pl": "podłoga"
+        "pl": "podłoga",
+        "uk": "підлога",
+        "de": {
+          "text": "der Boden",
+          "alternates": [
+            "Boden"
+          ]
+        },
+        "es": {
+          "text": "el suelo",
+          "alternates": [
+            "suelo"
+          ]
+        },
+        "fr": {
+          "text": "le sol",
+          "alternates": [
+            "sol",
+            "plancher",
+            "le plancher"
+          ]
+        },
+        "it": {
+          "text": "il pavimento",
+          "alternates": [
+            "pavimento"
+          ]
+        }
       }
     },
     {
@@ -159,7 +531,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "лестница",
-        "pl": "schody"
+        "pl": "schody",
+        "uk": "сходи",
+        "de": {
+          "text": "die Treppe",
+          "alternates": [
+            "Treppe"
+          ]
+        },
+        "es": {
+          "text": "la escalera",
+          "alternates": [
+            "escalera",
+            "escaleras",
+            "las escaleras"
+          ]
+        },
+        "fr": {
+          "text": "l'escalier",
+          "alternates": [
+            "escalier"
+          ]
+        },
+        "it": {
+          "text": "le scale",
+          "alternates": [
+            "scale",
+            "scala",
+            "la scala"
+          ]
+        }
       }
     },
     {
@@ -169,7 +570,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "стол",
-        "pl": "stół"
+        "pl": "stół",
+        "uk": "стіл",
+        "de": {
+          "text": "der Tisch",
+          "alternates": [
+            "Tisch"
+          ]
+        },
+        "es": {
+          "text": "la mesa",
+          "alternates": [
+            "mesa"
+          ]
+        },
+        "fr": {
+          "text": "la table",
+          "alternates": [
+            "table"
+          ]
+        },
+        "it": {
+          "text": "il tavolo",
+          "alternates": [
+            "tavolo"
+          ]
+        }
       }
     },
     {
@@ -179,7 +605,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "стул",
-        "pl": "krzesło"
+        "pl": "krzesło",
+        "uk": "стілець",
+        "de": {
+          "text": "der Stuhl",
+          "alternates": [
+            "Stuhl"
+          ]
+        },
+        "es": {
+          "text": "la silla",
+          "alternates": [
+            "silla"
+          ]
+        },
+        "fr": {
+          "text": "la chaise",
+          "alternates": [
+            "chaise"
+          ]
+        },
+        "it": {
+          "text": "la sedia",
+          "alternates": [
+            "sedia"
+          ]
+        }
       }
     },
     {
@@ -189,7 +640,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "кровать",
-        "pl": "łóżko"
+        "pl": "łóżko",
+        "uk": "ліжко",
+        "de": {
+          "text": "das Bett",
+          "alternates": [
+            "Bett"
+          ]
+        },
+        "es": {
+          "text": "la cama",
+          "alternates": [
+            "cama"
+          ]
+        },
+        "fr": {
+          "text": "le lit",
+          "alternates": [
+            "lit"
+          ]
+        },
+        "it": {
+          "text": "il letto",
+          "alternates": [
+            "letto"
+          ]
+        }
       }
     },
     {
@@ -207,6 +683,35 @@
           "alternates": [
             "sofa"
           ]
+        },
+        "uk": "диван",
+        "de": {
+          "text": "das Sofa",
+          "alternates": [
+            "Sofa"
+          ]
+        },
+        "es": {
+          "text": "el sofá",
+          "alternates": [
+            "sofá"
+          ]
+        },
+        "fr": {
+          "text": "le canapé",
+          "alternates": [
+            "canapé",
+            "sofa",
+            "le sofa"
+          ]
+        },
+        "it": {
+          "text": "il divano",
+          "alternates": [
+            "divano",
+            "sofà",
+            "il sofà"
+          ]
         }
       }
     },
@@ -217,7 +722,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "шкаф",
-        "pl": "szafa"
+        "pl": "szafa",
+        "uk": "шафа",
+        "de": {
+          "text": "der Kleiderschrank",
+          "alternates": [
+            "Kleiderschrank",
+            "Schrank",
+            "der Schrank"
+          ]
+        },
+        "es": {
+          "text": "el armario",
+          "alternates": [
+            "armario"
+          ]
+        },
+        "fr": {
+          "text": "l'armoire",
+          "alternates": [
+            "armoire"
+          ]
+        },
+        "it": {
+          "text": "l'armadio",
+          "alternates": [
+            "armadio"
+          ]
+        }
       },
       "examples": [
         {
@@ -225,7 +757,12 @@
           "text": "My clothes are in the wardrobe.",
           "translations": {
             "ru": "Моя одежда в шкафу.",
-            "pl": "Moje ubrania są w szafie."
+            "pl": "Moje ubrania są w szafie.",
+            "uk": "Мій одяг у шафі.",
+            "de": "Meine Kleidung ist im Schrank.",
+            "es": "Mi ropa está en el armario.",
+            "fr": "Mes vêtements sont dans l'armoire.",
+            "it": "I miei vestiti sono nell'armadio."
           }
         }
       ]
@@ -237,7 +774,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "лампа",
-        "pl": "lampa"
+        "pl": "lampa",
+        "uk": "лампа",
+        "de": {
+          "text": "die Lampe",
+          "alternates": [
+            "Lampe"
+          ]
+        },
+        "es": {
+          "text": "la lámpara",
+          "alternates": [
+            "lámpara"
+          ]
+        },
+        "fr": {
+          "text": "la lampe",
+          "alternates": [
+            "lampe"
+          ]
+        },
+        "it": {
+          "text": "la lampada",
+          "alternates": [
+            "lampada"
+          ]
+        }
       }
     },
     {
@@ -247,7 +809,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "зеркало",
-        "pl": "lustro"
+        "pl": "lustro",
+        "uk": "дзеркало",
+        "de": {
+          "text": "der Spiegel",
+          "alternates": [
+            "Spiegel"
+          ]
+        },
+        "es": {
+          "text": "el espejo",
+          "alternates": [
+            "espejo"
+          ]
+        },
+        "fr": {
+          "text": "le miroir",
+          "alternates": [
+            "miroir"
+          ]
+        },
+        "it": {
+          "text": "lo specchio",
+          "alternates": [
+            "specchio"
+          ]
+        }
       }
     },
     {
@@ -257,7 +844,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "ключ",
-        "pl": "klucz"
+        "pl": "klucz",
+        "uk": "ключ",
+        "de": {
+          "text": "der Schlüssel",
+          "alternates": [
+            "Schlüssel"
+          ]
+        },
+        "es": {
+          "text": "la llave",
+          "alternates": [
+            "llave"
+          ]
+        },
+        "fr": {
+          "text": "la clé",
+          "alternates": [
+            "clé",
+            "clef",
+            "la clef"
+          ]
+        },
+        "it": {
+          "text": "la chiave",
+          "alternates": [
+            "chiave"
+          ]
+        }
       }
     }
   ]

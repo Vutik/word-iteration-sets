@@ -8,7 +8,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "счастливый",
-        "pl": "szczęśliwy"
+        "pl": "szczęśliwy",
+        "uk": "щасливий",
+        "de": "glücklich",
+        "es": "feliz",
+        "fr": "heureux",
+        "it": "felice"
       }
     },
     {
@@ -23,7 +28,12 @@
             "печальный"
           ]
         },
-        "pl": "smutny"
+        "pl": "smutny",
+        "uk": "сумний",
+        "de": "traurig",
+        "es": "triste",
+        "fr": "triste",
+        "it": "triste"
       }
     },
     {
@@ -43,7 +53,32 @@
           "alternates": [
             "wściekły"
           ]
-        }
+        },
+        "uk": {
+          "text": "злий",
+          "alternates": [
+            "сердитий"
+          ]
+        },
+        "de": {
+          "text": "wütend",
+          "alternates": [
+            "böse"
+          ]
+        },
+        "es": {
+          "text": "enfadado",
+          "alternates": [
+            "enojado"
+          ]
+        },
+        "fr": {
+          "text": "en colère",
+          "alternates": [
+            "fâché"
+          ]
+        },
+        "it": "arrabbiato"
       }
     },
     {
@@ -58,7 +93,17 @@
             "усталый"
           ]
         },
-        "pl": "zmęczony"
+        "pl": "zmęczony",
+        "uk": {
+          "text": "втомлений",
+          "alternates": [
+            "стомлений"
+          ]
+        },
+        "de": "müde",
+        "es": "cansado",
+        "fr": "fatigué",
+        "it": "stanco"
       },
       "examples": [
         {
@@ -66,7 +111,12 @@
           "text": "I'm too tired to go out tonight.",
           "translations": {
             "ru": "Я слишком устал, чтобы куда-то идти вечером.",
-            "pl": "Jestem za bardzo zmęczony, żeby dziś wyjść."
+            "pl": "Jestem za bardzo zmęczony, żeby dziś wyjść.",
+            "uk": "Я надто втомлений, щоб кудись іти ввечері.",
+            "de": "Ich bin zu müde, um heute Abend auszugehen.",
+            "es": "Estoy demasiado cansado para salir esta noche.",
+            "fr": "Je suis trop fatigué pour sortir ce soir.",
+            "it": "Sono troppo stanco per uscire stasera."
           }
         }
       ]
@@ -78,7 +128,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "скучающий",
-        "pl": "znudzony"
+        "pl": "znudzony",
+        "uk": {
+          "text": "знудьгований",
+          "alternates": [
+            "нудьгуючий"
+          ]
+        },
+        "de": "gelangweilt",
+        "es": "aburrido",
+        "fr": "ennuyé",
+        "it": "annoiato"
       }
     },
     {
@@ -91,7 +151,27 @@
           "partOfSpeech": "adjective"
         },
         "ru": "испуганный",
-        "pl": "przestraszony"
+        "pl": "przestraszony",
+        "uk": {
+          "text": "наляканий",
+          "alternates": [
+            "переляканий"
+          ]
+        },
+        "de": {
+          "text": "erschrocken",
+          "alternates": [
+            "ängstlich"
+          ]
+        },
+        "es": "asustado",
+        "fr": {
+          "text": "effrayé",
+          "alternates": [
+            "apeuré"
+          ]
+        },
+        "it": "spaventato"
       }
     },
     {
@@ -106,7 +186,12 @@
           "alternates": [
             "zdziwiony"
           ]
-        }
+        },
+        "uk": "здивований",
+        "de": "überrascht",
+        "es": "sorprendido",
+        "fr": "surpris",
+        "it": "sorpreso"
       }
     },
     {
@@ -121,7 +206,27 @@
             "взволнованный"
           ]
         },
-        "pl": "zdenerwowany"
+        "pl": "zdenerwowany",
+        "uk": {
+          "text": "нервовий",
+          "alternates": [
+            "схвильований"
+          ]
+        },
+        "de": {
+          "text": "nervös",
+          "alternates": [
+            "aufgeregt"
+          ]
+        },
+        "es": "nervioso",
+        "fr": "nerveux",
+        "it": {
+          "text": "nervoso",
+          "alternates": [
+            "agitato"
+          ]
+        }
       }
     },
     {
@@ -131,7 +236,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "обеспокоенный",
-        "pl": "zmartwiony"
+        "pl": "zmartwiony",
+        "uk": {
+          "text": "занепокоєний",
+          "alternates": [
+            "стурбований"
+          ]
+        },
+        "de": "besorgt",
+        "es": "preocupado",
+        "fr": "inquiet",
+        "it": "preoccupato"
       }
     },
     {
@@ -141,7 +256,22 @@
           "partOfSpeech": "adjective"
         },
         "ru": "спокойный",
-        "pl": "spokojny"
+        "pl": "spokojny",
+        "uk": "спокійний",
+        "de": "ruhig",
+        "es": {
+          "text": "tranquilo",
+          "alternates": [
+            "calmado"
+          ]
+        },
+        "fr": "calme",
+        "it": {
+          "text": "calmo",
+          "alternates": [
+            "tranquillo"
+          ]
+        }
       }
     },
     {
@@ -151,7 +281,22 @@
           "partOfSpeech": "adjective"
         },
         "ru": "одинокий",
-        "pl": "samotny"
+        "pl": "samotny",
+        "uk": "самотній",
+        "de": "einsam",
+        "es": {
+          "text": "solitario",
+          "alternates": [
+            "solo"
+          ]
+        },
+        "fr": "seul",
+        "it": {
+          "text": "solo",
+          "alternates": [
+            "solitario"
+          ]
+        }
       }
     },
     {
@@ -161,7 +306,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "гордый",
-        "pl": "dumny"
+        "pl": "dumny",
+        "uk": "гордий",
+        "de": "stolz",
+        "es": "orgulloso",
+        "fr": "fier",
+        "it": {
+          "text": "orgoglioso",
+          "alternates": [
+            "fiero"
+          ]
+        }
       }
     },
     {
@@ -176,6 +331,21 @@
           "alternates": [
             "rad"
           ]
+        },
+        "uk": "радий",
+        "de": {
+          "text": "froh",
+          "alternates": [
+            "erfreut"
+          ]
+        },
+        "es": "contento",
+        "fr": "content",
+        "it": {
+          "text": "contento",
+          "alternates": [
+            "lieto"
+          ]
         }
       }
     },
@@ -186,7 +356,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "любовь",
-        "pl": "miłość"
+        "pl": "miłość",
+        "uk": "любов",
+        "de": {
+          "text": "die Liebe",
+          "alternates": [
+            "Liebe"
+          ]
+        },
+        "es": {
+          "text": "el amor",
+          "alternates": [
+            "amor"
+          ]
+        },
+        "fr": {
+          "text": "l'amour",
+          "alternates": [
+            "amour"
+          ]
+        },
+        "it": {
+          "text": "l'amore",
+          "alternates": [
+            "amore"
+          ]
+        }
       }
     },
     {
@@ -196,7 +391,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "страх",
-        "pl": "strach"
+        "pl": "strach",
+        "uk": "страх",
+        "de": {
+          "text": "die Angst",
+          "alternates": [
+            "Angst",
+            "Furcht"
+          ]
+        },
+        "es": {
+          "text": "el miedo",
+          "alternates": [
+            "miedo"
+          ]
+        },
+        "fr": {
+          "text": "la peur",
+          "alternates": [
+            "peur"
+          ]
+        },
+        "it": {
+          "text": "la paura",
+          "alternates": [
+            "paura"
+          ]
+        }
       }
     },
     {
@@ -206,7 +427,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "радость",
-        "pl": "radość"
+        "pl": "radość",
+        "uk": "радість",
+        "de": {
+          "text": "die Freude",
+          "alternates": [
+            "Freude"
+          ]
+        },
+        "es": {
+          "text": "la alegría",
+          "alternates": [
+            "alegría"
+          ]
+        },
+        "fr": {
+          "text": "la joie",
+          "alternates": [
+            "joie"
+          ]
+        },
+        "it": {
+          "text": "la gioia",
+          "alternates": [
+            "gioia"
+          ]
+        }
       }
     },
     {
@@ -216,7 +462,17 @@
           "partOfSpeech": "verb"
         },
         "ru": "смеяться",
-        "pl": "śmiać się"
+        "pl": "śmiać się",
+        "uk": "сміятися",
+        "de": "lachen",
+        "es": {
+          "text": "reír",
+          "alternates": [
+            "reírse"
+          ]
+        },
+        "fr": "rire",
+        "it": "ridere"
       }
     },
     {
@@ -226,7 +482,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "плакать",
-        "pl": "płakać"
+        "pl": "płakać",
+        "uk": "плакати",
+        "de": "weinen",
+        "es": "llorar",
+        "fr": "pleurer",
+        "it": "piangere"
       }
     },
     {
@@ -236,7 +497,17 @@
           "partOfSpeech": "verb"
         },
         "ru": "улыбаться",
-        "pl": "uśmiechać się"
+        "pl": "uśmiechać się",
+        "uk": {
+          "text": "усміхатися",
+          "alternates": [
+            "посміхатися"
+          ]
+        },
+        "de": "lächeln",
+        "es": "sonreír",
+        "fr": "sourire",
+        "it": "sorridere"
       }
     },
     {
@@ -251,7 +522,17 @@
             "беспокоиться"
           ]
         },
-        "pl": "martwić się"
+        "pl": "martwić się",
+        "uk": {
+          "text": "хвилюватися",
+          "alternates": [
+            "турбуватися"
+          ]
+        },
+        "de": "sich Sorgen machen",
+        "es": "preocuparse",
+        "fr": "s'inquiéter",
+        "it": "preoccuparsi"
       }
     }
   ]

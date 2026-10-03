@@ -2,24 +2,39 @@
   "title": {
     "en": "Everyday verbs",
     "ru": "Глаголы на каждый день",
-    "pl": "Czasowniki na co dzień"
+    "pl": "Czasowniki na co dzień",
+    "uk": "Щоденні дієслова",
+    "de": "Alltagsverben",
+    "es": "Verbos de cada día",
+    "fr": "Verbes du quotidien",
+    "it": "Verbi di tutti i giorni"
   },
   "description": {
     "en": "Verbs for a usual day.",
     "ru": "Глаголы для обычного дня.",
-    "pl": "Czasowniki na zwykły dzień."
+    "pl": "Czasowniki na zwykły dzień.",
+    "uk": "Дієслова для звичайного дня.",
+    "de": "Verben für einen normalen Tag.",
+    "es": "Verbos para un día normal.",
+    "fr": "Des verbes pour une journée ordinaire.",
+    "it": "Verbi per una giornata normale."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A2",
   "tags": [
     "verbs"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

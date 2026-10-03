@@ -2,24 +2,39 @@
   "title": {
     "en": "Days and months",
     "ru": "Дни и месяцы",
-    "pl": "Dni i miesiące"
+    "pl": "Dni i miesiące",
+    "uk": "Дні й місяці",
+    "de": "Tage und Monate",
+    "es": "Los días y los meses",
+    "fr": "Les jours et les mois",
+    "it": "I giorni e i mesi"
   },
   "description": {
     "en": "The days of the week and the months of the year.",
     "ru": "Дни недели и месяцы года.",
-    "pl": "Dni tygodnia i miesiące roku."
+    "pl": "Dni tygodnia i miesiące roku.",
+    "uk": "Дні тижня та місяці року.",
+    "de": "Die Wochentage und die Monate des Jahres.",
+    "es": "Los días de la semana y los meses del año.",
+    "fr": "Les jours de la semaine et les mois de l'année.",
+    "it": "I giorni della settimana e i mesi dell'anno."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
   "tags": [
     "time"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

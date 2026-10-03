@@ -2,17 +2,32 @@
   "title": {
     "en": "The environment",
     "ru": "Окружающая среда",
-    "pl": "Środowisko"
+    "pl": "Środowisko",
+    "uk": "Довкілля",
+    "de": "Die Umwelt",
+    "es": "El medio ambiente",
+    "fr": "L'environnement",
+    "it": "L'ambiente"
   },
   "description": {
     "en": "Climate, pollution and taking care of the planet.",
     "ru": "Климат, загрязнение и забота о планете.",
-    "pl": "Klimat, zanieczyszczenie i dbanie o planetę."
+    "pl": "Klimat, zanieczyszczenie i dbanie o planetę.",
+    "uk": "Клімат, забруднення та турбота про планету.",
+    "de": "Klima, Verschmutzung und der Schutz unseres Planeten.",
+    "es": "Clima, contaminación y cuidado del planeta.",
+    "fr": "Climat, pollution et protection de la planète.",
+    "it": "Clima, inquinamento e cura del pianeta."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "B1",
@@ -20,7 +35,7 @@
     "nature",
     "society"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

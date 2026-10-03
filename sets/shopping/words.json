@@ -11,7 +11,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "магазин",
-        "pl": "sklep"
+        "pl": "sklep",
+        "uk": "магазин",
+        "de": {
+          "text": "das Geschäft",
+          "alternates": [
+            "Geschäft",
+            "der Laden",
+            "Laden"
+          ]
+        },
+        "es": {
+          "text": "la tienda",
+          "alternates": [
+            "tienda"
+          ]
+        },
+        "fr": {
+          "text": "le magasin",
+          "alternates": [
+            "magasin"
+          ]
+        },
+        "it": {
+          "text": "il negozio",
+          "alternates": [
+            "negozio"
+          ]
+        }
       }
     },
     {
@@ -21,7 +48,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "супермаркет",
-        "pl": "supermarket"
+        "pl": "supermarket",
+        "uk": "супермаркет",
+        "de": {
+          "text": "der Supermarkt",
+          "alternates": [
+            "Supermarkt"
+          ]
+        },
+        "es": {
+          "text": "el supermercado",
+          "alternates": [
+            "supermercado"
+          ]
+        },
+        "fr": {
+          "text": "le supermarché",
+          "alternates": [
+            "supermarché"
+          ]
+        },
+        "it": {
+          "text": "il supermercato",
+          "alternates": [
+            "supermercato"
+          ]
+        }
       }
     },
     {
@@ -36,6 +88,31 @@
           "alternates": [
             "rynek"
           ]
+        },
+        "uk": "ринок",
+        "de": {
+          "text": "der Markt",
+          "alternates": [
+            "Markt"
+          ]
+        },
+        "es": {
+          "text": "el mercado",
+          "alternates": [
+            "mercado"
+          ]
+        },
+        "fr": {
+          "text": "le marché",
+          "alternates": [
+            "marché"
+          ]
+        },
+        "it": {
+          "text": "il mercato",
+          "alternates": [
+            "mercato"
+          ]
         }
       }
     },
@@ -46,7 +123,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "цена",
-        "pl": "cena"
+        "pl": "cena",
+        "uk": "ціна",
+        "de": {
+          "text": "der Preis",
+          "alternates": [
+            "Preis"
+          ]
+        },
+        "es": {
+          "text": "el precio",
+          "alternates": [
+            "precio"
+          ]
+        },
+        "fr": {
+          "text": "le prix",
+          "alternates": [
+            "prix"
+          ]
+        },
+        "it": {
+          "text": "il prezzo",
+          "alternates": [
+            "prezzo"
+          ]
+        }
       },
       "examples": [
         {
@@ -54,7 +156,12 @@
           "text": "What's the price of this jacket?",
           "translations": {
             "ru": "Сколько стоит эта куртка?",
-            "pl": "Ile kosztuje ta kurtka?"
+            "pl": "Ile kosztuje ta kurtka?",
+            "uk": "Скільки коштує ця куртка?",
+            "de": "Was kostet diese Jacke?",
+            "es": "¿Cuánto cuesta esta chaqueta?",
+            "fr": "Combien coûte cette veste ?",
+            "it": "Quanto costa questa giacca?"
           }
         }
       ]
@@ -66,7 +173,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "деньги",
-        "pl": "pieniądze"
+        "pl": "pieniądze",
+        "uk": "гроші",
+        "de": {
+          "text": "das Geld",
+          "alternates": [
+            "Geld"
+          ]
+        },
+        "es": {
+          "text": "el dinero",
+          "alternates": [
+            "dinero"
+          ]
+        },
+        "fr": {
+          "text": "l'argent",
+          "alternates": [
+            "argent"
+          ]
+        },
+        "it": {
+          "text": "i soldi",
+          "alternates": [
+            "soldi",
+            "il denaro"
+          ]
+        }
       }
     },
     {
@@ -76,7 +209,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "наличные",
-        "pl": "gotówka"
+        "pl": "gotówka",
+        "uk": "готівка",
+        "de": {
+          "text": "das Bargeld",
+          "alternates": [
+            "Bargeld"
+          ]
+        },
+        "es": {
+          "text": "el efectivo",
+          "alternates": [
+            "efectivo"
+          ]
+        },
+        "fr": {
+          "text": "les espèces",
+          "alternates": [
+            "espèces",
+            "l'argent liquide"
+          ]
+        },
+        "it": {
+          "text": "i contanti",
+          "alternates": [
+            "contanti"
+          ]
+        }
       }
     },
     {
@@ -86,7 +245,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "карта",
-        "pl": "karta"
+        "pl": "karta",
+        "uk": "картка",
+        "de": {
+          "text": "die Karte",
+          "alternates": [
+            "Karte"
+          ]
+        },
+        "es": {
+          "text": "la tarjeta",
+          "alternates": [
+            "tarjeta"
+          ]
+        },
+        "fr": {
+          "text": "la carte",
+          "alternates": [
+            "carte"
+          ]
+        },
+        "it": {
+          "text": "la carta",
+          "alternates": [
+            "carta"
+          ]
+        }
       }
     },
     {
@@ -96,7 +280,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "чек",
-        "pl": "paragon"
+        "pl": "paragon",
+        "uk": "чек",
+        "de": {
+          "text": "der Kassenbon",
+          "alternates": [
+            "Kassenbon",
+            "die Quittung"
+          ]
+        },
+        "es": {
+          "text": "el recibo",
+          "alternates": [
+            "recibo",
+            "el ticket"
+          ]
+        },
+        "fr": {
+          "text": "le ticket de caisse",
+          "alternates": [
+            "ticket de caisse",
+            "le reçu"
+          ]
+        },
+        "it": {
+          "text": "lo scontrino",
+          "alternates": [
+            "scontrino",
+            "la ricevuta"
+          ]
+        }
       }
     },
     {
@@ -106,7 +319,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "сдача",
-        "pl": "reszta"
+        "pl": "reszta",
+        "uk": {
+          "text": "решта",
+          "alternates": [
+            "здача"
+          ]
+        },
+        "de": {
+          "text": "das Wechselgeld",
+          "alternates": [
+            "Wechselgeld"
+          ]
+        },
+        "es": {
+          "text": "el cambio",
+          "alternates": [
+            "cambio",
+            "la vuelta"
+          ]
+        },
+        "fr": {
+          "text": "la monnaie",
+          "alternates": [
+            "monnaie"
+          ]
+        },
+        "it": {
+          "text": "il resto",
+          "alternates": [
+            "resto"
+          ]
+        }
       }
     },
     {
@@ -121,6 +365,32 @@
           "alternates": [
             "rabat"
           ]
+        },
+        "uk": "знижка",
+        "de": {
+          "text": "der Rabatt",
+          "alternates": [
+            "Rabatt"
+          ]
+        },
+        "es": {
+          "text": "el descuento",
+          "alternates": [
+            "descuento"
+          ]
+        },
+        "fr": {
+          "text": "la réduction",
+          "alternates": [
+            "réduction",
+            "la remise"
+          ]
+        },
+        "it": {
+          "text": "lo sconto",
+          "alternates": [
+            "sconto"
+          ]
         }
       }
     },
@@ -131,7 +401,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "распродажа",
-        "pl": "wyprzedaż"
+        "pl": "wyprzedaż",
+        "uk": "розпродаж",
+        "de": {
+          "text": "der Schlussverkauf",
+          "alternates": [
+            "Schlussverkauf",
+            "der Ausverkauf"
+          ]
+        },
+        "es": {
+          "text": "las rebajas",
+          "alternates": [
+            "rebajas"
+          ]
+        },
+        "fr": {
+          "text": "les soldes",
+          "alternates": [
+            "soldes"
+          ]
+        },
+        "it": {
+          "text": "i saldi",
+          "alternates": [
+            "saldi"
+          ]
+        }
       }
     },
     {
@@ -141,7 +437,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "размер",
-        "pl": "rozmiar"
+        "pl": "rozmiar",
+        "uk": "розмір",
+        "de": {
+          "text": "die Größe",
+          "alternates": [
+            "Größe"
+          ]
+        },
+        "es": {
+          "text": "la talla",
+          "alternates": [
+            "talla"
+          ]
+        },
+        "fr": {
+          "text": "la taille",
+          "alternates": [
+            "taille"
+          ]
+        },
+        "it": {
+          "text": "la taglia",
+          "alternates": [
+            "taglia",
+            "la misura"
+          ]
+        }
       }
     },
     {
@@ -154,7 +476,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "примерочная",
-        "pl": "przymierzalnia"
+        "pl": "przymierzalnia",
+        "uk": "примірювальна",
+        "de": {
+          "text": "die Umkleidekabine",
+          "alternates": [
+            "Umkleidekabine",
+            "die Umkleide",
+            "Umkleide"
+          ]
+        },
+        "es": {
+          "text": "el probador",
+          "alternates": [
+            "probador"
+          ]
+        },
+        "fr": {
+          "text": "la cabine d'essayage",
+          "alternates": [
+            "cabine d'essayage"
+          ]
+        },
+        "it": {
+          "text": "il camerino",
+          "alternates": [
+            "camerino"
+          ]
+        }
       }
     },
     {
@@ -164,7 +513,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "касса",
-        "pl": "kasa"
+        "pl": "kasa",
+        "uk": "каса",
+        "de": {
+          "text": "die Kasse",
+          "alternates": [
+            "Kasse"
+          ]
+        },
+        "es": {
+          "text": "la caja",
+          "alternates": [
+            "caja"
+          ]
+        },
+        "fr": {
+          "text": "la caisse",
+          "alternates": [
+            "caisse"
+          ]
+        },
+        "it": {
+          "text": "la cassa",
+          "alternates": [
+            "cassa"
+          ]
+        }
       }
     },
     {
@@ -184,6 +558,38 @@
           "alternates": [
             "reklamówka"
           ]
+        },
+        "uk": {
+          "text": "пакет",
+          "alternates": [
+            "сумка"
+          ]
+        },
+        "de": {
+          "text": "die Tüte",
+          "alternates": [
+            "Tüte",
+            "die Tasche"
+          ]
+        },
+        "es": {
+          "text": "la bolsa",
+          "alternates": [
+            "bolsa"
+          ]
+        },
+        "fr": {
+          "text": "le sac",
+          "alternates": [
+            "sac"
+          ]
+        },
+        "it": {
+          "text": "la borsa",
+          "alternates": [
+            "borsa",
+            "il sacchetto"
+          ]
         }
       }
     },
@@ -194,7 +600,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "дешёвый",
-        "pl": "tani"
+        "pl": "tani",
+        "uk": "дешевий",
+        "de": "billig",
+        "es": "barato",
+        "fr": {
+          "text": "bon marché",
+          "alternates": [
+            "pas cher"
+          ]
+        },
+        "it": "economico"
       }
     },
     {
@@ -204,7 +620,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "дорогой",
-        "pl": "drogi"
+        "pl": "drogi",
+        "uk": "дорогий",
+        "de": "teuer",
+        "es": "caro",
+        "fr": "cher",
+        "it": "caro"
       }
     },
     {
@@ -224,7 +645,17 @@
           "alternates": [
             "kupić"
           ]
-        }
+        },
+        "uk": {
+          "text": "купувати",
+          "alternates": [
+            "купити"
+          ]
+        },
+        "de": "kaufen",
+        "es": "comprar",
+        "fr": "acheter",
+        "it": "comprare"
       }
     },
     {
@@ -244,7 +675,22 @@
           "alternates": [
             "zapłacić"
           ]
-        }
+        },
+        "uk": {
+          "text": "платити",
+          "alternates": [
+            "заплатити"
+          ]
+        },
+        "de": {
+          "text": "zahlen",
+          "alternates": [
+            "bezahlen"
+          ]
+        },
+        "es": "pagar",
+        "fr": "payer",
+        "it": "pagare"
       }
     },
     {
@@ -264,7 +710,17 @@
           "alternates": [
             "przymierzyć"
           ]
-        }
+        },
+        "uk": {
+          "text": "примірювати",
+          "alternates": [
+            "приміряти"
+          ]
+        },
+        "de": "anprobieren",
+        "es": "probarse",
+        "fr": "essayer",
+        "it": "provare"
       }
     },
     {
@@ -274,7 +730,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "стоить",
-        "pl": "kosztować"
+        "pl": "kosztować",
+        "uk": "коштувати",
+        "de": "kosten",
+        "es": "costar",
+        "fr": "coûter",
+        "it": "costare"
       }
     }
   ]

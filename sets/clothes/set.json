@@ -2,24 +2,39 @@
   "title": {
     "en": "Clothes",
     "ru": "Одежда",
-    "pl": "Ubrania"
+    "pl": "Ubrania",
+    "uk": "Одяг",
+    "de": "Kleidung",
+    "es": "La ropa",
+    "fr": "Les vêtements",
+    "it": "I vestiti"
   },
   "description": {
     "en": "What we wear, from hats to shoes.",
     "ru": "Что мы носим — от шапки до обуви.",
-    "pl": "To, co nosimy, od czapki po buty."
+    "pl": "To, co nosimy, od czapki po buty.",
+    "uk": "Що ми носимо — від шапки до взуття.",
+    "de": "Was wir tragen, vom Hut bis zu den Schuhen.",
+    "es": "Lo que nos ponemos, del sombrero a los zapatos.",
+    "fr": "Ce que nous portons, du chapeau aux chaussures.",
+    "it": "Quello che indossiamo, dal cappello alle scarpe."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
   "tags": [
     "clothes"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

@@ -13,7 +13,45 @@
             "увлечение"
           ]
         },
-        "pl": "hobby"
+        "pl": "hobby",
+        "uk": {
+          "text": "хобі",
+          "alternates": [
+            "захоплення"
+          ]
+        },
+        "de": {
+          "text": "das Hobby",
+          "alternates": [
+            "Hobby"
+          ]
+        },
+        "es": {
+          "text": "el pasatiempo",
+          "alternates": [
+            "pasatiempo",
+            "hobby",
+            "el hobby",
+            "afición",
+            "la afición"
+          ]
+        },
+        "fr": {
+          "text": "le passe-temps",
+          "alternates": [
+            "passe-temps",
+            "hobby",
+            "le hobby"
+          ]
+        },
+        "it": {
+          "text": "il passatempo",
+          "alternates": [
+            "passatempo",
+            "hobby",
+            "l'hobby"
+          ]
+        }
       }
     },
     {
@@ -23,7 +61,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "спорт",
-        "pl": "sport"
+        "pl": "sport",
+        "uk": "спорт",
+        "de": {
+          "text": "der Sport",
+          "alternates": [
+            "Sport"
+          ]
+        },
+        "es": {
+          "text": "el deporte",
+          "alternates": [
+            "deporte"
+          ]
+        },
+        "fr": {
+          "text": "le sport",
+          "alternates": [
+            "sport"
+          ]
+        },
+        "it": {
+          "text": "lo sport",
+          "alternates": [
+            "sport"
+          ]
+        }
       }
     },
     {
@@ -36,7 +99,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "футбол",
-        "pl": "piłka nożna"
+        "pl": "piłka nożna",
+        "uk": "футбол",
+        "de": {
+          "text": "der Fußball",
+          "alternates": [
+            "Fußball"
+          ]
+        },
+        "es": {
+          "text": "el fútbol",
+          "alternates": [
+            "fútbol"
+          ]
+        },
+        "fr": {
+          "text": "le football",
+          "alternates": [
+            "football",
+            "foot",
+            "le foot"
+          ]
+        },
+        "it": {
+          "text": "il calcio",
+          "alternates": [
+            "calcio"
+          ]
+        }
       }
     },
     {
@@ -46,7 +136,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "баскетбол",
-        "pl": "koszykówka"
+        "pl": "koszykówka",
+        "uk": "баскетбол",
+        "de": {
+          "text": "der Basketball",
+          "alternates": [
+            "Basketball"
+          ]
+        },
+        "es": {
+          "text": "el baloncesto",
+          "alternates": [
+            "baloncesto",
+            "básquetbol",
+            "el básquetbol"
+          ]
+        },
+        "fr": {
+          "text": "le basketball",
+          "alternates": [
+            "basketball",
+            "basket",
+            "le basket"
+          ]
+        },
+        "it": {
+          "text": "il basket",
+          "alternates": [
+            "basket",
+            "pallacanestro",
+            "la pallacanestro"
+          ]
+        }
       }
     },
     {
@@ -56,7 +177,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "теннис",
-        "pl": "tenis"
+        "pl": "tenis",
+        "uk": "теніс",
+        "de": {
+          "text": "das Tennis",
+          "alternates": [
+            "Tennis"
+          ]
+        },
+        "es": {
+          "text": "el tenis",
+          "alternates": [
+            "tenis"
+          ]
+        },
+        "fr": {
+          "text": "le tennis",
+          "alternates": [
+            "tennis"
+          ]
+        },
+        "it": {
+          "text": "il tennis",
+          "alternates": [
+            "tennis"
+          ]
+        }
       }
     },
     {
@@ -66,7 +212,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "плавание",
-        "pl": "pływanie"
+        "pl": "pływanie",
+        "uk": "плавання",
+        "de": {
+          "text": "das Schwimmen",
+          "alternates": [
+            "Schwimmen"
+          ]
+        },
+        "es": {
+          "text": "la natación",
+          "alternates": [
+            "natación"
+          ]
+        },
+        "fr": {
+          "text": "la natation",
+          "alternates": [
+            "natation"
+          ]
+        },
+        "it": {
+          "text": "il nuoto",
+          "alternates": [
+            "nuoto"
+          ]
+        }
       }
     },
     {
@@ -76,7 +247,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "игра",
-        "pl": "gra"
+        "pl": "gra",
+        "uk": "гра",
+        "de": {
+          "text": "das Spiel",
+          "alternates": [
+            "Spiel"
+          ]
+        },
+        "es": {
+          "text": "el juego",
+          "alternates": [
+            "juego"
+          ]
+        },
+        "fr": {
+          "text": "le jeu",
+          "alternates": [
+            "jeu"
+          ]
+        },
+        "it": {
+          "text": "il gioco",
+          "alternates": [
+            "gioco"
+          ]
+        }
       }
     },
     {
@@ -86,7 +282,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "матч",
-        "pl": "mecz"
+        "pl": "mecz",
+        "uk": "матч",
+        "de": {
+          "text": "das Match",
+          "alternates": [
+            "Match",
+            "das Spiel",
+            "Spiel"
+          ]
+        },
+        "es": {
+          "text": "el partido",
+          "alternates": [
+            "partido"
+          ]
+        },
+        "fr": {
+          "text": "le match",
+          "alternates": [
+            "match"
+          ]
+        },
+        "it": {
+          "text": "la partita",
+          "alternates": [
+            "partita",
+            "match",
+            "il match"
+          ]
+        }
       }
     },
     {
@@ -96,7 +321,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "команда",
-        "pl": "drużyna"
+        "pl": "drużyna",
+        "uk": "команда",
+        "de": {
+          "text": "die Mannschaft",
+          "alternates": [
+            "Mannschaft",
+            "Team",
+            "das Team"
+          ]
+        },
+        "es": {
+          "text": "el equipo",
+          "alternates": [
+            "equipo"
+          ]
+        },
+        "fr": {
+          "text": "l'équipe",
+          "alternates": [
+            "équipe"
+          ]
+        },
+        "it": {
+          "text": "la squadra",
+          "alternates": [
+            "squadra"
+          ]
+        }
       }
     },
     {
@@ -106,7 +358,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "музыка",
-        "pl": "muzyka"
+        "pl": "muzyka",
+        "uk": "музика",
+        "de": {
+          "text": "die Musik",
+          "alternates": [
+            "Musik"
+          ]
+        },
+        "es": {
+          "text": "la música",
+          "alternates": [
+            "música"
+          ]
+        },
+        "fr": {
+          "text": "la musique",
+          "alternates": [
+            "musique"
+          ]
+        },
+        "it": {
+          "text": "la musica",
+          "alternates": [
+            "musica"
+          ]
+        }
       }
     },
     {
@@ -119,7 +396,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "фильм",
-        "pl": "film"
+        "pl": "film",
+        "uk": "фільм",
+        "de": {
+          "text": "der Film",
+          "alternates": [
+            "Film"
+          ]
+        },
+        "es": {
+          "text": "la película",
+          "alternates": [
+            "película",
+            "filme",
+            "el filme"
+          ]
+        },
+        "fr": {
+          "text": "le film",
+          "alternates": [
+            "film"
+          ]
+        },
+        "it": {
+          "text": "il film",
+          "alternates": [
+            "film"
+          ]
+        }
       }
     },
     {
@@ -134,7 +438,37 @@
             "кино"
           ]
         },
-        "pl": "kino"
+        "pl": "kino",
+        "uk": {
+          "text": "кінотеатр",
+          "alternates": [
+            "кіно"
+          ]
+        },
+        "de": {
+          "text": "das Kino",
+          "alternates": [
+            "Kino"
+          ]
+        },
+        "es": {
+          "text": "el cine",
+          "alternates": [
+            "cine"
+          ]
+        },
+        "fr": {
+          "text": "le cinéma",
+          "alternates": [
+            "cinéma"
+          ]
+        },
+        "it": {
+          "text": "il cinema",
+          "alternates": [
+            "cinema"
+          ]
+        }
       }
     },
     {
@@ -144,7 +478,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "концерт",
-        "pl": "koncert"
+        "pl": "koncert",
+        "uk": "концерт",
+        "de": {
+          "text": "das Konzert",
+          "alternates": [
+            "Konzert"
+          ]
+        },
+        "es": {
+          "text": "el concierto",
+          "alternates": [
+            "concierto"
+          ]
+        },
+        "fr": {
+          "text": "le concert",
+          "alternates": [
+            "concert"
+          ]
+        },
+        "it": {
+          "text": "il concerto",
+          "alternates": [
+            "concerto"
+          ]
+        }
       }
     },
     {
@@ -159,7 +518,43 @@
             "фото"
           ]
         },
-        "pl": "zdjęcie"
+        "pl": "zdjęcie",
+        "uk": {
+          "text": "фотографія",
+          "alternates": [
+            "фото"
+          ]
+        },
+        "de": {
+          "text": "das Foto",
+          "alternates": [
+            "Foto"
+          ]
+        },
+        "es": {
+          "text": "la foto",
+          "alternates": [
+            "foto",
+            "fotografía",
+            "la fotografía"
+          ]
+        },
+        "fr": {
+          "text": "la photo",
+          "alternates": [
+            "photo",
+            "photographie",
+            "la photographie"
+          ]
+        },
+        "it": {
+          "text": "la foto",
+          "alternates": [
+            "foto",
+            "fotografia",
+            "la fotografia"
+          ]
+        }
       }
     },
     {
@@ -169,7 +564,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "прогулка",
-        "pl": "spacer"
+        "pl": "spacer",
+        "uk": "прогулянка",
+        "de": {
+          "text": "der Spaziergang",
+          "alternates": [
+            "Spaziergang"
+          ]
+        },
+        "es": {
+          "text": "el paseo",
+          "alternates": [
+            "paseo"
+          ]
+        },
+        "fr": {
+          "text": "la promenade",
+          "alternates": [
+            "promenade"
+          ]
+        },
+        "it": {
+          "text": "la passeggiata",
+          "alternates": [
+            "passeggiata"
+          ]
+        }
       }
     },
     {
@@ -179,7 +599,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "играть",
-        "pl": "grać"
+        "pl": "grać",
+        "uk": "грати",
+        "de": "spielen",
+        "es": "jugar",
+        "fr": "jouer",
+        "it": "giocare"
       }
     },
     {
@@ -189,7 +614,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "плавать",
-        "pl": "pływać"
+        "pl": "pływać",
+        "uk": "плавати",
+        "de": "schwimmen",
+        "es": "nadar",
+        "fr": "nager",
+        "it": "nuotare"
       }
     },
     {
@@ -199,7 +629,17 @@
           "partOfSpeech": "verb"
         },
         "ru": "бегать",
-        "pl": "biegać"
+        "pl": "biegać",
+        "uk": "бігати",
+        "de": {
+          "text": "laufen",
+          "alternates": [
+            "rennen"
+          ]
+        },
+        "es": "correr",
+        "fr": "courir",
+        "it": "correre"
       }
     },
     {
@@ -209,7 +649,22 @@
           "partOfSpeech": "verb"
         },
         "ru": "танцевать",
-        "pl": "tańczyć"
+        "pl": "tańczyć",
+        "uk": "танцювати",
+        "de": "tanzen",
+        "es": {
+          "text": "bailar",
+          "alternates": [
+            "danzar"
+          ]
+        },
+        "fr": "danser",
+        "it": {
+          "text": "ballare",
+          "alternates": [
+            "danzare"
+          ]
+        }
       }
     },
     {
@@ -219,7 +674,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "петь",
-        "pl": "śpiewać"
+        "pl": "śpiewać",
+        "uk": "співати",
+        "de": "singen",
+        "es": "cantar",
+        "fr": "chanter",
+        "it": "cantare"
       }
     },
     {
@@ -229,7 +689,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "рисовать",
-        "pl": "rysować"
+        "pl": "rysować",
+        "uk": "малювати",
+        "de": "zeichnen",
+        "es": "dibujar",
+        "fr": "dessiner",
+        "it": "disegnare"
       }
     },
     {
@@ -249,6 +714,36 @@
           "alternates": [
             "relaksować się"
           ]
+        },
+        "uk": {
+          "text": "відпочивати",
+          "alternates": [
+            "розслаблятися"
+          ]
+        },
+        "de": {
+          "text": "sich entspannen",
+          "alternates": [
+            "sich ausruhen"
+          ]
+        },
+        "es": {
+          "text": "relajarse",
+          "alternates": [
+            "descansar"
+          ]
+        },
+        "fr": {
+          "text": "se détendre",
+          "alternates": [
+            "se reposer"
+          ]
+        },
+        "it": {
+          "text": "rilassarsi",
+          "alternates": [
+            "riposarsi"
+          ]
         }
       },
       "examples": [
@@ -257,7 +752,12 @@
           "text": "At the weekend I like to relax at home.",
           "translations": {
             "ru": "По выходным я люблю отдыхать дома.",
-            "pl": "W weekend lubię odpoczywać w domu."
+            "pl": "W weekend lubię odpoczywać w domu.",
+            "uk": "На вихідних я люблю відпочивати вдома.",
+            "de": "Am Wochenende entspanne ich gern zu Hause.",
+            "es": "El fin de semana me gusta relajarme en casa.",
+            "fr": "Le week-end, j'aime me détendre à la maison.",
+            "it": "Nel fine settimana mi piace rilassarmi a casa."
           }
         }
       ]

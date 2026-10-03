@@ -8,7 +8,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "собака",
-        "pl": "pies"
+        "pl": "pies",
+        "uk": "собака",
+        "de": {
+          "text": "der Hund",
+          "alternates": [
+            "Hund"
+          ]
+        },
+        "es": {
+          "text": "el perro",
+          "alternates": [
+            "perro"
+          ]
+        },
+        "fr": {
+          "text": "le chien",
+          "alternates": [
+            "chien"
+          ]
+        },
+        "it": {
+          "text": "il cane",
+          "alternates": [
+            "cane"
+          ]
+        }
       },
       "examples": [
         {
@@ -16,7 +41,12 @@
           "text": "Our dog loves long walks.",
           "translations": {
             "ru": "Наша собака любит долгие прогулки.",
-            "pl": "Nasz pies uwielbia długie spacery."
+            "pl": "Nasz pies uwielbia długie spacery.",
+            "uk": "Наша собака любить довгі прогулянки.",
+            "de": "Unser Hund liebt lange Spaziergänge.",
+            "es": "A nuestro perro le encantan los paseos largos.",
+            "fr": "Notre chien adore les longues promenades.",
+            "it": "Il nostro cane adora le lunghe passeggiate."
           }
         }
       ]
@@ -33,7 +63,37 @@
             "кот"
           ]
         },
-        "pl": "kot"
+        "pl": "kot",
+        "uk": {
+          "text": "кішка",
+          "alternates": [
+            "кіт"
+          ]
+        },
+        "de": {
+          "text": "die Katze",
+          "alternates": [
+            "Katze"
+          ]
+        },
+        "es": {
+          "text": "el gato",
+          "alternates": [
+            "gato"
+          ]
+        },
+        "fr": {
+          "text": "le chat",
+          "alternates": [
+            "chat"
+          ]
+        },
+        "it": {
+          "text": "il gatto",
+          "alternates": [
+            "gatto"
+          ]
+        }
       }
     },
     {
@@ -43,7 +103,37 @@
           "partOfSpeech": "noun"
         },
         "ru": "птица",
-        "pl": "ptak"
+        "pl": "ptak",
+        "uk": {
+          "text": "птах",
+          "alternates": [
+            "птиця"
+          ]
+        },
+        "de": {
+          "text": "der Vogel",
+          "alternates": [
+            "Vogel"
+          ]
+        },
+        "es": {
+          "text": "el pájaro",
+          "alternates": [
+            "pájaro"
+          ]
+        },
+        "fr": {
+          "text": "l'oiseau",
+          "alternates": [
+            "oiseau"
+          ]
+        },
+        "it": {
+          "text": "l'uccello",
+          "alternates": [
+            "uccello"
+          ]
+        }
       }
     },
     {
@@ -53,7 +143,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "рыба",
-        "pl": "ryba"
+        "pl": "ryba",
+        "uk": "риба",
+        "de": {
+          "text": "der Fisch",
+          "alternates": [
+            "Fisch"
+          ]
+        },
+        "es": {
+          "text": "el pez",
+          "alternates": [
+            "pez"
+          ]
+        },
+        "fr": {
+          "text": "le poisson",
+          "alternates": [
+            "poisson"
+          ]
+        },
+        "it": {
+          "text": "il pesce",
+          "alternates": [
+            "pesce"
+          ]
+        }
       }
     },
     {
@@ -68,7 +183,32 @@
             "конь"
           ]
         },
-        "pl": "koń"
+        "pl": "koń",
+        "uk": "кінь",
+        "de": {
+          "text": "das Pferd",
+          "alternates": [
+            "Pferd"
+          ]
+        },
+        "es": {
+          "text": "el caballo",
+          "alternates": [
+            "caballo"
+          ]
+        },
+        "fr": {
+          "text": "le cheval",
+          "alternates": [
+            "cheval"
+          ]
+        },
+        "it": {
+          "text": "il cavallo",
+          "alternates": [
+            "cavallo"
+          ]
+        }
       }
     },
     {
@@ -78,7 +218,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "корова",
-        "pl": "krowa"
+        "pl": "krowa",
+        "uk": "корова",
+        "de": {
+          "text": "die Kuh",
+          "alternates": [
+            "Kuh"
+          ]
+        },
+        "es": {
+          "text": "la vaca",
+          "alternates": [
+            "vaca"
+          ]
+        },
+        "fr": {
+          "text": "la vache",
+          "alternates": [
+            "vache"
+          ]
+        },
+        "it": {
+          "text": "la mucca",
+          "alternates": [
+            "mucca"
+          ]
+        }
       }
     },
     {
@@ -88,7 +253,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "свинья",
-        "pl": "świnia"
+        "pl": "świnia",
+        "uk": "свиня",
+        "de": {
+          "text": "das Schwein",
+          "alternates": [
+            "Schwein"
+          ]
+        },
+        "es": {
+          "text": "el cerdo",
+          "alternates": [
+            "cerdo"
+          ]
+        },
+        "fr": {
+          "text": "le cochon",
+          "alternates": [
+            "cochon"
+          ]
+        },
+        "it": {
+          "text": "il maiale",
+          "alternates": [
+            "maiale"
+          ]
+        }
       }
     },
     {
@@ -98,7 +288,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "овца",
-        "pl": "owca"
+        "pl": "owca",
+        "uk": "вівця",
+        "de": {
+          "text": "das Schaf",
+          "alternates": [
+            "Schaf"
+          ]
+        },
+        "es": {
+          "text": "la oveja",
+          "alternates": [
+            "oveja"
+          ]
+        },
+        "fr": {
+          "text": "le mouton",
+          "alternates": [
+            "mouton"
+          ]
+        },
+        "it": {
+          "text": "la pecora",
+          "alternates": [
+            "pecora"
+          ]
+        }
       }
     },
     {
@@ -111,7 +326,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "курица",
-        "pl": "kura"
+        "pl": "kura",
+        "uk": "курка",
+        "de": {
+          "text": "das Huhn",
+          "alternates": [
+            "Huhn"
+          ]
+        },
+        "es": {
+          "text": "la gallina",
+          "alternates": [
+            "gallina"
+          ]
+        },
+        "fr": {
+          "text": "la poule",
+          "alternates": [
+            "poule"
+          ]
+        },
+        "it": {
+          "text": "la gallina",
+          "alternates": [
+            "gallina"
+          ]
+        }
       }
     },
     {
@@ -121,7 +361,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "мышь",
-        "pl": "mysz"
+        "pl": "mysz",
+        "uk": "миша",
+        "de": {
+          "text": "die Maus",
+          "alternates": [
+            "Maus"
+          ]
+        },
+        "es": {
+          "text": "el ratón",
+          "alternates": [
+            "ratón"
+          ]
+        },
+        "fr": {
+          "text": "la souris",
+          "alternates": [
+            "souris"
+          ]
+        },
+        "it": {
+          "text": "il topo",
+          "alternates": [
+            "topo"
+          ]
+        }
       }
     },
     {
@@ -131,7 +396,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "кролик",
-        "pl": "królik"
+        "pl": "królik",
+        "uk": "кролик",
+        "de": {
+          "text": "das Kaninchen",
+          "alternates": [
+            "Kaninchen"
+          ]
+        },
+        "es": {
+          "text": "el conejo",
+          "alternates": [
+            "conejo"
+          ]
+        },
+        "fr": {
+          "text": "le lapin",
+          "alternates": [
+            "lapin"
+          ]
+        },
+        "it": {
+          "text": "il coniglio",
+          "alternates": [
+            "coniglio"
+          ]
+        }
       }
     },
     {
@@ -141,7 +431,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "утка",
-        "pl": "kaczka"
+        "pl": "kaczka",
+        "uk": "качка",
+        "de": {
+          "text": "die Ente",
+          "alternates": [
+            "Ente"
+          ]
+        },
+        "es": {
+          "text": "el pato",
+          "alternates": [
+            "pato"
+          ]
+        },
+        "fr": {
+          "text": "le canard",
+          "alternates": [
+            "canard"
+          ]
+        },
+        "it": {
+          "text": "l'anatra",
+          "alternates": [
+            "anatra"
+          ]
+        }
       }
     },
     {
@@ -151,7 +466,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "медведь",
-        "pl": "niedźwiedź"
+        "pl": "niedźwiedź",
+        "uk": "ведмідь",
+        "de": {
+          "text": "der Bär",
+          "alternates": [
+            "Bär"
+          ]
+        },
+        "es": {
+          "text": "el oso",
+          "alternates": [
+            "oso"
+          ]
+        },
+        "fr": {
+          "text": "l'ours",
+          "alternates": [
+            "ours"
+          ]
+        },
+        "it": {
+          "text": "l'orso",
+          "alternates": [
+            "orso"
+          ]
+        }
       }
     },
     {
@@ -161,7 +501,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "волк",
-        "pl": "wilk"
+        "pl": "wilk",
+        "uk": "вовк",
+        "de": {
+          "text": "der Wolf",
+          "alternates": [
+            "Wolf"
+          ]
+        },
+        "es": {
+          "text": "el lobo",
+          "alternates": [
+            "lobo"
+          ]
+        },
+        "fr": {
+          "text": "le loup",
+          "alternates": [
+            "loup"
+          ]
+        },
+        "it": {
+          "text": "il lupo",
+          "alternates": [
+            "lupo"
+          ]
+        }
       }
     },
     {
@@ -171,7 +536,37 @@
           "partOfSpeech": "noun"
         },
         "ru": "лиса",
-        "pl": "lis"
+        "pl": "lis",
+        "uk": {
+          "text": "лисиця",
+          "alternates": [
+            "лис"
+          ]
+        },
+        "de": {
+          "text": "der Fuchs",
+          "alternates": [
+            "Fuchs"
+          ]
+        },
+        "es": {
+          "text": "el zorro",
+          "alternates": [
+            "zorro"
+          ]
+        },
+        "fr": {
+          "text": "le renard",
+          "alternates": [
+            "renard"
+          ]
+        },
+        "it": {
+          "text": "la volpe",
+          "alternates": [
+            "volpe"
+          ]
+        }
       }
     },
     {
@@ -181,7 +576,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "лев",
-        "pl": "lew"
+        "pl": "lew",
+        "uk": "лев",
+        "de": {
+          "text": "der Löwe",
+          "alternates": [
+            "Löwe"
+          ]
+        },
+        "es": {
+          "text": "el león",
+          "alternates": [
+            "león"
+          ]
+        },
+        "fr": {
+          "text": "le lion",
+          "alternates": [
+            "lion"
+          ]
+        },
+        "it": {
+          "text": "il leone",
+          "alternates": [
+            "leone"
+          ]
+        }
       }
     },
     {
@@ -191,7 +611,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "слон",
-        "pl": "słoń"
+        "pl": "słoń",
+        "uk": "слон",
+        "de": {
+          "text": "der Elefant",
+          "alternates": [
+            "Elefant"
+          ]
+        },
+        "es": {
+          "text": "el elefante",
+          "alternates": [
+            "elefante"
+          ]
+        },
+        "fr": {
+          "text": "l'éléphant",
+          "alternates": [
+            "éléphant"
+          ]
+        },
+        "it": {
+          "text": "l'elefante",
+          "alternates": [
+            "elefante"
+          ]
+        }
       }
     },
     {
@@ -201,7 +646,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "обезьяна",
-        "pl": "małpa"
+        "pl": "małpa",
+        "uk": "мавпа",
+        "de": {
+          "text": "der Affe",
+          "alternates": [
+            "Affe"
+          ]
+        },
+        "es": {
+          "text": "el mono",
+          "alternates": [
+            "mono"
+          ]
+        },
+        "fr": {
+          "text": "le singe",
+          "alternates": [
+            "singe"
+          ]
+        },
+        "it": {
+          "text": "la scimmia",
+          "alternates": [
+            "scimmia"
+          ]
+        }
       }
     },
     {
@@ -211,7 +681,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "змея",
-        "pl": "wąż"
+        "pl": "wąż",
+        "uk": "змія",
+        "de": {
+          "text": "die Schlange",
+          "alternates": [
+            "Schlange"
+          ]
+        },
+        "es": {
+          "text": "la serpiente",
+          "alternates": [
+            "serpiente"
+          ]
+        },
+        "fr": {
+          "text": "le serpent",
+          "alternates": [
+            "serpent"
+          ]
+        },
+        "it": {
+          "text": "il serpente",
+          "alternates": [
+            "serpente"
+          ]
+        }
       }
     },
     {
@@ -221,7 +716,37 @@
           "partOfSpeech": "noun"
         },
         "ru": "лягушка",
-        "pl": "żaba"
+        "pl": "żaba",
+        "uk": {
+          "text": "жаба",
+          "alternates": [
+            "жабка"
+          ]
+        },
+        "de": {
+          "text": "der Frosch",
+          "alternates": [
+            "Frosch"
+          ]
+        },
+        "es": {
+          "text": "la rana",
+          "alternates": [
+            "rana"
+          ]
+        },
+        "fr": {
+          "text": "la grenouille",
+          "alternates": [
+            "grenouille"
+          ]
+        },
+        "it": {
+          "text": "la rana",
+          "alternates": [
+            "rana"
+          ]
+        }
       }
     }
   ]

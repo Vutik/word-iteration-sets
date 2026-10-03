@@ -2,17 +2,32 @@
   "title": {
     "en": "Weather",
     "ru": "Погода",
-    "pl": "Pogoda"
+    "pl": "Pogoda",
+    "uk": "Погода",
+    "de": "Wetter",
+    "es": "El tiempo",
+    "fr": "La météo",
+    "it": "Meteo"
   },
   "description": {
     "en": "Sun, rain, snow and the seasons.",
     "ru": "Солнце, дождь, снег и времена года.",
-    "pl": "Słońce, deszcz, śnieg i pory roku."
+    "pl": "Słońce, deszcz, śnieg i pory roku.",
+    "uk": "Сонце, дощ, сніг і пори року.",
+    "de": "Sonne, Regen, Schnee und die Jahreszeiten.",
+    "es": "Sol, lluvia, nieve y las estaciones.",
+    "fr": "Soleil, pluie, neige et les saisons.",
+    "it": "Sole, pioggia, neve e le stagioni."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
@@ -20,7 +35,7 @@
     "nature",
     "weather"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

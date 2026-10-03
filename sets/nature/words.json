@@ -13,6 +13,31 @@
           "alternates": [
             "natura"
           ]
+        },
+        "uk": "природа",
+        "de": {
+          "text": "die Natur",
+          "alternates": [
+            "Natur"
+          ]
+        },
+        "es": {
+          "text": "la naturaleza",
+          "alternates": [
+            "naturaleza"
+          ]
+        },
+        "fr": {
+          "text": "la nature",
+          "alternates": [
+            "nature"
+          ]
+        },
+        "it": {
+          "text": "la natura",
+          "alternates": [
+            "natura"
+          ]
         }
       }
     },
@@ -23,7 +48,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "дерево",
-        "pl": "drzewo"
+        "pl": "drzewo",
+        "uk": "дерево",
+        "de": {
+          "text": "der Baum",
+          "alternates": [
+            "Baum"
+          ]
+        },
+        "es": {
+          "text": "el árbol",
+          "alternates": [
+            "árbol"
+          ]
+        },
+        "fr": {
+          "text": "l'arbre",
+          "alternates": [
+            "arbre"
+          ]
+        },
+        "it": {
+          "text": "l'albero",
+          "alternates": [
+            "albero"
+          ]
+        }
       }
     },
     {
@@ -33,7 +83,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "цветок",
-        "pl": "kwiat"
+        "pl": "kwiat",
+        "uk": "квітка",
+        "de": {
+          "text": "die Blume",
+          "alternates": [
+            "Blume"
+          ]
+        },
+        "es": {
+          "text": "la flor",
+          "alternates": [
+            "flor"
+          ]
+        },
+        "fr": {
+          "text": "la fleur",
+          "alternates": [
+            "fleur"
+          ]
+        },
+        "it": {
+          "text": "il fiore",
+          "alternates": [
+            "fiore"
+          ]
+        }
       }
     },
     {
@@ -43,7 +118,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "трава",
-        "pl": "trawa"
+        "pl": "trawa",
+        "uk": "трава",
+        "de": {
+          "text": "das Gras",
+          "alternates": [
+            "Gras"
+          ]
+        },
+        "es": {
+          "text": "la hierba",
+          "alternates": [
+            "hierba"
+          ]
+        },
+        "fr": {
+          "text": "l'herbe",
+          "alternates": [
+            "herbe"
+          ]
+        },
+        "it": {
+          "text": "l'erba",
+          "alternates": [
+            "erba"
+          ]
+        }
       }
     },
     {
@@ -53,7 +153,37 @@
           "partOfSpeech": "noun"
         },
         "ru": "лист",
-        "pl": "liść"
+        "pl": "liść",
+        "uk": {
+          "text": "листок",
+          "alternates": [
+            "лист"
+          ]
+        },
+        "de": {
+          "text": "das Blatt",
+          "alternates": [
+            "Blatt"
+          ]
+        },
+        "es": {
+          "text": "la hoja",
+          "alternates": [
+            "hoja"
+          ]
+        },
+        "fr": {
+          "text": "la feuille",
+          "alternates": [
+            "feuille"
+          ]
+        },
+        "it": {
+          "text": "la foglia",
+          "alternates": [
+            "foglia"
+          ]
+        }
       }
     },
     {
@@ -66,7 +196,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "лес",
-        "pl": "las"
+        "pl": "las",
+        "uk": "ліс",
+        "de": {
+          "text": "der Wald",
+          "alternates": [
+            "Wald"
+          ]
+        },
+        "es": {
+          "text": "el bosque",
+          "alternates": [
+            "bosque"
+          ]
+        },
+        "fr": {
+          "text": "la forêt",
+          "alternates": [
+            "forêt",
+            "le bois",
+            "bois"
+          ]
+        },
+        "it": {
+          "text": "il bosco",
+          "alternates": [
+            "bosco",
+            "la foresta",
+            "foresta"
+          ]
+        }
       }
     },
     {
@@ -76,7 +235,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "поле",
-        "pl": "pole"
+        "pl": "pole",
+        "uk": "поле",
+        "de": {
+          "text": "das Feld",
+          "alternates": [
+            "Feld"
+          ]
+        },
+        "es": {
+          "text": "el campo",
+          "alternates": [
+            "campo"
+          ]
+        },
+        "fr": {
+          "text": "le champ",
+          "alternates": [
+            "champ"
+          ]
+        },
+        "it": {
+          "text": "il campo",
+          "alternates": [
+            "campo"
+          ]
+        }
       }
     },
     {
@@ -86,7 +270,39 @@
           "partOfSpeech": "noun"
         },
         "ru": "река",
-        "pl": "rzeka"
+        "pl": "rzeka",
+        "uk": {
+          "text": "річка",
+          "alternates": [
+            "ріка"
+          ]
+        },
+        "de": {
+          "text": "der Fluss",
+          "alternates": [
+            "Fluss"
+          ]
+        },
+        "es": {
+          "text": "el río",
+          "alternates": [
+            "río"
+          ]
+        },
+        "fr": {
+          "text": "la rivière",
+          "alternates": [
+            "rivière",
+            "le fleuve",
+            "fleuve"
+          ]
+        },
+        "it": {
+          "text": "il fiume",
+          "alternates": [
+            "fiume"
+          ]
+        }
       }
     },
     {
@@ -96,7 +312,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "озеро",
-        "pl": "jezioro"
+        "pl": "jezioro",
+        "uk": "озеро",
+        "de": {
+          "text": "der See",
+          "alternates": [
+            "See"
+          ]
+        },
+        "es": {
+          "text": "el lago",
+          "alternates": [
+            "lago"
+          ]
+        },
+        "fr": {
+          "text": "le lac",
+          "alternates": [
+            "lac"
+          ]
+        },
+        "it": {
+          "text": "il lago",
+          "alternates": [
+            "lago"
+          ]
+        }
       }
     },
     {
@@ -106,7 +347,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "море",
-        "pl": "morze"
+        "pl": "morze",
+        "uk": "море",
+        "de": {
+          "text": "das Meer",
+          "alternates": [
+            "Meer"
+          ]
+        },
+        "es": {
+          "text": "el mar",
+          "alternates": [
+            "mar"
+          ]
+        },
+        "fr": {
+          "text": "la mer",
+          "alternates": [
+            "mer"
+          ]
+        },
+        "it": {
+          "text": "il mare",
+          "alternates": [
+            "mare"
+          ]
+        }
       }
     },
     {
@@ -116,7 +382,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "пляж",
-        "pl": "plaża"
+        "pl": "plaża",
+        "uk": "пляж",
+        "de": {
+          "text": "der Strand",
+          "alternates": [
+            "Strand"
+          ]
+        },
+        "es": {
+          "text": "la playa",
+          "alternates": [
+            "playa"
+          ]
+        },
+        "fr": {
+          "text": "la plage",
+          "alternates": [
+            "plage"
+          ]
+        },
+        "it": {
+          "text": "la spiaggia",
+          "alternates": [
+            "spiaggia"
+          ]
+        }
       }
     },
     {
@@ -126,7 +417,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "гора",
-        "pl": "góra"
+        "pl": "góra",
+        "uk": "гора",
+        "de": {
+          "text": "der Berg",
+          "alternates": [
+            "Berg"
+          ]
+        },
+        "es": {
+          "text": "la montaña",
+          "alternates": [
+            "montaña"
+          ]
+        },
+        "fr": {
+          "text": "la montagne",
+          "alternates": [
+            "montagne"
+          ]
+        },
+        "it": {
+          "text": "la montagna",
+          "alternates": [
+            "montagna"
+          ]
+        }
       }
     },
     {
@@ -136,7 +452,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "холм",
-        "pl": "wzgórze"
+        "pl": "wzgórze",
+        "uk": "пагорб",
+        "de": {
+          "text": "der Hügel",
+          "alternates": [
+            "Hügel"
+          ]
+        },
+        "es": {
+          "text": "la colina",
+          "alternates": [
+            "colina"
+          ]
+        },
+        "fr": {
+          "text": "la colline",
+          "alternates": [
+            "colline"
+          ]
+        },
+        "it": {
+          "text": "la collina",
+          "alternates": [
+            "collina"
+          ]
+        }
       }
     },
     {
@@ -146,7 +487,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "остров",
-        "pl": "wyspa"
+        "pl": "wyspa",
+        "uk": "острів",
+        "de": {
+          "text": "die Insel",
+          "alternates": [
+            "Insel"
+          ]
+        },
+        "es": {
+          "text": "la isla",
+          "alternates": [
+            "isla"
+          ]
+        },
+        "fr": {
+          "text": "l'île",
+          "alternates": [
+            "île"
+          ]
+        },
+        "it": {
+          "text": "l'isola",
+          "alternates": [
+            "isola"
+          ]
+        }
       }
     },
     {
@@ -156,7 +522,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "небо",
-        "pl": "niebo"
+        "pl": "niebo",
+        "uk": "небо",
+        "de": {
+          "text": "der Himmel",
+          "alternates": [
+            "Himmel"
+          ]
+        },
+        "es": {
+          "text": "el cielo",
+          "alternates": [
+            "cielo"
+          ]
+        },
+        "fr": {
+          "text": "le ciel",
+          "alternates": [
+            "ciel"
+          ]
+        },
+        "it": {
+          "text": "il cielo",
+          "alternates": [
+            "cielo"
+          ]
+        }
       }
     },
     {
@@ -166,7 +557,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "звезда",
-        "pl": "gwiazda"
+        "pl": "gwiazda",
+        "uk": "зірка",
+        "de": {
+          "text": "der Stern",
+          "alternates": [
+            "Stern"
+          ]
+        },
+        "es": {
+          "text": "la estrella",
+          "alternates": [
+            "estrella"
+          ]
+        },
+        "fr": {
+          "text": "l'étoile",
+          "alternates": [
+            "étoile"
+          ]
+        },
+        "it": {
+          "text": "la stella",
+          "alternates": [
+            "stella"
+          ]
+        }
       }
     },
     {
@@ -176,7 +592,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "луна",
-        "pl": "księżyc"
+        "pl": "księżyc",
+        "uk": "місяць",
+        "de": {
+          "text": "der Mond",
+          "alternates": [
+            "Mond"
+          ]
+        },
+        "es": {
+          "text": "la luna",
+          "alternates": [
+            "luna"
+          ]
+        },
+        "fr": {
+          "text": "la lune",
+          "alternates": [
+            "lune"
+          ]
+        },
+        "it": {
+          "text": "la luna",
+          "alternates": [
+            "luna"
+          ]
+        }
       }
     },
     {
@@ -189,7 +630,40 @@
           "partOfSpeech": "noun"
         },
         "ru": "земля",
-        "pl": "ziemia"
+        "pl": "ziemia",
+        "uk": "земля",
+        "de": {
+          "text": "die Erde",
+          "alternates": [
+            "Erde",
+            "der Boden",
+            "Boden"
+          ]
+        },
+        "es": {
+          "text": "la tierra",
+          "alternates": [
+            "tierra",
+            "el suelo",
+            "suelo"
+          ]
+        },
+        "fr": {
+          "text": "la terre",
+          "alternates": [
+            "terre",
+            "le sol",
+            "sol"
+          ]
+        },
+        "it": {
+          "text": "la terra",
+          "alternates": [
+            "terra",
+            "il suolo",
+            "suolo"
+          ]
+        }
       }
     },
     {
@@ -199,7 +673,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "камень",
-        "pl": "kamień"
+        "pl": "kamień",
+        "uk": "камінь",
+        "de": {
+          "text": "der Stein",
+          "alternates": [
+            "Stein"
+          ]
+        },
+        "es": {
+          "text": "la piedra",
+          "alternates": [
+            "piedra"
+          ]
+        },
+        "fr": {
+          "text": "la pierre",
+          "alternates": [
+            "pierre"
+          ]
+        },
+        "it": {
+          "text": "la pietra",
+          "alternates": [
+            "pietra"
+          ]
+        }
       },
       "examples": [
         {
@@ -207,7 +706,12 @@
           "text": "We sat on a big stone by the river.",
           "translations": {
             "ru": "Мы сидели на большом камне у реки.",
-            "pl": "Siedzieliśmy na dużym kamieniu nad rzeką."
+            "pl": "Siedzieliśmy na dużym kamieniu nad rzeką.",
+            "uk": "Ми сиділи на великому камені біля річки.",
+            "de": "Wir saßen auf einem großen Stein am Fluss.",
+            "es": "Nos sentamos en una piedra grande junto al río.",
+            "fr": "Nous étions assis sur une grosse pierre au bord de la rivière.",
+            "it": "Eravamo seduti su una grande pietra vicino al fiume."
           }
         }
       ]

@@ -8,7 +8,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "хлеб",
-        "pl": "chleb"
+        "pl": "chleb",
+        "uk": "хліб",
+        "de": {
+          "text": "das Brot",
+          "alternates": [
+            "Brot"
+          ]
+        },
+        "es": {
+          "text": "el pan",
+          "alternates": [
+            "pan"
+          ]
+        },
+        "fr": {
+          "text": "le pain",
+          "alternates": [
+            "pain"
+          ]
+        },
+        "it": {
+          "text": "il pane",
+          "alternates": [
+            "pane"
+          ]
+        }
       }
     },
     {
@@ -23,7 +48,37 @@
             "масло"
           ]
         },
-        "pl": "masło"
+        "pl": "masło",
+        "uk": {
+          "text": "вершкове масло",
+          "alternates": [
+            "масло"
+          ]
+        },
+        "de": {
+          "text": "die Butter",
+          "alternates": [
+            "Butter"
+          ]
+        },
+        "es": {
+          "text": "la mantequilla",
+          "alternates": [
+            "mantequilla"
+          ]
+        },
+        "fr": {
+          "text": "le beurre",
+          "alternates": [
+            "beurre"
+          ]
+        },
+        "it": {
+          "text": "il burro",
+          "alternates": [
+            "burro"
+          ]
+        }
       }
     },
     {
@@ -33,7 +88,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "сыр",
-        "pl": "ser"
+        "pl": "ser",
+        "uk": "сир",
+        "de": {
+          "text": "der Käse",
+          "alternates": [
+            "Käse"
+          ]
+        },
+        "es": {
+          "text": "el queso",
+          "alternates": [
+            "queso"
+          ]
+        },
+        "fr": {
+          "text": "le fromage",
+          "alternates": [
+            "fromage"
+          ]
+        },
+        "it": {
+          "text": "il formaggio",
+          "alternates": [
+            "formaggio"
+          ]
+        }
       }
     },
     {
@@ -43,7 +123,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "яйцо",
-        "pl": "jajko"
+        "pl": "jajko",
+        "uk": "яйце",
+        "de": {
+          "text": "das Ei",
+          "alternates": [
+            "Ei"
+          ]
+        },
+        "es": {
+          "text": "el huevo",
+          "alternates": [
+            "huevo"
+          ]
+        },
+        "fr": {
+          "text": "l'œuf",
+          "alternates": [
+            "œuf"
+          ]
+        },
+        "it": {
+          "text": "l'uovo",
+          "alternates": [
+            "uovo"
+          ]
+        }
       }
     },
     {
@@ -53,7 +158,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "мясо",
-        "pl": "mięso"
+        "pl": "mięso",
+        "uk": "м'ясо",
+        "de": {
+          "text": "das Fleisch",
+          "alternates": [
+            "Fleisch"
+          ]
+        },
+        "es": {
+          "text": "la carne",
+          "alternates": [
+            "carne"
+          ]
+        },
+        "fr": {
+          "text": "la viande",
+          "alternates": [
+            "viande"
+          ]
+        },
+        "it": {
+          "text": "la carne",
+          "alternates": [
+            "carne"
+          ]
+        }
       }
     },
     {
@@ -63,7 +193,39 @@
           "partOfSpeech": "noun"
         },
         "ru": "курица",
-        "pl": "kurczak"
+        "pl": "kurczak",
+        "uk": {
+          "text": "курка",
+          "alternates": [
+            "курятина"
+          ]
+        },
+        "de": {
+          "text": "das Hähnchen",
+          "alternates": [
+            "Hähnchen",
+            "Huhn",
+            "das Huhn"
+          ]
+        },
+        "es": {
+          "text": "el pollo",
+          "alternates": [
+            "pollo"
+          ]
+        },
+        "fr": {
+          "text": "le poulet",
+          "alternates": [
+            "poulet"
+          ]
+        },
+        "it": {
+          "text": "il pollo",
+          "alternates": [
+            "pollo"
+          ]
+        }
       }
     },
     {
@@ -73,7 +235,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "рыба",
-        "pl": "ryba"
+        "pl": "ryba",
+        "uk": "риба",
+        "de": {
+          "text": "der Fisch",
+          "alternates": [
+            "Fisch"
+          ]
+        },
+        "es": {
+          "text": "el pescado",
+          "alternates": [
+            "pescado"
+          ]
+        },
+        "fr": {
+          "text": "le poisson",
+          "alternates": [
+            "poisson"
+          ]
+        },
+        "it": {
+          "text": "il pesce",
+          "alternates": [
+            "pesce"
+          ]
+        }
       }
     },
     {
@@ -83,7 +270,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "рис",
-        "pl": "ryż"
+        "pl": "ryż",
+        "uk": "рис",
+        "de": {
+          "text": "der Reis",
+          "alternates": [
+            "Reis"
+          ]
+        },
+        "es": {
+          "text": "el arroz",
+          "alternates": [
+            "arroz"
+          ]
+        },
+        "fr": {
+          "text": "le riz",
+          "alternates": [
+            "riz"
+          ]
+        },
+        "it": {
+          "text": "il riso",
+          "alternates": [
+            "riso"
+          ]
+        }
       }
     },
     {
@@ -98,7 +310,34 @@
             "картошка"
           ]
         },
-        "pl": "ziemniak"
+        "pl": "ziemniak",
+        "uk": "картопля",
+        "de": {
+          "text": "die Kartoffel",
+          "alternates": [
+            "Kartoffel"
+          ]
+        },
+        "es": {
+          "text": "la patata",
+          "alternates": [
+            "patata",
+            "papa",
+            "la papa"
+          ]
+        },
+        "fr": {
+          "text": "la pomme de terre",
+          "alternates": [
+            "pomme de terre"
+          ]
+        },
+        "it": {
+          "text": "la patata",
+          "alternates": [
+            "patata"
+          ]
+        }
       }
     },
     {
@@ -108,7 +347,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "суп",
-        "pl": "zupa"
+        "pl": "zupa",
+        "uk": "суп",
+        "de": {
+          "text": "die Suppe",
+          "alternates": [
+            "Suppe"
+          ]
+        },
+        "es": {
+          "text": "la sopa",
+          "alternates": [
+            "sopa"
+          ]
+        },
+        "fr": {
+          "text": "la soupe",
+          "alternates": [
+            "soupe"
+          ]
+        },
+        "it": {
+          "text": "la zuppa",
+          "alternates": [
+            "zuppa",
+            "minestra",
+            "la minestra"
+          ]
+        }
       },
       "examples": [
         {
@@ -116,7 +382,12 @@
           "text": "The soup is too hot.",
           "translations": {
             "ru": "Суп слишком горячий.",
-            "pl": "Zupa jest za gorąca."
+            "pl": "Zupa jest za gorąca.",
+            "uk": "Суп занадто гарячий.",
+            "de": "Die Suppe ist zu heiß.",
+            "es": "La sopa está demasiado caliente.",
+            "fr": "La soupe est trop chaude.",
+            "it": "La zuppa è troppo calda."
           }
         }
       ]
@@ -128,7 +399,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "салат",
-        "pl": "sałatka"
+        "pl": "sałatka",
+        "uk": "салат",
+        "de": {
+          "text": "der Salat",
+          "alternates": [
+            "Salat"
+          ]
+        },
+        "es": {
+          "text": "la ensalada",
+          "alternates": [
+            "ensalada"
+          ]
+        },
+        "fr": {
+          "text": "la salade",
+          "alternates": [
+            "salade"
+          ]
+        },
+        "it": {
+          "text": "l'insalata",
+          "alternates": [
+            "insalata"
+          ]
+        }
       }
     },
     {
@@ -138,7 +434,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "сахар",
-        "pl": "cukier"
+        "pl": "cukier",
+        "uk": "цукор",
+        "de": {
+          "text": "der Zucker",
+          "alternates": [
+            "Zucker"
+          ]
+        },
+        "es": {
+          "text": "el azúcar",
+          "alternates": [
+            "azúcar"
+          ]
+        },
+        "fr": {
+          "text": "le sucre",
+          "alternates": [
+            "sucre"
+          ]
+        },
+        "it": {
+          "text": "lo zucchero",
+          "alternates": [
+            "zucchero"
+          ]
+        }
       }
     },
     {
@@ -148,7 +469,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "соль",
-        "pl": "sól"
+        "pl": "sól",
+        "uk": "сіль",
+        "de": {
+          "text": "das Salz",
+          "alternates": [
+            "Salz"
+          ]
+        },
+        "es": {
+          "text": "la sal",
+          "alternates": [
+            "sal"
+          ]
+        },
+        "fr": {
+          "text": "le sel",
+          "alternates": [
+            "sel"
+          ]
+        },
+        "it": {
+          "text": "il sale",
+          "alternates": [
+            "sale"
+          ]
+        }
       }
     },
     {
@@ -158,7 +504,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "вода",
-        "pl": "woda"
+        "pl": "woda",
+        "uk": "вода",
+        "de": {
+          "text": "das Wasser",
+          "alternates": [
+            "Wasser"
+          ]
+        },
+        "es": {
+          "text": "el agua",
+          "alternates": [
+            "agua"
+          ]
+        },
+        "fr": {
+          "text": "l'eau",
+          "alternates": [
+            "eau"
+          ]
+        },
+        "it": {
+          "text": "l'acqua",
+          "alternates": [
+            "acqua"
+          ]
+        }
       }
     },
     {
@@ -168,7 +539,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "молоко",
-        "pl": "mleko"
+        "pl": "mleko",
+        "uk": "молоко",
+        "de": {
+          "text": "die Milch",
+          "alternates": [
+            "Milch"
+          ]
+        },
+        "es": {
+          "text": "la leche",
+          "alternates": [
+            "leche"
+          ]
+        },
+        "fr": {
+          "text": "le lait",
+          "alternates": [
+            "lait"
+          ]
+        },
+        "it": {
+          "text": "il latte",
+          "alternates": [
+            "latte"
+          ]
+        }
       }
     },
     {
@@ -178,7 +574,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "кофе",
-        "pl": "kawa"
+        "pl": "kawa",
+        "uk": "кава",
+        "de": {
+          "text": "der Kaffee",
+          "alternates": [
+            "Kaffee"
+          ]
+        },
+        "es": {
+          "text": "el café",
+          "alternates": [
+            "café"
+          ]
+        },
+        "fr": {
+          "text": "le café",
+          "alternates": [
+            "café"
+          ]
+        },
+        "it": {
+          "text": "il caffè",
+          "alternates": [
+            "caffè"
+          ]
+        }
       }
     },
     {
@@ -188,7 +609,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "чай",
-        "pl": "herbata"
+        "pl": "herbata",
+        "uk": "чай",
+        "de": {
+          "text": "der Tee",
+          "alternates": [
+            "Tee"
+          ]
+        },
+        "es": {
+          "text": "el té",
+          "alternates": [
+            "té"
+          ]
+        },
+        "fr": {
+          "text": "le thé",
+          "alternates": [
+            "thé"
+          ]
+        },
+        "it": {
+          "text": "il tè",
+          "alternates": [
+            "tè"
+          ]
+        }
       }
     },
     {
@@ -198,7 +644,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "сок",
-        "pl": "sok"
+        "pl": "sok",
+        "uk": "сік",
+        "de": {
+          "text": "der Saft",
+          "alternates": [
+            "Saft"
+          ]
+        },
+        "es": {
+          "text": "el zumo",
+          "alternates": [
+            "zumo",
+            "jugo",
+            "el jugo"
+          ]
+        },
+        "fr": {
+          "text": "le jus",
+          "alternates": [
+            "jus"
+          ]
+        },
+        "it": {
+          "text": "il succo",
+          "alternates": [
+            "succo"
+          ]
+        }
       }
     },
     {
@@ -208,7 +681,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "пиво",
-        "pl": "piwo"
+        "pl": "piwo",
+        "uk": "пиво",
+        "de": {
+          "text": "das Bier",
+          "alternates": [
+            "Bier"
+          ]
+        },
+        "es": {
+          "text": "la cerveza",
+          "alternates": [
+            "cerveza"
+          ]
+        },
+        "fr": {
+          "text": "la bière",
+          "alternates": [
+            "bière"
+          ]
+        },
+        "it": {
+          "text": "la birra",
+          "alternates": [
+            "birra"
+          ]
+        }
       }
     },
     {
@@ -218,7 +716,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "вино",
-        "pl": "wino"
+        "pl": "wino",
+        "uk": "вино",
+        "de": {
+          "text": "der Wein",
+          "alternates": [
+            "Wein"
+          ]
+        },
+        "es": {
+          "text": "el vino",
+          "alternates": [
+            "vino"
+          ]
+        },
+        "fr": {
+          "text": "le vin",
+          "alternates": [
+            "vin"
+          ]
+        },
+        "it": {
+          "text": "il vino",
+          "alternates": [
+            "vino"
+          ]
+        }
       }
     },
     {
@@ -228,7 +751,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "завтрак",
-        "pl": "śniadanie"
+        "pl": "śniadanie",
+        "uk": "сніданок",
+        "de": {
+          "text": "das Frühstück",
+          "alternates": [
+            "Frühstück"
+          ]
+        },
+        "es": {
+          "text": "el desayuno",
+          "alternates": [
+            "desayuno"
+          ]
+        },
+        "fr": {
+          "text": "le petit-déjeuner",
+          "alternates": [
+            "petit-déjeuner"
+          ]
+        },
+        "it": {
+          "text": "la colazione",
+          "alternates": [
+            "colazione"
+          ]
+        }
       }
     },
     {
@@ -243,6 +791,33 @@
           "alternates": [
             "lunch"
           ]
+        },
+        "uk": "обід",
+        "de": {
+          "text": "das Mittagessen",
+          "alternates": [
+            "Mittagessen"
+          ]
+        },
+        "es": {
+          "text": "el almuerzo",
+          "alternates": [
+            "almuerzo",
+            "comida",
+            "la comida"
+          ]
+        },
+        "fr": {
+          "text": "le déjeuner",
+          "alternates": [
+            "déjeuner"
+          ]
+        },
+        "it": {
+          "text": "il pranzo",
+          "alternates": [
+            "pranzo"
+          ]
         }
       }
     },
@@ -256,7 +831,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "ужин",
-        "pl": "kolacja"
+        "pl": "kolacja",
+        "uk": "вечеря",
+        "de": {
+          "text": "das Abendessen",
+          "alternates": [
+            "Abendessen"
+          ]
+        },
+        "es": {
+          "text": "la cena",
+          "alternates": [
+            "cena"
+          ]
+        },
+        "fr": {
+          "text": "le dîner",
+          "alternates": [
+            "dîner"
+          ]
+        },
+        "it": {
+          "text": "la cena",
+          "alternates": [
+            "cena"
+          ]
+        }
       },
       "examples": [
         {
@@ -264,7 +864,12 @@
           "text": "We have dinner at seven.",
           "translations": {
             "ru": "Мы ужинаем в семь.",
-            "pl": "Jemy kolację o siódmej."
+            "pl": "Jemy kolację o siódmej.",
+            "uk": "Ми вечеряємо о сьомій.",
+            "de": "Wir essen um sieben Uhr zu Abend.",
+            "es": "Cenamos a las siete.",
+            "fr": "Nous dînons à sept heures.",
+            "it": "Ceniamo alle sette."
           }
         }
       ]

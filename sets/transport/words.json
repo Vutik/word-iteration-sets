@@ -13,7 +13,40 @@
             "автомобиль"
           ]
         },
-        "pl": "samochód"
+        "pl": "samochód",
+        "uk": {
+          "text": "машина",
+          "alternates": [
+            "автомобіль"
+          ]
+        },
+        "de": {
+          "text": "das Auto",
+          "alternates": [
+            "Auto",
+            "der Wagen"
+          ]
+        },
+        "es": {
+          "text": "el coche",
+          "alternates": [
+            "coche",
+            "el carro"
+          ]
+        },
+        "fr": {
+          "text": "la voiture",
+          "alternates": [
+            "voiture"
+          ]
+        },
+        "it": {
+          "text": "la macchina",
+          "alternates": [
+            "macchina",
+            "l'auto"
+          ]
+        }
       }
     },
     {
@@ -23,7 +56,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "автобус",
-        "pl": "autobus"
+        "pl": "autobus",
+        "uk": "автобус",
+        "de": {
+          "text": "der Bus",
+          "alternates": [
+            "Bus"
+          ]
+        },
+        "es": {
+          "text": "el autobús",
+          "alternates": [
+            "autobús"
+          ]
+        },
+        "fr": {
+          "text": "le bus",
+          "alternates": [
+            "bus",
+            "l'autobus"
+          ]
+        },
+        "it": {
+          "text": "l'autobus",
+          "alternates": [
+            "autobus",
+            "il bus"
+          ]
+        }
       }
     },
     {
@@ -33,7 +93,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "трамвай",
-        "pl": "tramwaj"
+        "pl": "tramwaj",
+        "uk": "трамвай",
+        "de": {
+          "text": "die Straßenbahn",
+          "alternates": [
+            "Straßenbahn"
+          ]
+        },
+        "es": {
+          "text": "el tranvía",
+          "alternates": [
+            "tranvía"
+          ]
+        },
+        "fr": {
+          "text": "le tramway",
+          "alternates": [
+            "tramway",
+            "le tram"
+          ]
+        },
+        "it": {
+          "text": "il tram",
+          "alternates": [
+            "tram"
+          ]
+        }
       }
     },
     {
@@ -47,7 +133,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "метро",
-        "pl": "metro"
+        "pl": "metro",
+        "uk": "метро",
+        "de": {
+          "text": "die U-Bahn",
+          "alternates": [
+            "U-Bahn"
+          ]
+        },
+        "es": {
+          "text": "el metro",
+          "alternates": [
+            "metro"
+          ]
+        },
+        "fr": {
+          "text": "le métro",
+          "alternates": [
+            "métro"
+          ]
+        },
+        "it": {
+          "text": "la metropolitana",
+          "alternates": [
+            "metropolitana",
+            "la metro"
+          ]
+        }
       }
     },
     {
@@ -57,7 +169,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "поезд",
-        "pl": "pociąg"
+        "pl": "pociąg",
+        "uk": "потяг",
+        "de": {
+          "text": "der Zug",
+          "alternates": [
+            "Zug"
+          ]
+        },
+        "es": {
+          "text": "el tren",
+          "alternates": [
+            "tren"
+          ]
+        },
+        "fr": {
+          "text": "le train",
+          "alternates": [
+            "train"
+          ]
+        },
+        "it": {
+          "text": "il treno",
+          "alternates": [
+            "treno"
+          ]
+        }
       }
     },
     {
@@ -67,7 +204,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "самолёт",
-        "pl": "samolot"
+        "pl": "samolot",
+        "uk": "літак",
+        "de": {
+          "text": "das Flugzeug",
+          "alternates": [
+            "Flugzeug"
+          ]
+        },
+        "es": {
+          "text": "el avión",
+          "alternates": [
+            "avión"
+          ]
+        },
+        "fr": {
+          "text": "l'avion",
+          "alternates": [
+            "avion"
+          ]
+        },
+        "it": {
+          "text": "l'aereo",
+          "alternates": [
+            "aereo"
+          ]
+        }
       }
     },
     {
@@ -77,7 +239,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "корабль",
-        "pl": "statek"
+        "pl": "statek",
+        "uk": "корабель",
+        "de": {
+          "text": "das Schiff",
+          "alternates": [
+            "Schiff"
+          ]
+        },
+        "es": {
+          "text": "el barco",
+          "alternates": [
+            "barco"
+          ]
+        },
+        "fr": {
+          "text": "le bateau",
+          "alternates": [
+            "bateau",
+            "le navire"
+          ]
+        },
+        "it": {
+          "text": "la nave",
+          "alternates": [
+            "nave"
+          ]
+        }
       }
     },
     {
@@ -90,7 +278,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "велосипед",
-        "pl": "rower"
+        "pl": "rower",
+        "uk": "велосипед",
+        "de": {
+          "text": "das Fahrrad",
+          "alternates": [
+            "Fahrrad",
+            "das Rad"
+          ]
+        },
+        "es": {
+          "text": "la bicicleta",
+          "alternates": [
+            "bicicleta",
+            "la bici"
+          ]
+        },
+        "fr": {
+          "text": "le vélo",
+          "alternates": [
+            "vélo",
+            "la bicyclette"
+          ]
+        },
+        "it": {
+          "text": "la bicicletta",
+          "alternates": [
+            "bicicletta",
+            "la bici"
+          ]
+        }
       }
     },
     {
@@ -100,7 +317,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "такси",
-        "pl": "taksówka"
+        "pl": "taksówka",
+        "uk": "таксі",
+        "de": {
+          "text": "das Taxi",
+          "alternates": [
+            "Taxi"
+          ]
+        },
+        "es": {
+          "text": "el taxi",
+          "alternates": [
+            "taxi"
+          ]
+        },
+        "fr": {
+          "text": "le taxi",
+          "alternates": [
+            "taxi"
+          ]
+        },
+        "it": {
+          "text": "il taxi",
+          "alternates": [
+            "taxi"
+          ]
+        }
       }
     },
     {
@@ -110,7 +352,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "билет",
-        "pl": "bilet"
+        "pl": "bilet",
+        "uk": "квиток",
+        "de": {
+          "text": "die Fahrkarte",
+          "alternates": [
+            "Fahrkarte",
+            "das Ticket"
+          ]
+        },
+        "es": {
+          "text": "el billete",
+          "alternates": [
+            "billete",
+            "el boleto"
+          ]
+        },
+        "fr": {
+          "text": "le billet",
+          "alternates": [
+            "billet"
+          ]
+        },
+        "it": {
+          "text": "il biglietto",
+          "alternates": [
+            "biglietto"
+          ]
+        }
       },
       "examples": [
         {
@@ -118,7 +387,12 @@
           "text": "A return ticket, please.",
           "translations": {
             "ru": "Билет туда и обратно, пожалуйста.",
-            "pl": "Poproszę bilet w obie strony."
+            "pl": "Poproszę bilet w obie strony.",
+            "uk": "Квиток туди й назад, будь ласка.",
+            "de": "Eine Hin- und Rückfahrkarte, bitte.",
+            "es": "Un billete de ida y vuelta, por favor.",
+            "fr": "Un billet aller-retour, s'il vous plaît.",
+            "it": "Un biglietto di andata e ritorno, per favore."
           }
         }
       ]
@@ -130,7 +404,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "остановка",
-        "pl": "przystanek"
+        "pl": "przystanek",
+        "uk": "зупинка",
+        "de": {
+          "text": "die Haltestelle",
+          "alternates": [
+            "Haltestelle"
+          ]
+        },
+        "es": {
+          "text": "la parada",
+          "alternates": [
+            "parada"
+          ]
+        },
+        "fr": {
+          "text": "l'arrêt",
+          "alternates": [
+            "arrêt"
+          ]
+        },
+        "it": {
+          "text": "la fermata",
+          "alternates": [
+            "fermata"
+          ]
+        }
       }
     },
     {
@@ -150,6 +449,38 @@
           "alternates": [
             "stacja"
           ]
+        },
+        "uk": {
+          "text": "вокзал",
+          "alternates": [
+            "станція"
+          ]
+        },
+        "de": {
+          "text": "der Bahnhof",
+          "alternates": [
+            "Bahnhof",
+            "die Station"
+          ]
+        },
+        "es": {
+          "text": "la estación",
+          "alternates": [
+            "estación"
+          ]
+        },
+        "fr": {
+          "text": "la gare",
+          "alternates": [
+            "gare",
+            "la station"
+          ]
+        },
+        "it": {
+          "text": "la stazione",
+          "alternates": [
+            "stazione"
+          ]
         }
       }
     },
@@ -160,7 +491,39 @@
           "partOfSpeech": "noun"
         },
         "ru": "платформа",
-        "pl": "peron"
+        "pl": "peron",
+        "uk": {
+          "text": "платформа",
+          "alternates": [
+            "перон"
+          ]
+        },
+        "de": {
+          "text": "der Bahnsteig",
+          "alternates": [
+            "Bahnsteig",
+            "das Gleis"
+          ]
+        },
+        "es": {
+          "text": "el andén",
+          "alternates": [
+            "andén"
+          ]
+        },
+        "fr": {
+          "text": "le quai",
+          "alternates": [
+            "quai"
+          ]
+        },
+        "it": {
+          "text": "il binario",
+          "alternates": [
+            "binario",
+            "la banchina"
+          ]
+        }
       }
     },
     {
@@ -173,7 +536,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "расписание",
-        "pl": "rozkład jazdy"
+        "pl": "rozkład jazdy",
+        "uk": "розклад",
+        "de": {
+          "text": "der Fahrplan",
+          "alternates": [
+            "Fahrplan"
+          ]
+        },
+        "es": {
+          "text": "el horario",
+          "alternates": [
+            "horario"
+          ]
+        },
+        "fr": {
+          "text": "l'horaire",
+          "alternates": [
+            "horaire",
+            "les horaires",
+            "horaires"
+          ]
+        },
+        "it": {
+          "text": "l'orario",
+          "alternates": [
+            "orario"
+          ]
+        }
       }
     },
     {
@@ -183,7 +573,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "дорога",
-        "pl": "droga"
+        "pl": "droga",
+        "uk": "дорога",
+        "de": {
+          "text": "die Straße",
+          "alternates": [
+            "Straße"
+          ]
+        },
+        "es": {
+          "text": "la carretera",
+          "alternates": [
+            "carretera",
+            "el camino"
+          ]
+        },
+        "fr": {
+          "text": "la route",
+          "alternates": [
+            "route"
+          ]
+        },
+        "it": {
+          "text": "la strada",
+          "alternates": [
+            "strada"
+          ]
+        }
       }
     },
     {
@@ -193,7 +609,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "пробка",
-        "pl": "korek"
+        "pl": "korek",
+        "uk": "затор",
+        "de": {
+          "text": "der Stau",
+          "alternates": [
+            "Stau"
+          ]
+        },
+        "es": {
+          "text": "el atasco",
+          "alternates": [
+            "atasco",
+            "el embotellamiento"
+          ]
+        },
+        "fr": {
+          "text": "l'embouteillage",
+          "alternates": [
+            "embouteillage",
+            "le bouchon"
+          ]
+        },
+        "it": {
+          "text": "l'ingorgo",
+          "alternates": [
+            "ingorgo"
+          ]
+        }
       }
     },
     {
@@ -203,7 +646,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "пассажир",
-        "pl": "pasażer"
+        "pl": "pasażer",
+        "uk": "пасажир",
+        "de": {
+          "text": "der Passagier",
+          "alternates": [
+            "Passagier",
+            "der Fahrgast"
+          ]
+        },
+        "es": {
+          "text": "el pasajero",
+          "alternates": [
+            "pasajero"
+          ]
+        },
+        "fr": {
+          "text": "le passager",
+          "alternates": [
+            "passager"
+          ]
+        },
+        "it": {
+          "text": "il passeggero",
+          "alternates": [
+            "passeggero"
+          ]
+        }
       }
     },
     {
@@ -223,7 +692,22 @@
           "alternates": [
             "jechać"
           ]
-        }
+        },
+        "uk": {
+          "text": "водити",
+          "alternates": [
+            "їхати"
+          ]
+        },
+        "de": "fahren",
+        "es": {
+          "text": "conducir",
+          "alternates": [
+            "manejar"
+          ]
+        },
+        "fr": "conduire",
+        "it": "guidare"
       }
     },
     {
@@ -233,7 +717,17 @@
           "partOfSpeech": "verb"
         },
         "ru": "садиться",
-        "pl": "wsiadać"
+        "pl": "wsiadać",
+        "uk": "сідати",
+        "de": "einsteigen",
+        "es": {
+          "text": "subir",
+          "alternates": [
+            "subirse"
+          ]
+        },
+        "fr": "monter",
+        "it": "salire"
       }
     },
     {
@@ -243,7 +737,17 @@
           "partOfSpeech": "verb"
         },
         "ru": "выходить",
-        "pl": "wysiadać"
+        "pl": "wysiadać",
+        "uk": "виходити",
+        "de": "aussteigen",
+        "es": {
+          "text": "bajar",
+          "alternates": [
+            "bajarse"
+          ]
+        },
+        "fr": "descendre",
+        "it": "scendere"
       },
       "examples": [
         {
@@ -251,7 +755,12 @@
           "text": "We get off at the next stop.",
           "translations": {
             "ru": "Мы выходим на следующей остановке.",
-            "pl": "Wysiadamy na następnym przystanku."
+            "pl": "Wysiadamy na następnym przystanku.",
+            "uk": "Ми виходимо на наступній зупинці.",
+            "de": "Wir steigen an der nächsten Haltestelle aus.",
+            "es": "Nos bajamos en la próxima parada.",
+            "fr": "Nous descendons au prochain arrêt.",
+            "it": "Scendiamo alla prossima fermata."
           }
         }
       ]
@@ -268,7 +777,27 @@
             "пересаживаться"
           ]
         },
-        "pl": "przesiadać się"
+        "pl": "przesiadać się",
+        "uk": {
+          "text": "робити пересадку",
+          "alternates": [
+            "пересідати"
+          ]
+        },
+        "de": "umsteigen",
+        "es": {
+          "text": "hacer transbordo",
+          "alternates": [
+            "transbordar"
+          ]
+        },
+        "fr": {
+          "text": "changer",
+          "alternates": [
+            "faire une correspondance"
+          ]
+        },
+        "it": "cambiare"
       }
     }
   ]

@@ -9,7 +9,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "яблоко",
-        "pl": "jabłko"
+        "pl": "jabłko",
+        "uk": "яблуко",
+        "de": {
+          "text": "der Apfel",
+          "alternates": [
+            "Apfel"
+          ]
+        },
+        "es": {
+          "text": "la manzana",
+          "alternates": [
+            "manzana"
+          ]
+        },
+        "fr": {
+          "text": "la pomme",
+          "alternates": [
+            "pomme"
+          ]
+        },
+        "it": {
+          "text": "la mela",
+          "alternates": [
+            "mela"
+          ]
+        }
       },
       "examples": [
         {
@@ -17,7 +42,12 @@
           "text": "I eat an apple every day.",
           "translations": {
             "ru": "Я ем яблоко каждый день.",
-            "pl": "Codziennie jem jabłko."
+            "pl": "Codziennie jem jabłko.",
+            "uk": "Я їм яблуко щодня.",
+            "de": "Ich esse jeden Tag einen Apfel.",
+            "es": "Como una manzana todos los días.",
+            "fr": "Je mange une pomme tous les jours.",
+            "it": "Mangio una mela ogni giorno."
           }
         }
       ]
@@ -30,7 +60,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "банан",
-        "pl": "banan"
+        "pl": "banan",
+        "uk": "банан",
+        "de": {
+          "text": "die Banane",
+          "alternates": [
+            "Banane"
+          ]
+        },
+        "es": {
+          "text": "el plátano",
+          "alternates": [
+            "plátano",
+            "banana",
+            "la banana"
+          ]
+        },
+        "fr": {
+          "text": "la banane",
+          "alternates": [
+            "banane"
+          ]
+        },
+        "it": {
+          "text": "la banana",
+          "alternates": [
+            "banana"
+          ]
+        }
       }
     },
     {
@@ -41,7 +98,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "груша",
-        "pl": "gruszka"
+        "pl": "gruszka",
+        "uk": "груша",
+        "de": {
+          "text": "die Birne",
+          "alternates": [
+            "Birne"
+          ]
+        },
+        "es": {
+          "text": "la pera",
+          "alternates": [
+            "pera"
+          ]
+        },
+        "fr": {
+          "text": "la poire",
+          "alternates": [
+            "poire"
+          ]
+        },
+        "it": {
+          "text": "la pera",
+          "alternates": [
+            "pera"
+          ]
+        }
       }
     },
     {
@@ -52,7 +134,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "апельсин",
-        "pl": "pomarańcza"
+        "pl": "pomarańcza",
+        "uk": "апельсин",
+        "de": {
+          "text": "die Orange",
+          "alternates": [
+            "Orange",
+            "Apfelsine",
+            "die Apfelsine"
+          ]
+        },
+        "es": {
+          "text": "la naranja",
+          "alternates": [
+            "naranja"
+          ]
+        },
+        "fr": {
+          "text": "l'orange",
+          "alternates": [
+            "orange"
+          ]
+        },
+        "it": {
+          "text": "l'arancia",
+          "alternates": [
+            "arancia"
+          ]
+        }
       },
       "examples": [
         {
@@ -60,7 +169,12 @@
           "text": "Would you like some orange juice?",
           "translations": {
             "ru": "Хочешь апельсинового сока?",
-            "pl": "Chcesz soku pomarańczowego?"
+            "pl": "Chcesz soku pomarańczowego?",
+            "uk": "Хочеш апельсинового соку?",
+            "de": "Möchtest du etwas Orangensaft?",
+            "es": "¿Quieres un poco de zumo de naranja?",
+            "fr": "Tu veux du jus d'orange ?",
+            "it": "Vuoi del succo d'arancia?"
           }
         }
       ]
@@ -73,7 +187,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "лимон",
-        "pl": "cytryna"
+        "pl": "cytryna",
+        "uk": "лимон",
+        "de": {
+          "text": "die Zitrone",
+          "alternates": [
+            "Zitrone"
+          ]
+        },
+        "es": {
+          "text": "el limón",
+          "alternates": [
+            "limón"
+          ]
+        },
+        "fr": {
+          "text": "le citron",
+          "alternates": [
+            "citron"
+          ]
+        },
+        "it": {
+          "text": "il limone",
+          "alternates": [
+            "limone"
+          ]
+        }
       }
     },
     {
@@ -84,7 +223,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "виноград",
-        "pl": "winogrona"
+        "pl": "winogrona",
+        "uk": "виноград",
+        "de": {
+          "text": "die Trauben",
+          "alternates": [
+            "Trauben",
+            "Weintrauben",
+            "die Weintrauben"
+          ]
+        },
+        "es": {
+          "text": "las uvas",
+          "alternates": [
+            "uvas"
+          ]
+        },
+        "fr": {
+          "text": "les raisins",
+          "alternates": [
+            "raisins"
+          ]
+        },
+        "it": {
+          "text": "l'uva",
+          "alternates": [
+            "uva"
+          ]
+        }
       }
     },
     {
@@ -105,6 +271,36 @@
           "alternates": [
             "czereśnia"
           ]
+        },
+        "uk": {
+          "text": "вишня",
+          "alternates": [
+            "черешня"
+          ]
+        },
+        "de": {
+          "text": "die Kirsche",
+          "alternates": [
+            "Kirsche"
+          ]
+        },
+        "es": {
+          "text": "la cereza",
+          "alternates": [
+            "cereza"
+          ]
+        },
+        "fr": {
+          "text": "la cerise",
+          "alternates": [
+            "cerise"
+          ]
+        },
+        "it": {
+          "text": "la ciliegia",
+          "alternates": [
+            "ciliegia"
+          ]
         }
       }
     },
@@ -116,7 +312,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "клубника",
-        "pl": "truskawka"
+        "pl": "truskawka",
+        "uk": "полуниця",
+        "de": {
+          "text": "die Erdbeere",
+          "alternates": [
+            "Erdbeere"
+          ]
+        },
+        "es": {
+          "text": "la fresa",
+          "alternates": [
+            "fresa"
+          ]
+        },
+        "fr": {
+          "text": "la fraise",
+          "alternates": [
+            "fraise"
+          ]
+        },
+        "it": {
+          "text": "la fragola",
+          "alternates": [
+            "fragola"
+          ]
+        }
       },
       "examples": [
         {
@@ -124,7 +345,12 @@
           "text": "Truskawki są najlepsze w czerwcu.",
           "translations": {
             "en": "Strawberries are best in June.",
-            "ru": "Клубника лучше всего в июне."
+            "ru": "Клубника лучше всего в июне.",
+            "uk": "Полуниця найкраща в червні.",
+            "de": "Erdbeeren sind im Juni am besten.",
+            "es": "Las fresas están mejores en junio.",
+            "fr": "Les fraises sont meilleures en juin.",
+            "it": "Le fragole sono più buone a giugno."
           }
         }
       ]
@@ -137,7 +363,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "слива",
-        "pl": "śliwka"
+        "pl": "śliwka",
+        "uk": "слива",
+        "de": {
+          "text": "die Pflaume",
+          "alternates": [
+            "Pflaume"
+          ]
+        },
+        "es": {
+          "text": "la ciruela",
+          "alternates": [
+            "ciruela"
+          ]
+        },
+        "fr": {
+          "text": "la prune",
+          "alternates": [
+            "prune"
+          ]
+        },
+        "it": {
+          "text": "la prugna",
+          "alternates": [
+            "prugna"
+          ]
+        }
       }
     },
     {
@@ -148,7 +399,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "персик",
-        "pl": "brzoskwinia"
+        "pl": "brzoskwinia",
+        "uk": "персик",
+        "de": {
+          "text": "der Pfirsich",
+          "alternates": [
+            "Pfirsich"
+          ]
+        },
+        "es": {
+          "text": "el melocotón",
+          "alternates": [
+            "melocotón",
+            "durazno",
+            "el durazno"
+          ]
+        },
+        "fr": {
+          "text": "la pêche",
+          "alternates": [
+            "pêche"
+          ]
+        },
+        "it": {
+          "text": "la pesca",
+          "alternates": [
+            "pesca"
+          ]
+        }
       }
     },
     {
@@ -159,7 +437,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "арбуз",
-        "pl": "arbuz"
+        "pl": "arbuz",
+        "uk": "кавун",
+        "de": {
+          "text": "die Wassermelone",
+          "alternates": [
+            "Wassermelone"
+          ]
+        },
+        "es": {
+          "text": "la sandía",
+          "alternates": [
+            "sandía"
+          ]
+        },
+        "fr": {
+          "text": "la pastèque",
+          "alternates": [
+            "pastèque"
+          ]
+        },
+        "it": {
+          "text": "l'anguria",
+          "alternates": [
+            "anguria",
+            "cocomero",
+            "il cocomero"
+          ]
+        }
       }
     },
     {
@@ -170,7 +475,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "ананас",
-        "pl": "ananas"
+        "pl": "ananas",
+        "uk": "ананас",
+        "de": {
+          "text": "die Ananas",
+          "alternates": [
+            "Ananas"
+          ]
+        },
+        "es": {
+          "text": "la piña",
+          "alternates": [
+            "piña"
+          ]
+        },
+        "fr": {
+          "text": "l'ananas",
+          "alternates": [
+            "ananas"
+          ]
+        },
+        "it": {
+          "text": "l'ananas",
+          "alternates": [
+            "ananas"
+          ]
+        }
       }
     }
   ]

@@ -13,7 +13,43 @@
             "домашние дела"
           ]
         },
-        "pl": "prace domowe"
+        "pl": "prace domowe",
+        "uk": {
+          "text": "хатня робота",
+          "alternates": [
+            "домашні справи"
+          ]
+        },
+        "de": {
+          "text": "die Hausarbeit",
+          "alternates": [
+            "Hausarbeit"
+          ]
+        },
+        "es": {
+          "text": "las tareas domésticas",
+          "alternates": [
+            "s tareas domésticas",
+            "las tareas del hogar",
+            "s tareas del hogar"
+          ]
+        },
+        "fr": {
+          "text": "les tâches ménagères",
+          "alternates": [
+            "s tâches ménagères",
+            "le ménage",
+            "ménage"
+          ]
+        },
+        "it": {
+          "text": "le faccende domestiche",
+          "alternates": [
+            "faccende domestiche",
+            "i lavori di casa",
+            "lavori di casa"
+          ]
+        }
       }
     },
     {
@@ -23,7 +59,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "пыль",
-        "pl": "kurz"
+        "pl": "kurz",
+        "uk": "пил",
+        "de": {
+          "text": "der Staub",
+          "alternates": [
+            "Staub"
+          ]
+        },
+        "es": {
+          "text": "el polvo",
+          "alternates": [
+            "polvo"
+          ]
+        },
+        "fr": {
+          "text": "la poussière",
+          "alternates": [
+            "poussière"
+          ]
+        },
+        "it": {
+          "text": "la polvere",
+          "alternates": [
+            "polvere"
+          ]
+        }
       }
     },
     {
@@ -33,7 +94,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "пылесос",
-        "pl": "odkurzacz"
+        "pl": "odkurzacz",
+        "uk": "пилосос",
+        "de": {
+          "text": "der Staubsauger",
+          "alternates": [
+            "Staubsauger"
+          ]
+        },
+        "es": {
+          "text": "la aspiradora",
+          "alternates": [
+            "aspiradora"
+          ]
+        },
+        "fr": {
+          "text": "l'aspirateur",
+          "alternates": [
+            "aspirateur"
+          ]
+        },
+        "it": {
+          "text": "l'aspirapolvere",
+          "alternates": [
+            "aspirapolvere"
+          ]
+        }
       }
     },
     {
@@ -43,7 +129,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "стиральная машина",
-        "pl": "pralka"
+        "pl": "pralka",
+        "uk": "пральна машина",
+        "de": {
+          "text": "die Waschmaschine",
+          "alternates": [
+            "Waschmaschine"
+          ]
+        },
+        "es": {
+          "text": "la lavadora",
+          "alternates": [
+            "lavadora"
+          ]
+        },
+        "fr": {
+          "text": "la machine à laver",
+          "alternates": [
+            "machine à laver",
+            "le lave-linge",
+            "lave-linge"
+          ]
+        },
+        "it": {
+          "text": "la lavatrice",
+          "alternates": [
+            "lavatrice"
+          ]
+        }
       }
     },
     {
@@ -53,7 +166,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "посудомоечная машина",
-        "pl": "zmywarka"
+        "pl": "zmywarka",
+        "uk": "посудомийна машина",
+        "de": {
+          "text": "der Geschirrspüler",
+          "alternates": [
+            "Geschirrspüler",
+            "die Spülmaschine",
+            "Spülmaschine"
+          ]
+        },
+        "es": {
+          "text": "el lavavajillas",
+          "alternates": [
+            "lavavajillas",
+            "el lavaplatos",
+            "lavaplatos"
+          ]
+        },
+        "fr": {
+          "text": "le lave-vaisselle",
+          "alternates": [
+            "lave-vaisselle"
+          ]
+        },
+        "it": {
+          "text": "la lavastoviglie",
+          "alternates": [
+            "lavastoviglie"
+          ]
+        }
       }
     },
     {
@@ -63,7 +205,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "утюг",
-        "pl": "żelazko"
+        "pl": "żelazko",
+        "uk": "праска",
+        "de": {
+          "text": "das Bügeleisen",
+          "alternates": [
+            "Bügeleisen"
+          ]
+        },
+        "es": {
+          "text": "la plancha",
+          "alternates": [
+            "plancha"
+          ]
+        },
+        "fr": {
+          "text": "le fer à repasser",
+          "alternates": [
+            "fer à repasser"
+          ]
+        },
+        "it": {
+          "text": "il ferro da stiro",
+          "alternates": [
+            "ferro da stiro"
+          ]
+        }
       }
     },
     {
@@ -81,7 +248,41 @@
             "бельё"
           ]
         },
-        "pl": "pranie"
+        "pl": "pranie",
+        "uk": {
+          "text": "прання",
+          "alternates": [
+            "білизна"
+          ]
+        },
+        "de": {
+          "text": "die Wäsche",
+          "alternates": [
+            "Wäsche"
+          ]
+        },
+        "es": {
+          "text": "la colada",
+          "alternates": [
+            "colada",
+            "la ropa sucia",
+            "ropa sucia"
+          ]
+        },
+        "fr": {
+          "text": "le linge",
+          "alternates": [
+            "linge",
+            "la lessive",
+            "lessive"
+          ]
+        },
+        "it": {
+          "text": "il bucato",
+          "alternates": [
+            "bucato"
+          ]
+        }
       }
     },
     {
@@ -94,7 +295,43 @@
           "partOfSpeech": "noun"
         },
         "ru": "мусорное ведро",
-        "pl": "kosz na śmieci"
+        "pl": "kosz na śmieci",
+        "uk": {
+          "text": "сміттєве відро",
+          "alternates": [
+            "смітник"
+          ]
+        },
+        "de": {
+          "text": "der Mülleimer",
+          "alternates": [
+            "Mülleimer",
+            "die Mülltonne",
+            "Mülltonne"
+          ]
+        },
+        "es": {
+          "text": "el cubo de la basura",
+          "alternates": [
+            "cubo de la basura",
+            "el cubo de basura",
+            "cubo de basura"
+          ]
+        },
+        "fr": {
+          "text": "la poubelle",
+          "alternates": [
+            "poubelle"
+          ]
+        },
+        "it": {
+          "text": "la pattumiera",
+          "alternates": [
+            "pattumiera",
+            "il bidone della spazzatura",
+            "bidone della spazzatura"
+          ]
+        }
       }
     },
     {
@@ -107,7 +344,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "кран",
-        "pl": "kran"
+        "pl": "kran",
+        "uk": "кран",
+        "de": {
+          "text": "der Wasserhahn",
+          "alternates": [
+            "Wasserhahn"
+          ]
+        },
+        "es": {
+          "text": "el grifo",
+          "alternates": [
+            "grifo"
+          ]
+        },
+        "fr": {
+          "text": "le robinet",
+          "alternates": [
+            "robinet"
+          ]
+        },
+        "it": {
+          "text": "il rubinetto",
+          "alternates": [
+            "rubinetto"
+          ]
+        }
       }
     },
     {
@@ -117,7 +379,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "лампочка",
-        "pl": "żarówka"
+        "pl": "żarówka",
+        "uk": "лампочка",
+        "de": {
+          "text": "die Glühbirne",
+          "alternates": [
+            "Glühbirne"
+          ]
+        },
+        "es": {
+          "text": "la bombilla",
+          "alternates": [
+            "bombilla"
+          ]
+        },
+        "fr": {
+          "text": "l'ampoule",
+          "alternates": [
+            "ampoule"
+          ]
+        },
+        "it": {
+          "text": "la lampadina",
+          "alternates": [
+            "lampadina"
+          ]
+        }
       }
     },
     {
@@ -127,7 +414,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "инструмент",
-        "pl": "narzędzie"
+        "pl": "narzędzie",
+        "uk": "інструмент",
+        "de": {
+          "text": "das Werkzeug",
+          "alternates": [
+            "Werkzeug"
+          ]
+        },
+        "es": {
+          "text": "la herramienta",
+          "alternates": [
+            "herramienta"
+          ]
+        },
+        "fr": {
+          "text": "l'outil",
+          "alternates": [
+            "outil"
+          ]
+        },
+        "it": {
+          "text": "lo strumento",
+          "alternates": [
+            "strumento",
+            "l'attrezzo",
+            "attrezzo"
+          ]
+        }
       }
     },
     {
@@ -147,7 +461,22 @@
           "alternates": [
             "czyścić"
           ]
-        }
+        },
+        "uk": {
+          "text": "прибирати",
+          "alternates": [
+            "чистити"
+          ]
+        },
+        "de": {
+          "text": "putzen",
+          "alternates": [
+            "reinigen"
+          ]
+        },
+        "es": "limpiar",
+        "fr": "nettoyer",
+        "it": "pulire"
       }
     },
     {
@@ -167,6 +496,26 @@
           "alternates": [
             "porządkować"
           ]
+        },
+        "uk": {
+          "text": "наводити лад",
+          "alternates": [
+            "прибирати"
+          ]
+        },
+        "de": "aufräumen",
+        "es": {
+          "text": "ordenar",
+          "alternates": [
+            "recoger"
+          ]
+        },
+        "fr": "ranger",
+        "it": {
+          "text": "riordinare",
+          "alternates": [
+            "mettere in ordine"
+          ]
         }
       }
     },
@@ -177,7 +526,22 @@
           "partOfSpeech": "verb"
         },
         "ru": "пылесосить",
-        "pl": "odkurzać"
+        "pl": "odkurzać",
+        "uk": "пилососити",
+        "de": "staubsaugen",
+        "es": {
+          "text": "pasar la aspiradora",
+          "alternates": [
+            "aspirar"
+          ]
+        },
+        "fr": "passer l'aspirateur",
+        "it": {
+          "text": "passare l'aspirapolvere",
+          "alternates": [
+            "aspirare"
+          ]
+        }
       }
     },
     {
@@ -190,7 +554,23 @@
           "partOfSpeech": "verb"
         },
         "ru": "мыть посуду",
-        "pl": "zmywać naczynia"
+        "pl": "zmywać naczynia",
+        "uk": "мити посуд",
+        "de": {
+          "text": "das Geschirr spülen",
+          "alternates": [
+            "abwaschen",
+            "abspülen"
+          ]
+        },
+        "es": {
+          "text": "fregar los platos",
+          "alternates": [
+            "lavar los platos"
+          ]
+        },
+        "fr": "faire la vaisselle",
+        "it": "lavare i piatti"
       },
       "examples": [
         {
@@ -198,7 +578,12 @@
           "text": "It's your turn to do the washing-up.",
           "translations": {
             "ru": "Твоя очередь мыть посуду.",
-            "pl": "Twoja kolej na zmywanie naczyń."
+            "pl": "Twoja kolej na zmywanie naczyń.",
+            "uk": "Твоя черга мити посуд.",
+            "de": "Du bist mit dem Abwasch dran.",
+            "es": "Te toca fregar los platos.",
+            "fr": "C'est ton tour de faire la vaisselle.",
+            "it": "Tocca a te lavare i piatti."
           }
         }
       ]
@@ -210,7 +595,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "гладить",
-        "pl": "prasować"
+        "pl": "prasować",
+        "uk": "прасувати",
+        "de": "bügeln",
+        "es": "planchar",
+        "fr": "repasser",
+        "it": "stirare"
       }
     },
     {
@@ -223,7 +613,27 @@
           "partOfSpeech": "verb"
         },
         "ru": "выносить мусор",
-        "pl": "wynosić śmieci"
+        "pl": "wynosić śmieci",
+        "uk": "виносити сміття",
+        "de": {
+          "text": "den Müll rausbringen",
+          "alternates": [
+            "den Müll hinausbringen"
+          ]
+        },
+        "es": "sacar la basura",
+        "fr": {
+          "text": "sortir la poubelle",
+          "alternates": [
+            "sortir les poubelles"
+          ]
+        },
+        "it": {
+          "text": "portare fuori la spazzatura",
+          "alternates": [
+            "buttare la spazzatura"
+          ]
+        }
       }
     },
     {
@@ -246,6 +656,26 @@
           "alternates": [
             "naprawić"
           ]
+        },
+        "uk": {
+          "text": "лагодити",
+          "alternates": [
+            "ремонтувати"
+          ]
+        },
+        "de": "reparieren",
+        "es": {
+          "text": "reparar",
+          "alternates": [
+            "arreglar"
+          ]
+        },
+        "fr": "réparer",
+        "it": {
+          "text": "riparare",
+          "alternates": [
+            "aggiustare"
+          ]
         }
       }
     },
@@ -256,7 +686,22 @@
           "partOfSpeech": "verb"
         },
         "ru": "красить",
-        "pl": "malować"
+        "pl": "malować",
+        "uk": "фарбувати",
+        "de": {
+          "text": "streichen",
+          "alternates": [
+            "anstreichen"
+          ]
+        },
+        "es": "pintar",
+        "fr": "peindre",
+        "it": {
+          "text": "dipingere",
+          "alternates": [
+            "pitturare"
+          ]
+        }
       }
     },
     {
@@ -269,7 +714,22 @@
           "partOfSpeech": "verb"
         },
         "ru": "переезжать",
-        "pl": "przeprowadzać się"
+        "pl": "przeprowadzać się",
+        "uk": "переїжджати",
+        "de": "umziehen",
+        "es": {
+          "text": "mudarse",
+          "alternates": [
+            "mudarse de casa"
+          ]
+        },
+        "fr": "déménager",
+        "it": {
+          "text": "traslocare",
+          "alternates": [
+            "cambiare casa"
+          ]
+        }
       }
     },
     {
@@ -289,7 +749,27 @@
           "alternates": [
             "schludny"
           ]
-        }
+        },
+        "uk": {
+          "text": "охайний",
+          "alternates": [
+            "прибраний"
+          ]
+        },
+        "de": {
+          "text": "ordentlich",
+          "alternates": [
+            "aufgeräumt"
+          ]
+        },
+        "es": "ordenado",
+        "fr": {
+          "text": "rangé",
+          "alternates": [
+            "ordonné"
+          ]
+        },
+        "it": "ordinato"
       }
     },
     {
@@ -309,7 +789,27 @@
           "alternates": [
             "zabałaganiony"
           ]
-        }
+        },
+        "uk": {
+          "text": "неприбраний",
+          "alternates": [
+            "у безладі"
+          ]
+        },
+        "de": {
+          "text": "unordentlich",
+          "alternates": [
+            "durcheinander"
+          ]
+        },
+        "es": "desordenado",
+        "fr": {
+          "text": "désordonné",
+          "alternates": [
+            "en désordre"
+          ]
+        },
+        "it": "disordinato"
       }
     }
   ]

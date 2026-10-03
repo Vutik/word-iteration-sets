@@ -11,7 +11,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "большой",
-        "pl": "duży"
+        "pl": "duży",
+        "uk": "великий",
+        "de": "groß",
+        "es": "grande",
+        "fr": "grand",
+        "it": "grande"
       }
     },
     {
@@ -24,7 +29,22 @@
           "partOfSpeech": "adjective"
         },
         "ru": "маленький",
-        "pl": "mały"
+        "pl": "mały",
+        "uk": {
+          "text": "маленький",
+          "alternates": [
+            "малий"
+          ]
+        },
+        "de": "klein",
+        "es": {
+          "text": "pequeño",
+          "alternates": [
+            "chico"
+          ]
+        },
+        "fr": "petit",
+        "it": "piccolo"
       }
     },
     {
@@ -34,7 +54,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "длинный",
-        "pl": "długi"
+        "pl": "długi",
+        "uk": "довгий",
+        "de": "lang",
+        "es": "largo",
+        "fr": "long",
+        "it": "lungo"
       }
     },
     {
@@ -44,7 +69,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "короткий",
-        "pl": "krótki"
+        "pl": "krótki",
+        "uk": "короткий",
+        "de": "kurz",
+        "es": "corto",
+        "fr": "court",
+        "it": "corto"
       }
     },
     {
@@ -57,7 +87,22 @@
           "partOfSpeech": "adjective"
         },
         "ru": "высокий",
-        "pl": "wysoki"
+        "pl": "wysoki",
+        "uk": "високий",
+        "de": {
+          "text": "hoch",
+          "alternates": [
+            "groß"
+          ]
+        },
+        "es": "alto",
+        "fr": {
+          "text": "haut",
+          "alternates": [
+            "grand"
+          ]
+        },
+        "it": "alto"
       }
     },
     {
@@ -67,7 +112,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "низкий",
-        "pl": "niski"
+        "pl": "niski",
+        "uk": "низький",
+        "de": "niedrig",
+        "es": "bajo",
+        "fr": "bas",
+        "it": "basso"
       }
     },
     {
@@ -77,7 +127,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "новый",
-        "pl": "nowy"
+        "pl": "nowy",
+        "uk": "новий",
+        "de": "neu",
+        "es": "nuevo",
+        "fr": "nouveau",
+        "it": "nuovo"
       }
     },
     {
@@ -87,7 +142,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "старый",
-        "pl": "stary"
+        "pl": "stary",
+        "uk": "старий",
+        "de": "alt",
+        "es": "viejo",
+        "fr": "vieux",
+        "it": "vecchio"
       }
     },
     {
@@ -97,7 +157,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "молодой",
-        "pl": "młody"
+        "pl": "młody",
+        "uk": "молодий",
+        "de": "jung",
+        "es": "joven",
+        "fr": "jeune",
+        "it": "giovane"
       }
     },
     {
@@ -107,7 +172,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "хороший",
-        "pl": "dobry"
+        "pl": "dobry",
+        "uk": {
+          "text": "хороший",
+          "alternates": [
+            "добрий"
+          ]
+        },
+        "de": "gut",
+        "es": "bueno",
+        "fr": "bon",
+        "it": "buono"
       }
     },
     {
@@ -117,7 +192,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "плохой",
-        "pl": "zły"
+        "pl": "zły",
+        "uk": "поганий",
+        "de": "schlecht",
+        "es": "malo",
+        "fr": "mauvais",
+        "it": "cattivo"
       }
     },
     {
@@ -132,7 +212,32 @@
             "лёгкий"
           ]
         },
-        "pl": "łatwy"
+        "pl": "łatwy",
+        "uk": {
+          "text": "простий",
+          "alternates": [
+            "легкий"
+          ]
+        },
+        "de": {
+          "text": "einfach",
+          "alternates": [
+            "leicht"
+          ]
+        },
+        "es": {
+          "text": "fácil",
+          "alternates": [
+            "sencillo"
+          ]
+        },
+        "fr": "facile",
+        "it": {
+          "text": "facile",
+          "alternates": [
+            "semplice"
+          ]
+        }
       }
     },
     {
@@ -150,7 +255,22 @@
             "сложный"
           ]
         },
-        "pl": "trudny"
+        "pl": "trudny",
+        "uk": {
+          "text": "складний",
+          "alternates": [
+            "важкий"
+          ]
+        },
+        "de": {
+          "text": "schwierig",
+          "alternates": [
+            "schwer"
+          ]
+        },
+        "es": "difícil",
+        "fr": "difficile",
+        "it": "difficile"
       }
     },
     {
@@ -163,7 +283,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "быстрый",
-        "pl": "szybki"
+        "pl": "szybki",
+        "uk": "швидкий",
+        "de": "schnell",
+        "es": "rápido",
+        "fr": "rapide",
+        "it": {
+          "text": "veloce",
+          "alternates": [
+            "rapido"
+          ]
+        }
       }
     },
     {
@@ -173,7 +303,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "медленный",
-        "pl": "wolny"
+        "pl": "wolny",
+        "uk": "повільний",
+        "de": "langsam",
+        "es": "lento",
+        "fr": "lent",
+        "it": "lento"
       }
     },
     {
@@ -183,7 +318,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "полный",
-        "pl": "pełny"
+        "pl": "pełny",
+        "uk": "повний",
+        "de": "voll",
+        "es": "lleno",
+        "fr": "plein",
+        "it": "pieno"
       }
     },
     {
@@ -193,7 +333,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "пустой",
-        "pl": "pusty"
+        "pl": "pusty",
+        "uk": "порожній",
+        "de": "leer",
+        "es": "vacío",
+        "fr": "vide",
+        "it": "vuoto"
       }
     },
     {
@@ -203,7 +348,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "чистый",
-        "pl": "czysty"
+        "pl": "czysty",
+        "uk": "чистий",
+        "de": "sauber",
+        "es": "limpio",
+        "fr": "propre",
+        "it": "pulito"
       }
     },
     {
@@ -213,7 +363,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "грязный",
-        "pl": "brudny"
+        "pl": "brudny",
+        "uk": "брудний",
+        "de": {
+          "text": "schmutzig",
+          "alternates": [
+            "dreckig"
+          ]
+        },
+        "es": "sucio",
+        "fr": "sale",
+        "it": "sporco"
       }
     },
     {
@@ -223,7 +383,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "лёгкий",
-        "pl": "lekki"
+        "pl": "lekki",
+        "uk": "легкий",
+        "de": "leicht",
+        "es": {
+          "text": "ligero",
+          "alternates": [
+            "liviano"
+          ]
+        },
+        "fr": "léger",
+        "it": "leggero"
       }
     },
     {
@@ -233,7 +403,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "тяжёлый",
-        "pl": "ciężki"
+        "pl": "ciężki",
+        "uk": {
+          "text": "важкий",
+          "alternates": [
+            "тяжкий"
+          ]
+        },
+        "de": "schwer",
+        "es": "pesado",
+        "fr": "lourd",
+        "it": "pesante"
       },
       "examples": [
         {
@@ -241,7 +421,12 @@
           "text": "This bag is too heavy for me.",
           "translations": {
             "ru": "Эта сумка слишком тяжёлая для меня.",
-            "pl": "Ta torba jest dla mnie za ciężka."
+            "pl": "Ta torba jest dla mnie za ciężka.",
+            "uk": "Ця сумка надто важка для мене.",
+            "de": "Diese Tasche ist mir zu schwer.",
+            "es": "Esta bolsa es demasiado pesada para mí.",
+            "fr": "Ce sac est trop lourd pour moi.",
+            "it": "Questa borsa è troppo pesante per me."
           }
         }
       ]
@@ -253,7 +438,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "открытый",
-        "pl": "otwarty"
+        "pl": "otwarty",
+        "uk": "відкритий",
+        "de": {
+          "text": "offen",
+          "alternates": [
+            "geöffnet"
+          ]
+        },
+        "es": "abierto",
+        "fr": "ouvert",
+        "it": "aperto"
       }
     },
     {
@@ -263,7 +458,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "закрытый",
-        "pl": "zamknięty"
+        "pl": "zamknięty",
+        "uk": "закритий",
+        "de": {
+          "text": "geschlossen",
+          "alternates": [
+            "zu"
+          ]
+        },
+        "es": "cerrado",
+        "fr": "fermé",
+        "it": "chiuso"
       }
     }
   ]

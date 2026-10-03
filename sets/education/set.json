@@ -2,24 +2,39 @@
   "title": {
     "en": "Studying",
     "ru": "Учёба",
-    "pl": "Nauka"
+    "pl": "Nauka",
+    "uk": "Навчання",
+    "de": "Studium",
+    "es": "Los estudios",
+    "fr": "Les études",
+    "it": "Lo studio"
   },
   "description": {
     "en": "University, courses and exams.",
     "ru": "Университет, курсы и экзамены.",
-    "pl": "Studia, kursy i egzaminy."
+    "pl": "Studia, kursy i egzaminy.",
+    "uk": "Університет, курси та іспити.",
+    "de": "Universität, Kurse und Prüfungen.",
+    "es": "Universidad, cursos y exámenes.",
+    "fr": "Université, cours et examens.",
+    "it": "Università, corsi ed esami."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "B1",
   "tags": [
     "education"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

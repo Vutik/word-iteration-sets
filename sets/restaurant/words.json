@@ -8,7 +8,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "ресторан",
-        "pl": "restauracja"
+        "pl": "restauracja",
+        "uk": "ресторан",
+        "de": {
+          "text": "das Restaurant",
+          "alternates": [
+            "Restaurant"
+          ]
+        },
+        "es": {
+          "text": "el restaurante",
+          "alternates": [
+            "restaurante"
+          ]
+        },
+        "fr": {
+          "text": "le restaurant",
+          "alternates": [
+            "restaurant"
+          ]
+        },
+        "it": {
+          "text": "il ristorante",
+          "alternates": [
+            "ristorante"
+          ]
+        }
       }
     },
     {
@@ -18,7 +43,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "кафе",
-        "pl": "kawiarnia"
+        "pl": "kawiarnia",
+        "uk": "кафе",
+        "de": {
+          "text": "das Café",
+          "alternates": [
+            "Café"
+          ]
+        },
+        "es": {
+          "text": "la cafetería",
+          "alternates": [
+            "cafetería",
+            "el café"
+          ]
+        },
+        "fr": {
+          "text": "le café",
+          "alternates": [
+            "café"
+          ]
+        },
+        "it": {
+          "text": "il caffè",
+          "alternates": [
+            "caffè",
+            "il bar"
+          ]
+        }
       }
     },
     {
@@ -33,6 +85,36 @@
           "alternates": [
             "karta"
           ]
+        },
+        "uk": "меню",
+        "de": {
+          "text": "die Speisekarte",
+          "alternates": [
+            "Speisekarte",
+            "das Menü",
+            "Menü"
+          ]
+        },
+        "es": {
+          "text": "la carta",
+          "alternates": [
+            "carta",
+            "el menú"
+          ]
+        },
+        "fr": {
+          "text": "la carte",
+          "alternates": [
+            "carte",
+            "le menu"
+          ]
+        },
+        "it": {
+          "text": "il menu",
+          "alternates": [
+            "menu",
+            "la carta"
+          ]
         }
       }
     },
@@ -43,7 +125,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "столик",
-        "pl": "stolik"
+        "pl": "stolik",
+        "uk": "столик",
+        "de": {
+          "text": "der Tisch",
+          "alternates": [
+            "Tisch"
+          ]
+        },
+        "es": {
+          "text": "la mesa",
+          "alternates": [
+            "mesa"
+          ]
+        },
+        "fr": {
+          "text": "la table",
+          "alternates": [
+            "table"
+          ]
+        },
+        "it": {
+          "text": "il tavolo",
+          "alternates": [
+            "tavolo"
+          ]
+        }
       }
     },
     {
@@ -53,7 +160,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "официант",
-        "pl": "kelner"
+        "pl": "kelner",
+        "uk": "офіціант",
+        "de": {
+          "text": "der Kellner",
+          "alternates": [
+            "Kellner"
+          ]
+        },
+        "es": {
+          "text": "el camarero",
+          "alternates": [
+            "camarero"
+          ]
+        },
+        "fr": {
+          "text": "le serveur",
+          "alternates": [
+            "serveur"
+          ]
+        },
+        "it": {
+          "text": "il cameriere",
+          "alternates": [
+            "cameriere"
+          ]
+        }
       }
     },
     {
@@ -63,7 +195,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "официантка",
-        "pl": "kelnerka"
+        "pl": "kelnerka",
+        "uk": "офіціантка",
+        "de": {
+          "text": "die Kellnerin",
+          "alternates": [
+            "Kellnerin"
+          ]
+        },
+        "es": {
+          "text": "la camarera",
+          "alternates": [
+            "camarera"
+          ]
+        },
+        "fr": {
+          "text": "la serveuse",
+          "alternates": [
+            "serveuse"
+          ]
+        },
+        "it": {
+          "text": "la cameriera",
+          "alternates": [
+            "cameriera"
+          ]
+        }
       }
     },
     {
@@ -73,7 +230,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "закуска",
-        "pl": "przystawka"
+        "pl": "przystawka",
+        "uk": "закуска",
+        "de": {
+          "text": "die Vorspeise",
+          "alternates": [
+            "Vorspeise"
+          ]
+        },
+        "es": {
+          "text": "el entrante",
+          "alternates": [
+            "entrante"
+          ]
+        },
+        "fr": {
+          "text": "l'entrée",
+          "alternates": [
+            "entrée"
+          ]
+        },
+        "it": {
+          "text": "l'antipasto",
+          "alternates": [
+            "antipasto"
+          ]
+        }
       }
     },
     {
@@ -88,7 +270,40 @@
             "горячее"
           ]
         },
-        "pl": "danie główne"
+        "pl": "danie główne",
+        "uk": {
+          "text": "основна страва",
+          "alternates": [
+            "головна страва"
+          ]
+        },
+        "de": {
+          "text": "das Hauptgericht",
+          "alternates": [
+            "Hauptgericht",
+            "die Hauptspeise"
+          ]
+        },
+        "es": {
+          "text": "el plato principal",
+          "alternates": [
+            "plato principal"
+          ]
+        },
+        "fr": {
+          "text": "le plat principal",
+          "alternates": [
+            "plat principal"
+          ]
+        },
+        "it": {
+          "text": "il secondo piatto",
+          "alternates": [
+            "secondo piatto",
+            "il secondo",
+            "il piatto principale"
+          ]
+        }
       }
     },
     {
@@ -98,7 +313,35 @@
           "partOfSpeech": "noun"
         },
         "ru": "десерт",
-        "pl": "deser"
+        "pl": "deser",
+        "uk": "десерт",
+        "de": {
+          "text": "das Dessert",
+          "alternates": [
+            "Dessert",
+            "der Nachtisch",
+            "Nachtisch"
+          ]
+        },
+        "es": {
+          "text": "el postre",
+          "alternates": [
+            "postre"
+          ]
+        },
+        "fr": {
+          "text": "le dessert",
+          "alternates": [
+            "dessert"
+          ]
+        },
+        "it": {
+          "text": "il dolce",
+          "alternates": [
+            "dolce",
+            "il dessert"
+          ]
+        }
       }
     },
     {
@@ -108,7 +351,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "блюдо",
-        "pl": "danie"
+        "pl": "danie",
+        "uk": "страва",
+        "de": {
+          "text": "das Gericht",
+          "alternates": [
+            "Gericht"
+          ]
+        },
+        "es": {
+          "text": "el plato",
+          "alternates": [
+            "plato"
+          ]
+        },
+        "fr": {
+          "text": "le plat",
+          "alternates": [
+            "plat"
+          ]
+        },
+        "it": {
+          "text": "il piatto",
+          "alternates": [
+            "piatto"
+          ]
+        }
       }
     },
     {
@@ -121,7 +389,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "счёт",
-        "pl": "rachunek"
+        "pl": "rachunek",
+        "uk": "рахунок",
+        "de": {
+          "text": "die Rechnung",
+          "alternates": [
+            "Rechnung"
+          ]
+        },
+        "es": {
+          "text": "la cuenta",
+          "alternates": [
+            "cuenta"
+          ]
+        },
+        "fr": {
+          "text": "l'addition",
+          "alternates": [
+            "addition",
+            "la note"
+          ]
+        },
+        "it": {
+          "text": "il conto",
+          "alternates": [
+            "conto"
+          ]
+        }
       },
       "examples": [
         {
@@ -129,7 +423,12 @@
           "text": "Could we have the bill, please?",
           "translations": {
             "ru": "Можно счёт, пожалуйста?",
-            "pl": "Możemy prosić o rachunek?"
+            "pl": "Możemy prosić o rachunek?",
+            "uk": "Можна рахунок, будь ласка?",
+            "de": "Könnten wir bitte die Rechnung haben?",
+            "es": "¿Nos trae la cuenta, por favor?",
+            "fr": "Pouvons-nous avoir l'addition, s'il vous plaît ?",
+            "it": "Possiamo avere il conto, per favore?"
           }
         }
       ]
@@ -141,7 +440,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "чаевые",
-        "pl": "napiwek"
+        "pl": "napiwek",
+        "uk": "чайові",
+        "de": {
+          "text": "das Trinkgeld",
+          "alternates": [
+            "Trinkgeld"
+          ]
+        },
+        "es": {
+          "text": "la propina",
+          "alternates": [
+            "propina"
+          ]
+        },
+        "fr": {
+          "text": "le pourboire",
+          "alternates": [
+            "pourboire"
+          ]
+        },
+        "it": {
+          "text": "la mancia",
+          "alternates": [
+            "mancia"
+          ]
+        }
       }
     },
     {
@@ -156,7 +480,37 @@
             "бронирование"
           ]
         },
-        "pl": "rezerwacja"
+        "pl": "rezerwacja",
+        "uk": {
+          "text": "бронювання",
+          "alternates": [
+            "резервація"
+          ]
+        },
+        "de": {
+          "text": "die Reservierung",
+          "alternates": [
+            "Reservierung"
+          ]
+        },
+        "es": {
+          "text": "la reserva",
+          "alternates": [
+            "reserva"
+          ]
+        },
+        "fr": {
+          "text": "la réservation",
+          "alternates": [
+            "réservation"
+          ]
+        },
+        "it": {
+          "text": "la prenotazione",
+          "alternates": [
+            "prenotazione"
+          ]
+        }
       }
     },
     {
@@ -174,6 +528,31 @@
           "alternates": [
             "pyszny"
           ]
+        },
+        "uk": "смачний",
+        "de": {
+          "text": "lecker",
+          "alternates": [
+            "köstlich"
+          ]
+        },
+        "es": {
+          "text": "rico",
+          "alternates": [
+            "delicioso"
+          ]
+        },
+        "fr": {
+          "text": "délicieux",
+          "alternates": [
+            "bon"
+          ]
+        },
+        "it": {
+          "text": "buono",
+          "alternates": [
+            "delizioso"
+          ]
         }
       }
     },
@@ -189,7 +568,12 @@
           "alternates": [
             "pikantny"
           ]
-        }
+        },
+        "uk": "гострий",
+        "de": "scharf",
+        "es": "picante",
+        "fr": "épicé",
+        "it": "piccante"
       }
     },
     {
@@ -199,7 +583,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "сладкий",
-        "pl": "słodki"
+        "pl": "słodki",
+        "uk": "солодкий",
+        "de": "süß",
+        "es": "dulce",
+        "fr": "sucré",
+        "it": "dolce"
       }
     },
     {
@@ -209,7 +598,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "солёный",
-        "pl": "słony"
+        "pl": "słony",
+        "uk": "солоний",
+        "de": "salzig",
+        "es": "salado",
+        "fr": "salé",
+        "it": "salato"
       }
     },
     {
@@ -219,7 +613,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "вегетарианский",
-        "pl": "wegetariański"
+        "pl": "wegetariański",
+        "uk": "вегетаріанський",
+        "de": "vegetarisch",
+        "es": "vegetariano",
+        "fr": "végétarien",
+        "it": "vegetariano"
       }
     },
     {
@@ -239,7 +638,17 @@
           "alternates": [
             "zamówić"
           ]
-        }
+        },
+        "uk": {
+          "text": "замовляти",
+          "alternates": [
+            "замовити"
+          ]
+        },
+        "de": "bestellen",
+        "es": "pedir",
+        "fr": "commander",
+        "it": "ordinare"
       }
     },
     {
@@ -262,7 +671,22 @@
           "alternates": [
             "zarezerwować"
           ]
-        }
+        },
+        "uk": {
+          "text": "бронювати",
+          "alternates": [
+            "забронювати"
+          ]
+        },
+        "de": {
+          "text": "reservieren",
+          "alternates": [
+            "buchen"
+          ]
+        },
+        "es": "reservar",
+        "fr": "réserver",
+        "it": "prenotare"
       }
     },
     {
@@ -281,6 +705,26 @@
           "text": "polecać",
           "alternates": [
             "polecić"
+          ]
+        },
+        "uk": {
+          "text": "радити",
+          "alternates": [
+            "рекомендувати"
+          ]
+        },
+        "de": "empfehlen",
+        "es": "recomendar",
+        "fr": {
+          "text": "recommander",
+          "alternates": [
+            "conseiller"
+          ]
+        },
+        "it": {
+          "text": "consigliare",
+          "alternates": [
+            "raccomandare"
           ]
         }
       }

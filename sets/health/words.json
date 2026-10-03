@@ -8,7 +8,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "здоровье",
-        "pl": "zdrowie"
+        "pl": "zdrowie",
+        "uk": "здоров'я",
+        "de": {
+          "text": "die Gesundheit",
+          "alternates": [
+            "Gesundheit"
+          ]
+        },
+        "es": {
+          "text": "la salud",
+          "alternates": [
+            "salud"
+          ]
+        },
+        "fr": {
+          "text": "la santé",
+          "alternates": [
+            "santé"
+          ]
+        },
+        "it": {
+          "text": "la salute",
+          "alternates": [
+            "salute"
+          ]
+        }
       }
     },
     {
@@ -18,7 +43,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "болезнь",
-        "pl": "choroba"
+        "pl": "choroba",
+        "uk": "хвороба",
+        "de": {
+          "text": "die Krankheit",
+          "alternates": [
+            "Krankheit"
+          ]
+        },
+        "es": {
+          "text": "la enfermedad",
+          "alternates": [
+            "enfermedad"
+          ]
+        },
+        "fr": {
+          "text": "la maladie",
+          "alternates": [
+            "maladie"
+          ]
+        },
+        "it": {
+          "text": "la malattia",
+          "alternates": [
+            "malattia"
+          ]
+        }
       }
     },
     {
@@ -28,7 +78,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "боль",
-        "pl": "ból"
+        "pl": "ból",
+        "uk": "біль",
+        "de": {
+          "text": "der Schmerz",
+          "alternates": [
+            "Schmerz"
+          ]
+        },
+        "es": {
+          "text": "el dolor",
+          "alternates": [
+            "dolor"
+          ]
+        },
+        "fr": {
+          "text": "la douleur",
+          "alternates": [
+            "douleur"
+          ]
+        },
+        "it": {
+          "text": "il dolore",
+          "alternates": [
+            "dolore"
+          ]
+        }
       }
     },
     {
@@ -38,7 +113,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "головная боль",
-        "pl": "ból głowy"
+        "pl": "ból głowy",
+        "uk": "головний біль",
+        "de": {
+          "text": "die Kopfschmerzen",
+          "alternates": [
+            "Kopfschmerzen"
+          ]
+        },
+        "es": {
+          "text": "el dolor de cabeza",
+          "alternates": [
+            "dolor de cabeza"
+          ]
+        },
+        "fr": {
+          "text": "le mal de tête",
+          "alternates": [
+            "mal de tête"
+          ]
+        },
+        "it": {
+          "text": "il mal di testa",
+          "alternates": [
+            "mal di testa"
+          ]
+        }
       }
     },
     {
@@ -48,7 +148,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "простуда",
-        "pl": "przeziębienie"
+        "pl": "przeziębienie",
+        "uk": "застуда",
+        "de": {
+          "text": "die Erkältung",
+          "alternates": [
+            "Erkältung"
+          ]
+        },
+        "es": {
+          "text": "el resfriado",
+          "alternates": [
+            "resfriado"
+          ]
+        },
+        "fr": {
+          "text": "le rhume",
+          "alternates": [
+            "rhume"
+          ]
+        },
+        "it": {
+          "text": "il raffreddore",
+          "alternates": [
+            "raffreddore"
+          ]
+        }
       }
     },
     {
@@ -58,7 +183,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "грипп",
-        "pl": "grypa"
+        "pl": "grypa",
+        "uk": "грип",
+        "de": {
+          "text": "die Grippe",
+          "alternates": [
+            "Grippe"
+          ]
+        },
+        "es": {
+          "text": "la gripe",
+          "alternates": [
+            "gripe"
+          ]
+        },
+        "fr": {
+          "text": "la grippe",
+          "alternates": [
+            "grippe"
+          ]
+        },
+        "it": {
+          "text": "l'influenza",
+          "alternates": [
+            "influenza"
+          ]
+        }
       }
     },
     {
@@ -76,7 +226,37 @@
             "жар"
           ]
         },
-        "pl": "gorączka"
+        "pl": "gorączka",
+        "uk": {
+          "text": "температура",
+          "alternates": [
+            "жар"
+          ]
+        },
+        "de": {
+          "text": "das Fieber",
+          "alternates": [
+            "Fieber"
+          ]
+        },
+        "es": {
+          "text": "la fiebre",
+          "alternates": [
+            "fiebre"
+          ]
+        },
+        "fr": {
+          "text": "la fièvre",
+          "alternates": [
+            "fièvre"
+          ]
+        },
+        "it": {
+          "text": "la febbre",
+          "alternates": [
+            "febbre"
+          ]
+        }
       }
     },
     {
@@ -86,7 +266,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "кашель",
-        "pl": "kaszel"
+        "pl": "kaszel",
+        "uk": "кашель",
+        "de": {
+          "text": "der Husten",
+          "alternates": [
+            "Husten"
+          ]
+        },
+        "es": {
+          "text": "la tos",
+          "alternates": [
+            "tos"
+          ]
+        },
+        "fr": {
+          "text": "la toux",
+          "alternates": [
+            "toux"
+          ]
+        },
+        "it": {
+          "text": "la tosse",
+          "alternates": [
+            "tosse"
+          ]
+        }
       }
     },
     {
@@ -101,6 +306,37 @@
           "alternates": [
             "lek"
           ]
+        },
+        "uk": "ліки",
+        "de": {
+          "text": "das Medikament",
+          "alternates": [
+            "Medikament",
+            "Medizin",
+            "die Medizin"
+          ]
+        },
+        "es": {
+          "text": "el medicamento",
+          "alternates": [
+            "medicamento",
+            "medicina",
+            "la medicina"
+          ]
+        },
+        "fr": {
+          "text": "le médicament",
+          "alternates": [
+            "médicament"
+          ]
+        },
+        "it": {
+          "text": "il farmaco",
+          "alternates": [
+            "farmaco",
+            "medicina",
+            "la medicina"
+          ]
         }
       }
     },
@@ -114,7 +350,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "таблетка",
-        "pl": "tabletka"
+        "pl": "tabletka",
+        "uk": "таблетка",
+        "de": {
+          "text": "die Tablette",
+          "alternates": [
+            "Tablette"
+          ]
+        },
+        "es": {
+          "text": "la pastilla",
+          "alternates": [
+            "pastilla"
+          ]
+        },
+        "fr": {
+          "text": "le comprimé",
+          "alternates": [
+            "comprimé",
+            "cachet",
+            "le cachet"
+          ]
+        },
+        "it": {
+          "text": "la pastiglia",
+          "alternates": [
+            "pastiglia",
+            "compressa",
+            "la compressa"
+          ]
+        }
       }
     },
     {
@@ -127,7 +392,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "аптека",
-        "pl": "apteka"
+        "pl": "apteka",
+        "uk": "аптека",
+        "de": {
+          "text": "die Apotheke",
+          "alternates": [
+            "Apotheke"
+          ]
+        },
+        "es": {
+          "text": "la farmacia",
+          "alternates": [
+            "farmacia"
+          ]
+        },
+        "fr": {
+          "text": "la pharmacie",
+          "alternates": [
+            "pharmacie"
+          ]
+        },
+        "it": {
+          "text": "la farmacia",
+          "alternates": [
+            "farmacia"
+          ]
+        }
       }
     },
     {
@@ -137,7 +427,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "больница",
-        "pl": "szpital"
+        "pl": "szpital",
+        "uk": "лікарня",
+        "de": {
+          "text": "das Krankenhaus",
+          "alternates": [
+            "Krankenhaus"
+          ]
+        },
+        "es": {
+          "text": "el hospital",
+          "alternates": [
+            "hospital"
+          ]
+        },
+        "fr": {
+          "text": "l'hôpital",
+          "alternates": [
+            "hôpital"
+          ]
+        },
+        "it": {
+          "text": "l'ospedale",
+          "alternates": [
+            "ospedale"
+          ]
+        }
       }
     },
     {
@@ -152,7 +467,37 @@
             "запись"
           ]
         },
-        "pl": "wizyta"
+        "pl": "wizyta",
+        "uk": {
+          "text": "прийом",
+          "alternates": [
+            "запис"
+          ]
+        },
+        "de": {
+          "text": "der Termin",
+          "alternates": [
+            "Termin"
+          ]
+        },
+        "es": {
+          "text": "la cita",
+          "alternates": [
+            "cita"
+          ]
+        },
+        "fr": {
+          "text": "le rendez-vous",
+          "alternates": [
+            "rendez-vous"
+          ]
+        },
+        "it": {
+          "text": "l'appuntamento",
+          "alternates": [
+            "appuntamento"
+          ]
+        }
       },
       "examples": [
         {
@@ -160,7 +505,12 @@
           "text": "I'd like to make an appointment with the doctor.",
           "translations": {
             "ru": "Я хочу записаться к врачу.",
-            "pl": "Chciałbym umówić się na wizytę u lekarza."
+            "pl": "Chciałbym umówić się na wizytę u lekarza.",
+            "uk": "Я хочу записатися до лікаря.",
+            "de": "Ich möchte einen Termin beim Arzt vereinbaren.",
+            "es": "Quisiera pedir cita con el médico.",
+            "fr": "Je voudrais prendre rendez-vous chez le médecin.",
+            "it": "Vorrei prendere un appuntamento dal medico."
           }
         }
       ]
@@ -172,7 +522,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "рецепт",
-        "pl": "recepta"
+        "pl": "recepta",
+        "uk": "рецепт",
+        "de": {
+          "text": "das Rezept",
+          "alternates": [
+            "Rezept"
+          ]
+        },
+        "es": {
+          "text": "la receta",
+          "alternates": [
+            "receta"
+          ]
+        },
+        "fr": {
+          "text": "l'ordonnance",
+          "alternates": [
+            "ordonnance"
+          ]
+        },
+        "it": {
+          "text": "la ricetta",
+          "alternates": [
+            "ricetta"
+          ]
+        }
       }
     },
     {
@@ -185,7 +560,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "больной",
-        "pl": "chory"
+        "pl": "chory",
+        "uk": "хворий",
+        "de": "krank",
+        "es": "enfermo",
+        "fr": "malade",
+        "it": "malato"
       }
     },
     {
@@ -195,7 +575,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "здоровый",
-        "pl": "zdrowy"
+        "pl": "zdrowy",
+        "uk": "здоровий",
+        "de": "gesund",
+        "es": {
+          "text": "sano",
+          "alternates": [
+            "saludable"
+          ]
+        },
+        "fr": "en bonne santé",
+        "it": "sano"
       }
     },
     {
@@ -205,7 +595,27 @@
           "partOfSpeech": "verb"
         },
         "ru": "болеть",
-        "pl": "boleć"
+        "pl": "boleć",
+        "uk": "боліти",
+        "de": {
+          "text": "wehtun",
+          "alternates": [
+            "schmerzen"
+          ]
+        },
+        "es": "doler",
+        "fr": {
+          "text": "avoir mal",
+          "alternates": [
+            "faire mal"
+          ]
+        },
+        "it": {
+          "text": "far male",
+          "alternates": [
+            "fare male"
+          ]
+        }
       }
     },
     {
@@ -215,7 +625,17 @@
           "partOfSpeech": "verb"
         },
         "ru": "чувствовать себя",
-        "pl": "czuć się"
+        "pl": "czuć się",
+        "uk": {
+          "text": "почуватися",
+          "alternates": [
+            "почуватись"
+          ]
+        },
+        "de": "sich fühlen",
+        "es": "sentirse",
+        "fr": "se sentir",
+        "it": "sentirsi"
       }
     },
     {
@@ -225,7 +645,17 @@
           "partOfSpeech": "verb"
         },
         "ru": "отдыхать",
-        "pl": "odpoczywać"
+        "pl": "odpoczywać",
+        "uk": "відпочивати",
+        "de": "sich ausruhen",
+        "es": "descansar",
+        "fr": "se reposer",
+        "it": {
+          "text": "riposarsi",
+          "alternates": [
+            "riposare"
+          ]
+        }
       }
     },
     {
@@ -245,7 +675,32 @@
           "alternates": [
             "zdrowieć"
           ]
-        }
+        },
+        "uk": {
+          "text": "одужувати",
+          "alternates": [
+            "одужати"
+          ]
+        },
+        "de": {
+          "text": "genesen",
+          "alternates": [
+            "gesund werden"
+          ]
+        },
+        "es": {
+          "text": "recuperarse",
+          "alternates": [
+            "curarse"
+          ]
+        },
+        "fr": {
+          "text": "guérir",
+          "alternates": [
+            "se rétablir"
+          ]
+        },
+        "it": "guarire"
       }
     }
   ]

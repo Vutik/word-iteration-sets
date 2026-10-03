@@ -2,24 +2,39 @@
   "title": {
     "en": "Money and the bank",
     "ru": "Деньги и банк",
-    "pl": "Pieniądze i bank"
+    "pl": "Pieniądze i bank",
+    "uk": "Гроші та банк",
+    "de": "Geld und Bank",
+    "es": "Dinero y banco",
+    "fr": "L'argent et la banque",
+    "it": "Soldi e banca"
   },
   "description": {
     "en": "Accounts, loans, bills and saving.",
     "ru": "Счета, кредиты, оплата и сбережения.",
-    "pl": "Konta, kredyty, rachunki i oszczędzanie."
+    "pl": "Konta, kredyty, rachunki i oszczędzanie.",
+    "uk": "Рахунки, кредити, оплата і заощадження.",
+    "de": "Konten, Kredite, Rechnungen und Sparen.",
+    "es": "Cuentas, préstamos, facturas y ahorro.",
+    "fr": "Comptes, prêts, factures et épargne.",
+    "it": "Conti, prestiti, bollette e risparmio."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "B1",
   "tags": [
     "money"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

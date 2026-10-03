@@ -2,24 +2,39 @@
   "title": {
     "en": "Relationships",
     "ru": "Отношения",
-    "pl": "Relacje"
+    "pl": "Relacje",
+    "uk": "Стосунки",
+    "de": "Beziehungen",
+    "es": "Relaciones",
+    "fr": "Relations",
+    "it": "Relazioni"
   },
   "description": {
     "en": "Friends, partners and getting along.",
     "ru": "Друзья, пары и как ладить.",
-    "pl": "Przyjaciele, partnerzy i dogadywanie się."
+    "pl": "Przyjaciele, partnerzy i dogadywanie się.",
+    "uk": "Друзі, пари та вміння ладнати.",
+    "de": "Freunde, Paare und gutes Miteinander.",
+    "es": "Amigos, parejas y llevarse bien.",
+    "fr": "Amis, couples et bonne entente.",
+    "it": "Amici, coppie e andare d'accordo."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "B1",
   "tags": [
     "people"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

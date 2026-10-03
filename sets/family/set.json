@@ -2,24 +2,39 @@
   "title": {
     "en": "Family",
     "ru": "Семья",
-    "pl": "Rodzina"
+    "pl": "Rodzina",
+    "uk": "Сім'я",
+    "de": "Die Familie",
+    "es": "La familia",
+    "fr": "La famille",
+    "it": "La famiglia"
   },
   "description": {
     "en": "Parents, children, grandparents and the rest of the family.",
     "ru": "Родители, дети, бабушки, дедушки и остальная родня.",
-    "pl": "Rodzice, dzieci, dziadkowie i reszta rodziny."
+    "pl": "Rodzice, dzieci, dziadkowie i reszta rodziny.",
+    "uk": "Батьки, діти, бабусі, дідусі та решта рідні.",
+    "de": "Eltern, Kinder, Großeltern und die übrige Verwandtschaft.",
+    "es": "Padres, hijos, abuelos y el resto de la familia.",
+    "fr": "Les parents, les enfants, les grands-parents et le reste de la famille.",
+    "it": "Genitori, figli, nonni e il resto della famiglia."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
   "tags": [
     "people"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

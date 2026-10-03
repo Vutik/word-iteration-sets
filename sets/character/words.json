@@ -13,6 +13,31 @@
           "alternates": [
             "dobry"
           ]
+        },
+        "uk": "добрий",
+        "de": {
+          "text": "nett",
+          "alternates": [
+            "lieb"
+          ]
+        },
+        "es": {
+          "text": "bondadoso",
+          "alternates": [
+            "amable"
+          ]
+        },
+        "fr": {
+          "text": "gentil",
+          "alternates": [
+            "bon"
+          ]
+        },
+        "it": {
+          "text": "gentile",
+          "alternates": [
+            "buono"
+          ]
         }
       }
     },
@@ -28,7 +53,22 @@
           "alternates": [
             "przyjacielski"
           ]
-        }
+        },
+        "uk": "дружелюбний",
+        "de": "freundlich",
+        "es": {
+          "text": "simpático",
+          "alternates": [
+            "amistoso"
+          ]
+        },
+        "fr": {
+          "text": "amical",
+          "alternates": [
+            "sympathique"
+          ]
+        },
+        "it": "amichevole"
       }
     },
     {
@@ -42,6 +82,21 @@
           "text": "uprzejmy",
           "alternates": [
             "grzeczny"
+          ]
+        },
+        "uk": "ввічливий",
+        "de": "höflich",
+        "es": {
+          "text": "educado",
+          "alternates": [
+            "cortés"
+          ]
+        },
+        "fr": "poli",
+        "it": {
+          "text": "educato",
+          "alternates": [
+            "cortese"
           ]
         }
       }
@@ -58,6 +113,31 @@
           "alternates": [
             "nieuprzejmy"
           ]
+        },
+        "uk": "грубий",
+        "de": {
+          "text": "unhöflich",
+          "alternates": [
+            "grob"
+          ]
+        },
+        "es": {
+          "text": "grosero",
+          "alternates": [
+            "maleducado"
+          ]
+        },
+        "fr": {
+          "text": "impoli",
+          "alternates": [
+            "grossier"
+          ]
+        },
+        "it": {
+          "text": "maleducato",
+          "alternates": [
+            "scortese"
+          ]
         }
       }
     },
@@ -73,6 +153,26 @@
           "alternates": [
             "szczery"
           ]
+        },
+        "uk": "чесний",
+        "de": "ehrlich",
+        "es": {
+          "text": "honesto",
+          "alternates": [
+            "sincero"
+          ]
+        },
+        "fr": {
+          "text": "honnête",
+          "alternates": [
+            "sincère"
+          ]
+        },
+        "it": {
+          "text": "onesto",
+          "alternates": [
+            "sincero"
+          ]
         }
       }
     },
@@ -83,7 +183,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "щедрый",
-        "pl": "hojny"
+        "pl": "hojny",
+        "uk": "щедрий",
+        "de": "großzügig",
+        "es": "generoso",
+        "fr": "généreux",
+        "it": "generoso"
       }
     },
     {
@@ -98,7 +203,12 @@
           "alternates": [
             "egoistyczny"
           ]
-        }
+        },
+        "uk": "егоїстичний",
+        "de": "egoistisch",
+        "es": "egoísta",
+        "fr": "égoïste",
+        "it": "egoista"
       }
     },
     {
@@ -113,7 +223,17 @@
             "стеснительный"
           ]
         },
-        "pl": "nieśmiały"
+        "pl": "nieśmiały",
+        "uk": {
+          "text": "сором'язливий",
+          "alternates": [
+            "соромливий"
+          ]
+        },
+        "de": "schüchtern",
+        "es": "tímido",
+        "fr": "timide",
+        "it": "timido"
       }
     },
     {
@@ -123,7 +243,22 @@
           "partOfSpeech": "adjective"
         },
         "ru": "уверенный в себе",
-        "pl": "pewny siebie"
+        "pl": "pewny siebie",
+        "uk": "впевнений у собі",
+        "de": "selbstbewusst",
+        "es": {
+          "text": "seguro de sí mismo",
+          "alternates": [
+            "seguro de sí"
+          ]
+        },
+        "fr": {
+          "text": "sûr de soi",
+          "alternates": [
+            "confiant"
+          ]
+        },
+        "it": "sicuro di sé"
       }
     },
     {
@@ -133,7 +268,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "ленивый",
-        "pl": "leniwy"
+        "pl": "leniwy",
+        "uk": "лінивий",
+        "de": "faul",
+        "es": {
+          "text": "perezoso",
+          "alternates": [
+            "vago"
+          ]
+        },
+        "fr": "paresseux",
+        "it": "pigro"
       }
     },
     {
@@ -143,7 +288,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "трудолюбивый",
-        "pl": "pracowity"
+        "pl": "pracowity",
+        "uk": {
+          "text": "працьовитий",
+          "alternates": [
+            "трудолюбивий"
+          ]
+        },
+        "de": "fleißig",
+        "es": "trabajador",
+        "fr": "travailleur",
+        "it": "laborioso"
       }
     },
     {
@@ -153,7 +308,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "терпеливый",
-        "pl": "cierpliwy"
+        "pl": "cierpliwy",
+        "uk": "терплячий",
+        "de": "geduldig",
+        "es": "paciente",
+        "fr": "patient",
+        "it": "paziente"
       }
     },
     {
@@ -168,7 +328,17 @@
           "alternates": [
             "solidny"
           ]
-        }
+        },
+        "uk": "надійний",
+        "de": "zuverlässig",
+        "es": {
+          "text": "fiable",
+          "alternates": [
+            "confiable"
+          ]
+        },
+        "fr": "fiable",
+        "it": "affidabile"
       }
     },
     {
@@ -188,6 +358,36 @@
           "alternates": [
             "śmieszny"
           ]
+        },
+        "uk": {
+          "text": "смішний",
+          "alternates": [
+            "кумедний"
+          ]
+        },
+        "de": {
+          "text": "lustig",
+          "alternates": [
+            "witzig"
+          ]
+        },
+        "es": {
+          "text": "gracioso",
+          "alternates": [
+            "divertido"
+          ]
+        },
+        "fr": {
+          "text": "drôle",
+          "alternates": [
+            "amusant"
+          ]
+        },
+        "it": {
+          "text": "divertente",
+          "alternates": [
+            "buffo"
+          ]
         }
       }
     },
@@ -206,7 +406,22 @@
           "alternates": [
             "bystry"
           ]
-        }
+        },
+        "uk": "розумний",
+        "de": {
+          "text": "klug",
+          "alternates": [
+            "schlau"
+          ]
+        },
+        "es": {
+          "text": "inteligente",
+          "alternates": [
+            "listo"
+          ]
+        },
+        "fr": "intelligent",
+        "it": "intelligente"
       }
     },
     {
@@ -216,7 +431,27 @@
           "partOfSpeech": "adjective"
         },
         "ru": "упрямый",
-        "pl": "uparty"
+        "pl": "uparty",
+        "uk": "упертий",
+        "de": {
+          "text": "stur",
+          "alternates": [
+            "dickköpfig"
+          ]
+        },
+        "es": {
+          "text": "terco",
+          "alternates": [
+            "testarudo"
+          ]
+        },
+        "fr": "têtu",
+        "it": {
+          "text": "testardo",
+          "alternates": [
+            "ostinato"
+          ]
+        }
       },
       "examples": [
         {
@@ -224,7 +459,12 @@
           "text": "He's too stubborn to admit he was wrong.",
           "translations": {
             "ru": "Он слишком упрям, чтобы признать, что был неправ.",
-            "pl": "Jest zbyt uparty, żeby przyznać się do błędu."
+            "pl": "Jest zbyt uparty, żeby przyznać się do błędu.",
+            "uk": "Він надто впертий, щоб визнати, що помилявся.",
+            "de": "Er ist zu stur, um zuzugeben, dass er sich geirrt hat.",
+            "es": "Es demasiado terco para admitir que se equivocó.",
+            "fr": "Il est trop têtu pour admettre qu'il avait tort.",
+            "it": "È troppo testardo per ammettere di aver sbagliato."
           }
         }
       ]
@@ -241,7 +481,22 @@
             "храбрый"
           ]
         },
-        "pl": "odważny"
+        "pl": "odważny",
+        "uk": {
+          "text": "сміливий",
+          "alternates": [
+            "хоробрий"
+          ]
+        },
+        "de": {
+          "text": "mutig",
+          "alternates": [
+            "tapfer"
+          ]
+        },
+        "es": "valiente",
+        "fr": "courageux",
+        "it": "coraggioso"
       }
     },
     {
@@ -261,6 +516,36 @@
           "alternates": [
             "staranny"
           ]
+        },
+        "uk": {
+          "text": "обережний",
+          "alternates": [
+            "акуратний"
+          ]
+        },
+        "de": {
+          "text": "vorsichtig",
+          "alternates": [
+            "sorgfältig"
+          ]
+        },
+        "es": {
+          "text": "cuidadoso",
+          "alternates": [
+            "cauteloso"
+          ]
+        },
+        "fr": {
+          "text": "prudent",
+          "alternates": [
+            "soigneux"
+          ]
+        },
+        "it": {
+          "text": "prudente",
+          "alternates": [
+            "attento"
+          ]
         }
       }
     },
@@ -276,7 +561,32 @@
             "рассудительный"
           ]
         },
-        "pl": "rozsądny"
+        "pl": "rozsądny",
+        "uk": {
+          "text": "розсудливий",
+          "alternates": [
+            "розважливий"
+          ]
+        },
+        "de": "vernünftig",
+        "es": {
+          "text": "sensato",
+          "alternates": [
+            "razonable"
+          ]
+        },
+        "fr": {
+          "text": "raisonnable",
+          "alternates": [
+            "sensé"
+          ]
+        },
+        "it": {
+          "text": "ragionevole",
+          "alternates": [
+            "sensato"
+          ]
+        }
       }
     },
     {
@@ -291,7 +601,22 @@
             "ранимый"
           ]
         },
-        "pl": "wrażliwy"
+        "pl": "wrażliwy",
+        "uk": {
+          "text": "чутливий",
+          "alternates": [
+            "вразливий"
+          ]
+        },
+        "de": {
+          "text": "sensibel",
+          "alternates": [
+            "empfindlich"
+          ]
+        },
+        "es": "sensible",
+        "fr": "sensible",
+        "it": "sensibile"
       }
     },
     {
@@ -306,7 +631,32 @@
             "завистливый"
           ]
         },
-        "pl": "zazdrosny"
+        "pl": "zazdrosny",
+        "uk": {
+          "text": "ревнивий",
+          "alternates": [
+            "заздрісний"
+          ]
+        },
+        "de": {
+          "text": "eifersüchtig",
+          "alternates": [
+            "neidisch"
+          ]
+        },
+        "es": {
+          "text": "celoso",
+          "alternates": [
+            "envidioso"
+          ]
+        },
+        "fr": "jaloux",
+        "it": {
+          "text": "geloso",
+          "alternates": [
+            "invidioso"
+          ]
+        }
       }
     }
   ]

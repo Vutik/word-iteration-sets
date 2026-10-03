@@ -2,24 +2,39 @@
   "title": {
     "en": "At school",
     "ru": "В школе",
-    "pl": "W szkole"
+    "pl": "W szkole",
+    "uk": "У школі",
+    "de": "In der Schule",
+    "es": "En la escuela",
+    "fr": "À l'école",
+    "it": "A scuola"
   },
   "description": {
     "en": "Classroom things and school subjects.",
     "ru": "Школьные принадлежности и предметы.",
-    "pl": "Przybory szkolne i przedmioty."
+    "pl": "Przybory szkolne i przedmioty.",
+    "uk": "Шкільне приладдя та предмети.",
+    "de": "Schulsachen und Schulfächer.",
+    "es": "Material escolar y asignaturas.",
+    "fr": "Fournitures scolaires et matières.",
+    "it": "Materiale scolastico e materie."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
   "tags": [
     "education"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

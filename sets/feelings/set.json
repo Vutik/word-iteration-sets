@@ -2,17 +2,32 @@
   "title": {
     "en": "Feelings",
     "ru": "Чувства",
-    "pl": "Uczucia"
+    "pl": "Uczucia",
+    "uk": "Почуття",
+    "de": "Gefühle",
+    "es": "Sentimientos",
+    "fr": "Les sentiments",
+    "it": "I sentimenti"
   },
   "description": {
     "en": "How we feel and how we say it.",
     "ru": "Что мы чувствуем и как об этом сказать.",
-    "pl": "Co czujemy i jak to powiedzieć."
+    "pl": "Co czujemy i jak to powiedzieć.",
+    "uk": "Що ми відчуваємо і як про це сказати.",
+    "de": "Wie wir uns fühlen und wie wir es sagen.",
+    "es": "Cómo nos sentimos y cómo lo decimos.",
+    "fr": "Ce que l'on ressent et comment le dire.",
+    "it": "Come ci sentiamo e come lo diciamo."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A2",
@@ -20,7 +35,7 @@
     "emotions",
     "adjectives"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

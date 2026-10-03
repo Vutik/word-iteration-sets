@@ -13,7 +13,12 @@
             "нуль"
           ]
         },
-        "pl": "zero"
+        "pl": "zero",
+        "uk": "нуль",
+        "de": "null",
+        "es": "cero",
+        "fr": "zéro",
+        "it": "zero"
       }
     },
     {
@@ -23,7 +28,17 @@
           "partOfSpeech": "numeral"
         },
         "ru": "один",
-        "pl": "jeden"
+        "pl": "jeden",
+        "uk": "один",
+        "de": {
+          "text": "eins",
+          "alternates": [
+            "ein"
+          ]
+        },
+        "es": "uno",
+        "fr": "un",
+        "it": "uno"
       }
     },
     {
@@ -33,7 +48,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "два",
-        "pl": "dwa"
+        "pl": "dwa",
+        "uk": "два",
+        "de": "zwei",
+        "es": "dos",
+        "fr": "deux",
+        "it": "due"
       }
     },
     {
@@ -43,7 +63,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "три",
-        "pl": "trzy"
+        "pl": "trzy",
+        "uk": "три",
+        "de": "drei",
+        "es": "tres",
+        "fr": "trois",
+        "it": "tre"
       }
     },
     {
@@ -53,7 +78,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "четыре",
-        "pl": "cztery"
+        "pl": "cztery",
+        "uk": "чотири",
+        "de": "vier",
+        "es": "cuatro",
+        "fr": "quatre",
+        "it": "quattro"
       }
     },
     {
@@ -63,7 +93,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "пять",
-        "pl": "pięć"
+        "pl": "pięć",
+        "uk": "п'ять",
+        "de": "fünf",
+        "es": "cinco",
+        "fr": "cinq",
+        "it": "cinque"
       }
     },
     {
@@ -73,7 +108,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "шесть",
-        "pl": "sześć"
+        "pl": "sześć",
+        "uk": "шість",
+        "de": "sechs",
+        "es": "seis",
+        "fr": "six",
+        "it": "sei"
       }
     },
     {
@@ -83,7 +123,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "семь",
-        "pl": "siedem"
+        "pl": "siedem",
+        "uk": "сім",
+        "de": "sieben",
+        "es": "siete",
+        "fr": "sept",
+        "it": "sette"
       }
     },
     {
@@ -93,7 +138,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "восемь",
-        "pl": "osiem"
+        "pl": "osiem",
+        "uk": "вісім",
+        "de": "acht",
+        "es": "ocho",
+        "fr": "huit",
+        "it": "otto"
       }
     },
     {
@@ -103,7 +153,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "девять",
-        "pl": "dziewięć"
+        "pl": "dziewięć",
+        "uk": "дев'ять",
+        "de": "neun",
+        "es": "nueve",
+        "fr": "neuf",
+        "it": "nove"
       }
     },
     {
@@ -113,7 +168,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "десять",
-        "pl": "dziesięć"
+        "pl": "dziesięć",
+        "uk": "десять",
+        "de": "zehn",
+        "es": "diez",
+        "fr": "dix",
+        "it": "dieci"
       }
     },
     {
@@ -123,7 +183,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "одиннадцать",
-        "pl": "jedenaście"
+        "pl": "jedenaście",
+        "uk": "одинадцять",
+        "de": "elf",
+        "es": "once",
+        "fr": "onze",
+        "it": "undici"
       }
     },
     {
@@ -133,7 +198,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "двенадцать",
-        "pl": "dwanaście"
+        "pl": "dwanaście",
+        "uk": "дванадцять",
+        "de": "zwölf",
+        "es": "doce",
+        "fr": "douze",
+        "it": "dodici"
       }
     },
     {
@@ -143,7 +213,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "пятнадцать",
-        "pl": "piętnaście"
+        "pl": "piętnaście",
+        "uk": "п'ятнадцять",
+        "de": "fünfzehn",
+        "es": "quince",
+        "fr": "quinze",
+        "it": "quindici"
       }
     },
     {
@@ -153,7 +228,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "двадцать",
-        "pl": "dwadzieścia"
+        "pl": "dwadzieścia",
+        "uk": "двадцять",
+        "de": "zwanzig",
+        "es": "veinte",
+        "fr": "vingt",
+        "it": "venti"
       }
     },
     {
@@ -163,7 +243,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "тридцать",
-        "pl": "trzydzieści"
+        "pl": "trzydzieści",
+        "uk": "тридцять",
+        "de": "dreißig",
+        "es": "treinta",
+        "fr": "trente",
+        "it": "trenta"
       }
     },
     {
@@ -173,7 +258,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "сорок",
-        "pl": "czterdzieści"
+        "pl": "czterdzieści",
+        "uk": "сорок",
+        "de": "vierzig",
+        "es": "cuarenta",
+        "fr": "quarante",
+        "it": "quaranta"
       }
     },
     {
@@ -183,7 +273,12 @@
           "partOfSpeech": "numeral"
         },
         "ru": "пятьдесят",
-        "pl": "pięćdziesiąt"
+        "pl": "pięćdziesiąt",
+        "uk": "п'ятдесят",
+        "de": "fünfzig",
+        "es": "cincuenta",
+        "fr": "cinquante",
+        "it": "cinquanta"
       }
     },
     {
@@ -196,7 +291,17 @@
           "partOfSpeech": "numeral"
         },
         "ru": "сто",
-        "pl": "sto"
+        "pl": "sto",
+        "uk": "сто",
+        "de": {
+          "text": "hundert",
+          "alternates": [
+            "einhundert"
+          ]
+        },
+        "es": "cien",
+        "fr": "cent",
+        "it": "cento"
       },
       "examples": [
         {
@@ -204,7 +309,12 @@
           "text": "I have a hundred photos from the trip.",
           "translations": {
             "ru": "У меня сто фотографий из поездки.",
-            "pl": "Mam sto zdjęć z wycieczki."
+            "pl": "Mam sto zdjęć z wycieczki.",
+            "uk": "У мене сто фотографій з поїздки.",
+            "de": "Ich habe hundert Fotos von der Reise.",
+            "es": "Tengo cien fotos del viaje.",
+            "fr": "J'ai cent photos du voyage.",
+            "it": "Ho cento foto del viaggio."
           }
         }
       ]
@@ -219,7 +329,17 @@
           "partOfSpeech": "numeral"
         },
         "ru": "тысяча",
-        "pl": "tysiąc"
+        "pl": "tysiąc",
+        "uk": "тисяча",
+        "de": {
+          "text": "tausend",
+          "alternates": [
+            "eintausend"
+          ]
+        },
+        "es": "mil",
+        "fr": "mille",
+        "it": "mille"
       }
     }
   ]

@@ -2,24 +2,39 @@
   "title": {
     "en": "Fruits",
     "ru": "Фрукты",
-    "pl": "Owoce"
+    "pl": "Owoce",
+    "uk": "Фрукти",
+    "de": "Das Obst",
+    "es": "Las frutas",
+    "fr": "Les fruits",
+    "it": "La frutta"
   },
   "description": {
     "en": "Twelve everyday fruits with pronunciation and examples.",
     "ru": "Двенадцать привычных фруктов с транскрипцией и примерами.",
-    "pl": "Dwanaście popularnych owoców z wymową i przykładami."
+    "pl": "Dwanaście popularnych owoców z wymową i przykładami.",
+    "uk": "Дванадцять повсякденних фруктів із вимовою та прикладами.",
+    "de": "Zwölf alltägliche Obstsorten mit Aussprache und Beispielen.",
+    "es": "Doce frutas de uso cotidiano con pronunciación y ejemplos.",
+    "fr": "Douze fruits de tous les jours avec la prononciation et des exemples.",
+    "it": "Dodici frutti di tutti i giorni con pronuncia ed esempi."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
   "tags": [
     "food"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

@@ -8,7 +8,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "рубашка",
-        "pl": "koszula"
+        "pl": "koszula",
+        "uk": "сорочка",
+        "de": {
+          "text": "das Hemd",
+          "alternates": [
+            "Hemd"
+          ]
+        },
+        "es": {
+          "text": "la camisa",
+          "alternates": [
+            "camisa"
+          ]
+        },
+        "fr": {
+          "text": "la chemise",
+          "alternates": [
+            "chemise"
+          ]
+        },
+        "it": {
+          "text": "la camicia",
+          "alternates": [
+            "camicia"
+          ]
+        }
       }
     },
     {
@@ -22,6 +47,35 @@
           "text": "koszulka",
           "alternates": [
             "T-shirt"
+          ]
+        },
+        "uk": "футболка",
+        "de": {
+          "text": "das T-Shirt",
+          "alternates": [
+            "T-Shirt"
+          ]
+        },
+        "es": {
+          "text": "la camiseta",
+          "alternates": [
+            "camiseta"
+          ]
+        },
+        "fr": {
+          "text": "le tee-shirt",
+          "alternates": [
+            "tee-shirt",
+            "le t-shirt",
+            "t-shirt"
+          ]
+        },
+        "it": {
+          "text": "la maglietta",
+          "alternates": [
+            "maglietta",
+            "la t-shirt",
+            "t-shirt"
           ]
         }
       }
@@ -41,7 +95,37 @@
             "штаны"
           ]
         },
-        "pl": "spodnie"
+        "pl": "spodnie",
+        "uk": {
+          "text": "штани",
+          "alternates": [
+            "брюки"
+          ]
+        },
+        "de": {
+          "text": "die Hose",
+          "alternates": [
+            "Hose"
+          ]
+        },
+        "es": {
+          "text": "los pantalones",
+          "alternates": [
+            "pantalones"
+          ]
+        },
+        "fr": {
+          "text": "le pantalon",
+          "alternates": [
+            "pantalon"
+          ]
+        },
+        "it": {
+          "text": "i pantaloni",
+          "alternates": [
+            "pantaloni"
+          ]
+        }
       }
     },
     {
@@ -56,6 +140,35 @@
           "alternates": [
             "jeansy"
           ]
+        },
+        "uk": "джинси",
+        "de": {
+          "text": "die Jeans",
+          "alternates": [
+            "Jeans"
+          ]
+        },
+        "es": {
+          "text": "los vaqueros",
+          "alternates": [
+            "vaqueros",
+            "los jeans",
+            "jeans"
+          ]
+        },
+        "fr": {
+          "text": "le jean",
+          "alternates": [
+            "jean",
+            "les jeans",
+            "jeans"
+          ]
+        },
+        "it": {
+          "text": "i jeans",
+          "alternates": [
+            "jeans"
+          ]
         }
       }
     },
@@ -66,7 +179,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "платье",
-        "pl": "sukienka"
+        "pl": "sukienka",
+        "uk": "сукня",
+        "de": {
+          "text": "das Kleid",
+          "alternates": [
+            "Kleid"
+          ]
+        },
+        "es": {
+          "text": "el vestido",
+          "alternates": [
+            "vestido"
+          ]
+        },
+        "fr": {
+          "text": "la robe",
+          "alternates": [
+            "robe"
+          ]
+        },
+        "it": {
+          "text": "il vestito",
+          "alternates": [
+            "vestito"
+          ]
+        }
       }
     },
     {
@@ -81,6 +219,31 @@
           "alternates": [
             "spódniczka"
           ]
+        },
+        "uk": "спідниця",
+        "de": {
+          "text": "der Rock",
+          "alternates": [
+            "Rock"
+          ]
+        },
+        "es": {
+          "text": "la falda",
+          "alternates": [
+            "falda"
+          ]
+        },
+        "fr": {
+          "text": "la jupe",
+          "alternates": [
+            "jupe"
+          ]
+        },
+        "it": {
+          "text": "la gonna",
+          "alternates": [
+            "gonna"
+          ]
         }
       }
     },
@@ -94,7 +257,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "свитер",
-        "pl": "sweter"
+        "pl": "sweter",
+        "uk": "светр",
+        "de": {
+          "text": "der Pullover",
+          "alternates": [
+            "Pullover",
+            "der Pulli",
+            "Pulli"
+          ]
+        },
+        "es": {
+          "text": "el jersey",
+          "alternates": [
+            "jersey",
+            "el suéter",
+            "suéter"
+          ]
+        },
+        "fr": {
+          "text": "le pull",
+          "alternates": [
+            "pull",
+            "le pull-over",
+            "pull-over"
+          ]
+        },
+        "it": {
+          "text": "il maglione",
+          "alternates": [
+            "maglione"
+          ]
+        }
       }
     },
     {
@@ -114,6 +308,36 @@
           "alternates": [
             "marynarka"
           ]
+        },
+        "uk": {
+          "text": "куртка",
+          "alternates": [
+            "піджак"
+          ]
+        },
+        "de": {
+          "text": "die Jacke",
+          "alternates": [
+            "Jacke"
+          ]
+        },
+        "es": {
+          "text": "la chaqueta",
+          "alternates": [
+            "chaqueta"
+          ]
+        },
+        "fr": {
+          "text": "la veste",
+          "alternates": [
+            "veste"
+          ]
+        },
+        "it": {
+          "text": "la giacca",
+          "alternates": [
+            "giacca"
+          ]
         }
       }
     },
@@ -124,7 +348,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "пальто",
-        "pl": "płaszcz"
+        "pl": "płaszcz",
+        "uk": "пальто",
+        "de": {
+          "text": "der Mantel",
+          "alternates": [
+            "Mantel"
+          ]
+        },
+        "es": {
+          "text": "el abrigo",
+          "alternates": [
+            "abrigo"
+          ]
+        },
+        "fr": {
+          "text": "le manteau",
+          "alternates": [
+            "manteau"
+          ]
+        },
+        "it": {
+          "text": "il cappotto",
+          "alternates": [
+            "cappotto"
+          ]
+        }
       }
     },
     {
@@ -144,6 +393,42 @@
           "alternates": [
             "czapka"
           ]
+        },
+        "uk": {
+          "text": "капелюх",
+          "alternates": [
+            "шапка"
+          ]
+        },
+        "de": {
+          "text": "der Hut",
+          "alternates": [
+            "Hut",
+            "die Mütze",
+            "Mütze"
+          ]
+        },
+        "es": {
+          "text": "el sombrero",
+          "alternates": [
+            "sombrero",
+            "el gorro",
+            "gorro"
+          ]
+        },
+        "fr": {
+          "text": "le chapeau",
+          "alternates": [
+            "chapeau",
+            "le bonnet",
+            "bonnet"
+          ]
+        },
+        "it": {
+          "text": "il cappello",
+          "alternates": [
+            "cappello"
+          ]
         }
       }
     },
@@ -154,7 +439,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "шарф",
-        "pl": "szalik"
+        "pl": "szalik",
+        "uk": "шарф",
+        "de": {
+          "text": "der Schal",
+          "alternates": [
+            "Schal"
+          ]
+        },
+        "es": {
+          "text": "la bufanda",
+          "alternates": [
+            "bufanda"
+          ]
+        },
+        "fr": {
+          "text": "l'écharpe",
+          "alternates": [
+            "écharpe"
+          ]
+        },
+        "it": {
+          "text": "la sciarpa",
+          "alternates": [
+            "sciarpa"
+          ]
+        }
       }
     },
     {
@@ -164,7 +474,37 @@
           "partOfSpeech": "noun"
         },
         "ru": "перчатки",
-        "pl": "rękawiczki"
+        "pl": "rękawiczki",
+        "uk": {
+          "text": "рукавички",
+          "alternates": [
+            "рукавиці"
+          ]
+        },
+        "de": {
+          "text": "die Handschuhe",
+          "alternates": [
+            "Handschuhe"
+          ]
+        },
+        "es": {
+          "text": "los guantes",
+          "alternates": [
+            "guantes"
+          ]
+        },
+        "fr": {
+          "text": "les gants",
+          "alternates": [
+            "gants"
+          ]
+        },
+        "it": {
+          "text": "i guanti",
+          "alternates": [
+            "guanti"
+          ]
+        }
       }
     },
     {
@@ -174,7 +514,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "носки",
-        "pl": "skarpetki"
+        "pl": "skarpetki",
+        "uk": "шкарпетки",
+        "de": {
+          "text": "die Socken",
+          "alternates": [
+            "Socken"
+          ]
+        },
+        "es": {
+          "text": "los calcetines",
+          "alternates": [
+            "calcetines"
+          ]
+        },
+        "fr": {
+          "text": "les chaussettes",
+          "alternates": [
+            "chaussettes"
+          ]
+        },
+        "it": {
+          "text": "i calzini",
+          "alternates": [
+            "calzini"
+          ]
+        }
       }
     },
     {
@@ -190,7 +555,37 @@
             "обувь"
           ]
         },
-        "pl": "buty"
+        "pl": "buty",
+        "uk": {
+          "text": "туфлі",
+          "alternates": [
+            "взуття"
+          ]
+        },
+        "de": {
+          "text": "die Schuhe",
+          "alternates": [
+            "Schuhe"
+          ]
+        },
+        "es": {
+          "text": "los zapatos",
+          "alternates": [
+            "zapatos"
+          ]
+        },
+        "fr": {
+          "text": "les chaussures",
+          "alternates": [
+            "chaussures"
+          ]
+        },
+        "it": {
+          "text": "le scarpe",
+          "alternates": [
+            "scarpe"
+          ]
+        }
       }
     },
     {
@@ -210,6 +605,36 @@
           "alternates": [
             "buty za kostkę"
           ]
+        },
+        "uk": {
+          "text": "чоботи",
+          "alternates": [
+            "черевики"
+          ]
+        },
+        "de": {
+          "text": "die Stiefel",
+          "alternates": [
+            "Stiefel"
+          ]
+        },
+        "es": {
+          "text": "las botas",
+          "alternates": [
+            "botas"
+          ]
+        },
+        "fr": {
+          "text": "les bottes",
+          "alternates": [
+            "bottes"
+          ]
+        },
+        "it": {
+          "text": "gli stivali",
+          "alternates": [
+            "stivali"
+          ]
         }
       }
     },
@@ -225,7 +650,37 @@
             "пояс"
           ]
         },
-        "pl": "pasek"
+        "pl": "pasek",
+        "uk": {
+          "text": "ремінь",
+          "alternates": [
+            "пояс"
+          ]
+        },
+        "de": {
+          "text": "der Gürtel",
+          "alternates": [
+            "Gürtel"
+          ]
+        },
+        "es": {
+          "text": "el cinturón",
+          "alternates": [
+            "cinturón"
+          ]
+        },
+        "fr": {
+          "text": "la ceinture",
+          "alternates": [
+            "ceinture"
+          ]
+        },
+        "it": {
+          "text": "la cintura",
+          "alternates": [
+            "cintura"
+          ]
+        }
       }
     },
     {
@@ -235,7 +690,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "карман",
-        "pl": "kieszeń"
+        "pl": "kieszeń",
+        "uk": "кишеня",
+        "de": {
+          "text": "die Tasche",
+          "alternates": [
+            "Tasche"
+          ]
+        },
+        "es": {
+          "text": "el bolsillo",
+          "alternates": [
+            "bolsillo"
+          ]
+        },
+        "fr": {
+          "text": "la poche",
+          "alternates": [
+            "poche"
+          ]
+        },
+        "it": {
+          "text": "la tasca",
+          "alternates": [
+            "tasca"
+          ]
+        }
       }
     },
     {
@@ -255,6 +735,16 @@
           "alternates": [
             "mieć na sobie"
           ]
+        },
+        "uk": "носити",
+        "de": "tragen",
+        "es": "llevar",
+        "fr": "porter",
+        "it": {
+          "text": "indossare",
+          "alternates": [
+            "portare"
+          ]
         }
       },
       "examples": [
@@ -263,7 +753,12 @@
           "text": "She is wearing a red dress.",
           "translations": {
             "ru": "Она в красном платье.",
-            "pl": "Ma na sobie czerwoną sukienkę."
+            "pl": "Ma na sobie czerwoną sukienkę.",
+            "uk": "Вона в червоній сукні.",
+            "de": "Sie trägt ein rotes Kleid.",
+            "es": "Lleva un vestido rojo.",
+            "fr": "Elle porte une robe rouge.",
+            "it": "Indossa un vestito rosso."
           }
         }
       ]
@@ -284,6 +779,26 @@
           "text": "zakładać",
           "alternates": [
             "założyć"
+          ]
+        },
+        "uk": {
+          "text": "одягати",
+          "alternates": [
+            "одягнути"
+          ]
+        },
+        "de": "anziehen",
+        "es": "ponerse",
+        "fr": {
+          "text": "mettre",
+          "alternates": [
+            "enfiler"
+          ]
+        },
+        "it": {
+          "text": "mettere",
+          "alternates": [
+            "indossare"
           ]
         }
       }

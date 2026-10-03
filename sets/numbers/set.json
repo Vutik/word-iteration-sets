@@ -2,24 +2,39 @@
   "title": {
     "en": "Numbers",
     "ru": "Числа",
-    "pl": "Liczby"
+    "pl": "Liczby",
+    "uk": "Числа",
+    "de": "Zahlen",
+    "es": "Números",
+    "fr": "Les nombres",
+    "it": "Numeri"
   },
   "description": {
     "en": "Counting from zero to a thousand.",
     "ru": "Счёт от нуля до тысячи.",
-    "pl": "Liczenie od zera do tysiąca."
+    "pl": "Liczenie od zera do tysiąca.",
+    "uk": "Лічба від нуля до тисячі.",
+    "de": "Zählen von null bis tausend.",
+    "es": "Contar de cero a mil.",
+    "fr": "Compter de zéro à mille.",
+    "it": "Contare da zero a mille."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
   "tags": [
     "numbers"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

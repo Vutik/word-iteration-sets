@@ -2,24 +2,39 @@
   "title": {
     "en": "Shopping",
     "ru": "Покупки",
-    "pl": "Zakupy"
+    "pl": "Zakupy",
+    "uk": "Покупки",
+    "de": "Einkaufen",
+    "es": "Compras",
+    "fr": "Achats",
+    "it": "Acquisti"
   },
   "description": {
     "en": "Shops, prices and paying.",
     "ru": "Магазины, цены и оплата.",
-    "pl": "Sklepy, ceny i płacenie."
+    "pl": "Sklepy, ceny i płacenie.",
+    "uk": "Магазини, ціни та оплата.",
+    "de": "Geschäfte, Preise und Bezahlen.",
+    "es": "Tiendas, precios y pagos.",
+    "fr": "Magasins, prix et paiement.",
+    "it": "Negozi, prezzi e pagamenti."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A2",
   "tags": [
     "shopping"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

@@ -22,6 +22,40 @@
           "alternates": [
             "mama"
           ]
+        },
+        "uk": {
+          "text": "мати",
+          "alternates": [
+            "мама"
+          ]
+        },
+        "de": {
+          "text": "die Mutter",
+          "alternates": [
+            "Mutter",
+            "Mama"
+          ]
+        },
+        "es": {
+          "text": "la madre",
+          "alternates": [
+            "madre",
+            "mamá"
+          ]
+        },
+        "fr": {
+          "text": "la mère",
+          "alternates": [
+            "mère",
+            "maman"
+          ]
+        },
+        "it": {
+          "text": "la madre",
+          "alternates": [
+            "madre",
+            "mamma"
+          ]
         }
       },
       "examples": [
@@ -30,7 +64,12 @@
           "text": "My mother is a teacher.",
           "translations": {
             "ru": "Моя мама — учительница.",
-            "pl": "Moja mama jest nauczycielką."
+            "pl": "Moja mama jest nauczycielką.",
+            "uk": "Моя мама — вчителька.",
+            "de": "Meine Mutter ist Lehrerin.",
+            "es": "Mi madre es profesora.",
+            "fr": "Ma mère est professeure.",
+            "it": "Mia madre è insegnante."
           }
         }
       ]
@@ -56,6 +95,40 @@
           "alternates": [
             "tata"
           ]
+        },
+        "uk": {
+          "text": "батько",
+          "alternates": [
+            "тато"
+          ]
+        },
+        "de": {
+          "text": "der Vater",
+          "alternates": [
+            "Vater",
+            "Papa"
+          ]
+        },
+        "es": {
+          "text": "el padre",
+          "alternates": [
+            "padre",
+            "papá"
+          ]
+        },
+        "fr": {
+          "text": "le père",
+          "alternates": [
+            "père",
+            "papa"
+          ]
+        },
+        "it": {
+          "text": "il padre",
+          "alternates": [
+            "padre",
+            "papà"
+          ]
         }
       }
     },
@@ -67,7 +140,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "сестра",
-        "pl": "siostra"
+        "pl": "siostra",
+        "uk": "сестра",
+        "de": {
+          "text": "die Schwester",
+          "alternates": [
+            "Schwester"
+          ]
+        },
+        "es": {
+          "text": "la hermana",
+          "alternates": [
+            "hermana"
+          ]
+        },
+        "fr": {
+          "text": "la sœur",
+          "alternates": [
+            "sœur"
+          ]
+        },
+        "it": {
+          "text": "la sorella",
+          "alternates": [
+            "sorella"
+          ]
+        }
       }
     },
     {
@@ -78,7 +176,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "брат",
-        "pl": "brat"
+        "pl": "brat",
+        "uk": "брат",
+        "de": {
+          "text": "der Bruder",
+          "alternates": [
+            "Bruder"
+          ]
+        },
+        "es": {
+          "text": "el hermano",
+          "alternates": [
+            "hermano"
+          ]
+        },
+        "fr": {
+          "text": "le frère",
+          "alternates": [
+            "frère"
+          ]
+        },
+        "it": {
+          "text": "il fratello",
+          "alternates": [
+            "fratello"
+          ]
+        }
       }
     },
     {
@@ -89,7 +212,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "сын",
-        "pl": "syn"
+        "pl": "syn",
+        "uk": "син",
+        "de": {
+          "text": "der Sohn",
+          "alternates": [
+            "Sohn"
+          ]
+        },
+        "es": {
+          "text": "el hijo",
+          "alternates": [
+            "hijo"
+          ]
+        },
+        "fr": {
+          "text": "le fils",
+          "alternates": [
+            "fils"
+          ]
+        },
+        "it": {
+          "text": "il figlio",
+          "alternates": [
+            "figlio"
+          ]
+        }
       }
     },
     {
@@ -100,7 +248,37 @@
           "partOfSpeech": "noun"
         },
         "ru": "дочь",
-        "pl": "córka"
+        "pl": "córka",
+        "uk": {
+          "text": "донька",
+          "alternates": [
+            "дочка"
+          ]
+        },
+        "de": {
+          "text": "die Tochter",
+          "alternates": [
+            "Tochter"
+          ]
+        },
+        "es": {
+          "text": "la hija",
+          "alternates": [
+            "hija"
+          ]
+        },
+        "fr": {
+          "text": "la fille",
+          "alternates": [
+            "fille"
+          ]
+        },
+        "it": {
+          "text": "la figlia",
+          "alternates": [
+            "figlia"
+          ]
+        }
       }
     },
     {
@@ -114,7 +292,39 @@
           "partOfSpeech": "noun"
         },
         "ru": "бабушка",
-        "pl": "babcia"
+        "pl": "babcia",
+        "uk": {
+          "text": "бабуся",
+          "alternates": [
+            "бабця"
+          ]
+        },
+        "de": {
+          "text": "die Großmutter",
+          "alternates": [
+            "Großmutter",
+            "Oma"
+          ]
+        },
+        "es": {
+          "text": "la abuela",
+          "alternates": [
+            "abuela"
+          ]
+        },
+        "fr": {
+          "text": "la grand-mère",
+          "alternates": [
+            "grand-mère",
+            "mamie"
+          ]
+        },
+        "it": {
+          "text": "la nonna",
+          "alternates": [
+            "nonna"
+          ]
+        }
       }
     },
     {
@@ -128,7 +338,39 @@
           "partOfSpeech": "noun"
         },
         "ru": "дедушка",
-        "pl": "dziadek"
+        "pl": "dziadek",
+        "uk": {
+          "text": "дідусь",
+          "alternates": [
+            "дід"
+          ]
+        },
+        "de": {
+          "text": "der Großvater",
+          "alternates": [
+            "Großvater",
+            "Opa"
+          ]
+        },
+        "es": {
+          "text": "el abuelo",
+          "alternates": [
+            "abuelo"
+          ]
+        },
+        "fr": {
+          "text": "le grand-père",
+          "alternates": [
+            "grand-père",
+            "papy"
+          ]
+        },
+        "it": {
+          "text": "il nonno",
+          "alternates": [
+            "nonno"
+          ]
+        }
       }
     },
     {
@@ -139,7 +381,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "муж",
-        "pl": "mąż"
+        "pl": "mąż",
+        "uk": "чоловік",
+        "de": {
+          "text": "der Ehemann",
+          "alternates": [
+            "Ehemann",
+            "Mann"
+          ]
+        },
+        "es": {
+          "text": "el marido",
+          "alternates": [
+            "marido",
+            "esposo"
+          ]
+        },
+        "fr": {
+          "text": "le mari",
+          "alternates": [
+            "mari"
+          ]
+        },
+        "it": {
+          "text": "il marito",
+          "alternates": [
+            "marito"
+          ]
+        }
       }
     },
     {
@@ -150,7 +419,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "жена",
-        "pl": "żona"
+        "pl": "żona",
+        "uk": "дружина",
+        "de": {
+          "text": "die Ehefrau",
+          "alternates": [
+            "Ehefrau",
+            "Frau"
+          ]
+        },
+        "es": {
+          "text": "la esposa",
+          "alternates": [
+            "esposa",
+            "mujer"
+          ]
+        },
+        "fr": {
+          "text": "la femme",
+          "alternates": [
+            "femme"
+          ]
+        },
+        "it": {
+          "text": "la moglie",
+          "alternates": [
+            "moglie"
+          ]
+        }
       }
     },
     {
@@ -165,6 +461,31 @@
           "text": "ciocia",
           "alternates": [
             "ciotka"
+          ]
+        },
+        "uk": "тітка",
+        "de": {
+          "text": "die Tante",
+          "alternates": [
+            "Tante"
+          ]
+        },
+        "es": {
+          "text": "la tía",
+          "alternates": [
+            "tía"
+          ]
+        },
+        "fr": {
+          "text": "la tante",
+          "alternates": [
+            "tante"
+          ]
+        },
+        "it": {
+          "text": "la zia",
+          "alternates": [
+            "zia"
           ]
         }
       }
@@ -181,6 +502,31 @@
           "text": "wujek",
           "alternates": [
             "stryj"
+          ]
+        },
+        "uk": "дядько",
+        "de": {
+          "text": "der Onkel",
+          "alternates": [
+            "Onkel"
+          ]
+        },
+        "es": {
+          "text": "el tío",
+          "alternates": [
+            "tío"
+          ]
+        },
+        "fr": {
+          "text": "l'oncle",
+          "alternates": [
+            "oncle"
+          ]
+        },
+        "it": {
+          "text": "lo zio",
+          "alternates": [
+            "zio"
           ]
         }
       }
@@ -203,6 +549,44 @@
           "alternates": [
             "kuzynka"
           ]
+        },
+        "uk": {
+          "text": "двоюрідний брат",
+          "alternates": [
+            "двоюрідна сестра"
+          ]
+        },
+        "de": {
+          "text": "der Cousin",
+          "alternates": [
+            "Cousin",
+            "Cousine",
+            "die Cousine"
+          ]
+        },
+        "es": {
+          "text": "el primo",
+          "alternates": [
+            "primo",
+            "prima",
+            "la prima"
+          ]
+        },
+        "fr": {
+          "text": "le cousin",
+          "alternates": [
+            "cousin",
+            "cousine",
+            "la cousine"
+          ]
+        },
+        "it": {
+          "text": "il cugino",
+          "alternates": [
+            "cugino",
+            "cugina",
+            "la cugina"
+          ]
         }
       }
     },
@@ -214,7 +598,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "родители",
-        "pl": "rodzice"
+        "pl": "rodzice",
+        "uk": "батьки",
+        "de": {
+          "text": "die Eltern",
+          "alternates": [
+            "Eltern"
+          ]
+        },
+        "es": {
+          "text": "los padres",
+          "alternates": [
+            "padres"
+          ]
+        },
+        "fr": {
+          "text": "les parents",
+          "alternates": [
+            "parents"
+          ]
+        },
+        "it": {
+          "text": "i genitori",
+          "alternates": [
+            "genitori"
+          ]
+        }
       },
       "examples": [
         {
@@ -222,7 +631,12 @@
           "text": "Moi rodzice mieszkają w Krakowie.",
           "translations": {
             "en": "My parents live in Kraków.",
-            "ru": "Мои родители живут в Кракове."
+            "ru": "Мои родители живут в Кракове.",
+            "uk": "Мої батьки живуть у Кракові.",
+            "de": "Meine Eltern wohnen in Krakau.",
+            "es": "Mis padres viven en Cracovia.",
+            "fr": "Mes parents habitent à Cracovie.",
+            "it": "I miei genitori vivono a Cracovia."
           }
         }
       ]
@@ -235,7 +649,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "дети",
-        "pl": "dzieci"
+        "pl": "dzieci",
+        "uk": "діти",
+        "de": {
+          "text": "die Kinder",
+          "alternates": [
+            "Kinder"
+          ]
+        },
+        "es": {
+          "text": "los niños",
+          "alternates": [
+            "niños",
+            "hijos",
+            "los hijos"
+          ]
+        },
+        "fr": {
+          "text": "les enfants",
+          "alternates": [
+            "enfants"
+          ]
+        },
+        "it": {
+          "text": "i bambini",
+          "alternates": [
+            "bambini",
+            "figli",
+            "i figli"
+          ]
+        }
       }
     }
   ]

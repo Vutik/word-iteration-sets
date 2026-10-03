@@ -13,6 +13,36 @@
           "alternates": [
             "relacja"
           ]
+        },
+        "uk": {
+          "text": "стосунки",
+          "alternates": [
+            "відносини"
+          ]
+        },
+        "de": {
+          "text": "die Beziehung",
+          "alternates": [
+            "Beziehung"
+          ]
+        },
+        "es": {
+          "text": "la relación",
+          "alternates": [
+            "relación"
+          ]
+        },
+        "fr": {
+          "text": "la relation",
+          "alternates": [
+            "relation"
+          ]
+        },
+        "it": {
+          "text": "la relazione",
+          "alternates": [
+            "relazione"
+          ]
         }
       }
     },
@@ -23,7 +53,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "дружба",
-        "pl": "przyjaźń"
+        "pl": "przyjaźń",
+        "uk": "дружба",
+        "de": {
+          "text": "die Freundschaft",
+          "alternates": [
+            "Freundschaft"
+          ]
+        },
+        "es": {
+          "text": "la amistad",
+          "alternates": [
+            "amistad"
+          ]
+        },
+        "fr": {
+          "text": "l'amitié",
+          "alternates": [
+            "amitié"
+          ]
+        },
+        "it": {
+          "text": "l'amicizia",
+          "alternates": [
+            "amicizia"
+          ]
+        }
       }
     },
     {
@@ -43,6 +98,44 @@
           "alternates": [
             "przyjaciółka"
           ]
+        },
+        "uk": {
+          "text": "друг",
+          "alternates": [
+            "подруга"
+          ]
+        },
+        "de": {
+          "text": "der Freund",
+          "alternates": [
+            "Freund",
+            "die Freundin",
+            "Freundin"
+          ]
+        },
+        "es": {
+          "text": "el amigo",
+          "alternates": [
+            "amigo",
+            "la amiga",
+            "amiga"
+          ]
+        },
+        "fr": {
+          "text": "l'ami",
+          "alternates": [
+            "ami",
+            "l'amie",
+            "amie"
+          ]
+        },
+        "it": {
+          "text": "l'amico",
+          "alternates": [
+            "amico",
+            "l'amica",
+            "amica"
+          ]
         }
       }
     },
@@ -53,7 +146,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "знакомый",
-        "pl": "znajomy"
+        "pl": "znajomy",
+        "uk": "знайомий",
+        "de": {
+          "text": "der Bekannte",
+          "alternates": [
+            "Bekannte"
+          ]
+        },
+        "es": {
+          "text": "el conocido",
+          "alternates": [
+            "conocido"
+          ]
+        },
+        "fr": {
+          "text": "la connaissance",
+          "alternates": [
+            "connaissance"
+          ]
+        },
+        "it": {
+          "text": "il conoscente",
+          "alternates": [
+            "conoscente"
+          ]
+        }
       }
     },
     {
@@ -66,7 +184,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "сосед",
-        "pl": "sąsiad"
+        "pl": "sąsiad",
+        "uk": "сусід",
+        "de": {
+          "text": "der Nachbar",
+          "alternates": [
+            "Nachbar"
+          ]
+        },
+        "es": {
+          "text": "el vecino",
+          "alternates": [
+            "vecino"
+          ]
+        },
+        "fr": {
+          "text": "le voisin",
+          "alternates": [
+            "voisin"
+          ]
+        },
+        "it": {
+          "text": "il vicino",
+          "alternates": [
+            "vicino"
+          ]
+        }
       }
     },
     {
@@ -76,7 +219,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "партнёр",
-        "pl": "partner"
+        "pl": "partner",
+        "uk": "партнер",
+        "de": {
+          "text": "der Partner",
+          "alternates": [
+            "Partner"
+          ]
+        },
+        "es": {
+          "text": "la pareja",
+          "alternates": [
+            "pareja"
+          ]
+        },
+        "fr": {
+          "text": "le partenaire",
+          "alternates": [
+            "partenaire"
+          ]
+        },
+        "it": {
+          "text": "il partner",
+          "alternates": [
+            "partner",
+            "il compagno"
+          ]
+        }
       }
     },
     {
@@ -86,7 +255,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "парень",
-        "pl": "chłopak"
+        "pl": "chłopak",
+        "uk": "хлопець",
+        "de": {
+          "text": "der feste Freund",
+          "alternates": [
+            "fester Freund",
+            "der Freund",
+            "Freund"
+          ]
+        },
+        "es": {
+          "text": "el novio",
+          "alternates": [
+            "novio"
+          ]
+        },
+        "fr": {
+          "text": "le petit ami",
+          "alternates": [
+            "petit ami",
+            "le copain",
+            "copain"
+          ]
+        },
+        "it": {
+          "text": "il ragazzo",
+          "alternates": [
+            "ragazzo"
+          ]
+        }
       }
     },
     {
@@ -96,7 +294,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "девушка",
-        "pl": "dziewczyna"
+        "pl": "dziewczyna",
+        "uk": "дівчина",
+        "de": {
+          "text": "die feste Freundin",
+          "alternates": [
+            "feste Freundin",
+            "die Freundin",
+            "Freundin"
+          ]
+        },
+        "es": {
+          "text": "la novia",
+          "alternates": [
+            "novia"
+          ]
+        },
+        "fr": {
+          "text": "la petite amie",
+          "alternates": [
+            "petite amie",
+            "la copine",
+            "copine"
+          ]
+        },
+        "it": {
+          "text": "la ragazza",
+          "alternates": [
+            "ragazza"
+          ]
+        }
       }
     },
     {
@@ -111,6 +338,33 @@
           "alternates": [
             "ślub"
           ]
+        },
+        "uk": "весілля",
+        "de": {
+          "text": "die Hochzeit",
+          "alternates": [
+            "Hochzeit"
+          ]
+        },
+        "es": {
+          "text": "la boda",
+          "alternates": [
+            "boda"
+          ]
+        },
+        "fr": {
+          "text": "le mariage",
+          "alternates": [
+            "mariage"
+          ]
+        },
+        "it": {
+          "text": "il matrimonio",
+          "alternates": [
+            "matrimonio",
+            "le nozze",
+            "nozze"
+          ]
         }
       }
     },
@@ -121,7 +375,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "брак",
-        "pl": "małżeństwo"
+        "pl": "małżeństwo",
+        "uk": "шлюб",
+        "de": {
+          "text": "die Ehe",
+          "alternates": [
+            "Ehe"
+          ]
+        },
+        "es": {
+          "text": "el matrimonio",
+          "alternates": [
+            "matrimonio"
+          ]
+        },
+        "fr": {
+          "text": "le mariage",
+          "alternates": [
+            "mariage"
+          ]
+        },
+        "it": {
+          "text": "il matrimonio",
+          "alternates": [
+            "matrimonio"
+          ]
+        }
       }
     },
     {
@@ -131,7 +410,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "развод",
-        "pl": "rozwód"
+        "pl": "rozwód",
+        "uk": "розлучення",
+        "de": {
+          "text": "die Scheidung",
+          "alternates": [
+            "Scheidung"
+          ]
+        },
+        "es": {
+          "text": "el divorcio",
+          "alternates": [
+            "divorcio"
+          ]
+        },
+        "fr": {
+          "text": "le divorce",
+          "alternates": [
+            "divorce"
+          ]
+        },
+        "it": {
+          "text": "il divorzio",
+          "alternates": [
+            "divorzio"
+          ]
+        }
       }
     },
     {
@@ -149,7 +453,39 @@
             "спор"
           ]
         },
-        "pl": "kłótnia"
+        "pl": "kłótnia",
+        "uk": {
+          "text": "сварка",
+          "alternates": [
+            "суперечка"
+          ]
+        },
+        "de": {
+          "text": "der Streit",
+          "alternates": [
+            "Streit"
+          ]
+        },
+        "es": {
+          "text": "la discusión",
+          "alternates": [
+            "discusión",
+            "la pelea"
+          ]
+        },
+        "fr": {
+          "text": "la dispute",
+          "alternates": [
+            "dispute"
+          ]
+        },
+        "it": {
+          "text": "la lite",
+          "alternates": [
+            "lite",
+            "la discussione"
+          ]
+        }
       }
     },
     {
@@ -159,7 +495,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "доверие",
-        "pl": "zaufanie"
+        "pl": "zaufanie",
+        "uk": "довіра",
+        "de": {
+          "text": "das Vertrauen",
+          "alternates": [
+            "Vertrauen"
+          ]
+        },
+        "es": {
+          "text": "la confianza",
+          "alternates": [
+            "confianza"
+          ]
+        },
+        "fr": {
+          "text": "la confiance",
+          "alternates": [
+            "confiance"
+          ]
+        },
+        "it": {
+          "text": "la fiducia",
+          "alternates": [
+            "fiducia"
+          ]
+        }
       }
     },
     {
@@ -178,6 +539,31 @@
           "text": "spotykać",
           "alternates": [
             "poznawać"
+          ]
+        },
+        "uk": {
+          "text": "зустрічати",
+          "alternates": [
+            "знайомитися"
+          ]
+        },
+        "de": {
+          "text": "treffen",
+          "alternates": [
+            "kennenlernen"
+          ]
+        },
+        "es": {
+          "text": "encontrar",
+          "alternates": [
+            "conocer"
+          ]
+        },
+        "fr": "rencontrer",
+        "it": {
+          "text": "incontrare",
+          "alternates": [
+            "conoscere"
           ]
         }
       }
@@ -199,7 +585,17 @@
           "alternates": [
             "pobrać się"
           ]
-        }
+        },
+        "uk": {
+          "text": "одружуватися",
+          "alternates": [
+            "виходити заміж"
+          ]
+        },
+        "de": "heiraten",
+        "es": "casarse",
+        "fr": "se marier",
+        "it": "sposarsi"
       },
       "examples": [
         {
@@ -207,7 +603,12 @@
           "text": "They got married last summer.",
           "translations": {
             "ru": "Они поженились прошлым летом.",
-            "pl": "Pobrali się zeszłego lata."
+            "pl": "Pobrali się zeszłego lata.",
+            "uk": "Вони одружилися минулого літа.",
+            "de": "Sie haben letzten Sommer geheiratet.",
+            "es": "Se casaron el verano pasado.",
+            "fr": "Ils se sont mariés l'été dernier.",
+            "it": "Si sono sposati l'estate scorsa."
           }
         }
       ]
@@ -224,7 +625,17 @@
             "влюбиться"
           ]
         },
-        "pl": "zakochać się"
+        "pl": "zakochać się",
+        "uk": {
+          "text": "закохуватися",
+          "alternates": [
+            "закохатися"
+          ]
+        },
+        "de": "sich verlieben",
+        "es": "enamorarse",
+        "fr": "tomber amoureux",
+        "it": "innamorarsi"
       }
     },
     {
@@ -244,6 +655,36 @@
           "alternates": [
             "zerwać"
           ]
+        },
+        "uk": {
+          "text": "розійтися",
+          "alternates": [
+            "розлучатися"
+          ]
+        },
+        "de": {
+          "text": "sich trennen",
+          "alternates": [
+            "Schluss machen"
+          ]
+        },
+        "es": {
+          "text": "romper",
+          "alternates": [
+            "separarse"
+          ]
+        },
+        "fr": {
+          "text": "rompre",
+          "alternates": [
+            "se séparer"
+          ]
+        },
+        "it": {
+          "text": "lasciarsi",
+          "alternates": [
+            "rompere"
+          ]
         }
       }
     },
@@ -257,7 +698,17 @@
           "partOfSpeech": "verb"
         },
         "ru": "ладить",
-        "pl": "dogadywać się"
+        "pl": "dogadywać się",
+        "uk": {
+          "text": "ладнати",
+          "alternates": [
+            "порозумітися"
+          ]
+        },
+        "de": "sich verstehen",
+        "es": "llevarse bien",
+        "fr": "s'entendre",
+        "it": "andare d'accordo"
       }
     },
     {
@@ -272,7 +723,32 @@
             "спорить"
           ]
         },
-        "pl": "kłócić się"
+        "pl": "kłócić się",
+        "uk": {
+          "text": "сваритися",
+          "alternates": [
+            "сперечатися"
+          ]
+        },
+        "de": {
+          "text": "sich streiten",
+          "alternates": [
+            "streiten"
+          ]
+        },
+        "es": {
+          "text": "discutir",
+          "alternates": [
+            "pelearse"
+          ]
+        },
+        "fr": "se disputer",
+        "it": {
+          "text": "litigare",
+          "alternates": [
+            "discutere"
+          ]
+        }
       }
     },
     {
@@ -295,6 +771,26 @@
           "alternates": [
             "przeprosić"
           ]
+        },
+        "uk": {
+          "text": "перепрошувати",
+          "alternates": [
+            "вибачатися"
+          ]
+        },
+        "de": "sich entschuldigen",
+        "es": {
+          "text": "disculparse",
+          "alternates": [
+            "pedir perdón"
+          ]
+        },
+        "fr": "s'excuser",
+        "it": {
+          "text": "scusarsi",
+          "alternates": [
+            "chiedere scusa"
+          ]
         }
       }
     },
@@ -315,7 +811,22 @@
           "alternates": [
             "wybaczyć"
           ]
-        }
+        },
+        "uk": {
+          "text": "пробачати",
+          "alternates": [
+            "пробачити"
+          ]
+        },
+        "de": {
+          "text": "verzeihen",
+          "alternates": [
+            "vergeben"
+          ]
+        },
+        "es": "perdonar",
+        "fr": "pardonner",
+        "it": "perdonare"
       }
     },
     {
@@ -325,7 +836,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "доверять",
-        "pl": "ufać"
+        "pl": "ufać",
+        "uk": "довіряти",
+        "de": "vertrauen",
+        "es": "confiar",
+        "fr": "faire confiance",
+        "it": "fidarsi"
       }
     },
     {
@@ -340,7 +856,17 @@
             "поддержать"
           ]
         },
-        "pl": "wspierać"
+        "pl": "wspierać",
+        "uk": {
+          "text": "підтримувати",
+          "alternates": [
+            "підтримати"
+          ]
+        },
+        "de": "unterstützen",
+        "es": "apoyar",
+        "fr": "soutenir",
+        "it": "sostenere"
       }
     }
   ]

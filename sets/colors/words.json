@@ -9,7 +9,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "красный",
-        "pl": "czerwony"
+        "pl": "czerwony",
+        "uk": "червоний",
+        "de": "rot",
+        "es": "rojo",
+        "fr": "rouge",
+        "it": "rosso"
       }
     },
     {
@@ -20,7 +25,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "оранжевый",
-        "pl": "pomarańczowy"
+        "pl": "pomarańczowy",
+        "uk": "помаранчевий",
+        "de": "orange",
+        "es": "naranja",
+        "fr": "orange",
+        "it": "arancione"
       }
     },
     {
@@ -31,7 +41,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "жёлтый",
-        "pl": "żółty"
+        "pl": "żółty",
+        "uk": "жовтий",
+        "de": "gelb",
+        "es": "amarillo",
+        "fr": "jaune",
+        "it": "giallo"
       }
     },
     {
@@ -42,7 +57,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "зелёный",
-        "pl": "zielony"
+        "pl": "zielony",
+        "uk": "зелений",
+        "de": "grün",
+        "es": "verde",
+        "fr": "vert",
+        "it": "verde"
       }
     },
     {
@@ -58,7 +78,22 @@
             "голубой"
           ]
         },
-        "pl": "niebieski"
+        "pl": "niebieski",
+        "uk": {
+          "text": "синій",
+          "alternates": [
+            "блакитний"
+          ]
+        },
+        "de": "blau",
+        "es": "azul",
+        "fr": "bleu",
+        "it": {
+          "text": "blu",
+          "alternates": [
+            "azzurro"
+          ]
+        }
       },
       "examples": [
         {
@@ -66,7 +101,12 @@
           "text": "The sky is blue today.",
           "translations": {
             "ru": "Сегодня небо голубое.",
-            "pl": "Niebo jest dziś niebieskie."
+            "pl": "Niebo jest dziś niebieskie.",
+            "uk": "Сьогодні небо блакитне.",
+            "de": "Der Himmel ist heute blau.",
+            "es": "Hoy el cielo está azul.",
+            "fr": "Le ciel est bleu aujourd'hui.",
+            "it": "Oggi il cielo è azzurro."
           }
         }
       ]
@@ -79,7 +119,22 @@
           "partOfSpeech": "adjective"
         },
         "ru": "фиолетовый",
-        "pl": "fioletowy"
+        "pl": "fioletowy",
+        "uk": "фіолетовий",
+        "de": {
+          "text": "lila",
+          "alternates": [
+            "violett"
+          ]
+        },
+        "es": {
+          "text": "morado",
+          "alternates": [
+            "violeta"
+          ]
+        },
+        "fr": "violet",
+        "it": "viola"
       }
     },
     {
@@ -90,7 +145,17 @@
           "partOfSpeech": "adjective"
         },
         "ru": "розовый",
-        "pl": "różowy"
+        "pl": "różowy",
+        "uk": "рожевий",
+        "de": "rosa",
+        "es": {
+          "text": "rosa",
+          "alternates": [
+            "rosado"
+          ]
+        },
+        "fr": "rose",
+        "it": "rosa"
       }
     },
     {
@@ -101,7 +166,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "коричневый",
-        "pl": "brązowy"
+        "pl": "brązowy",
+        "uk": "коричневий",
+        "de": "braun",
+        "es": "marrón",
+        "fr": "marron",
+        "it": "marrone"
       }
     },
     {
@@ -112,7 +182,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "чёрный",
-        "pl": "czarny"
+        "pl": "czarny",
+        "uk": "чорний",
+        "de": "schwarz",
+        "es": "negro",
+        "fr": "noir",
+        "it": "nero"
       }
     },
     {
@@ -123,7 +198,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "белый",
-        "pl": "biały"
+        "pl": "biały",
+        "uk": "білий",
+        "de": "weiß",
+        "es": "blanco",
+        "fr": "blanc",
+        "it": "bianco"
       }
     },
     {
@@ -137,7 +217,12 @@
           "partOfSpeech": "adjective"
         },
         "ru": "серый",
-        "pl": "szary"
+        "pl": "szary",
+        "uk": "сірий",
+        "de": "grau",
+        "es": "gris",
+        "fr": "gris",
+        "it": "grigio"
       }
     }
   ]

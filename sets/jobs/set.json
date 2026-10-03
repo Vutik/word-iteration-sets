@@ -2,17 +2,32 @@
   "title": {
     "en": "Jobs",
     "ru": "Профессии",
-    "pl": "Zawody"
+    "pl": "Zawody",
+    "uk": "Професії",
+    "de": "Berufe",
+    "es": "Profesiones",
+    "fr": "Métiers",
+    "it": "Professioni"
   },
   "description": {
     "en": "Who does what for a living.",
     "ru": "Кто кем работает.",
-    "pl": "Kto czym się zajmuje."
+    "pl": "Kto czym się zajmuje.",
+    "uk": "Хто ким працює.",
+    "de": "Wer was beruflich macht.",
+    "es": "Quién trabaja de qué.",
+    "fr": "Qui fait quoi dans la vie.",
+    "it": "Chi fa che lavoro."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A2",
@@ -20,7 +35,7 @@
     "work",
     "people"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

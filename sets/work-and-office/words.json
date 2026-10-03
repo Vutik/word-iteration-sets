@@ -18,6 +18,41 @@
           "alternates": [
             "posada"
           ]
+        },
+        "uk": {
+          "text": "робота",
+          "alternates": [
+            "посада"
+          ]
+        },
+        "de": {
+          "text": "die Arbeit",
+          "alternates": [
+            "Arbeit",
+            "der Job",
+            "die Stelle"
+          ]
+        },
+        "es": {
+          "text": "el trabajo",
+          "alternates": [
+            "trabajo",
+            "el empleo"
+          ]
+        },
+        "fr": {
+          "text": "le travail",
+          "alternates": [
+            "travail",
+            "le poste"
+          ]
+        },
+        "it": {
+          "text": "il lavoro",
+          "alternates": [
+            "lavoro",
+            "il posto di lavoro"
+          ]
         }
       }
     },
@@ -41,6 +76,40 @@
           "alternates": [
             "przedsiębiorstwo"
           ]
+        },
+        "uk": {
+          "text": "компанія",
+          "alternates": [
+            "фірма"
+          ]
+        },
+        "de": {
+          "text": "die Firma",
+          "alternates": [
+            "Firma",
+            "das Unternehmen"
+          ]
+        },
+        "es": {
+          "text": "la empresa",
+          "alternates": [
+            "empresa",
+            "la compañía"
+          ]
+        },
+        "fr": {
+          "text": "l'entreprise",
+          "alternates": [
+            "entreprise",
+            "la société"
+          ]
+        },
+        "it": {
+          "text": "l'azienda",
+          "alternates": [
+            "azienda",
+            "la ditta"
+          ]
         }
       }
     },
@@ -51,7 +120,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "офис",
-        "pl": "biuro"
+        "pl": "biuro",
+        "uk": "офіс",
+        "de": {
+          "text": "das Büro",
+          "alternates": [
+            "Büro"
+          ]
+        },
+        "es": {
+          "text": "la oficina",
+          "alternates": [
+            "oficina"
+          ]
+        },
+        "fr": {
+          "text": "le bureau",
+          "alternates": [
+            "bureau"
+          ]
+        },
+        "it": {
+          "text": "l'ufficio",
+          "alternates": [
+            "ufficio"
+          ]
+        }
       }
     },
     {
@@ -66,6 +160,33 @@
           "alternates": [
             "współpracownik"
           ]
+        },
+        "uk": "колега",
+        "de": {
+          "text": "der Kollege",
+          "alternates": [
+            "Kollege",
+            "der Arbeitskollege"
+          ]
+        },
+        "es": {
+          "text": "el compañero de trabajo",
+          "alternates": [
+            "compañero de trabajo",
+            "el colega"
+          ]
+        },
+        "fr": {
+          "text": "le collègue",
+          "alternates": [
+            "collègue"
+          ]
+        },
+        "it": {
+          "text": "il collega",
+          "alternates": [
+            "collega"
+          ]
         }
       }
     },
@@ -76,7 +197,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "начальник",
-        "pl": "szef"
+        "pl": "szef",
+        "uk": {
+          "text": "начальник",
+          "alternates": [
+            "керівник"
+          ]
+        },
+        "de": {
+          "text": "der Chef",
+          "alternates": [
+            "Chef"
+          ]
+        },
+        "es": {
+          "text": "el jefe",
+          "alternates": [
+            "jefe"
+          ]
+        },
+        "fr": {
+          "text": "le patron",
+          "alternates": [
+            "patron",
+            "le chef"
+          ]
+        },
+        "it": {
+          "text": "il capo",
+          "alternates": [
+            "capo"
+          ]
+        }
       }
     },
     {
@@ -91,7 +243,41 @@
             "работник"
           ]
         },
-        "pl": "pracownik"
+        "pl": "pracownik",
+        "uk": {
+          "text": "працівник",
+          "alternates": [
+            "співробітник"
+          ]
+        },
+        "de": {
+          "text": "der Mitarbeiter",
+          "alternates": [
+            "Mitarbeiter",
+            "der Angestellte"
+          ]
+        },
+        "es": {
+          "text": "el empleado",
+          "alternates": [
+            "empleado",
+            "el trabajador"
+          ]
+        },
+        "fr": {
+          "text": "l'employé",
+          "alternates": [
+            "employé",
+            "le salarié"
+          ]
+        },
+        "it": {
+          "text": "il dipendente",
+          "alternates": [
+            "dipendente",
+            "il lavoratore"
+          ]
+        }
       }
     },
     {
@@ -101,7 +287,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "работодатель",
-        "pl": "pracodawca"
+        "pl": "pracodawca",
+        "uk": "роботодавець",
+        "de": {
+          "text": "der Arbeitgeber",
+          "alternates": [
+            "Arbeitgeber"
+          ]
+        },
+        "es": {
+          "text": "el empleador",
+          "alternates": [
+            "empleador"
+          ]
+        },
+        "fr": {
+          "text": "l'employeur",
+          "alternates": [
+            "employeur"
+          ]
+        },
+        "it": {
+          "text": "il datore di lavoro",
+          "alternates": [
+            "datore di lavoro"
+          ]
+        }
       }
     },
     {
@@ -115,6 +326,34 @@
           "text": "pensja",
           "alternates": [
             "wynagrodzenie"
+          ]
+        },
+        "uk": "зарплата",
+        "de": {
+          "text": "das Gehalt",
+          "alternates": [
+            "Gehalt",
+            "der Lohn"
+          ]
+        },
+        "es": {
+          "text": "el sueldo",
+          "alternates": [
+            "sueldo",
+            "el salario"
+          ]
+        },
+        "fr": {
+          "text": "le salaire",
+          "alternates": [
+            "salaire"
+          ]
+        },
+        "it": {
+          "text": "lo stipendio",
+          "alternates": [
+            "stipendio",
+            "il salario"
           ]
         }
       }
@@ -136,6 +375,36 @@
           "alternates": [
             "kontrakt"
           ]
+        },
+        "uk": {
+          "text": "договір",
+          "alternates": [
+            "контракт"
+          ]
+        },
+        "de": {
+          "text": "der Vertrag",
+          "alternates": [
+            "Vertrag"
+          ]
+        },
+        "es": {
+          "text": "el contrato",
+          "alternates": [
+            "contrato"
+          ]
+        },
+        "fr": {
+          "text": "le contrat",
+          "alternates": [
+            "contrat"
+          ]
+        },
+        "it": {
+          "text": "il contratto",
+          "alternates": [
+            "contratto"
+          ]
         }
       }
     },
@@ -156,6 +425,38 @@
           "alternates": [
             "zebranie"
           ]
+        },
+        "uk": {
+          "text": "зустріч",
+          "alternates": [
+            "нарада"
+          ]
+        },
+        "de": {
+          "text": "das Meeting",
+          "alternates": [
+            "Meeting",
+            "die Besprechung",
+            "die Sitzung"
+          ]
+        },
+        "es": {
+          "text": "la reunión",
+          "alternates": [
+            "reunión"
+          ]
+        },
+        "fr": {
+          "text": "la réunion",
+          "alternates": [
+            "réunion"
+          ]
+        },
+        "it": {
+          "text": "la riunione",
+          "alternates": [
+            "riunione"
+          ]
         }
       },
       "examples": [
@@ -164,7 +465,12 @@
           "text": "The meeting has been moved to Thursday.",
           "translations": {
             "ru": "Встречу перенесли на четверг.",
-            "pl": "Spotkanie zostało przełożone na czwartek."
+            "pl": "Spotkanie zostało przełożone na czwartek.",
+            "uk": "Зустріч перенесли на четвер.",
+            "de": "Das Meeting wurde auf Donnerstag verschoben.",
+            "es": "La reunión se ha aplazado al jueves.",
+            "fr": "La réunion a été reportée à jeudi.",
+            "it": "La riunione è stata spostata a giovedì."
           }
         }
       ]
@@ -181,7 +487,40 @@
             "дедлайн"
           ]
         },
-        "pl": "termin"
+        "pl": "termin",
+        "uk": {
+          "text": "термін",
+          "alternates": [
+            "дедлайн"
+          ]
+        },
+        "de": {
+          "text": "die Frist",
+          "alternates": [
+            "Frist",
+            "der Termin"
+          ]
+        },
+        "es": {
+          "text": "el plazo",
+          "alternates": [
+            "plazo",
+            "la fecha límite"
+          ]
+        },
+        "fr": {
+          "text": "la date limite",
+          "alternates": [
+            "date limite",
+            "le délai"
+          ]
+        },
+        "it": {
+          "text": "la scadenza",
+          "alternates": [
+            "scadenza"
+          ]
+        }
       }
     },
     {
@@ -196,7 +535,37 @@
             "задание"
           ]
         },
-        "pl": "zadanie"
+        "pl": "zadanie",
+        "uk": {
+          "text": "завдання",
+          "alternates": [
+            "задача"
+          ]
+        },
+        "de": {
+          "text": "die Aufgabe",
+          "alternates": [
+            "Aufgabe"
+          ]
+        },
+        "es": {
+          "text": "la tarea",
+          "alternates": [
+            "tarea"
+          ]
+        },
+        "fr": {
+          "text": "la tâche",
+          "alternates": [
+            "tâche"
+          ]
+        },
+        "it": {
+          "text": "il compito",
+          "alternates": [
+            "compito"
+          ]
+        }
       }
     },
     {
@@ -206,7 +575,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "опыт",
-        "pl": "doświadczenie"
+        "pl": "doświadczenie",
+        "uk": "досвід",
+        "de": {
+          "text": "die Erfahrung",
+          "alternates": [
+            "Erfahrung"
+          ]
+        },
+        "es": {
+          "text": "la experiencia",
+          "alternates": [
+            "experiencia"
+          ]
+        },
+        "fr": {
+          "text": "l'expérience",
+          "alternates": [
+            "expérience"
+          ]
+        },
+        "it": {
+          "text": "l'esperienza",
+          "alternates": [
+            "esperienza"
+          ]
+        }
       }
     },
     {
@@ -216,7 +610,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "собеседование",
-        "pl": "rozmowa kwalifikacyjna"
+        "pl": "rozmowa kwalifikacyjna",
+        "uk": "співбесіда",
+        "de": {
+          "text": "das Vorstellungsgespräch",
+          "alternates": [
+            "Vorstellungsgespräch",
+            "das Bewerbungsgespräch"
+          ]
+        },
+        "es": {
+          "text": "la entrevista de trabajo",
+          "alternates": [
+            "entrevista de trabajo",
+            "la entrevista"
+          ]
+        },
+        "fr": {
+          "text": "l'entretien d'embauche",
+          "alternates": [
+            "entretien d'embauche",
+            "l'entretien"
+          ]
+        },
+        "it": {
+          "text": "il colloquio di lavoro",
+          "alternates": [
+            "colloquio di lavoro",
+            "il colloquio"
+          ]
+        }
       }
     },
     {
@@ -234,6 +657,35 @@
           "alternates": [
             "życiorys"
           ]
+        },
+        "uk": "резюме",
+        "de": {
+          "text": "der Lebenslauf",
+          "alternates": [
+            "Lebenslauf"
+          ]
+        },
+        "es": {
+          "text": "el currículum",
+          "alternates": [
+            "currículum",
+            "el CV",
+            "el currículo"
+          ]
+        },
+        "fr": {
+          "text": "le CV",
+          "alternates": [
+            "CV",
+            "le curriculum vitae"
+          ]
+        },
+        "it": {
+          "text": "il curriculum",
+          "alternates": [
+            "curriculum",
+            "il CV"
+          ]
         }
       }
     },
@@ -249,7 +701,41 @@
             "умение"
           ]
         },
-        "pl": "umiejętność"
+        "pl": "umiejętność",
+        "uk": {
+          "text": "навичка",
+          "alternates": [
+            "вміння"
+          ]
+        },
+        "de": {
+          "text": "die Fähigkeit",
+          "alternates": [
+            "Fähigkeit",
+            "die Fertigkeit"
+          ]
+        },
+        "es": {
+          "text": "la habilidad",
+          "alternates": [
+            "habilidad",
+            "la destreza"
+          ]
+        },
+        "fr": {
+          "text": "la compétence",
+          "alternates": [
+            "compétence",
+            "la capacité"
+          ]
+        },
+        "it": {
+          "text": "la competenza",
+          "alternates": [
+            "competenza",
+            "l'abilità"
+          ]
+        }
       }
     },
     {
@@ -259,7 +745,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "повышение",
-        "pl": "awans"
+        "pl": "awans",
+        "uk": "підвищення",
+        "de": {
+          "text": "die Beförderung",
+          "alternates": [
+            "Beförderung"
+          ]
+        },
+        "es": {
+          "text": "el ascenso",
+          "alternates": [
+            "ascenso",
+            "la promoción"
+          ]
+        },
+        "fr": {
+          "text": "la promotion",
+          "alternates": [
+            "promotion"
+          ]
+        },
+        "it": {
+          "text": "la promozione",
+          "alternates": [
+            "promozione"
+          ]
+        }
       }
     },
     {
@@ -272,7 +784,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "отпуск",
-        "pl": "urlop"
+        "pl": "urlop",
+        "uk": "відпустка",
+        "de": {
+          "text": "der Urlaub",
+          "alternates": [
+            "Urlaub"
+          ]
+        },
+        "es": {
+          "text": "las vacaciones",
+          "alternates": [
+            "vacaciones"
+          ]
+        },
+        "fr": {
+          "text": "les congés",
+          "alternates": [
+            "congés",
+            "les vacances"
+          ]
+        },
+        "it": {
+          "text": "le ferie",
+          "alternates": [
+            "ferie",
+            "le vacanze"
+          ]
+        }
       }
     },
     {
@@ -291,6 +830,26 @@
           "text": "aplikować",
           "alternates": [
             "ubiegać się"
+          ]
+        },
+        "uk": {
+          "text": "подавати заявку",
+          "alternates": [
+            "подаватися"
+          ]
+        },
+        "de": "sich bewerben",
+        "es": {
+          "text": "solicitar",
+          "alternates": [
+            "postularse"
+          ]
+        },
+        "fr": "postuler",
+        "it": {
+          "text": "candidarsi",
+          "alternates": [
+            "presentare domanda"
           ]
         }
       }
@@ -312,7 +871,22 @@
           "alternates": [
             "zatrudnić"
           ]
-        }
+        },
+        "uk": {
+          "text": "наймати",
+          "alternates": [
+            "найняти"
+          ]
+        },
+        "de": "einstellen",
+        "es": "contratar",
+        "fr": {
+          "text": "embaucher",
+          "alternates": [
+            "recruter"
+          ]
+        },
+        "it": "assumere"
       }
     },
     {
@@ -335,7 +909,22 @@
           "alternates": [
             "zwolnić"
           ]
-        }
+        },
+        "uk": {
+          "text": "звільняти",
+          "alternates": [
+            "звільнити"
+          ]
+        },
+        "de": "entlassen",
+        "es": "despedir",
+        "fr": {
+          "text": "licencier",
+          "alternates": [
+            "renvoyer"
+          ]
+        },
+        "it": "licenziare"
       }
     },
     {
@@ -358,7 +947,22 @@
           "alternates": [
             "zwolnić się"
           ]
-        }
+        },
+        "uk": {
+          "text": "звільнятися",
+          "alternates": [
+            "звільнитися"
+          ]
+        },
+        "de": "kündigen",
+        "es": {
+          "text": "dimitir",
+          "alternates": [
+            "renunciar"
+          ]
+        },
+        "fr": "démissionner",
+        "it": "dimettersi"
       }
     },
     {
@@ -368,7 +972,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "зарабатывать",
-        "pl": "zarabiać"
+        "pl": "zarabiać",
+        "uk": "заробляти",
+        "de": "verdienen",
+        "es": "ganar",
+        "fr": "gagner",
+        "it": "guadagnare"
       },
       "examples": [
         {
@@ -376,7 +985,12 @@
           "text": "She earns more than her husband.",
           "translations": {
             "ru": "Она зарабатывает больше мужа.",
-            "pl": "Ona zarabia więcej niż jej mąż."
+            "pl": "Ona zarabia więcej niż jej mąż.",
+            "uk": "Вона заробляє більше за свого чоловіка.",
+            "de": "Sie verdient mehr als ihr Mann.",
+            "es": "Ella gana más que su marido.",
+            "fr": "Elle gagne plus que son mari.",
+            "it": "Lei guadagna più di suo marito."
           }
         }
       ]

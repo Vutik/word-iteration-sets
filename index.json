@@ -6,17 +6,32 @@
       "title": {
         "en": "Animals",
         "ru": "Животные",
-        "pl": "Zwierzęta"
+        "pl": "Zwierzęta",
+        "uk": "Тварини",
+        "de": "Tiere",
+        "es": "Los animales",
+        "fr": "Les animaux",
+        "it": "Gli animali"
       },
       "description": {
         "en": "Pets, farm animals and a few wild ones.",
         "ru": "Домашние, сельские и несколько диких животных.",
-        "pl": "Zwierzęta domowe, gospodarskie i kilka dzikich."
+        "pl": "Zwierzęta domowe, gospodarskie i kilka dzikich.",
+        "uk": "Домашні, сільськогосподарські та кілька диких тварин.",
+        "de": "Haustiere, Nutztiere und ein paar Wildtiere.",
+        "es": "Mascotas, animales de granja y algunos salvajes.",
+        "fr": "Animaux domestiques, animaux de la ferme et quelques animaux sauvages.",
+        "it": "Animali domestici, da fattoria e qualche animale selvatico."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/animals/cover.png",
       "level": "A1",
@@ -24,7 +39,7 @@
         "animals"
       ],
       "wordCount": 20,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/animals/words.json"
@@ -35,17 +50,32 @@
       "title": {
         "en": "The body",
         "ru": "Тело",
-        "pl": "Ciało"
+        "pl": "Ciało",
+        "uk": "Тіло",
+        "de": "Der Körper",
+        "es": "El cuerpo",
+        "fr": "Le corps",
+        "it": "Il corpo"
       },
       "description": {
         "en": "Head, hands, feet and everything in between.",
         "ru": "Голова, руки, ноги и всё, что между ними.",
-        "pl": "Głowa, ręce, nogi i wszystko pomiędzy."
+        "pl": "Głowa, ręce, nogi i wszystko pomiędzy.",
+        "uk": "Голова, руки, ноги й усе, що між ними.",
+        "de": "Kopf, Hände, Füße und alles dazwischen.",
+        "es": "La cabeza, las manos, los pies y todo lo que hay entre medias.",
+        "fr": "La tête, les mains, les pieds et tout ce qu'il y a entre les deux.",
+        "it": "Testa, mani, piedi e tutto quello che c'è in mezzo."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/body/cover.png",
       "level": "A1",
@@ -54,7 +84,7 @@
         "body"
       ],
       "wordCount": 19,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/body/words.json"
@@ -65,17 +95,32 @@
       "title": {
         "en": "Character",
         "ru": "Характер",
-        "pl": "Charakter"
+        "pl": "Charakter",
+        "uk": "Характер",
+        "de": "Charakter",
+        "es": "El carácter",
+        "fr": "Le caractère",
+        "it": "Il carattere"
       },
       "description": {
         "en": "Describing what people are like.",
         "ru": "Как описать человека.",
-        "pl": "Jak opisać człowieka."
+        "pl": "Jak opisać człowieka.",
+        "uk": "Як описати людину.",
+        "de": "Wie man beschreibt, wie ein Mensch ist.",
+        "es": "Cómo describir a una persona.",
+        "fr": "Comment décrire une personne.",
+        "it": "Come descrivere una persona."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/character/cover.png",
       "level": "B1",
@@ -84,7 +129,7 @@
         "adjectives"
       ],
       "wordCount": 21,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/character/words.json"
@@ -123,17 +168,32 @@
       "title": {
         "en": "Clothes",
         "ru": "Одежда",
-        "pl": "Ubrania"
+        "pl": "Ubrania",
+        "uk": "Одяг",
+        "de": "Kleidung",
+        "es": "La ropa",
+        "fr": "Les vêtements",
+        "it": "I vestiti"
       },
       "description": {
         "en": "What we wear, from hats to shoes.",
         "ru": "Что мы носим — от шапки до обуви.",
-        "pl": "To, co nosimy, od czapki po buty."
+        "pl": "To, co nosimy, od czapki po buty.",
+        "uk": "Що ми носимо — від шапки до взуття.",
+        "de": "Was wir tragen, vom Hut bis zu den Schuhen.",
+        "es": "Lo que nos ponemos, del sombrero a los zapatos.",
+        "fr": "Ce que nous portons, du chapeau aux chaussures.",
+        "it": "Quello che indossiamo, dal cappello alle scarpe."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/clothes/cover.png",
       "level": "A1",
@@ -141,7 +201,7 @@
         "clothes"
       ],
       "wordCount": 19,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/clothes/words.json"
@@ -152,17 +212,32 @@
       "title": {
         "en": "Colours",
         "ru": "Цвета",
-        "pl": "Kolory"
+        "pl": "Kolory",
+        "uk": "Кольори",
+        "de": "Farben",
+        "es": "Los colores",
+        "fr": "Les couleurs",
+        "it": "I colori"
       },
       "description": {
         "en": "The eleven basic colours.",
         "ru": "Одиннадцать основных цветов.",
-        "pl": "Jedenaście podstawowych kolorów."
+        "pl": "Jedenaście podstawowych kolorów.",
+        "uk": "Одинадцять основних кольорів.",
+        "de": "Die elf Grundfarben.",
+        "es": "Los once colores básicos.",
+        "fr": "Les onze couleurs de base.",
+        "it": "I undici colori di base."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/colors/cover.png",
       "level": "A1",
@@ -170,7 +245,7 @@
         "adjectives"
       ],
       "wordCount": 11,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/colors/words.json"
@@ -181,17 +256,32 @@
       "title": {
         "en": "Days and months",
         "ru": "Дни и месяцы",
-        "pl": "Dni i miesiące"
+        "pl": "Dni i miesiące",
+        "uk": "Дні й місяці",
+        "de": "Tage und Monate",
+        "es": "Los días y los meses",
+        "fr": "Les jours et les mois",
+        "it": "I giorni e i mesi"
       },
       "description": {
         "en": "The days of the week and the months of the year.",
         "ru": "Дни недели и месяцы года.",
-        "pl": "Dni tygodnia i miesiące roku."
+        "pl": "Dni tygodnia i miesiące roku.",
+        "uk": "Дні тижня та місяці року.",
+        "de": "Die Wochentage und die Monate des Jahres.",
+        "es": "Los días de la semana y los meses del año.",
+        "fr": "Les jours de la semaine et les mois de l'année.",
+        "it": "I giorni della settimana e i mesi dell'anno."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/days-and-months/cover.png",
       "level": "A1",
@@ -199,7 +289,7 @@
         "time"
       ],
       "wordCount": 23,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/days-and-months/words.json"
@@ -210,17 +300,32 @@
       "title": {
         "en": "Studying",
         "ru": "Учёба",
-        "pl": "Nauka"
+        "pl": "Nauka",
+        "uk": "Навчання",
+        "de": "Studium",
+        "es": "Los estudios",
+        "fr": "Les études",
+        "it": "Lo studio"
       },
       "description": {
         "en": "University, courses and exams.",
         "ru": "Университет, курсы и экзамены.",
-        "pl": "Studia, kursy i egzaminy."
+        "pl": "Studia, kursy i egzaminy.",
+        "uk": "Університет, курси та іспити.",
+        "de": "Universität, Kurse und Prüfungen.",
+        "es": "Universidad, cursos y exámenes.",
+        "fr": "Université, cours et examens.",
+        "it": "Università, corsi ed esami."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/education/cover.png",
       "level": "B1",
@@ -228,7 +333,7 @@
         "education"
       ],
       "wordCount": 21,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/education/words.json"
@@ -239,17 +344,32 @@
       "title": {
         "en": "The environment",
         "ru": "Окружающая среда",
-        "pl": "Środowisko"
+        "pl": "Środowisko",
+        "uk": "Довкілля",
+        "de": "Die Umwelt",
+        "es": "El medio ambiente",
+        "fr": "L'environnement",
+        "it": "L'ambiente"
       },
       "description": {
         "en": "Climate, pollution and taking care of the planet.",
         "ru": "Климат, загрязнение и забота о планете.",
-        "pl": "Klimat, zanieczyszczenie i dbanie o planetę."
+        "pl": "Klimat, zanieczyszczenie i dbanie o planetę.",
+        "uk": "Клімат, забруднення та турбота про планету.",
+        "de": "Klima, Verschmutzung und der Schutz unseres Planeten.",
+        "es": "Clima, contaminación y cuidado del planeta.",
+        "fr": "Climat, pollution et protection de la planète.",
+        "it": "Clima, inquinamento e cura del pianeta."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/environment/cover.png",
       "level": "B1",
@@ -258,7 +378,7 @@
         "society"
       ],
       "wordCount": 22,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/environment/words.json"
@@ -269,17 +389,32 @@
       "title": {
         "en": "Everyday verbs",
         "ru": "Глаголы на каждый день",
-        "pl": "Czasowniki na co dzień"
+        "pl": "Czasowniki na co dzień",
+        "uk": "Щоденні дієслова",
+        "de": "Alltagsverben",
+        "es": "Verbos de cada día",
+        "fr": "Verbes du quotidien",
+        "it": "Verbi di tutti i giorni"
       },
       "description": {
         "en": "Verbs for a usual day.",
         "ru": "Глаголы для обычного дня.",
-        "pl": "Czasowniki na zwykły dzień."
+        "pl": "Czasowniki na zwykły dzień.",
+        "uk": "Дієслова для звичайного дня.",
+        "de": "Verben für einen normalen Tag.",
+        "es": "Verbos para un día normal.",
+        "fr": "Des verbes pour une journée ordinaire.",
+        "it": "Verbi per una giornata normale."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/everyday-verbs/cover.png",
       "level": "A2",
@@ -287,7 +422,7 @@
         "verbs"
       ],
       "wordCount": 23,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/everyday-verbs/words.json"
@@ -298,17 +433,32 @@
       "title": {
         "en": "Family",
         "ru": "Семья",
-        "pl": "Rodzina"
+        "pl": "Rodzina",
+        "uk": "Сім'я",
+        "de": "Die Familie",
+        "es": "La familia",
+        "fr": "La famille",
+        "it": "La famiglia"
       },
       "description": {
         "en": "Parents, children, grandparents and the rest of the family.",
         "ru": "Родители, дети, бабушки, дедушки и остальная родня.",
-        "pl": "Rodzice, dzieci, dziadkowie i reszta rodziny."
+        "pl": "Rodzice, dzieci, dziadkowie i reszta rodziny.",
+        "uk": "Батьки, діти, бабусі, дідусі та решта рідні.",
+        "de": "Eltern, Kinder, Großeltern und die übrige Verwandtschaft.",
+        "es": "Padres, hijos, abuelos y el resto de la familia.",
+        "fr": "Les parents, les enfants, les grands-parents et le reste de la famille.",
+        "it": "Genitori, figli, nonni e il resto della famiglia."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/family/cover.png",
       "level": "A1",
@@ -316,7 +466,7 @@
         "people"
       ],
       "wordCount": 15,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/family/words.json"
@@ -327,17 +477,32 @@
       "title": {
         "en": "Feelings",
         "ru": "Чувства",
-        "pl": "Uczucia"
+        "pl": "Uczucia",
+        "uk": "Почуття",
+        "de": "Gefühle",
+        "es": "Sentimientos",
+        "fr": "Les sentiments",
+        "it": "I sentimenti"
       },
       "description": {
         "en": "How we feel and how we say it.",
         "ru": "Что мы чувствуем и как об этом сказать.",
-        "pl": "Co czujemy i jak to powiedzieć."
+        "pl": "Co czujemy i jak to powiedzieć.",
+        "uk": "Що ми відчуваємо і як про це сказати.",
+        "de": "Wie wir uns fühlen und wie wir es sagen.",
+        "es": "Cómo nos sentimos y cómo lo decimos.",
+        "fr": "Ce que l'on ressent et comment le dire.",
+        "it": "Come ci sentiamo e come lo diciamo."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/feelings/cover.png",
       "level": "A2",
@@ -346,7 +511,7 @@
         "adjectives"
       ],
       "wordCount": 20,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/feelings/words.json"
@@ -357,17 +522,32 @@
       "title": {
         "en": "Food and drinks",
         "ru": "Еда и напитки",
-        "pl": "Jedzenie i napoje"
+        "pl": "Jedzenie i napoje",
+        "uk": "Їжа та напої",
+        "de": "Essen und Trinken",
+        "es": "Comida y bebidas",
+        "fr": "Nourriture et boissons",
+        "it": "Cibo e bevande"
       },
       "description": {
         "en": "Everyday food and what we drink with it.",
         "ru": "Повседневная еда и то, что мы пьём.",
-        "pl": "Codzienne jedzenie i to, co pijemy."
+        "pl": "Codzienne jedzenie i to, co pijemy.",
+        "uk": "Повсякденна їжа й напої до неї.",
+        "de": "Alltägliche Lebensmittel und was wir dazu trinken.",
+        "es": "La comida de cada día y lo que bebemos con ella.",
+        "fr": "Les aliments de tous les jours et ce qu'on boit avec.",
+        "it": "Il cibo di tutti i giorni e le bevande che lo accompagnano."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/food-and-drinks/cover.png",
       "level": "A1",
@@ -375,7 +555,7 @@
         "food"
       ],
       "wordCount": 23,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/food-and-drinks/words.json"
@@ -386,17 +566,32 @@
       "title": {
         "en": "Free time and sport",
         "ru": "Свободное время и спорт",
-        "pl": "Czas wolny i sport"
+        "pl": "Czas wolny i sport",
+        "uk": "Вільний час і спорт",
+        "de": "Freizeit und Sport",
+        "es": "Tiempo libre y deporte",
+        "fr": "Temps libre et sport",
+        "it": "Tempo libero e sport"
       },
       "description": {
         "en": "Hobbies, games and sports.",
         "ru": "Хобби, игры и спорт.",
-        "pl": "Hobby, gry i sport."
+        "pl": "Hobby, gry i sport.",
+        "uk": "Хобі, ігри та спорт.",
+        "de": "Hobbys, Spiele und Sport.",
+        "es": "Aficiones, juegos y deportes.",
+        "fr": "Loisirs, jeux et sports.",
+        "it": "Hobby, giochi e sport."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/free-time/cover.png",
       "level": "A2",
@@ -405,7 +600,7 @@
         "sport"
       ],
       "wordCount": 22,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/free-time/words.json"
@@ -416,17 +611,32 @@
       "title": {
         "en": "Fruits",
         "ru": "Фрукты",
-        "pl": "Owoce"
+        "pl": "Owoce",
+        "uk": "Фрукти",
+        "de": "Das Obst",
+        "es": "Las frutas",
+        "fr": "Les fruits",
+        "it": "La frutta"
       },
       "description": {
         "en": "Twelve everyday fruits with pronunciation and examples.",
         "ru": "Двенадцать привычных фруктов с транскрипцией и примерами.",
-        "pl": "Dwanaście popularnych owoców z wymową i przykładami."
+        "pl": "Dwanaście popularnych owoców z wymową i przykładami.",
+        "uk": "Дванадцять повсякденних фруктів із вимовою та прикладами.",
+        "de": "Zwölf alltägliche Obstsorten mit Aussprache und Beispielen.",
+        "es": "Doce frutas de uso cotidiano con pronunciación y ejemplos.",
+        "fr": "Douze fruits de tous les jours avec la prononciation et des exemples.",
+        "it": "Dodici frutti di tutti i giorni con pronuncia ed esempi."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/fruits/cover.png",
       "level": "A1",
@@ -434,7 +644,7 @@
         "food"
       ],
       "wordCount": 12,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/fruits/words.json"
@@ -445,17 +655,32 @@
       "title": {
         "en": "Health",
         "ru": "Здоровье",
-        "pl": "Zdrowie"
+        "pl": "Zdrowie",
+        "uk": "Здоров'я",
+        "de": "Die Gesundheit",
+        "es": "La salud",
+        "fr": "La santé",
+        "it": "La salute"
       },
       "description": {
         "en": "At the doctor's and at the chemist's.",
         "ru": "У врача и в аптеке.",
-        "pl": "U lekarza i w aptece."
+        "pl": "U lekarza i w aptece.",
+        "uk": "У лікаря та в аптеці.",
+        "de": "Beim Arzt und in der Apotheke.",
+        "es": "En el médico y en la farmacia.",
+        "fr": "Chez le médecin et à la pharmacie.",
+        "it": "Dal medico e in farmacia."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/health/cover.png",
       "level": "A2",
@@ -463,7 +688,7 @@
         "health"
       ],
       "wordCount": 20,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/health/words.json"
@@ -474,17 +699,32 @@
       "title": {
         "en": "At home",
         "ru": "Дом",
-        "pl": "W domu"
+        "pl": "W domu",
+        "uk": "Удома",
+        "de": "Zu Hause",
+        "es": "En casa",
+        "fr": "À la maison",
+        "it": "In casa"
       },
       "description": {
         "en": "Rooms and furniture.",
         "ru": "Комнаты и мебель.",
-        "pl": "Pokoje i meble."
+        "pl": "Pokoje i meble.",
+        "uk": "Кімнати та меблі.",
+        "de": "Zimmer und Möbel.",
+        "es": "Habitaciones y muebles.",
+        "fr": "Les pièces et les meubles.",
+        "it": "Stanze e mobili."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/home/cover.png",
       "level": "A1",
@@ -492,7 +732,7 @@
         "home"
       ],
       "wordCount": 22,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/home/words.json"
@@ -503,17 +743,32 @@
       "title": {
         "en": "Housework",
         "ru": "Домашние дела",
-        "pl": "Prace domowe"
+        "pl": "Prace domowe",
+        "uk": "Домашні справи",
+        "de": "Hausarbeit",
+        "es": "Tareas domésticas",
+        "fr": "Tâches ménagères",
+        "it": "Faccende di casa"
       },
       "description": {
         "en": "Cleaning, repairs and keeping a home.",
         "ru": "Уборка, ремонт и хозяйство.",
-        "pl": "Sprzątanie, naprawy i prowadzenie domu."
+        "pl": "Sprzątanie, naprawy i prowadzenie domu.",
+        "uk": "Прибирання, ремонт і господарство.",
+        "de": "Putzen, Reparaturen und den Haushalt führen.",
+        "es": "Limpieza, reparaciones y cuidado del hogar.",
+        "fr": "Ménage, réparations et entretien de la maison.",
+        "it": "Pulizie, riparazioni e cura della casa."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/house-and-chores/cover.png",
       "level": "B1",
@@ -521,7 +776,7 @@
         "home"
       ],
       "wordCount": 22,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/house-and-chores/words.json"
@@ -532,17 +787,32 @@
       "title": {
         "en": "Jobs",
         "ru": "Профессии",
-        "pl": "Zawody"
+        "pl": "Zawody",
+        "uk": "Професії",
+        "de": "Berufe",
+        "es": "Profesiones",
+        "fr": "Métiers",
+        "it": "Professioni"
       },
       "description": {
         "en": "Who does what for a living.",
         "ru": "Кто кем работает.",
-        "pl": "Kto czym się zajmuje."
+        "pl": "Kto czym się zajmuje.",
+        "uk": "Хто ким працює.",
+        "de": "Wer was beruflich macht.",
+        "es": "Quién trabaja de qué.",
+        "fr": "Qui fait quoi dans la vie.",
+        "it": "Chi fa che lavoro."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/jobs/cover.png",
       "level": "A2",
@@ -551,7 +821,7 @@
         "people"
       ],
       "wordCount": 20,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/jobs/words.json"
@@ -592,17 +862,32 @@
       "title": {
         "en": "Linking words",
         "ru": "Связующие слова",
-        "pl": "Wyrazy łączące"
+        "pl": "Wyrazy łączące",
+        "uk": "Сполучні слова",
+        "de": "Bindewörter",
+        "es": "Palabras de enlace",
+        "fr": "Mots de liaison",
+        "it": "Parole di collegamento"
       },
       "description": {
         "en": "Words that join ideas: because, however, although.",
         "ru": "Слова, которые связывают мысли: потому что, однако, хотя.",
-        "pl": "Słowa łączące myśli: bo, jednak, chociaż."
+        "pl": "Słowa łączące myśli: bo, jednak, chociaż.",
+        "uk": "Слова, що зв'язують думки: тому що, проте, хоча.",
+        "de": "Wörter, die Gedanken verbinden: weil, jedoch, obwohl.",
+        "es": "Palabras que unen ideas: porque, sin embargo, aunque.",
+        "fr": "Des mots qui relient les idées : parce que, cependant, bien que.",
+        "it": "Parole che collegano le idee: perché, tuttavia, sebbene."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/linking-words/cover.png",
       "level": "B1",
@@ -610,7 +895,7 @@
         "grammar"
       ],
       "wordCount": 20,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/linking-words/words.json"
@@ -621,17 +906,32 @@
       "title": {
         "en": "Media and news",
         "ru": "СМИ и новости",
-        "pl": "Media i wiadomości"
+        "pl": "Media i wiadomości",
+        "uk": "ЗМІ та новини",
+        "de": "Medien und Nachrichten",
+        "es": "Medios y noticias",
+        "fr": "Médias et actualités",
+        "it": "Media e notizie"
       },
       "description": {
         "en": "Newspapers, TV and how news is made.",
         "ru": "Газеты, телевидение и как делаются новости.",
-        "pl": "Gazety, telewizja i jak powstają wiadomości."
+        "pl": "Gazety, telewizja i jak powstają wiadomości.",
+        "uk": "Газети, телебачення і як роблять новини.",
+        "de": "Zeitungen, Fernsehen und wie Nachrichten entstehen.",
+        "es": "Periódicos, televisión y cómo se hacen las noticias.",
+        "fr": "Journaux, télévision et fabrication de l'information.",
+        "it": "Giornali, televisione e come nascono le notizie."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/media-and-news/cover.png",
       "level": "B1",
@@ -640,7 +940,7 @@
         "media"
       ],
       "wordCount": 21,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/media-and-news/words.json"
@@ -651,17 +951,32 @@
       "title": {
         "en": "Money and the bank",
         "ru": "Деньги и банк",
-        "pl": "Pieniądze i bank"
+        "pl": "Pieniądze i bank",
+        "uk": "Гроші та банк",
+        "de": "Geld und Bank",
+        "es": "Dinero y banco",
+        "fr": "L'argent et la banque",
+        "it": "Soldi e banca"
       },
       "description": {
         "en": "Accounts, loans, bills and saving.",
         "ru": "Счета, кредиты, оплата и сбережения.",
-        "pl": "Konta, kredyty, rachunki i oszczędzanie."
+        "pl": "Konta, kredyty, rachunki i oszczędzanie.",
+        "uk": "Рахунки, кредити, оплата і заощадження.",
+        "de": "Konten, Kredite, Rechnungen und Sparen.",
+        "es": "Cuentas, préstamos, facturas y ahorro.",
+        "fr": "Comptes, prêts, factures et épargne.",
+        "it": "Conti, prestiti, bollette e risparmio."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/money/cover.png",
       "level": "B1",
@@ -669,7 +984,7 @@
         "money"
       ],
       "wordCount": 24,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/money/words.json"
@@ -680,17 +995,32 @@
       "title": {
         "en": "Nature",
         "ru": "Природа",
-        "pl": "Przyroda"
+        "pl": "Przyroda",
+        "uk": "Природа",
+        "de": "Natur",
+        "es": "Naturaleza",
+        "fr": "Nature",
+        "it": "Natura"
       },
       "description": {
         "en": "Forests, rivers, mountains and the sea.",
         "ru": "Леса, реки, горы и море.",
-        "pl": "Lasy, rzeki, góry i morze."
+        "pl": "Lasy, rzeki, góry i morze.",
+        "uk": "Ліси, річки, гори і море.",
+        "de": "Wälder, Flüsse, Berge und das Meer.",
+        "es": "Bosques, ríos, montañas y el mar.",
+        "fr": "Forêts, rivières, montagnes et mer.",
+        "it": "Boschi, fiumi, montagne e mare."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/nature/cover.png",
       "level": "A2",
@@ -698,7 +1028,7 @@
         "nature"
       ],
       "wordCount": 19,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/nature/words.json"
@@ -709,17 +1039,32 @@
       "title": {
         "en": "Numbers",
         "ru": "Числа",
-        "pl": "Liczby"
+        "pl": "Liczby",
+        "uk": "Числа",
+        "de": "Zahlen",
+        "es": "Números",
+        "fr": "Les nombres",
+        "it": "Numeri"
       },
       "description": {
         "en": "Counting from zero to a thousand.",
         "ru": "Счёт от нуля до тысячи.",
-        "pl": "Liczenie od zera do tysiąca."
+        "pl": "Liczenie od zera do tysiąca.",
+        "uk": "Лічба від нуля до тисячі.",
+        "de": "Zählen von null bis tausend.",
+        "es": "Contar de cero a mil.",
+        "fr": "Compter de zéro à mille.",
+        "it": "Contare da zero a mille."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/numbers/cover.png",
       "level": "A1",
@@ -727,7 +1072,7 @@
         "numbers"
       ],
       "wordCount": 20,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/numbers/words.json"
@@ -738,17 +1083,32 @@
       "title": {
         "en": "Opposites",
         "ru": "Противоположности",
-        "pl": "Przeciwieństwa"
+        "pl": "Przeciwieństwa",
+        "uk": "Протилежності",
+        "de": "Gegensätze",
+        "es": "Opuestos",
+        "fr": "Les contraires",
+        "it": "Contrari"
       },
       "description": {
         "en": "Common adjectives in pairs.",
         "ru": "Частые прилагательные парами.",
-        "pl": "Popularne przymiotniki w parach."
+        "pl": "Popularne przymiotniki w parach.",
+        "uk": "Поширені прикметники парами.",
+        "de": "Häufige Adjektive in Paaren.",
+        "es": "Adjetivos comunes por parejas.",
+        "fr": "Des adjectifs courants par paires.",
+        "it": "Aggettivi comuni a coppie."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/opposites/cover.png",
       "level": "A2",
@@ -756,7 +1116,7 @@
         "adjectives"
       ],
       "wordCount": 23,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/opposites/words.json"
@@ -799,17 +1159,32 @@
       "title": {
         "en": "Relationships",
         "ru": "Отношения",
-        "pl": "Relacje"
+        "pl": "Relacje",
+        "uk": "Стосунки",
+        "de": "Beziehungen",
+        "es": "Relaciones",
+        "fr": "Relations",
+        "it": "Relazioni"
       },
       "description": {
         "en": "Friends, partners and getting along.",
         "ru": "Друзья, пары и как ладить.",
-        "pl": "Przyjaciele, partnerzy i dogadywanie się."
+        "pl": "Przyjaciele, partnerzy i dogadywanie się.",
+        "uk": "Друзі, пари та вміння ладнати.",
+        "de": "Freunde, Paare und gutes Miteinander.",
+        "es": "Amigos, parejas y llevarse bien.",
+        "fr": "Amis, couples et bonne entente.",
+        "it": "Amici, coppie e andare d'accordo."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/relationships/cover.png",
       "level": "B1",
@@ -817,7 +1192,7 @@
         "people"
       ],
       "wordCount": 23,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/relationships/words.json"
@@ -828,17 +1203,32 @@
       "title": {
         "en": "At the restaurant",
         "ru": "В ресторане",
-        "pl": "W restauracji"
+        "pl": "W restauracji",
+        "uk": "У ресторані",
+        "de": "Im Restaurant",
+        "es": "En el restaurante",
+        "fr": "Au restaurant",
+        "it": "Al ristorante"
       },
       "description": {
         "en": "Ordering, eating out and paying the bill.",
         "ru": "Заказ, еда вне дома и счёт.",
-        "pl": "Zamawianie, jedzenie na mieście i rachunek."
+        "pl": "Zamawianie, jedzenie na mieście i rachunek.",
+        "uk": "Замовлення, їжа поза домом і рахунок.",
+        "de": "Bestellen, auswärts essen und die Rechnung bezahlen.",
+        "es": "Pedir, comer fuera y pagar la cuenta.",
+        "fr": "Commander, manger au restaurant et payer l'addition.",
+        "it": "Ordinare, mangiare fuori e pagare il conto."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/restaurant/cover.png",
       "level": "A2",
@@ -847,7 +1237,7 @@
         "travel"
       ],
       "wordCount": 21,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/restaurant/words.json"
@@ -885,17 +1275,32 @@
       "title": {
         "en": "At school",
         "ru": "В школе",
-        "pl": "W szkole"
+        "pl": "W szkole",
+        "uk": "У школі",
+        "de": "In der Schule",
+        "es": "En la escuela",
+        "fr": "À l'école",
+        "it": "A scuola"
       },
       "description": {
         "en": "Classroom things and school subjects.",
         "ru": "Школьные принадлежности и предметы.",
-        "pl": "Przybory szkolne i przedmioty."
+        "pl": "Przybory szkolne i przedmioty.",
+        "uk": "Шкільне приладдя та предмети.",
+        "de": "Schulsachen und Schulfächer.",
+        "es": "Material escolar y asignaturas.",
+        "fr": "Fournitures scolaires et matières.",
+        "it": "Materiale scolastico e materie."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/school/cover.png",
       "level": "A1",
@@ -903,7 +1308,7 @@
         "education"
       ],
       "wordCount": 20,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/school/words.json"
@@ -914,17 +1319,32 @@
       "title": {
         "en": "Shopping",
         "ru": "Покупки",
-        "pl": "Zakupy"
+        "pl": "Zakupy",
+        "uk": "Покупки",
+        "de": "Einkaufen",
+        "es": "Compras",
+        "fr": "Achats",
+        "it": "Acquisti"
       },
       "description": {
         "en": "Shops, prices and paying.",
         "ru": "Магазины, цены и оплата.",
-        "pl": "Sklepy, ceny i płacenie."
+        "pl": "Sklepy, ceny i płacenie.",
+        "uk": "Магазини, ціни та оплата.",
+        "de": "Geschäfte, Preise und Bezahlen.",
+        "es": "Tiendas, precios y pagos.",
+        "fr": "Magasins, prix et paiement.",
+        "it": "Negozi, prezzi e pagamenti."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/shopping/cover.png",
       "level": "A2",
@@ -932,7 +1352,7 @@
         "shopping"
       ],
       "wordCount": 21,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/shopping/words.json"
@@ -943,17 +1363,32 @@
       "title": {
         "en": "Technology and the internet",
         "ru": "Техника и интернет",
-        "pl": "Technologia i internet"
+        "pl": "Technologia i internet",
+        "uk": "Техніка та інтернет",
+        "de": "Technik und Internet",
+        "es": "Tecnología e internet",
+        "fr": "Technologie et internet",
+        "it": "Tecnologia e internet"
       },
       "description": {
         "en": "Devices, apps and life online.",
         "ru": "Устройства, приложения и жизнь онлайн.",
-        "pl": "Urządzenia, aplikacje i życie w sieci."
+        "pl": "Urządzenia, aplikacje i życie w sieci.",
+        "uk": "Пристрої, застосунки та життя онлайн.",
+        "de": "Geräte, Apps und das Leben online.",
+        "es": "Dispositivos, aplicaciones y vida en línea.",
+        "fr": "Appareils, applications et vie en ligne.",
+        "it": "Dispositivi, app e vita online."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/technology/cover.png",
       "level": "B1",
@@ -961,7 +1396,7 @@
         "technology"
       ],
       "wordCount": 22,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/technology/words.json"
@@ -972,17 +1407,32 @@
       "title": {
         "en": "Transport",
         "ru": "Транспорт",
-        "pl": "Transport"
+        "pl": "Transport",
+        "uk": "Транспорт",
+        "de": "Verkehrsmittel",
+        "es": "Transporte",
+        "fr": "Transports",
+        "it": "Trasporti"
       },
       "description": {
         "en": "Getting around by bus, train, car and bike.",
         "ru": "Как добраться: автобус, поезд, машина и велосипед.",
-        "pl": "Jak się poruszać: autobus, pociąg, samochód i rower."
+        "pl": "Jak się poruszać: autobus, pociąg, samochód i rower.",
+        "uk": "Як дістатися: автобус, потяг, авто та велосипед.",
+        "de": "Unterwegs mit Bus, Zug, Auto und Fahrrad.",
+        "es": "Moverse en autobús, tren, coche y bicicleta.",
+        "fr": "Se déplacer en bus, en train, en voiture et à vélo.",
+        "it": "Spostarsi in autobus, treno, auto e bicicletta."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/transport/cover.png",
       "level": "A2",
@@ -991,7 +1441,7 @@
         "city"
       ],
       "wordCount": 21,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/transport/words.json"
@@ -1028,17 +1478,32 @@
       "title": {
         "en": "Weather",
         "ru": "Погода",
-        "pl": "Pogoda"
+        "pl": "Pogoda",
+        "uk": "Погода",
+        "de": "Wetter",
+        "es": "El tiempo",
+        "fr": "La météo",
+        "it": "Meteo"
       },
       "description": {
         "en": "Sun, rain, snow and the seasons.",
         "ru": "Солнце, дождь, снег и времена года.",
-        "pl": "Słońce, deszcz, śnieg i pory roku."
+        "pl": "Słońce, deszcz, śnieg i pory roku.",
+        "uk": "Сонце, дощ, сніг і пори року.",
+        "de": "Sonne, Regen, Schnee und die Jahreszeiten.",
+        "es": "Sol, lluvia, nieve y las estaciones.",
+        "fr": "Soleil, pluie, neige et les saisons.",
+        "it": "Sole, pioggia, neve e le stagioni."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/weather/cover.png",
       "level": "A1",
@@ -1047,7 +1512,7 @@
         "weather"
       ],
       "wordCount": 20,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/weather/words.json"
@@ -1058,17 +1523,32 @@
       "title": {
         "en": "Work and office",
         "ru": "Работа и офис",
-        "pl": "Praca i biuro"
+        "pl": "Praca i biuro",
+        "uk": "Робота й офіс",
+        "de": "Arbeit und Büro",
+        "es": "Trabajo y oficina",
+        "fr": "Travail et bureau",
+        "it": "Lavoro e ufficio"
       },
       "description": {
         "en": "Jobs, meetings, colleagues and contracts.",
         "ru": "Работа, встречи, коллеги и договоры.",
-        "pl": "Praca, spotkania, współpracownicy i umowy."
+        "pl": "Praca, spotkania, współpracownicy i umowy.",
+        "uk": "Робота, зустрічі, колеги та договори.",
+        "de": "Jobs, Besprechungen, Kollegen und Verträge.",
+        "es": "Empleos, reuniones, compañeros y contratos.",
+        "fr": "Emplois, réunions, collègues et contrats.",
+        "it": "Lavori, riunioni, colleghi e contratti."
       },
       "languages": [
         "en",
         "ru",
-        "pl"
+        "pl",
+        "uk",
+        "de",
+        "es",
+        "fr",
+        "it"
       ],
       "image": "sets/work-and-office/cover.png",
       "level": "B1",
@@ -1076,7 +1556,7 @@
         "work"
       ],
       "wordCount": 23,
-      "updated": "2026-10-01",
+      "updated": "2026-10-03",
       "source": {
         "type": "json",
         "url": "sets/work-and-office/words.json"

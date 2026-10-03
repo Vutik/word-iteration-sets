@@ -2,17 +2,32 @@
   "title": {
     "en": "Transport",
     "ru": "Транспорт",
-    "pl": "Transport"
+    "pl": "Transport",
+    "uk": "Транспорт",
+    "de": "Verkehrsmittel",
+    "es": "Transporte",
+    "fr": "Transports",
+    "it": "Trasporti"
   },
   "description": {
     "en": "Getting around by bus, train, car and bike.",
     "ru": "Как добраться: автобус, поезд, машина и велосипед.",
-    "pl": "Jak się poruszać: autobus, pociąg, samochód i rower."
+    "pl": "Jak się poruszać: autobus, pociąg, samochód i rower.",
+    "uk": "Як дістатися: автобус, потяг, авто та велосипед.",
+    "de": "Unterwegs mit Bus, Zug, Auto und Fahrrad.",
+    "es": "Moverse en autobús, tren, coche y bicicleta.",
+    "fr": "Se déplacer en bus, en train, en voiture et à vélo.",
+    "it": "Spostarsi in autobus, treno, auto e bicicletta."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A2",
@@ -20,7 +35,7 @@
     "travel",
     "city"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

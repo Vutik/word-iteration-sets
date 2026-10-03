@@ -2,24 +2,39 @@
   "title": {
     "en": "Nature",
     "ru": "Природа",
-    "pl": "Przyroda"
+    "pl": "Przyroda",
+    "uk": "Природа",
+    "de": "Natur",
+    "es": "Naturaleza",
+    "fr": "Nature",
+    "it": "Natura"
   },
   "description": {
     "en": "Forests, rivers, mountains and the sea.",
     "ru": "Леса, реки, горы и море.",
-    "pl": "Lasy, rzeki, góry i morze."
+    "pl": "Lasy, rzeki, góry i morze.",
+    "uk": "Ліси, річки, гори і море.",
+    "de": "Wälder, Flüsse, Berge und das Meer.",
+    "es": "Bosques, ríos, montañas y el mar.",
+    "fr": "Forêts, rivières, montagnes et mer.",
+    "it": "Boschi, fiumi, montagne e mare."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A2",
   "tags": [
     "nature"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

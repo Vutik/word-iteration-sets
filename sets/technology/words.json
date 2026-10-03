@@ -8,7 +8,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "компьютер",
-        "pl": "komputer"
+        "pl": "komputer",
+        "uk": "комп'ютер",
+        "de": {
+          "text": "der Computer",
+          "alternates": [
+            "Computer"
+          ]
+        },
+        "es": {
+          "text": "el ordenador",
+          "alternates": [
+            "ordenador",
+            "la computadora",
+            "computadora"
+          ]
+        },
+        "fr": {
+          "text": "l'ordinateur",
+          "alternates": [
+            "ordinateur"
+          ]
+        },
+        "it": {
+          "text": "il computer",
+          "alternates": [
+            "computer"
+          ]
+        }
       }
     },
     {
@@ -18,7 +45,37 @@
           "partOfSpeech": "noun"
         },
         "ru": "ноутбук",
-        "pl": "laptop"
+        "pl": "laptop",
+        "uk": "ноутбук",
+        "de": {
+          "text": "der Laptop",
+          "alternates": [
+            "Laptop",
+            "das Notebook",
+            "Notebook"
+          ]
+        },
+        "es": {
+          "text": "el portátil",
+          "alternates": [
+            "portátil",
+            "el ordenador portátil"
+          ]
+        },
+        "fr": {
+          "text": "l'ordinateur portable",
+          "alternates": [
+            "ordinateur portable",
+            "le portable"
+          ]
+        },
+        "it": {
+          "text": "il portatile",
+          "alternates": [
+            "portatile",
+            "il laptop"
+          ]
+        }
       }
     },
     {
@@ -28,7 +85,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "устройство",
-        "pl": "urządzenie"
+        "pl": "urządzenie",
+        "uk": "пристрій",
+        "de": {
+          "text": "das Gerät",
+          "alternates": [
+            "Gerät"
+          ]
+        },
+        "es": {
+          "text": "el dispositivo",
+          "alternates": [
+            "dispositivo"
+          ]
+        },
+        "fr": {
+          "text": "l'appareil",
+          "alternates": [
+            "appareil"
+          ]
+        },
+        "it": {
+          "text": "il dispositivo",
+          "alternates": [
+            "dispositivo"
+          ]
+        }
       }
     },
     {
@@ -38,7 +120,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "экран",
-        "pl": "ekran"
+        "pl": "ekran",
+        "uk": "екран",
+        "de": {
+          "text": "der Bildschirm",
+          "alternates": [
+            "Bildschirm"
+          ]
+        },
+        "es": {
+          "text": "la pantalla",
+          "alternates": [
+            "pantalla"
+          ]
+        },
+        "fr": {
+          "text": "l'écran",
+          "alternates": [
+            "écran"
+          ]
+        },
+        "it": {
+          "text": "lo schermo",
+          "alternates": [
+            "schermo"
+          ]
+        }
       }
     },
     {
@@ -48,7 +155,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "клавиатура",
-        "pl": "klawiatura"
+        "pl": "klawiatura",
+        "uk": "клавіатура",
+        "de": {
+          "text": "die Tastatur",
+          "alternates": [
+            "Tastatur"
+          ]
+        },
+        "es": {
+          "text": "el teclado",
+          "alternates": [
+            "teclado"
+          ]
+        },
+        "fr": {
+          "text": "le clavier",
+          "alternates": [
+            "clavier"
+          ]
+        },
+        "it": {
+          "text": "la tastiera",
+          "alternates": [
+            "tastiera"
+          ]
+        }
       }
     },
     {
@@ -58,7 +190,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "пароль",
-        "pl": "hasło"
+        "pl": "hasło",
+        "uk": "пароль",
+        "de": {
+          "text": "das Passwort",
+          "alternates": [
+            "Passwort"
+          ]
+        },
+        "es": {
+          "text": "la contraseña",
+          "alternates": [
+            "contraseña"
+          ]
+        },
+        "fr": {
+          "text": "le mot de passe",
+          "alternates": [
+            "mot de passe"
+          ]
+        },
+        "it": {
+          "text": "la password",
+          "alternates": [
+            "password"
+          ]
+        }
       },
       "examples": [
         {
@@ -66,7 +223,12 @@
           "text": "Never share your password with anyone.",
           "translations": {
             "ru": "Никому не сообщай свой пароль.",
-            "pl": "Nigdy nikomu nie podawaj swojego hasła."
+            "pl": "Nigdy nikomu nie podawaj swojego hasła.",
+            "uk": "Нікому не повідомляй свій пароль.",
+            "de": "Gib dein Passwort niemals an jemanden weiter.",
+            "es": "Nunca compartas tu contraseña con nadie.",
+            "fr": "Ne communique jamais ton mot de passe à personne.",
+            "it": "Non dare mai la tua password a nessuno."
           }
         }
       ]
@@ -81,7 +243,41 @@
           "partOfSpeech": "noun"
         },
         "ru": "приложение",
-        "pl": "aplikacja"
+        "pl": "aplikacja",
+        "uk": {
+          "text": "застосунок",
+          "alternates": [
+            "додаток"
+          ]
+        },
+        "de": {
+          "text": "die App",
+          "alternates": [
+            "App",
+            "die Anwendung"
+          ]
+        },
+        "es": {
+          "text": "la aplicación",
+          "alternates": [
+            "aplicación",
+            "la app"
+          ]
+        },
+        "fr": {
+          "text": "l'application",
+          "alternates": [
+            "application",
+            "l'appli"
+          ]
+        },
+        "it": {
+          "text": "l'app",
+          "alternates": [
+            "app",
+            "l'applicazione"
+          ]
+        }
       }
     },
     {
@@ -96,7 +292,41 @@
             "веб-сайт"
           ]
         },
-        "pl": "strona internetowa"
+        "pl": "strona internetowa",
+        "uk": {
+          "text": "сайт",
+          "alternates": [
+            "вебсайт"
+          ]
+        },
+        "de": {
+          "text": "die Website",
+          "alternates": [
+            "Website",
+            "die Webseite"
+          ]
+        },
+        "es": {
+          "text": "el sitio web",
+          "alternates": [
+            "sitio web",
+            "la página web"
+          ]
+        },
+        "fr": {
+          "text": "le site web",
+          "alternates": [
+            "site web",
+            "le site"
+          ]
+        },
+        "it": {
+          "text": "il sito web",
+          "alternates": [
+            "sito web",
+            "il sito"
+          ]
+        }
       }
     },
     {
@@ -106,7 +336,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "файл",
-        "pl": "plik"
+        "pl": "plik",
+        "uk": "файл",
+        "de": {
+          "text": "die Datei",
+          "alternates": [
+            "Datei"
+          ]
+        },
+        "es": {
+          "text": "el archivo",
+          "alternates": [
+            "archivo",
+            "el fichero"
+          ]
+        },
+        "fr": {
+          "text": "le fichier",
+          "alternates": [
+            "fichier"
+          ]
+        },
+        "it": {
+          "text": "il file",
+          "alternates": [
+            "file"
+          ]
+        }
       }
     },
     {
@@ -120,6 +376,31 @@
           "text": "folder",
           "alternates": [
             "katalog"
+          ]
+        },
+        "uk": "папка",
+        "de": {
+          "text": "der Ordner",
+          "alternates": [
+            "Ordner"
+          ]
+        },
+        "es": {
+          "text": "la carpeta",
+          "alternates": [
+            "carpeta"
+          ]
+        },
+        "fr": {
+          "text": "le dossier",
+          "alternates": [
+            "dossier"
+          ]
+        },
+        "it": {
+          "text": "la cartella",
+          "alternates": [
+            "cartella"
           ]
         }
       }
@@ -136,7 +417,38 @@
             "аккумулятор"
           ]
         },
-        "pl": "bateria"
+        "pl": "bateria",
+        "uk": {
+          "text": "батарея",
+          "alternates": [
+            "акумулятор"
+          ]
+        },
+        "de": {
+          "text": "der Akku",
+          "alternates": [
+            "Akku",
+            "die Batterie"
+          ]
+        },
+        "es": {
+          "text": "la batería",
+          "alternates": [
+            "batería"
+          ]
+        },
+        "fr": {
+          "text": "la batterie",
+          "alternates": [
+            "batterie"
+          ]
+        },
+        "it": {
+          "text": "la batteria",
+          "alternates": [
+            "batteria"
+          ]
+        }
       }
     },
     {
@@ -151,7 +463,38 @@
             "зарядка"
           ]
         },
-        "pl": "ładowarka"
+        "pl": "ładowarka",
+        "uk": {
+          "text": "зарядний пристрій",
+          "alternates": [
+            "зарядка"
+          ]
+        },
+        "de": {
+          "text": "das Ladegerät",
+          "alternates": [
+            "Ladegerät"
+          ]
+        },
+        "es": {
+          "text": "el cargador",
+          "alternates": [
+            "cargador"
+          ]
+        },
+        "fr": {
+          "text": "le chargeur",
+          "alternates": [
+            "chargeur"
+          ]
+        },
+        "it": {
+          "text": "il caricabatterie",
+          "alternates": [
+            "caricabatterie",
+            "il caricatore"
+          ]
+        }
       }
     },
     {
@@ -161,7 +504,33 @@
           "partOfSpeech": "noun"
         },
         "ru": "обновление",
-        "pl": "aktualizacja"
+        "pl": "aktualizacja",
+        "uk": "оновлення",
+        "de": {
+          "text": "das Update",
+          "alternates": [
+            "Update",
+            "die Aktualisierung"
+          ]
+        },
+        "es": {
+          "text": "la actualización",
+          "alternates": [
+            "actualización"
+          ]
+        },
+        "fr": {
+          "text": "la mise à jour",
+          "alternates": [
+            "mise à jour"
+          ]
+        },
+        "it": {
+          "text": "l'aggiornamento",
+          "alternates": [
+            "aggiornamento"
+          ]
+        }
       }
     },
     {
@@ -176,7 +545,39 @@
             "соцсети"
           ]
         },
-        "pl": "media społecznościowe"
+        "pl": "media społecznościowe",
+        "uk": {
+          "text": "соціальні мережі",
+          "alternates": [
+            "соцмережі"
+          ]
+        },
+        "de": {
+          "text": "die sozialen Medien",
+          "alternates": [
+            "Social Media",
+            "die sozialen Netzwerke"
+          ]
+        },
+        "es": {
+          "text": "las redes sociales",
+          "alternates": [
+            "redes sociales"
+          ]
+        },
+        "fr": {
+          "text": "les réseaux sociaux",
+          "alternates": [
+            "réseaux sociaux"
+          ]
+        },
+        "it": {
+          "text": "i social media",
+          "alternates": [
+            "social media",
+            "i social"
+          ]
+        }
       }
     },
     {
@@ -186,7 +587,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "сообщение",
-        "pl": "wiadomość"
+        "pl": "wiadomość",
+        "uk": "повідомлення",
+        "de": {
+          "text": "die Nachricht",
+          "alternates": [
+            "Nachricht"
+          ]
+        },
+        "es": {
+          "text": "el mensaje",
+          "alternates": [
+            "mensaje"
+          ]
+        },
+        "fr": {
+          "text": "le message",
+          "alternates": [
+            "message"
+          ]
+        },
+        "it": {
+          "text": "il messaggio",
+          "alternates": [
+            "messaggio"
+          ]
+        }
       }
     },
     {
@@ -206,7 +632,22 @@
           "alternates": [
             "ściągać"
           ]
-        }
+        },
+        "uk": {
+          "text": "завантажувати",
+          "alternates": [
+            "скачувати"
+          ]
+        },
+        "de": {
+          "text": "herunterladen",
+          "alternates": [
+            "downloaden"
+          ]
+        },
+        "es": "descargar",
+        "fr": "télécharger",
+        "it": "scaricare"
       }
     },
     {
@@ -226,7 +667,22 @@
           "alternates": [
             "wrzucać"
           ]
-        }
+        },
+        "uk": {
+          "text": "викладати",
+          "alternates": [
+            "завантажувати"
+          ]
+        },
+        "de": "hochladen",
+        "es": "subir",
+        "fr": {
+          "text": "téléverser",
+          "alternates": [
+            "mettre en ligne"
+          ]
+        },
+        "it": "caricare"
       }
     },
     {
@@ -246,7 +702,22 @@
           "alternates": [
             "zapisać"
           ]
-        }
+        },
+        "uk": {
+          "text": "зберігати",
+          "alternates": [
+            "зберегти"
+          ]
+        },
+        "de": "speichern",
+        "es": "guardar",
+        "fr": {
+          "text": "enregistrer",
+          "alternates": [
+            "sauvegarder"
+          ]
+        },
+        "it": "salvare"
       }
     },
     {
@@ -266,6 +737,31 @@
           "alternates": [
             "usunąć"
           ]
+        },
+        "uk": {
+          "text": "видаляти",
+          "alternates": [
+            "видалити"
+          ]
+        },
+        "de": "löschen",
+        "es": {
+          "text": "borrar",
+          "alternates": [
+            "eliminar"
+          ]
+        },
+        "fr": {
+          "text": "supprimer",
+          "alternates": [
+            "effacer"
+          ]
+        },
+        "it": {
+          "text": "cancellare",
+          "alternates": [
+            "eliminare"
+          ]
         }
       }
     },
@@ -281,7 +777,17 @@
           "alternates": [
             "wyszukiwać"
           ]
-        }
+        },
+        "uk": "шукати",
+        "de": "suchen",
+        "es": "buscar",
+        "fr": {
+          "text": "chercher",
+          "alternates": [
+            "rechercher"
+          ]
+        },
+        "it": "cercare"
       }
     },
     {
@@ -300,6 +806,26 @@
           "text": "logować się",
           "alternates": [
             "zalogować się"
+          ]
+        },
+        "uk": {
+          "text": "входити",
+          "alternates": [
+            "авторизуватися"
+          ]
+        },
+        "de": {
+          "text": "sich anmelden",
+          "alternates": [
+            "sich einloggen"
+          ]
+        },
+        "es": "iniciar sesión",
+        "fr": "se connecter",
+        "it": {
+          "text": "accedere",
+          "alternates": [
+            "fare il login"
           ]
         }
       }
@@ -321,6 +847,31 @@
           "alternates": [
             "naładować"
           ]
+        },
+        "uk": {
+          "text": "заряджати",
+          "alternates": [
+            "зарядити"
+          ]
+        },
+        "de": {
+          "text": "aufladen",
+          "alternates": [
+            "laden"
+          ]
+        },
+        "es": "cargar",
+        "fr": {
+          "text": "charger",
+          "alternates": [
+            "recharger"
+          ]
+        },
+        "it": {
+          "text": "ricaricare",
+          "alternates": [
+            "caricare"
+          ]
         }
       },
       "examples": [
@@ -329,7 +880,12 @@
           "text": "My phone needs charging.",
           "translations": {
             "ru": "Мне нужно зарядить телефон.",
-            "pl": "Muszę naładować telefon."
+            "pl": "Muszę naładować telefon.",
+            "uk": "Мені треба зарядити телефон.",
+            "de": "Ich muss mein Handy aufladen.",
+            "es": "Tengo que cargar mi teléfono.",
+            "fr": "Je dois charger mon téléphone.",
+            "it": "Devo caricare il telefono."
           }
         }
       ]

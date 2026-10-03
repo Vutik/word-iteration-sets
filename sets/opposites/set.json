@@ -2,24 +2,39 @@
   "title": {
     "en": "Opposites",
     "ru": "Противоположности",
-    "pl": "Przeciwieństwa"
+    "pl": "Przeciwieństwa",
+    "uk": "Протилежності",
+    "de": "Gegensätze",
+    "es": "Opuestos",
+    "fr": "Les contraires",
+    "it": "Contrari"
   },
   "description": {
     "en": "Common adjectives in pairs.",
     "ru": "Частые прилагательные парами.",
-    "pl": "Popularne przymiotniki w parach."
+    "pl": "Popularne przymiotniki w parach.",
+    "uk": "Поширені прикметники парами.",
+    "de": "Häufige Adjektive in Paaren.",
+    "es": "Adjetivos comunes por parejas.",
+    "fr": "Des adjectifs courants par paires.",
+    "it": "Aggettivi comuni a coppie."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A2",
   "tags": [
     "adjectives"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

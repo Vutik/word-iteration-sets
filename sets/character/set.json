@@ -2,17 +2,32 @@
   "title": {
     "en": "Character",
     "ru": "Характер",
-    "pl": "Charakter"
+    "pl": "Charakter",
+    "uk": "Характер",
+    "de": "Charakter",
+    "es": "El carácter",
+    "fr": "Le caractère",
+    "it": "Il carattere"
   },
   "description": {
     "en": "Describing what people are like.",
     "ru": "Как описать человека.",
-    "pl": "Jak opisać człowieka."
+    "pl": "Jak opisać człowieka.",
+    "uk": "Як описати людину.",
+    "de": "Wie man beschreibt, wie ein Mensch ist.",
+    "es": "Cómo describir a una persona.",
+    "fr": "Comment décrire une personne.",
+    "it": "Come descrivere una persona."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "B1",
@@ -20,7 +35,7 @@
     "people",
     "adjectives"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

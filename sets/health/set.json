@@ -2,24 +2,39 @@
   "title": {
     "en": "Health",
     "ru": "Здоровье",
-    "pl": "Zdrowie"
+    "pl": "Zdrowie",
+    "uk": "Здоров'я",
+    "de": "Die Gesundheit",
+    "es": "La salud",
+    "fr": "La santé",
+    "it": "La salute"
   },
   "description": {
     "en": "At the doctor's and at the chemist's.",
     "ru": "У врача и в аптеке.",
-    "pl": "U lekarza i w aptece."
+    "pl": "U lekarza i w aptece.",
+    "uk": "У лікаря та в аптеці.",
+    "de": "Beim Arzt und in der Apotheke.",
+    "es": "En el médico y en la farmacia.",
+    "fr": "Chez le médecin et à la pharmacie.",
+    "it": "Dal medico e in farmacia."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A2",
   "tags": [
     "health"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

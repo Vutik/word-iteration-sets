@@ -8,7 +8,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "новости",
-        "pl": "wiadomości"
+        "pl": "wiadomości",
+        "uk": "новини",
+        "de": {
+          "text": "die Nachrichten",
+          "alternates": [
+            "Nachrichten"
+          ]
+        },
+        "es": {
+          "text": "las noticias",
+          "alternates": [
+            "s noticias"
+          ]
+        },
+        "fr": {
+          "text": "les informations",
+          "alternates": [
+            "s informations",
+            "les actualités",
+            "s actualités",
+            "les infos",
+            "s infos"
+          ]
+        },
+        "it": {
+          "text": "le notizie",
+          "alternates": [
+            "notizie"
+          ]
+        }
       }
     },
     {
@@ -18,7 +47,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "газета",
-        "pl": "gazeta"
+        "pl": "gazeta",
+        "uk": "газета",
+        "de": {
+          "text": "die Zeitung",
+          "alternates": [
+            "Zeitung"
+          ]
+        },
+        "es": {
+          "text": "el periódico",
+          "alternates": [
+            "periódico",
+            "el diario",
+            "diario"
+          ]
+        },
+        "fr": {
+          "text": "le journal",
+          "alternates": [
+            "journal"
+          ]
+        },
+        "it": {
+          "text": "il giornale",
+          "alternates": [
+            "giornale",
+            "il quotidiano",
+            "quotidiano"
+          ]
+        }
       }
     },
     {
@@ -33,6 +91,35 @@
           "alternates": [
             "magazyn"
           ]
+        },
+        "uk": "журнал",
+        "de": {
+          "text": "die Zeitschrift",
+          "alternates": [
+            "Zeitschrift",
+            "das Magazin",
+            "Magazin"
+          ]
+        },
+        "es": {
+          "text": "la revista",
+          "alternates": [
+            "revista"
+          ]
+        },
+        "fr": {
+          "text": "le magazine",
+          "alternates": [
+            "magazine",
+            "la revue",
+            "revue"
+          ]
+        },
+        "it": {
+          "text": "la rivista",
+          "alternates": [
+            "rivista"
+          ]
         }
       }
     },
@@ -43,7 +130,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "статья",
-        "pl": "artykuł"
+        "pl": "artykuł",
+        "uk": "стаття",
+        "de": {
+          "text": "der Artikel",
+          "alternates": [
+            "Artikel"
+          ]
+        },
+        "es": {
+          "text": "el artículo",
+          "alternates": [
+            "artículo"
+          ]
+        },
+        "fr": {
+          "text": "l'article",
+          "alternates": [
+            "article"
+          ]
+        },
+        "it": {
+          "text": "l'articolo",
+          "alternates": [
+            "articolo"
+          ]
+        }
       }
     },
     {
@@ -53,7 +165,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "заголовок",
-        "pl": "nagłówek"
+        "pl": "nagłówek",
+        "uk": "заголовок",
+        "de": {
+          "text": "die Schlagzeile",
+          "alternates": [
+            "Schlagzeile",
+            "die Überschrift",
+            "Überschrift"
+          ]
+        },
+        "es": {
+          "text": "el titular",
+          "alternates": [
+            "titular"
+          ]
+        },
+        "fr": {
+          "text": "le titre",
+          "alternates": [
+            "titre"
+          ]
+        },
+        "it": {
+          "text": "il titolo",
+          "alternates": [
+            "titolo"
+          ]
+        }
       }
     },
     {
@@ -63,7 +202,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "журналист",
-        "pl": "dziennikarz"
+        "pl": "dziennikarz",
+        "uk": "журналіст",
+        "de": {
+          "text": "der Journalist",
+          "alternates": [
+            "Journalist"
+          ]
+        },
+        "es": {
+          "text": "el periodista",
+          "alternates": [
+            "periodista"
+          ]
+        },
+        "fr": {
+          "text": "le journaliste",
+          "alternates": [
+            "journaliste"
+          ]
+        },
+        "it": {
+          "text": "il giornalista",
+          "alternates": [
+            "giornalista"
+          ]
+        }
       }
     },
     {
@@ -73,7 +237,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "репортёр",
-        "pl": "reporter"
+        "pl": "reporter",
+        "uk": "репортер",
+        "de": {
+          "text": "der Reporter",
+          "alternates": [
+            "Reporter"
+          ]
+        },
+        "es": {
+          "text": "el reportero",
+          "alternates": [
+            "reportero"
+          ]
+        },
+        "fr": {
+          "text": "le reporter",
+          "alternates": [
+            "reporter"
+          ]
+        },
+        "it": {
+          "text": "il reporter",
+          "alternates": [
+            "reporter",
+            "il cronista",
+            "cronista"
+          ]
+        }
       }
     },
     {
@@ -83,7 +274,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "канал",
-        "pl": "kanał"
+        "pl": "kanał",
+        "uk": "канал",
+        "de": {
+          "text": "der Kanal",
+          "alternates": [
+            "Kanal",
+            "der Sender",
+            "Sender"
+          ]
+        },
+        "es": {
+          "text": "el canal",
+          "alternates": [
+            "canal"
+          ]
+        },
+        "fr": {
+          "text": "la chaîne",
+          "alternates": [
+            "chaîne"
+          ]
+        },
+        "it": {
+          "text": "il canale",
+          "alternates": [
+            "canale"
+          ]
+        }
       }
     },
     {
@@ -101,7 +319,43 @@
             "программа"
           ]
         },
-        "pl": "program"
+        "pl": "program",
+        "uk": {
+          "text": "передача",
+          "alternates": [
+            "програма"
+          ]
+        },
+        "de": {
+          "text": "die Sendung",
+          "alternates": [
+            "Sendung",
+            "das Programm",
+            "Programm"
+          ]
+        },
+        "es": {
+          "text": "el programa",
+          "alternates": [
+            "programa"
+          ]
+        },
+        "fr": {
+          "text": "l'émission",
+          "alternates": [
+            "émission",
+            "le programme",
+            "programme"
+          ]
+        },
+        "it": {
+          "text": "il programma",
+          "alternates": [
+            "programma",
+            "la trasmissione",
+            "trasmissione"
+          ]
+        }
       }
     },
     {
@@ -125,6 +379,44 @@
           "alternates": [
             "ogłoszenie"
           ]
+        },
+        "uk": {
+          "text": "реклама",
+          "alternates": [
+            "оголошення"
+          ]
+        },
+        "de": {
+          "text": "die Werbung",
+          "alternates": [
+            "Werbung",
+            "die Anzeige",
+            "Anzeige"
+          ]
+        },
+        "es": {
+          "text": "el anuncio",
+          "alternates": [
+            "anuncio",
+            "la publicidad",
+            "publicidad"
+          ]
+        },
+        "fr": {
+          "text": "la publicité",
+          "alternates": [
+            "publicité",
+            "l'annonce",
+            "annonce"
+          ]
+        },
+        "it": {
+          "text": "la pubblicità",
+          "alternates": [
+            "pubblicità",
+            "l'annuncio",
+            "annuncio"
+          ]
         }
       }
     },
@@ -145,6 +437,44 @@
           "alternates": [
             "widownia"
           ]
+        },
+        "uk": {
+          "text": "аудиторія",
+          "alternates": [
+            "глядачі"
+          ]
+        },
+        "de": {
+          "text": "das Publikum",
+          "alternates": [
+            "Publikum",
+            "die Zuschauer",
+            "Zuschauer"
+          ]
+        },
+        "es": {
+          "text": "el público",
+          "alternates": [
+            "público",
+            "la audiencia",
+            "audiencia"
+          ]
+        },
+        "fr": {
+          "text": "le public",
+          "alternates": [
+            "public",
+            "l'audience",
+            "audience"
+          ]
+        },
+        "it": {
+          "text": "il pubblico",
+          "alternates": [
+            "pubblico",
+            "gli spettatori",
+            "spettatori"
+          ]
         }
       }
     },
@@ -155,7 +485,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "интервью",
-        "pl": "wywiad"
+        "pl": "wywiad",
+        "uk": "інтерв'ю",
+        "de": {
+          "text": "das Interview",
+          "alternates": [
+            "Interview"
+          ]
+        },
+        "es": {
+          "text": "la entrevista",
+          "alternates": [
+            "entrevista"
+          ]
+        },
+        "fr": {
+          "text": "l'interview",
+          "alternates": [
+            "interview"
+          ]
+        },
+        "it": {
+          "text": "l'intervista",
+          "alternates": [
+            "intervista"
+          ]
+        }
       }
     },
     {
@@ -165,7 +520,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "событие",
-        "pl": "wydarzenie"
+        "pl": "wydarzenie",
+        "uk": "подія",
+        "de": {
+          "text": "das Ereignis",
+          "alternates": [
+            "Ereignis",
+            "die Veranstaltung",
+            "Veranstaltung"
+          ]
+        },
+        "es": {
+          "text": "el acontecimiento",
+          "alternates": [
+            "acontecimiento",
+            "el evento",
+            "evento"
+          ]
+        },
+        "fr": {
+          "text": "l'événement",
+          "alternates": [
+            "événement"
+          ]
+        },
+        "it": {
+          "text": "l'evento",
+          "alternates": [
+            "evento",
+            "l'avvenimento",
+            "avvenimento"
+          ]
+        }
       }
     },
     {
@@ -180,6 +566,35 @@
           "alternates": [
             "zdanie"
           ]
+        },
+        "uk": "думка",
+        "de": {
+          "text": "die Meinung",
+          "alternates": [
+            "Meinung"
+          ]
+        },
+        "es": {
+          "text": "la opinión",
+          "alternates": [
+            "opinión"
+          ]
+        },
+        "fr": {
+          "text": "l'opinion",
+          "alternates": [
+            "opinion",
+            "l'avis",
+            "avis"
+          ]
+        },
+        "it": {
+          "text": "l'opinione",
+          "alternates": [
+            "opinione",
+            "il parere",
+            "parere"
+          ]
         }
       },
       "examples": [
@@ -188,7 +603,12 @@
           "text": "In my opinion, the article was unfair.",
           "translations": {
             "ru": "По-моему, статья была несправедливой.",
-            "pl": "Moim zdaniem artykuł był niesprawiedliwy."
+            "pl": "Moim zdaniem artykuł był niesprawiedliwy.",
+            "uk": "На мою думку, стаття була несправедливою.",
+            "de": "Meiner Meinung nach war der Artikel unfair.",
+            "es": "En mi opinión, el artículo fue injusto.",
+            "fr": "À mon avis, l'article était injuste.",
+            "it": "Secondo me, l'articolo era ingiusto."
           }
         }
       ]
@@ -200,7 +620,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "источник",
-        "pl": "źródło"
+        "pl": "źródło",
+        "uk": "джерело",
+        "de": {
+          "text": "die Quelle",
+          "alternates": [
+            "Quelle"
+          ]
+        },
+        "es": {
+          "text": "la fuente",
+          "alternates": [
+            "fuente"
+          ]
+        },
+        "fr": {
+          "text": "la source",
+          "alternates": [
+            "source"
+          ]
+        },
+        "it": {
+          "text": "la fonte",
+          "alternates": [
+            "fonte"
+          ]
+        }
       }
     },
     {
@@ -219,6 +664,44 @@
           "text": "fałszywe wiadomości",
           "alternates": [
             "fake news"
+          ]
+        },
+        "uk": {
+          "text": "фейкові новини",
+          "alternates": [
+            "фейк"
+          ]
+        },
+        "de": {
+          "text": "die Fake News",
+          "alternates": [
+            "Fake News",
+            "die Falschmeldungen",
+            "Falschmeldungen"
+          ]
+        },
+        "es": {
+          "text": "las noticias falsas",
+          "alternates": [
+            "s noticias falsas",
+            "las fake news",
+            "s fake news"
+          ]
+        },
+        "fr": {
+          "text": "les fake news",
+          "alternates": [
+            "s fake news",
+            "les fausses informations",
+            "s fausses informations"
+          ]
+        },
+        "it": {
+          "text": "le fake news",
+          "alternates": [
+            "fake news",
+            "le notizie false",
+            "notizie false"
           ]
         }
       }
@@ -240,7 +723,22 @@
           "alternates": [
             "opublikować"
           ]
-        }
+        },
+        "uk": {
+          "text": "публікувати",
+          "alternates": [
+            "опублікувати"
+          ]
+        },
+        "de": {
+          "text": "veröffentlichen",
+          "alternates": [
+            "publizieren"
+          ]
+        },
+        "es": "publicar",
+        "fr": "publier",
+        "it": "pubblicare"
       }
     },
     {
@@ -260,6 +758,36 @@
           "alternates": [
             "transmitować"
           ]
+        },
+        "uk": {
+          "text": "транслювати",
+          "alternates": [
+            "передавати"
+          ]
+        },
+        "de": {
+          "text": "senden",
+          "alternates": [
+            "übertragen"
+          ]
+        },
+        "es": {
+          "text": "transmitir",
+          "alternates": [
+            "emitir"
+          ]
+        },
+        "fr": {
+          "text": "diffuser",
+          "alternates": [
+            "retransmettre"
+          ]
+        },
+        "it": {
+          "text": "trasmettere",
+          "alternates": [
+            "mandare in onda"
+          ]
         }
       }
     },
@@ -275,7 +803,27 @@
             "информировать"
           ]
         },
-        "pl": "informować"
+        "pl": "informować",
+        "uk": {
+          "text": "повідомляти",
+          "alternates": [
+            "інформувати"
+          ]
+        },
+        "de": {
+          "text": "informieren",
+          "alternates": [
+            "mitteilen"
+          ]
+        },
+        "es": "informar",
+        "fr": "informer",
+        "it": {
+          "text": "informare",
+          "alternates": [
+            "comunicare"
+          ]
+        }
       }
     },
     {
@@ -290,7 +838,27 @@
             "в прямом эфире"
           ]
         },
-        "pl": "na żywo"
+        "pl": "na żywo",
+        "uk": {
+          "text": "прямий",
+          "alternates": [
+            "у прямому ефірі"
+          ]
+        },
+        "de": "live",
+        "es": {
+          "text": "en directo",
+          "alternates": [
+            "en vivo"
+          ]
+        },
+        "fr": "en direct",
+        "it": {
+          "text": "in diretta",
+          "alternates": [
+            "dal vivo"
+          ]
+        }
       }
     },
     {
@@ -309,6 +877,36 @@
           "text": "wiarygodny",
           "alternates": [
             "rzetelny"
+          ]
+        },
+        "uk": {
+          "text": "надійний",
+          "alternates": [
+            "достовірний"
+          ]
+        },
+        "de": {
+          "text": "zuverlässig",
+          "alternates": [
+            "glaubwürdig"
+          ]
+        },
+        "es": {
+          "text": "fiable",
+          "alternates": [
+            "confiable"
+          ]
+        },
+        "fr": {
+          "text": "fiable",
+          "alternates": [
+            "crédible"
+          ]
+        },
+        "it": {
+          "text": "affidabile",
+          "alternates": [
+            "attendibile"
           ]
         }
       }

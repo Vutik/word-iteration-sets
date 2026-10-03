@@ -8,7 +8,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "понедельник",
-        "pl": "poniedziałek"
+        "pl": "poniedziałek",
+        "uk": "понеділок",
+        "de": {
+          "text": "der Montag",
+          "alternates": [
+            "Montag"
+          ]
+        },
+        "es": "lunes",
+        "fr": "lundi",
+        "it": "lunedì"
       },
       "examples": [
         {
@@ -16,7 +26,12 @@
           "text": "The shop is closed on Monday.",
           "translations": {
             "ru": "В понедельник магазин закрыт.",
-            "pl": "W poniedziałek sklep jest zamknięty."
+            "pl": "W poniedziałek sklep jest zamknięty.",
+            "uk": "У понеділок магазин зачинений.",
+            "de": "Am Montag ist das Geschäft geschlossen.",
+            "es": "El lunes la tienda está cerrada.",
+            "fr": "Le magasin est fermé le lundi.",
+            "it": "Il lunedì il negozio è chiuso."
           }
         }
       ]
@@ -28,7 +43,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "вторник",
-        "pl": "wtorek"
+        "pl": "wtorek",
+        "uk": "вівторок",
+        "de": {
+          "text": "der Dienstag",
+          "alternates": [
+            "Dienstag"
+          ]
+        },
+        "es": "martes",
+        "fr": "mardi",
+        "it": "martedì"
       }
     },
     {
@@ -38,7 +63,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "среда",
-        "pl": "środa"
+        "pl": "środa",
+        "uk": "середа",
+        "de": {
+          "text": "der Mittwoch",
+          "alternates": [
+            "Mittwoch"
+          ]
+        },
+        "es": "miércoles",
+        "fr": "mercredi",
+        "it": "mercoledì"
       }
     },
     {
@@ -48,7 +83,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "четверг",
-        "pl": "czwartek"
+        "pl": "czwartek",
+        "uk": "четвер",
+        "de": {
+          "text": "der Donnerstag",
+          "alternates": [
+            "Donnerstag"
+          ]
+        },
+        "es": "jueves",
+        "fr": "jeudi",
+        "it": "giovedì"
       }
     },
     {
@@ -58,7 +103,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "пятница",
-        "pl": "piątek"
+        "pl": "piątek",
+        "uk": "п'ятниця",
+        "de": {
+          "text": "der Freitag",
+          "alternates": [
+            "Freitag"
+          ]
+        },
+        "es": "viernes",
+        "fr": "vendredi",
+        "it": "venerdì"
       }
     },
     {
@@ -68,7 +123,19 @@
           "partOfSpeech": "noun"
         },
         "ru": "суббота",
-        "pl": "sobota"
+        "pl": "sobota",
+        "uk": "субота",
+        "de": {
+          "text": "der Samstag",
+          "alternates": [
+            "Samstag",
+            "der Sonnabend",
+            "Sonnabend"
+          ]
+        },
+        "es": "sábado",
+        "fr": "samedi",
+        "it": "sabato"
       }
     },
     {
@@ -78,7 +145,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "воскресенье",
-        "pl": "niedziela"
+        "pl": "niedziela",
+        "uk": "неділя",
+        "de": {
+          "text": "der Sonntag",
+          "alternates": [
+            "Sonntag"
+          ]
+        },
+        "es": "domingo",
+        "fr": "dimanche",
+        "it": "domenica"
       }
     },
     {
@@ -88,7 +165,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "январь",
-        "pl": "styczeń"
+        "pl": "styczeń",
+        "uk": "січень",
+        "de": {
+          "text": "der Januar",
+          "alternates": [
+            "Januar"
+          ]
+        },
+        "es": "enero",
+        "fr": "janvier",
+        "it": "gennaio"
       }
     },
     {
@@ -98,7 +185,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "февраль",
-        "pl": "luty"
+        "pl": "luty",
+        "uk": "лютий",
+        "de": {
+          "text": "der Februar",
+          "alternates": [
+            "Februar"
+          ]
+        },
+        "es": "febrero",
+        "fr": "février",
+        "it": "febbraio"
       }
     },
     {
@@ -108,7 +205,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "март",
-        "pl": "marzec"
+        "pl": "marzec",
+        "uk": "березень",
+        "de": {
+          "text": "der März",
+          "alternates": [
+            "März"
+          ]
+        },
+        "es": "marzo",
+        "fr": "mars",
+        "it": "marzo"
       }
     },
     {
@@ -118,7 +225,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "апрель",
-        "pl": "kwiecień"
+        "pl": "kwiecień",
+        "uk": "квітень",
+        "de": {
+          "text": "der April",
+          "alternates": [
+            "April"
+          ]
+        },
+        "es": "abril",
+        "fr": "avril",
+        "it": "aprile"
       }
     },
     {
@@ -128,7 +245,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "май",
-        "pl": "maj"
+        "pl": "maj",
+        "uk": "травень",
+        "de": {
+          "text": "der Mai",
+          "alternates": [
+            "Mai"
+          ]
+        },
+        "es": "mayo",
+        "fr": "mai",
+        "it": "maggio"
       }
     },
     {
@@ -138,7 +265,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "июнь",
-        "pl": "czerwiec"
+        "pl": "czerwiec",
+        "uk": "червень",
+        "de": {
+          "text": "der Juni",
+          "alternates": [
+            "Juni"
+          ]
+        },
+        "es": "junio",
+        "fr": "juin",
+        "it": "giugno"
       }
     },
     {
@@ -148,7 +285,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "июль",
-        "pl": "lipiec"
+        "pl": "lipiec",
+        "uk": "липень",
+        "de": {
+          "text": "der Juli",
+          "alternates": [
+            "Juli"
+          ]
+        },
+        "es": "julio",
+        "fr": "juillet",
+        "it": "luglio"
       }
     },
     {
@@ -158,7 +305,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "август",
-        "pl": "sierpień"
+        "pl": "sierpień",
+        "uk": "серпень",
+        "de": {
+          "text": "der August",
+          "alternates": [
+            "August"
+          ]
+        },
+        "es": "agosto",
+        "fr": "août",
+        "it": "agosto"
       }
     },
     {
@@ -168,7 +325,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "сентябрь",
-        "pl": "wrzesień"
+        "pl": "wrzesień",
+        "uk": "вересень",
+        "de": {
+          "text": "der September",
+          "alternates": [
+            "September"
+          ]
+        },
+        "es": "septiembre",
+        "fr": "septembre",
+        "it": "settembre"
       }
     },
     {
@@ -178,7 +345,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "октябрь",
-        "pl": "październik"
+        "pl": "październik",
+        "uk": "жовтень",
+        "de": {
+          "text": "der Oktober",
+          "alternates": [
+            "Oktober"
+          ]
+        },
+        "es": "octubre",
+        "fr": "octobre",
+        "it": "ottobre"
       }
     },
     {
@@ -188,7 +365,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "ноябрь",
-        "pl": "listopad"
+        "pl": "listopad",
+        "uk": "листопад",
+        "de": {
+          "text": "der November",
+          "alternates": [
+            "November"
+          ]
+        },
+        "es": "noviembre",
+        "fr": "novembre",
+        "it": "novembre"
       }
     },
     {
@@ -198,7 +385,17 @@
           "partOfSpeech": "noun"
         },
         "ru": "декабрь",
-        "pl": "grudzień"
+        "pl": "grudzień",
+        "uk": "грудень",
+        "de": {
+          "text": "der Dezember",
+          "alternates": [
+            "Dezember"
+          ]
+        },
+        "es": "diciembre",
+        "fr": "décembre",
+        "it": "dicembre"
       },
       "examples": [
         {
@@ -206,7 +403,12 @@
           "text": "My birthday is in December.",
           "translations": {
             "ru": "Мой день рождения в декабре.",
-            "pl": "Moje urodziny są w grudniu."
+            "pl": "Moje urodziny są w grudniu.",
+            "uk": "Мій день народження у грудні.",
+            "de": "Mein Geburtstag ist im Dezember.",
+            "es": "Mi cumpleaños es en diciembre.",
+            "fr": "Mon anniversaire est en décembre.",
+            "it": "Il mio compleanno è a dicembre."
           }
         }
       ]
@@ -218,7 +420,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "неделя",
-        "pl": "tydzień"
+        "pl": "tydzień",
+        "uk": "тиждень",
+        "de": {
+          "text": "die Woche",
+          "alternates": [
+            "Woche"
+          ]
+        },
+        "es": {
+          "text": "la semana",
+          "alternates": [
+            "semana"
+          ]
+        },
+        "fr": {
+          "text": "la semaine",
+          "alternates": [
+            "semaine"
+          ]
+        },
+        "it": {
+          "text": "la settimana",
+          "alternates": [
+            "settimana"
+          ]
+        }
       }
     },
     {
@@ -228,7 +455,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "месяц",
-        "pl": "miesiąc"
+        "pl": "miesiąc",
+        "uk": "місяць",
+        "de": {
+          "text": "der Monat",
+          "alternates": [
+            "Monat"
+          ]
+        },
+        "es": {
+          "text": "el mes",
+          "alternates": [
+            "mes"
+          ]
+        },
+        "fr": {
+          "text": "le mois",
+          "alternates": [
+            "mois"
+          ]
+        },
+        "it": {
+          "text": "il mese",
+          "alternates": [
+            "mese"
+          ]
+        }
       }
     },
     {
@@ -238,7 +490,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "год",
-        "pl": "rok"
+        "pl": "rok",
+        "uk": "рік",
+        "de": {
+          "text": "das Jahr",
+          "alternates": [
+            "Jahr"
+          ]
+        },
+        "es": {
+          "text": "el año",
+          "alternates": [
+            "año"
+          ]
+        },
+        "fr": {
+          "text": "l'année",
+          "alternates": [
+            "année",
+            "l'an",
+            "an"
+          ]
+        },
+        "it": {
+          "text": "l'anno",
+          "alternates": [
+            "anno"
+          ]
+        }
       }
     },
     {
@@ -248,7 +527,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "выходные",
-        "pl": "weekend"
+        "pl": "weekend",
+        "uk": "вихідні",
+        "de": {
+          "text": "das Wochenende",
+          "alternates": [
+            "Wochenende"
+          ]
+        },
+        "es": {
+          "text": "el fin de semana",
+          "alternates": [
+            "fin de semana"
+          ]
+        },
+        "fr": {
+          "text": "le week-end",
+          "alternates": [
+            "week-end"
+          ]
+        },
+        "it": {
+          "text": "il fine settimana",
+          "alternates": [
+            "fine settimana",
+            "il weekend",
+            "weekend"
+          ]
+        }
       }
     }
   ]

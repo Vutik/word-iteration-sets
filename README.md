@@ -132,40 +132,40 @@ en↔ru, en↔pl and ru↔pl.
 
 | id | Languages | Source | Words |
 |---|---|---|---|
-| `fruits` | en ru pl | json | 12 |
-| `family` | en ru pl | json | 15 |
-| `colors` | en ru pl | json | 11 |
+| `fruits` | en ru pl uk de es fr it | json | 12 |
+| `family` | en ru pl uk de es fr it | json | 15 |
+| `colors` | en ru pl uk de es fr it | json | 11 |
 | `travel-en-ru` | en ru | json | 18 |
 | `kitchen-en-ru` | en ru | text | 15 |
 | `city-pl-ru` | pl ru | json | 17 |
 | `polish-everyday-verbs` | pl ru | text | 15 |
-| `numbers` | en ru pl | json | 20 |
-| `days-and-months` | en ru pl | json | 23 |
-| `body` | en ru pl | json | 19 |
-| `clothes` | en ru pl | json | 19 |
-| `animals` | en ru pl | json | 20 |
-| `food-and-drinks` | en ru pl | json | 23 |
-| `home` | en ru pl | json | 22 |
-| `weather` | en ru pl | json | 20 |
-| `school` | en ru pl | json | 20 |
-| `jobs` | en ru pl | json | 20 |
-| `shopping` | en ru pl | json | 21 |
-| `health` | en ru pl | json | 20 |
-| `transport` | en ru pl | json | 21 |
-| `free-time` | en ru pl | json | 22 |
-| `nature` | en ru pl | json | 19 |
-| `feelings` | en ru pl | json | 20 |
-| `opposites` | en ru pl | json | 23 |
-| `everyday-verbs` | en ru pl | json | 23 |
-| `restaurant` | en ru pl | json | 21 |
-| `work-and-office` | en ru pl | json | 23 |
-| `money` | en ru pl | json | 24 |
-| `character` | en ru pl | json | 21 |
-| `environment` | en ru pl | json | 22 |
-| `technology` | en ru pl | json | 22 |
-| `media-and-news` | en ru pl | json | 21 |
-| `relationships` | en ru pl | json | 23 |
-| `education` | en ru pl | json | 21 |
-| `linking-words` | en ru pl | json | 20 |
-| `house-and-chores` | en ru pl | json | 22 |
+| `numbers` | en ru pl uk de es fr it | json | 20 |
+| `days-and-months` | en ru pl uk de es fr it | json | 23 |
+| `body` | en ru pl uk de es fr it | json | 19 |
+| `clothes` | en ru pl uk de es fr it | json | 19 |
+| `animals` | en ru pl uk de es fr it | json | 20 |
+| `food-and-drinks` | en ru pl uk de es fr it | json | 23 |
+| `home` | en ru pl uk de es fr it | json | 22 |
+| `weather` | en ru pl uk de es fr it | json | 20 |
+| `school` | en ru pl uk de es fr it | json | 20 |
+| `jobs` | en ru pl uk de es fr it | json | 20 |
+| `shopping` | en ru pl uk de es fr it | json | 21 |
+| `health` | en ru pl uk de es fr it | json | 20 |
+| `transport` | en ru pl uk de es fr it | json | 21 |
+| `free-time` | en ru pl uk de es fr it | json | 22 |
+| `nature` | en ru pl uk de es fr it | json | 19 |
+| `feelings` | en ru pl uk de es fr it | json | 20 |
+| `opposites` | en ru pl uk de es fr it | json | 23 |
+| `everyday-verbs` | en ru pl uk de es fr it | json | 23 |
+| `restaurant` | en ru pl uk de es fr it | json | 21 |
+| `work-and-office` | en ru pl uk de es fr it | json | 23 |
+| `money` | en ru pl uk de es fr it | json | 24 |
+| `character` | en ru pl uk de es fr it | json | 21 |
+| `environment` | en ru pl uk de es fr it | json | 22 |
+| `technology` | en ru pl uk de es fr it | json | 22 |
+| `media-and-news` | en ru pl uk de es fr it | json | 21 |
+| `relationships` | en ru pl uk de es fr it | json | 23 |
+| `education` | en ru pl uk de es fr it | json | 21 |
+| `linking-words` | en ru pl uk de es fr it | json | 20 |
+| `house-and-chores` | en ru pl uk de es fr it | json | 22 |
 | `russian-top-1000` | ru en | anki (carterspreen/anki-russian, CC BY-SA) | 999 |

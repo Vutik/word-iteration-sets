@@ -2,24 +2,39 @@
   "title": {
     "en": "Food and drinks",
     "ru": "Еда и напитки",
-    "pl": "Jedzenie i napoje"
+    "pl": "Jedzenie i napoje",
+    "uk": "Їжа та напої",
+    "de": "Essen und Trinken",
+    "es": "Comida y bebidas",
+    "fr": "Nourriture et boissons",
+    "it": "Cibo e bevande"
   },
   "description": {
     "en": "Everyday food and what we drink with it.",
     "ru": "Повседневная еда и то, что мы пьём.",
-    "pl": "Codzienne jedzenie i to, co pijemy."
+    "pl": "Codzienne jedzenie i to, co pijemy.",
+    "uk": "Повсякденна їжа й напої до неї.",
+    "de": "Alltägliche Lebensmittel und was wir dazu trinken.",
+    "es": "La comida de cada día y lo que bebemos con ella.",
+    "fr": "Les aliments de tous les jours et ce qu'on boit avec.",
+    "it": "Il cibo di tutti i giorni e le bevande che lo accompagnano."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
   "tags": [
     "food"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

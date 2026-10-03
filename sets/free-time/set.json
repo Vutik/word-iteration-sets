@@ -2,17 +2,32 @@
   "title": {
     "en": "Free time and sport",
     "ru": "Свободное время и спорт",
-    "pl": "Czas wolny i sport"
+    "pl": "Czas wolny i sport",
+    "uk": "Вільний час і спорт",
+    "de": "Freizeit und Sport",
+    "es": "Tiempo libre y deporte",
+    "fr": "Temps libre et sport",
+    "it": "Tempo libero e sport"
   },
   "description": {
     "en": "Hobbies, games and sports.",
     "ru": "Хобби, игры и спорт.",
-    "pl": "Hobby, gry i sport."
+    "pl": "Hobby, gry i sport.",
+    "uk": "Хобі, ігри та спорт.",
+    "de": "Hobbys, Spiele und Sport.",
+    "es": "Aficiones, juegos y deportes.",
+    "fr": "Loisirs, jeux et sports.",
+    "it": "Hobby, giochi e sport."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A2",
@@ -20,7 +35,7 @@
     "hobbies",
     "sport"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

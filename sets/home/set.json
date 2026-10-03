@@ -2,24 +2,39 @@
   "title": {
     "en": "At home",
     "ru": "Дом",
-    "pl": "W domu"
+    "pl": "W domu",
+    "uk": "Удома",
+    "de": "Zu Hause",
+    "es": "En casa",
+    "fr": "À la maison",
+    "it": "In casa"
   },
   "description": {
     "en": "Rooms and furniture.",
     "ru": "Комнаты и мебель.",
-    "pl": "Pokoje i meble."
+    "pl": "Pokoje i meble.",
+    "uk": "Кімнати та меблі.",
+    "de": "Zimmer und Möbel.",
+    "es": "Habitaciones y muebles.",
+    "fr": "Les pièces et les meubles.",
+    "it": "Stanze e mobili."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
   "tags": [
     "home"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

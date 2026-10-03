@@ -2,24 +2,39 @@
   "title": {
     "en": "Animals",
     "ru": "Животные",
-    "pl": "Zwierzęta"
+    "pl": "Zwierzęta",
+    "uk": "Тварини",
+    "de": "Tiere",
+    "es": "Los animales",
+    "fr": "Les animaux",
+    "it": "Gli animali"
   },
   "description": {
     "en": "Pets, farm animals and a few wild ones.",
     "ru": "Домашние, сельские и несколько диких животных.",
-    "pl": "Zwierzęta domowe, gospodarskie i kilka dzikich."
+    "pl": "Zwierzęta domowe, gospodarskie i kilka dzikich.",
+    "uk": "Домашні, сільськогосподарські та кілька диких тварин.",
+    "de": "Haustiere, Nutztiere und ein paar Wildtiere.",
+    "es": "Mascotas, animales de granja y algunos salvajes.",
+    "fr": "Animaux domestiques, animaux de la ferme et quelques animaux sauvages.",
+    "it": "Animali domestici, da fattoria e qualche animale selvatico."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "A1",
   "tags": [
     "animals"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

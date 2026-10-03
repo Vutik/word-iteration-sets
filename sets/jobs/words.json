@@ -13,7 +13,45 @@
             "доктор"
           ]
         },
-        "pl": "lekarz"
+        "pl": "lekarz",
+        "uk": {
+          "text": "лікар",
+          "alternates": [
+            "доктор"
+          ]
+        },
+        "de": {
+          "text": "der Arzt",
+          "alternates": [
+            "Arzt",
+            "der Doktor",
+            "Doktor"
+          ]
+        },
+        "es": {
+          "text": "el médico",
+          "alternates": [
+            "médico",
+            "el doctor",
+            "doctor"
+          ]
+        },
+        "fr": {
+          "text": "le médecin",
+          "alternates": [
+            "médecin",
+            "le docteur",
+            "docteur"
+          ]
+        },
+        "it": {
+          "text": "il medico",
+          "alternates": [
+            "medico",
+            "il dottore",
+            "dottore"
+          ]
+        }
       }
     },
     {
@@ -23,7 +61,37 @@
           "partOfSpeech": "noun"
         },
         "ru": "медсестра",
-        "pl": "pielęgniarka"
+        "pl": "pielęgniarka",
+        "uk": {
+          "text": "медсестра",
+          "alternates": [
+            "медична сестра"
+          ]
+        },
+        "de": {
+          "text": "die Krankenschwester",
+          "alternates": [
+            "Krankenschwester"
+          ]
+        },
+        "es": {
+          "text": "la enfermera",
+          "alternates": [
+            "enfermera"
+          ]
+        },
+        "fr": {
+          "text": "l'infirmière",
+          "alternates": [
+            "infirmière"
+          ]
+        },
+        "it": {
+          "text": "l'infermiera",
+          "alternates": [
+            "infermiera"
+          ]
+        }
       }
     },
     {
@@ -33,7 +101,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "учитель",
-        "pl": "nauczyciel"
+        "pl": "nauczyciel",
+        "uk": "вчитель",
+        "de": {
+          "text": "der Lehrer",
+          "alternates": [
+            "Lehrer"
+          ]
+        },
+        "es": {
+          "text": "el profesor",
+          "alternates": [
+            "profesor",
+            "el maestro",
+            "maestro"
+          ]
+        },
+        "fr": {
+          "text": "le professeur",
+          "alternates": [
+            "professeur",
+            "l'enseignant",
+            "enseignant"
+          ]
+        },
+        "it": {
+          "text": "l'insegnante",
+          "alternates": [
+            "insegnante",
+            "il professore",
+            "professore"
+          ]
+        }
       }
     },
     {
@@ -43,7 +142,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "инженер",
-        "pl": "inżynier"
+        "pl": "inżynier",
+        "uk": "інженер",
+        "de": {
+          "text": "der Ingenieur",
+          "alternates": [
+            "Ingenieur"
+          ]
+        },
+        "es": {
+          "text": "el ingeniero",
+          "alternates": [
+            "ingeniero"
+          ]
+        },
+        "fr": {
+          "text": "l'ingénieur",
+          "alternates": [
+            "ingénieur"
+          ]
+        },
+        "it": {
+          "text": "l'ingegnere",
+          "alternates": [
+            "ingegnere"
+          ]
+        }
       }
     },
     {
@@ -58,7 +182,45 @@
             "адвокат"
           ]
         },
-        "pl": "prawnik"
+        "pl": "prawnik",
+        "uk": {
+          "text": "юрист",
+          "alternates": [
+            "адвокат"
+          ]
+        },
+        "de": {
+          "text": "der Anwalt",
+          "alternates": [
+            "Anwalt",
+            "der Jurist",
+            "Jurist"
+          ]
+        },
+        "es": {
+          "text": "el abogado",
+          "alternates": [
+            "abogado",
+            "el jurista",
+            "jurista"
+          ]
+        },
+        "fr": {
+          "text": "l'avocat",
+          "alternates": [
+            "avocat",
+            "le juriste",
+            "juriste"
+          ]
+        },
+        "it": {
+          "text": "l'avvocato",
+          "alternates": [
+            "avvocato",
+            "il giurista",
+            "giurista"
+          ]
+        }
       }
     },
     {
@@ -71,7 +233,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "повар",
-        "pl": "kucharz"
+        "pl": "kucharz",
+        "uk": "кухар",
+        "de": {
+          "text": "der Koch",
+          "alternates": [
+            "Koch"
+          ]
+        },
+        "es": {
+          "text": "el cocinero",
+          "alternates": [
+            "cocinero"
+          ]
+        },
+        "fr": {
+          "text": "le cuisinier",
+          "alternates": [
+            "cuisinier",
+            "le chef",
+            "chef"
+          ]
+        },
+        "it": {
+          "text": "il cuoco",
+          "alternates": [
+            "cuoco",
+            "lo chef",
+            "chef"
+          ]
+        }
       }
     },
     {
@@ -81,7 +272,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "официант",
-        "pl": "kelner"
+        "pl": "kelner",
+        "uk": "офіціант",
+        "de": {
+          "text": "der Kellner",
+          "alternates": [
+            "Kellner"
+          ]
+        },
+        "es": {
+          "text": "el camarero",
+          "alternates": [
+            "camarero"
+          ]
+        },
+        "fr": {
+          "text": "le serveur",
+          "alternates": [
+            "serveur"
+          ]
+        },
+        "it": {
+          "text": "il cameriere",
+          "alternates": [
+            "cameriere"
+          ]
+        }
       }
     },
     {
@@ -91,7 +307,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "водитель",
-        "pl": "kierowca"
+        "pl": "kierowca",
+        "uk": "водій",
+        "de": {
+          "text": "der Fahrer",
+          "alternates": [
+            "Fahrer"
+          ]
+        },
+        "es": {
+          "text": "el conductor",
+          "alternates": [
+            "conductor"
+          ]
+        },
+        "fr": {
+          "text": "le conducteur",
+          "alternates": [
+            "conducteur",
+            "le chauffeur",
+            "chauffeur"
+          ]
+        },
+        "it": {
+          "text": "l'autista",
+          "alternates": [
+            "autista",
+            "il conducente",
+            "conducente"
+          ]
+        }
       }
     },
     {
@@ -101,7 +346,40 @@
           "partOfSpeech": "noun"
         },
         "ru": "фермер",
-        "pl": "rolnik"
+        "pl": "rolnik",
+        "uk": "фермер",
+        "de": {
+          "text": "der Landwirt",
+          "alternates": [
+            "Landwirt",
+            "der Bauer",
+            "Bauer"
+          ]
+        },
+        "es": {
+          "text": "el agricultor",
+          "alternates": [
+            "agricultor",
+            "el granjero",
+            "granjero"
+          ]
+        },
+        "fr": {
+          "text": "l'agriculteur",
+          "alternates": [
+            "agriculteur",
+            "le fermier",
+            "fermier"
+          ]
+        },
+        "it": {
+          "text": "l'agricoltore",
+          "alternates": [
+            "agricoltore",
+            "il contadino",
+            "contadino"
+          ]
+        }
       }
     },
     {
@@ -111,7 +389,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "полицейский",
-        "pl": "policjant"
+        "pl": "policjant",
+        "uk": "поліцейський",
+        "de": {
+          "text": "der Polizist",
+          "alternates": [
+            "Polizist"
+          ]
+        },
+        "es": {
+          "text": "el policía",
+          "alternates": [
+            "policía",
+            "el agente",
+            "agente"
+          ]
+        },
+        "fr": {
+          "text": "le policier",
+          "alternates": [
+            "policier"
+          ]
+        },
+        "it": {
+          "text": "il poliziotto",
+          "alternates": [
+            "poliziotto"
+          ]
+        }
       }
     },
     {
@@ -121,7 +426,34 @@
           "partOfSpeech": "noun"
         },
         "ru": "пожарный",
-        "pl": "strażak"
+        "pl": "strażak",
+        "uk": "пожежник",
+        "de": {
+          "text": "der Feuerwehrmann",
+          "alternates": [
+            "Feuerwehrmann"
+          ]
+        },
+        "es": {
+          "text": "el bombero",
+          "alternates": [
+            "bombero"
+          ]
+        },
+        "fr": {
+          "text": "le pompier",
+          "alternates": [
+            "pompier"
+          ]
+        },
+        "it": {
+          "text": "il pompiere",
+          "alternates": [
+            "pompiere",
+            "il vigile del fuoco",
+            "vigile del fuoco"
+          ]
+        }
       }
     },
     {
@@ -136,6 +468,35 @@
           "alternates": [
             "ekspedient"
           ]
+        },
+        "uk": "продавець",
+        "de": {
+          "text": "der Verkäufer",
+          "alternates": [
+            "Verkäufer"
+          ]
+        },
+        "es": {
+          "text": "el dependiente",
+          "alternates": [
+            "dependiente",
+            "el vendedor",
+            "vendedor"
+          ]
+        },
+        "fr": {
+          "text": "le vendeur",
+          "alternates": [
+            "vendeur"
+          ]
+        },
+        "it": {
+          "text": "il commesso",
+          "alternates": [
+            "commesso",
+            "il venditore",
+            "venditore"
+          ]
         }
       }
     },
@@ -146,7 +507,37 @@
           "partOfSpeech": "noun"
         },
         "ru": "парикмахер",
-        "pl": "fryzjer"
+        "pl": "fryzjer",
+        "uk": {
+          "text": "перукар",
+          "alternates": [
+            "парикмахер"
+          ]
+        },
+        "de": {
+          "text": "der Friseur",
+          "alternates": [
+            "Friseur"
+          ]
+        },
+        "es": {
+          "text": "el peluquero",
+          "alternates": [
+            "peluquero"
+          ]
+        },
+        "fr": {
+          "text": "le coiffeur",
+          "alternates": [
+            "coiffeur"
+          ]
+        },
+        "it": {
+          "text": "il parrucchiere",
+          "alternates": [
+            "parrucchiere"
+          ]
+        }
       }
     },
     {
@@ -156,7 +547,38 @@
           "partOfSpeech": "noun"
         },
         "ru": "строитель",
-        "pl": "budowlaniec"
+        "pl": "budowlaniec",
+        "uk": "будівельник",
+        "de": {
+          "text": "der Bauarbeiter",
+          "alternates": [
+            "Bauarbeiter"
+          ]
+        },
+        "es": {
+          "text": "el albañil",
+          "alternates": [
+            "albañil",
+            "el obrero de la construcción",
+            "obrero de la construcción"
+          ]
+        },
+        "fr": {
+          "text": "le maçon",
+          "alternates": [
+            "maçon",
+            "l'ouvrier du bâtiment",
+            "ouvrier du bâtiment"
+          ]
+        },
+        "it": {
+          "text": "il muratore",
+          "alternates": [
+            "muratore",
+            "l'operaio edile",
+            "operaio edile"
+          ]
+        }
       }
     },
     {
@@ -166,7 +588,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "программист",
-        "pl": "programista"
+        "pl": "programista",
+        "uk": "програміст",
+        "de": {
+          "text": "der Programmierer",
+          "alternates": [
+            "Programmierer"
+          ]
+        },
+        "es": {
+          "text": "el programador",
+          "alternates": [
+            "programador"
+          ]
+        },
+        "fr": {
+          "text": "le programmeur",
+          "alternates": [
+            "programmeur",
+            "le développeur",
+            "développeur"
+          ]
+        },
+        "it": {
+          "text": "il programmatore",
+          "alternates": [
+            "programmatore",
+            "lo sviluppatore",
+            "sviluppatore"
+          ]
+        }
       },
       "examples": [
         {
@@ -174,7 +625,12 @@
           "text": "My brother works as a programmer.",
           "translations": {
             "ru": "Мой брат работает программистом.",
-            "pl": "Mój brat pracuje jako programista."
+            "pl": "Mój brat pracuje jako programista.",
+            "uk": "Мій брат працює програмістом.",
+            "de": "Mein Bruder arbeitet als Programmierer.",
+            "es": "Mi hermano trabaja como programador.",
+            "fr": "Mon frère travaille comme programmeur.",
+            "it": "Mio fratello lavora come programmatore."
           }
         }
       ]
@@ -186,7 +642,32 @@
           "partOfSpeech": "noun"
         },
         "ru": "журналист",
-        "pl": "dziennikarz"
+        "pl": "dziennikarz",
+        "uk": "журналіст",
+        "de": {
+          "text": "der Journalist",
+          "alternates": [
+            "Journalist"
+          ]
+        },
+        "es": {
+          "text": "el periodista",
+          "alternates": [
+            "periodista"
+          ]
+        },
+        "fr": {
+          "text": "le journaliste",
+          "alternates": [
+            "journaliste"
+          ]
+        },
+        "it": {
+          "text": "il giornalista",
+          "alternates": [
+            "giornalista"
+          ]
+        }
       }
     },
     {
@@ -196,7 +677,36 @@
           "partOfSpeech": "noun"
         },
         "ru": "бухгалтер",
-        "pl": "księgowy"
+        "pl": "księgowy",
+        "uk": "бухгалтер",
+        "de": {
+          "text": "der Buchhalter",
+          "alternates": [
+            "Buchhalter"
+          ]
+        },
+        "es": {
+          "text": "el contable",
+          "alternates": [
+            "contable",
+            "el contador",
+            "contador"
+          ]
+        },
+        "fr": {
+          "text": "le comptable",
+          "alternates": [
+            "comptable"
+          ]
+        },
+        "it": {
+          "text": "il contabile",
+          "alternates": [
+            "contabile",
+            "il ragioniere",
+            "ragioniere"
+          ]
+        }
       }
     },
     {
@@ -211,7 +721,39 @@
             "зубной врач"
           ]
         },
-        "pl": "dentysta"
+        "pl": "dentysta",
+        "uk": {
+          "text": "стоматолог",
+          "alternates": [
+            "зубний лікар"
+          ]
+        },
+        "de": {
+          "text": "der Zahnarzt",
+          "alternates": [
+            "Zahnarzt"
+          ]
+        },
+        "es": {
+          "text": "el dentista",
+          "alternates": [
+            "dentista",
+            "el odontólogo",
+            "odontólogo"
+          ]
+        },
+        "fr": {
+          "text": "le dentiste",
+          "alternates": [
+            "dentiste"
+          ]
+        },
+        "it": {
+          "text": "il dentista",
+          "alternates": [
+            "dentista"
+          ]
+        }
       }
     },
     {
@@ -226,7 +768,37 @@
             "лётчик"
           ]
         },
-        "pl": "pilot"
+        "pl": "pilot",
+        "uk": {
+          "text": "пілот",
+          "alternates": [
+            "льотчик"
+          ]
+        },
+        "de": {
+          "text": "der Pilot",
+          "alternates": [
+            "Pilot"
+          ]
+        },
+        "es": {
+          "text": "el piloto",
+          "alternates": [
+            "piloto"
+          ]
+        },
+        "fr": {
+          "text": "le pilote",
+          "alternates": [
+            "pilote"
+          ]
+        },
+        "it": {
+          "text": "il pilota",
+          "alternates": [
+            "pilota"
+          ]
+        }
       }
     },
     {
@@ -245,6 +817,48 @@
           "text": "menedżer",
           "alternates": [
             "kierownik"
+          ]
+        },
+        "uk": {
+          "text": "менеджер",
+          "alternates": [
+            "керівник"
+          ]
+        },
+        "de": {
+          "text": "der Manager",
+          "alternates": [
+            "Manager",
+            "der Leiter",
+            "Leiter"
+          ]
+        },
+        "es": {
+          "text": "el gerente",
+          "alternates": [
+            "gerente",
+            "el director",
+            "director"
+          ]
+        },
+        "fr": {
+          "text": "le directeur",
+          "alternates": [
+            "directeur",
+            "le responsable",
+            "responsable",
+            "le manager",
+            "manager"
+          ]
+        },
+        "it": {
+          "text": "il direttore",
+          "alternates": [
+            "direttore",
+            "il responsabile",
+            "responsabile",
+            "il manager",
+            "manager"
           ]
         }
       }

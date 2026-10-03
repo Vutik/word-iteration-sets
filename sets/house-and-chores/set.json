@@ -2,24 +2,39 @@
   "title": {
     "en": "Housework",
     "ru": "Домашние дела",
-    "pl": "Prace domowe"
+    "pl": "Prace domowe",
+    "uk": "Домашні справи",
+    "de": "Hausarbeit",
+    "es": "Tareas domésticas",
+    "fr": "Tâches ménagères",
+    "it": "Faccende di casa"
   },
   "description": {
     "en": "Cleaning, repairs and keeping a home.",
     "ru": "Уборка, ремонт и хозяйство.",
-    "pl": "Sprzątanie, naprawy i prowadzenie domu."
+    "pl": "Sprzątanie, naprawy i prowadzenie domu.",
+    "uk": "Прибирання, ремонт і господарство.",
+    "de": "Putzen, Reparaturen und den Haushalt führen.",
+    "es": "Limpieza, reparaciones y cuidado del hogar.",
+    "fr": "Ménage, réparations et entretien de la maison.",
+    "it": "Pulizie, riparazioni e cura della casa."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "B1",
   "tags": [
     "home"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"

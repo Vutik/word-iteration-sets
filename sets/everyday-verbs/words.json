@@ -18,7 +18,17 @@
           "alternates": [
             "obudzić się"
           ]
-        }
+        },
+        "uk": {
+          "text": "прокидатися",
+          "alternates": [
+            "прокинутися"
+          ]
+        },
+        "de": "aufwachen",
+        "es": "despertarse",
+        "fr": "se réveiller",
+        "it": "svegliarsi"
       }
     },
     {
@@ -38,7 +48,17 @@
           "alternates": [
             "wstać"
           ]
-        }
+        },
+        "uk": {
+          "text": "вставати",
+          "alternates": [
+            "встати"
+          ]
+        },
+        "de": "aufstehen",
+        "es": "levantarse",
+        "fr": "se lever",
+        "it": "alzarsi"
       }
     },
     {
@@ -57,6 +77,36 @@
           "text": "myć",
           "alternates": [
             "myć się"
+          ]
+        },
+        "uk": {
+          "text": "мити",
+          "alternates": [
+            "митися"
+          ]
+        },
+        "de": {
+          "text": "waschen",
+          "alternates": [
+            "sich waschen"
+          ]
+        },
+        "es": {
+          "text": "lavar",
+          "alternates": [
+            "lavarse"
+          ]
+        },
+        "fr": {
+          "text": "laver",
+          "alternates": [
+            "se laver"
+          ]
+        },
+        "it": {
+          "text": "lavare",
+          "alternates": [
+            "lavarsi"
           ]
         }
       }
@@ -78,7 +128,17 @@
           "alternates": [
             "ubrać się"
           ]
-        }
+        },
+        "uk": {
+          "text": "одягатися",
+          "alternates": [
+            "одягнутися"
+          ]
+        },
+        "de": "sich anziehen",
+        "es": "vestirse",
+        "fr": "s'habiller",
+        "it": "vestirsi"
       }
     },
     {
@@ -88,7 +148,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "готовить",
-        "pl": "gotować"
+        "pl": "gotować",
+        "uk": "готувати",
+        "de": "kochen",
+        "es": "cocinar",
+        "fr": "cuisiner",
+        "it": "cucinare"
       }
     },
     {
@@ -98,7 +163,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "есть",
-        "pl": "jeść"
+        "pl": "jeść",
+        "uk": "їсти",
+        "de": "essen",
+        "es": "comer",
+        "fr": "manger",
+        "it": "mangiare"
       }
     },
     {
@@ -108,7 +178,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "пить",
-        "pl": "pić"
+        "pl": "pić",
+        "uk": "пити",
+        "de": "trinken",
+        "es": "beber",
+        "fr": "boire",
+        "it": "bere"
       }
     },
     {
@@ -118,7 +193,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "работать",
-        "pl": "pracować"
+        "pl": "pracować",
+        "uk": "працювати",
+        "de": "arbeiten",
+        "es": "trabajar",
+        "fr": "travailler",
+        "it": "lavorare"
       }
     },
     {
@@ -138,7 +218,22 @@
           "alternates": [
             "jechać"
           ]
-        }
+        },
+        "uk": {
+          "text": "йти",
+          "alternates": [
+            "їхати"
+          ]
+        },
+        "de": {
+          "text": "gehen",
+          "alternates": [
+            "fahren"
+          ]
+        },
+        "es": "ir",
+        "fr": "aller",
+        "it": "andare"
       }
     },
     {
@@ -158,7 +253,17 @@
           "alternates": [
             "przyjść"
           ]
-        }
+        },
+        "uk": {
+          "text": "приходити",
+          "alternates": [
+            "прийти"
+          ]
+        },
+        "de": "kommen",
+        "es": "venir",
+        "fr": "venir",
+        "it": "venire"
       }
     },
     {
@@ -177,6 +282,26 @@
           "text": "wychodzić",
           "alternates": [
             "wyjeżdżać"
+          ]
+        },
+        "uk": {
+          "text": "виходити",
+          "alternates": [
+            "виїжджати"
+          ]
+        },
+        "de": "weggehen",
+        "es": {
+          "text": "irse",
+          "alternates": [
+            "marcharse"
+          ]
+        },
+        "fr": "partir",
+        "it": {
+          "text": "partire",
+          "alternates": [
+            "andare via"
           ]
         }
       }
@@ -201,6 +326,36 @@
           "alternates": [
             "wrócić"
           ]
+        },
+        "uk": {
+          "text": "повертатися",
+          "alternates": [
+            "повернутися"
+          ]
+        },
+        "de": {
+          "text": "zurückkommen",
+          "alternates": [
+            "zurückkehren"
+          ]
+        },
+        "es": {
+          "text": "volver",
+          "alternates": [
+            "regresar"
+          ]
+        },
+        "fr": {
+          "text": "revenir",
+          "alternates": [
+            "retourner"
+          ]
+        },
+        "it": {
+          "text": "tornare",
+          "alternates": [
+            "ritornare"
+          ]
         }
       }
     },
@@ -221,7 +376,17 @@
           "alternates": [
             "otworzyć"
           ]
-        }
+        },
+        "uk": {
+          "text": "відкривати",
+          "alternates": [
+            "відкрити"
+          ]
+        },
+        "de": "öffnen",
+        "es": "abrir",
+        "fr": "ouvrir",
+        "it": "aprire"
       }
     },
     {
@@ -241,7 +406,22 @@
           "alternates": [
             "zamknąć"
           ]
-        }
+        },
+        "uk": {
+          "text": "закривати",
+          "alternates": [
+            "закрити"
+          ]
+        },
+        "de": {
+          "text": "schließen",
+          "alternates": [
+            "zumachen"
+          ]
+        },
+        "es": "cerrar",
+        "fr": "fermer",
+        "it": "chiudere"
       }
     },
     {
@@ -251,7 +431,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "ждать",
-        "pl": "czekać"
+        "pl": "czekać",
+        "uk": "чекати",
+        "de": "warten",
+        "es": "esperar",
+        "fr": "attendre",
+        "it": "aspettare"
       },
       "examples": [
         {
@@ -259,7 +444,12 @@
           "text": "I'll wait for you at the entrance.",
           "translations": {
             "ru": "Я подожду тебя у входа.",
-            "pl": "Poczekam na ciebie przy wejściu."
+            "pl": "Poczekam na ciebie przy wejściu.",
+            "uk": "Я почекаю на тебе біля входу.",
+            "de": "Ich warte am Eingang auf dich.",
+            "es": "Te esperaré en la entrada.",
+            "fr": "Je t'attendrai à l'entrée.",
+            "it": "Ti aspetterò all'ingresso."
           }
         }
       ]
@@ -281,6 +471,26 @@
           "alternates": [
             "zadzwonić"
           ]
+        },
+        "uk": {
+          "text": "дзвонити",
+          "alternates": [
+            "зателефонувати"
+          ]
+        },
+        "de": "anrufen",
+        "es": "llamar",
+        "fr": {
+          "text": "appeler",
+          "alternates": [
+            "téléphoner"
+          ]
+        },
+        "it": {
+          "text": "chiamare",
+          "alternates": [
+            "telefonare"
+          ]
         }
       }
     },
@@ -301,7 +511,17 @@
           "alternates": [
             "pomóc"
           ]
-        }
+        },
+        "uk": {
+          "text": "допомагати",
+          "alternates": [
+            "допомогти"
+          ]
+        },
+        "de": "helfen",
+        "es": "ayudar",
+        "fr": "aider",
+        "it": "aiutare"
       }
     },
     {
@@ -321,7 +541,22 @@
           "alternates": [
             "zrozumieć"
           ]
-        }
+        },
+        "uk": {
+          "text": "розуміти",
+          "alternates": [
+            "зрозуміти"
+          ]
+        },
+        "de": "verstehen",
+        "es": {
+          "text": "entender",
+          "alternates": [
+            "comprender"
+          ]
+        },
+        "fr": "comprendre",
+        "it": "capire"
       }
     },
     {
@@ -335,6 +570,31 @@
           "text": "wiedzieć",
           "alternates": [
             "znać"
+          ]
+        },
+        "uk": "знати",
+        "de": {
+          "text": "wissen",
+          "alternates": [
+            "kennen"
+          ]
+        },
+        "es": {
+          "text": "saber",
+          "alternates": [
+            "conocer"
+          ]
+        },
+        "fr": {
+          "text": "savoir",
+          "alternates": [
+            "connaître"
+          ]
+        },
+        "it": {
+          "text": "sapere",
+          "alternates": [
+            "conoscere"
           ]
         }
       }
@@ -351,7 +611,32 @@
             "вспомнить"
           ]
         },
-        "pl": "pamiętać"
+        "pl": "pamiętać",
+        "uk": {
+          "text": "пам'ятати",
+          "alternates": [
+            "згадати"
+          ]
+        },
+        "de": "sich erinnern",
+        "es": {
+          "text": "recordar",
+          "alternates": [
+            "acordarse"
+          ]
+        },
+        "fr": {
+          "text": "se souvenir",
+          "alternates": [
+            "se rappeler"
+          ]
+        },
+        "it": {
+          "text": "ricordare",
+          "alternates": [
+            "ricordarsi"
+          ]
+        }
       }
     },
     {
@@ -371,7 +656,17 @@
           "alternates": [
             "zapomnieć"
           ]
-        }
+        },
+        "uk": {
+          "text": "забувати",
+          "alternates": [
+            "забути"
+          ]
+        },
+        "de": "vergessen",
+        "es": "olvidar",
+        "fr": "oublier",
+        "it": "dimenticare"
       }
     },
     {
@@ -381,7 +676,12 @@
           "partOfSpeech": "verb"
         },
         "ru": "спать",
-        "pl": "spać"
+        "pl": "spać",
+        "uk": "спати",
+        "de": "schlafen",
+        "es": "dormir",
+        "fr": "dormir",
+        "it": "dormire"
       }
     },
     {
@@ -395,6 +695,31 @@
           "text": "kłaść się spać",
           "alternates": [
             "iść spać"
+          ]
+        },
+        "uk": "лягати спати",
+        "de": {
+          "text": "ins Bett gehen",
+          "alternates": [
+            "schlafen gehen"
+          ]
+        },
+        "es": {
+          "text": "acostarse",
+          "alternates": [
+            "irse a dormir"
+          ]
+        },
+        "fr": {
+          "text": "se coucher",
+          "alternates": [
+            "aller au lit"
+          ]
+        },
+        "it": {
+          "text": "andare a letto",
+          "alternates": [
+            "coricarsi"
           ]
         }
       }

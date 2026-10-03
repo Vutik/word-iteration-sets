@@ -2,24 +2,39 @@
   "title": {
     "en": "Technology and the internet",
     "ru": "Техника и интернет",
-    "pl": "Technologia i internet"
+    "pl": "Technologia i internet",
+    "uk": "Техніка та інтернет",
+    "de": "Technik und Internet",
+    "es": "Tecnología e internet",
+    "fr": "Technologie et internet",
+    "it": "Tecnologia e internet"
   },
   "description": {
     "en": "Devices, apps and life online.",
     "ru": "Устройства, приложения и жизнь онлайн.",
-    "pl": "Urządzenia, aplikacje i życie w sieci."
+    "pl": "Urządzenia, aplikacje i życie w sieci.",
+    "uk": "Пристрої, застосунки та життя онлайн.",
+    "de": "Geräte, Apps und das Leben online.",
+    "es": "Dispositivos, aplicaciones y vida en línea.",
+    "fr": "Appareils, applications et vie en ligne.",
+    "it": "Dispositivi, app e vita online."
   },
   "languages": [
     "en",
     "ru",
-    "pl"
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
   ],
   "image": "cover.png",
   "level": "B1",
   "tags": [
     "technology"
   ],
-  "updated": "2026-10-01",
+  "updated": "2026-10-03",
   "source": {
     "type": "json",
     "url": "words.json"
