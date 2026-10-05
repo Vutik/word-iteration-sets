@@ -1,0 +1,45 @@
+{
+  "title": {
+    "en": "Spanish: top words 1–100",
+    "ru": "Испанский: частые слова 1–100",
+    "pl": "Hiszpański: najczęstsze słowa 1–100",
+    "uk": "Іспанська: часті слова 1–100",
+    "de": "Spanisch: häufigste Wörter 1–100",
+    "es": "Español: palabras más frecuentes 1–100",
+    "fr": "Espagnol : mots les plus fréquents 1–100",
+    "it": "Spagnolo: parole più frequenti 1–100"
+  },
+  "description": {
+    "en": "Nouns, verbs, adjectives and adverbs 1–100 by frequency in film subtitles (FrequencyWords, OpenSubtitles 2018, CC BY-SA 4.0); translations from Wiktionary (CC BY-SA 4.0), checked.",
+    "ru": "Существительные, глаголы, прилагательные и наречия с 1 по 100 по частоте в субтитрах фильмов (FrequencyWords, OpenSubtitles 2018, CC BY-SA 4.0); переводы из Викисловаря (CC BY-SA 4.0), проверены.",
+    "pl": "Rzeczowniki, czasowniki, przymiotniki i przysłówki od 1 do 100 według częstości w napisach filmowych (FrequencyWords, OpenSubtitles 2018, CC BY-SA 4.0); tłumaczenia z Wikisłownika (CC BY-SA 4.0), sprawdzone.",
+    "uk": "Іменники, дієслова, прикметники й прислівники з 1 по 100 за частотою в субтитрах фільмів (FrequencyWords, OpenSubtitles 2018, CC BY-SA 4.0); переклади з Вікісловника (CC BY-SA 4.0), перевірені.",
+    "de": "Nomen, Verben, Adjektive und Adverbien 1–100 nach Häufigkeit in Filmuntertiteln (FrequencyWords, OpenSubtitles 2018, CC BY-SA 4.0); Übersetzungen aus dem Wiktionary (CC BY-SA 4.0), geprüft.",
+    "es": "Sustantivos, verbos, adjetivos y adverbios 1–100 por frecuencia en subtítulos de películas (FrequencyWords, OpenSubtitles 2018, CC BY-SA 4.0); traducciones de Wikcionario (CC BY-SA 4.0), revisadas.",
+    "fr": "Noms, verbes, adjectifs et adverbes 1–100 par fréquence dans les sous-titres de films (FrequencyWords, OpenSubtitles 2018, CC BY-SA 4.0) ; traductions du Wiktionnaire (CC BY-SA 4.0), vérifiées.",
+    "it": "Nomi, verbi, aggettivi e avverbi 1–100 per frequenza nei sottotitoli dei film (FrequencyWords, OpenSubtitles 2018, CC BY-SA 4.0); traduzioni dal Wikizionario (CC BY-SA 4.0), controllate."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "learning": [
+    "es"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "frequency"
+  ],
+  "updated": "2026-10-05",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

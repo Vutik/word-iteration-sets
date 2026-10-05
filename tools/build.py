@@ -8,6 +8,7 @@ Usage, from the repository root:
 Standard library only. Exit code 0 when everything is valid, 1 otherwise.
 """
 
+import hashlib
 import json
 import re
 import sys
@@ -25,7 +26,7 @@ DATE = re.compile(r"^\d{4}-\d{2}-\d{2}$")
 LEVELS = {"A1", "A2", "B1", "B2", "C1", "C2"}
 SOURCE_TYPES = {"json", "anki", "text"}
 IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".webp", ".heic"}
-SET_KEYS = {"title", "description", "languages", "image", "level", "tags", "updated", "source"}
+SET_KEYS = {"title", "description", "languages", "learning", "image", "level", "tags", "updated", "source"}
 FORM_KEYS = {"text", "alternates", "transcription", "partOfSpeech"}
 
 errors: list[str] = []
@@ -170,6 +171,13 @@ def check_words_text(path: Path, columns: list[str]) -> int:
     return len(lines)
 
 
+def revision(path: Path) -> str:
+    """A short hash of the words file: the app compares it with the one it installed to tell the
+    learner the set has changed. Computed, so a changed set is never missed for a forgotten
+    `updated`."""
+    return hashlib.sha256(path.read_bytes()).hexdigest()[:12]
+
+
 def build_entry(folder: Path) -> dict | None:
     """Validates one set folder and returns its index.json entry."""
     set_id = folder.name
@@ -193,6 +201,10 @@ def build_entry(folder: Path) -> dict | None:
     check_localized(meta.get("title"), f"{where} title", required=True)
     check_localized(meta.get("description"), f"{where} description", required=False)
     languages = check_languages(meta.get("languages"), where)
+    if "learning" in meta and not (
+        isinstance(meta["learning"], list) and meta["learning"] and all(code in languages for code in meta["learning"])
+    ):
+        error(where, "learning must list languages of the set")
     if "image" in meta:
         check_image(meta["image"], folder, where)
     if "level" in meta and meta["level"] not in LEVELS:
@@ -233,7 +245,7 @@ def build_entry(folder: Path) -> dict | None:
         if "deck" in source and not isinstance(source["deck"], str):
             error(where, "source.deck must be a string")
 
-    entry = {"id": set_id, **{key: meta[key] for key in ("title", "description", "languages") if key in meta}}
+    entry = {"id": set_id, **{key: meta[key] for key in ("title", "description", "languages", "learning") if key in meta}}
     if "image" in meta:
         entry["image"] = index_url(meta["image"], set_id)
     for key in ("level", "tags"):
@@ -243,6 +255,8 @@ def build_entry(folder: Path) -> dict | None:
         entry["wordCount"] = count
     if "updated" in meta:
         entry["updated"] = meta["updated"]
+    if path:
+        entry["revision"] = revision(path)
     entry["source"] = {**source, "url": index_url(url, set_id)}
     return entry
 

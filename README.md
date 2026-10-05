@@ -24,7 +24,9 @@ sets/
     cover.png
 index.json          GENERATED from every sets/*/set.json — do not edit by hand
 tools/build.py      validates every set and writes index.json; CI runs it with --check
+tools/sets.py       look, search, add, edit, replace words from the command line
 tools/make_cover.py draws a gradient cover with a title
+tools/frequency/    builds the "most frequent words" sets, see below
 ```
 
 The folder name is the set's **id**. The app uses it to recognise a set it has already imported,
@@ -39,6 +41,54 @@ so never rename or reuse a folder.
    `python3 tools/make_cover.py sets/<id>/cover.png "Title" "#FF7A59" "#FFC15E"`.
 5. `python3 tools/build.py` — it must print `0 errors`, and it rewrites `index.json`.
 6. Commit the set folder **and** `index.json`, push.
+
+## Working with words: `tools/sets.py`
+
+Every command takes `--help`. A word is picked by its number in `show` or by any of its
+wordings; matching ignores case, Cyrillic stress marks, articles and `to`.
+
+```
+python3 tools/sets.py list                              every set, its languages and size
+python3 tools/sets.py show home --lang en,ru            a set's words, numbered
+python3 tools/sets.py find дом --lang ru --show en,ru   a word in every set
+python3 tools/sets.py add home en=window ru=окно pl=okno uk=вікно de="das Fenster;Fenster" ...
+python3 tools/sets.py edit home window ru+=оконце       add an alternate (-= removes one)
+python3 tools/sets.py edit home 3 ru="окно;оконце" en.pos=noun en.tr=ˈwɪndəʊ
+python3 tools/sets.py remove home 3
+python3 tools/sets.py move home 3 school
+python3 tools/sets.py replace "la casa" "la vivienda" --lang es --dry-run
+python3 tools/sets.py new kitchen-tools --title en="Kitchen tools" ru="Кухонная утварь" --level A1
+python3 tools/sets.py missing                           words that lack a language of their set
+python3 tools/sets.py conflicts --lang ru               one word translated differently in two sets
+python3 tools/sets.py build                             same as tools/build.py
+```
+
+In `lang=text`, `;` separates wordings: the first is the text, the rest are alternates. Adding
+refuses a word the set already has (`--force` overrides) or one that lacks a language. Every
+change bumps the set's `updated` date; the revision in `index.json` follows the words anyway.
+
+## Frequency sets: `tools/frequency/`
+
+`top-words-<lang>-01` … `-10`: the thousand most frequent nouns, verbs, adjectives and adverbs
+of a language, a hundred to a set, in all eight languages, offered only to learners of that
+language (`learning`). Frequency from [FrequencyWords](https://github.com/hermitdave/FrequencyWords)
+(OpenSubtitles 2018, CC BY-SA 4.0), translations from English Wiktionary through
+[kaikki.org](https://kaikki.org) (CC BY-SA 4.0), every word checked against REVIEW.md.
+
+```
+python3 tools/frequency/extract.py pl       stream Wiktionary into .cache/ (once per language)
+python3 tools/frequency/draft.py pl         lemmas by frequency, translations → .cache/drafts/pl.json
+python3 tools/frequency/review.py split pl  batches for review → .cache/review/pl-NN.json
+  … each batch answered in pl-NN.out.json by the rules in tools/frequency/REVIEW.md …
+python3 tools/frequency/review.py merge pl  checked and kept in tools/frequency/reviews/pl.json
+python3 tools/frequency/make_sets.py pl     sets/top-words-pl-01 … -10, then build.py
+python3 tools/frequency/review.py auto pl   (fallback) keep unreviewed rows Wiktionary fully translated
+```
+
+A word that any set already has — a topic set, or the frequency sets of a language made
+earlier — takes that set's forms, so languages are best made one after another. Decisions in
+`reviews/` are committed: drafting again only asks about words not decided before. Edit the
+made sets with `tools/sets.py`; making the language again overwrites them from the reviews.
 
 ## `set.json`
 
@@ -60,15 +110,18 @@ so never rename or reuse a folder.
 | `title` | yes | Language code → text. `en` is required as the fallback. The app shows the title in the language being learned with the learner's own under it, and names an added set `Owoce — Фрукты`. Give a title in every language of the set. |
 | `description` | no | Same shape as `title`. |
 | `languages` | yes | ISO 639-1 codes the set contains, at least two. The app offers a set when both languages of the learner's pair are listed. |
+| `learning` | no | The languages the set is for learning, when not every pair it covers: the frequency sets carry all eight languages but are offered only to learners of their own. Without it, any pair the set covers. |
 | `image` | no | Cover: a file in the folder or an `https://` URL. PNG, JPEG, WebP or HEIC; iOS does not draw SVG. |
 | `level` | no | CEFR level, `A1` … `C2`. |
 | `tags` | no | Free-form strings. |
-| `updated` | no | `YYYY-MM-DD`; bump it when the words change. |
+| `updated` | no | `YYYY-MM-DD`; bump it when the words change. For a set whose words are not in the folder (a remote `.apkg`) it is the only way the app learns the set changed. |
 | `source` | yes | Where the words are, see below. |
 
 URLs in `set.json` are relative to the set folder, or absolute `https://`. In `index.json` the
-build rewrites them relative to the repository root (`sets/fruits/words.json`) and adds `id` and
-`wordCount`.
+build rewrites them relative to the repository root (`sets/fruits/words.json`) and adds `id`,
+`wordCount` and `revision` — a short hash of the words file. The app remembers the revision it
+installed and offers an update when the index has another one, so any change to the words
+reaches learners who already have the set, whether or not `updated` was bumped.
 
 ### Sources
 
@@ -168,4 +221,5 @@ en↔ru, en↔pl and ru↔pl.
 | `education` | en ru pl uk de es fr it | json | 21 |
 | `linking-words` | en ru pl uk de es fr it | json | 20 |
 | `house-and-chores` | en ru pl uk de es fr it | json | 22 |
+| `top-words-<lang>-01` … `-10` | all eight, `learning: [<lang>]` | json | 100 each, for en ru pl uk de es fr it |
 | `russian-top-1000` | ru en | anki (carterspreen/anki-russian, CC BY-SA) | 999 |

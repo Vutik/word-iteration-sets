@@ -1,0 +1,3356 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "friend",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "друг",
+          "alternates": [
+            "подруга"
+          ]
+        },
+        "pl": {
+          "text": "przyjaciel",
+          "alternates": [
+            "przyjaciółka"
+          ]
+        },
+        "uk": {
+          "text": "друг",
+          "alternates": [
+            "подруга"
+          ]
+        },
+        "de": {
+          "text": "der Freund",
+          "alternates": [
+            "Freund",
+            "die Freundin",
+            "Freundin"
+          ]
+        },
+        "es": {
+          "text": "el amigo",
+          "alternates": [
+            "amigo",
+            "la amiga",
+            "amiga"
+          ]
+        },
+        "fr": {
+          "text": "l'ami",
+          "alternates": [
+            "ami",
+            "l'amie",
+            "amie"
+          ]
+        },
+        "it": {
+          "text": "l'amico",
+          "alternates": [
+            "amico",
+            "l'amica",
+            "amica"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "father",
+          "alternates": [
+            "dad"
+          ],
+          "transcription": "ˈfɑː.ðər",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "отец",
+          "alternates": [
+            "папа"
+          ]
+        },
+        "pl": {
+          "text": "ojciec",
+          "alternates": [
+            "tata"
+          ]
+        },
+        "uk": {
+          "text": "батько",
+          "alternates": [
+            "тато"
+          ]
+        },
+        "de": {
+          "text": "der Vater",
+          "alternates": [
+            "Vater",
+            "Papa"
+          ]
+        },
+        "es": {
+          "text": "el padre",
+          "alternates": [
+            "padre",
+            "papá"
+          ]
+        },
+        "fr": {
+          "text": "le père",
+          "alternates": [
+            "père",
+            "papa"
+          ]
+        },
+        "it": {
+          "text": "il padre",
+          "alternates": [
+            "padre",
+            "papà"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "doctor",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "врач",
+          "alternates": [
+            "доктор"
+          ]
+        },
+        "pl": "lekarz",
+        "uk": {
+          "text": "лікар",
+          "alternates": [
+            "доктор"
+          ]
+        },
+        "de": {
+          "text": "der Arzt",
+          "alternates": [
+            "Arzt",
+            "der Doktor",
+            "Doktor"
+          ]
+        },
+        "es": {
+          "text": "el médico",
+          "alternates": [
+            "médico",
+            "el doctor",
+            "doctor"
+          ]
+        },
+        "fr": {
+          "text": "le médecin",
+          "alternates": [
+            "médecin",
+            "le docteur",
+            "docteur"
+          ]
+        },
+        "it": {
+          "text": "il medico",
+          "alternates": [
+            "medico",
+            "il dottore",
+            "dottore"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "matter",
+          "partOfSpeech": "noun",
+          "alternates": [
+            "business",
+            "affair"
+          ]
+        },
+        "ru": "дело",
+        "pl": "sprawa",
+        "uk": "справа",
+        "de": {
+          "text": "die Sache",
+          "alternates": [
+            "Sache"
+          ]
+        },
+        "es": {
+          "text": "el asunto",
+          "alternates": [
+            "asunto"
+          ]
+        },
+        "fr": {
+          "text": "l'affaire",
+          "alternates": [
+            "affaire"
+          ]
+        },
+        "it": {
+          "text": "la faccenda",
+          "alternates": [
+            "faccenda",
+            "la questione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bad",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "плохой",
+        "pl": "zły",
+        "uk": "поганий",
+        "de": "schlecht",
+        "es": "malo",
+        "fr": "mauvais",
+        "it": "cattivo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "family",
+          "partOfSpeech": "noun"
+        },
+        "ru": "семья",
+        "pl": "rodzina",
+        "uk": "сім'я",
+        "de": {
+          "text": "die Familie",
+          "alternates": [
+            "Familie"
+          ]
+        },
+        "es": {
+          "text": "la familia",
+          "alternates": [
+            "familia"
+          ]
+        },
+        "fr": {
+          "text": "la famille",
+          "alternates": [
+            "famille"
+          ]
+        },
+        "it": {
+          "text": "la famiglia",
+          "alternates": [
+            "famiglia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hand",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "рука",
+          "alternates": [
+            "кисть"
+          ]
+        },
+        "pl": {
+          "text": "ręka",
+          "alternates": [
+            "dłoń"
+          ]
+        },
+        "uk": {
+          "text": "рука",
+          "alternates": [
+            "кисть"
+          ]
+        },
+        "de": {
+          "text": "die Hand",
+          "alternates": [
+            "Hand"
+          ]
+        },
+        "es": {
+          "text": "la mano",
+          "alternates": [
+            "mano"
+          ]
+        },
+        "fr": {
+          "text": "la main",
+          "alternates": [
+            "main"
+          ]
+        },
+        "it": {
+          "text": "la mano",
+          "alternates": [
+            "mano"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fear",
+          "partOfSpeech": "noun"
+        },
+        "ru": "страх",
+        "pl": "strach",
+        "uk": "страх",
+        "de": {
+          "text": "die Angst",
+          "alternates": [
+            "Angst",
+            "Furcht"
+          ]
+        },
+        "es": {
+          "text": "el miedo",
+          "alternates": [
+            "miedo"
+          ]
+        },
+        "fr": {
+          "text": "la peur",
+          "alternates": [
+            "peur"
+          ]
+        },
+        "it": {
+          "text": "la paura",
+          "alternates": [
+            "paura"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to change",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "менять",
+          "alternates": [
+            "изменить"
+          ]
+        },
+        "pl": {
+          "text": "zmieniać",
+          "alternates": [
+            "zmienić"
+          ]
+        },
+        "uk": {
+          "text": "змінювати",
+          "alternates": [
+            "змінити",
+            "міняти"
+          ]
+        },
+        "de": {
+          "text": "ändern",
+          "alternates": [
+            "wechseln"
+          ]
+        },
+        "es": "cambiar",
+        "fr": "changer",
+        "it": "cambiare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "question",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вопрос",
+        "pl": "pytanie",
+        "uk": "питання",
+        "de": {
+          "text": "die Frage",
+          "alternates": [
+            "Frage"
+          ]
+        },
+        "es": {
+          "text": "la pregunta",
+          "alternates": [
+            "pregunta"
+          ]
+        },
+        "fr": {
+          "text": "la question",
+          "alternates": [
+            "question"
+          ]
+        },
+        "it": {
+          "text": "la domanda",
+          "alternates": [
+            "domanda"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to go back",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "возвращаться",
+          "alternates": [
+            "вернуться"
+          ]
+        },
+        "pl": {
+          "text": "wracać",
+          "alternates": [
+            "wrócić"
+          ]
+        },
+        "uk": {
+          "text": "повертатися",
+          "alternates": [
+            "повернутися"
+          ]
+        },
+        "de": "zurückkehren",
+        "es": {
+          "text": "volver",
+          "alternates": [
+            "regresar"
+          ]
+        },
+        "fr": "rentrer",
+        "it": {
+          "text": "tornare",
+          "alternates": [
+            "rientrare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to go there",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "идти туда",
+          "alternates": [
+            "ехать туда"
+          ]
+        },
+        "pl": "iść tam",
+        "uk": "іти туди",
+        "de": {
+          "text": "dorthin gehen",
+          "alternates": [
+            "hingehen"
+          ]
+        },
+        "es": {
+          "text": "ir allí",
+          "alternates": [
+            "ir ahí"
+          ]
+        },
+        "fr": "y aller",
+        "it": {
+          "text": "andarci",
+          "alternates": [
+            "andare lì"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to keep",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "сохранять",
+          "alternates": [
+            "сохранить",
+            "хранить"
+          ]
+        },
+        "pl": {
+          "text": "zachowywać",
+          "alternates": [
+            "zachować",
+            "trzymać"
+          ]
+        },
+        "uk": {
+          "text": "зберігати",
+          "alternates": [
+            "зберегти",
+            "тримати"
+          ]
+        },
+        "de": "behalten",
+        "es": "guardar",
+        "fr": "garder",
+        "it": "tenere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "guy",
+          "alternates": [
+            "man"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "парень",
+          "alternates": [
+            "мужик"
+          ]
+        },
+        "pl": "facet",
+        "uk": {
+          "text": "хлопець",
+          "alternates": [
+            "чоловік"
+          ]
+        },
+        "de": {
+          "text": "der Typ",
+          "alternates": [
+            "Typ",
+            "der Kerl"
+          ]
+        },
+        "es": {
+          "text": "el tipo",
+          "alternates": [
+            "tipo",
+            "el tío"
+          ]
+        },
+        "fr": {
+          "text": "le type",
+          "alternates": [
+            "type",
+            "le mec"
+          ]
+        },
+        "it": {
+          "text": "il tipo",
+          "alternates": [
+            "tipo",
+            "il tizio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "work",
+          "partOfSpeech": "noun",
+          "alternates": [
+            "job"
+          ]
+        },
+        "ru": {
+          "text": "работа",
+          "alternates": [
+            "служба"
+          ]
+        },
+        "pl": "praca",
+        "uk": "робота",
+        "de": {
+          "text": "die Arbeit",
+          "alternates": [
+            "Arbeit"
+          ]
+        },
+        "es": {
+          "text": "el trabajo",
+          "alternates": [
+            "trabajo"
+          ]
+        },
+        "fr": {
+          "text": "le travail",
+          "alternates": [
+            "travail"
+          ]
+        },
+        "it": {
+          "text": "il lavoro",
+          "alternates": [
+            "lavoro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to forget",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "забывать",
+          "alternates": [
+            "забыть"
+          ]
+        },
+        "pl": {
+          "text": "zapominać",
+          "alternates": [
+            "zapomnieć"
+          ]
+        },
+        "uk": {
+          "text": "забувати",
+          "alternates": [
+            "забути"
+          ]
+        },
+        "de": "vergessen",
+        "es": "olvidar",
+        "fr": "oublier",
+        "it": "dimenticare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "loan",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "кредит",
+          "alternates": [
+            "заём"
+          ]
+        },
+        "pl": {
+          "text": "pożyczka",
+          "alternates": [
+            "kredyt"
+          ]
+        },
+        "uk": {
+          "text": "кредит",
+          "alternates": [
+            "позика"
+          ]
+        },
+        "de": {
+          "text": "der Kredit",
+          "alternates": [
+            "Kredit",
+            "das Darlehen",
+            "Darlehen"
+          ]
+        },
+        "es": {
+          "text": "el préstamo",
+          "alternates": [
+            "préstamo",
+            "el crédito",
+            "crédito"
+          ]
+        },
+        "fr": {
+          "text": "le prêt",
+          "alternates": [
+            "prêt",
+            "le crédit",
+            "crédit"
+          ]
+        },
+        "it": {
+          "text": "il prestito",
+          "alternates": [
+            "prestito",
+            "il finanziamento",
+            "finanziamento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "enough",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "достаточно",
+        "pl": {
+          "text": "wystarczająco",
+          "alternates": [
+            "dosyć",
+            "dość"
+          ]
+        },
+        "uk": {
+          "text": "достатньо",
+          "alternates": [
+            "досить"
+          ]
+        },
+        "de": {
+          "text": "genug",
+          "alternates": [
+            "ausreichend"
+          ]
+        },
+        "es": "bastante",
+        "fr": {
+          "text": "assez",
+          "alternates": [
+            "suffisamment"
+          ]
+        },
+        "it": "abbastanza"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "chance",
+          "partOfSpeech": "noun"
+        },
+        "ru": "шанс",
+        "pl": "szansa",
+        "uk": "шанс",
+        "de": {
+          "text": "die Chance",
+          "alternates": [
+            "Chance"
+          ]
+        },
+        "es": {
+          "text": "la oportunidad",
+          "alternates": [
+            "oportunidad",
+            "la posibilidad"
+          ]
+        },
+        "fr": {
+          "text": "la chance",
+          "alternates": [
+            "chance"
+          ]
+        },
+        "it": {
+          "text": "la possibilità",
+          "alternates": [
+            "possibilità",
+            "l'occasione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "blow",
+          "partOfSpeech": "noun"
+        },
+        "ru": "удар",
+        "pl": {
+          "text": "cios",
+          "alternates": [
+            "uderzenie"
+          ]
+        },
+        "uk": "удар",
+        "de": {
+          "text": "der Schlag",
+          "alternates": [
+            "Schlag"
+          ]
+        },
+        "es": {
+          "text": "el golpe",
+          "alternates": [
+            "golpe"
+          ]
+        },
+        "fr": {
+          "text": "le coup",
+          "alternates": [
+            "coup"
+          ]
+        },
+        "it": {
+          "text": "il colpo",
+          "alternates": [
+            "colpo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to eat",
+          "partOfSpeech": "verb"
+        },
+        "ru": "есть",
+        "pl": "jeść",
+        "uk": "їсти",
+        "de": "essen",
+        "es": "comer",
+        "fr": "manger",
+        "it": "mangiare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "quickly",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "быстро",
+        "pl": "szybko",
+        "uk": "швидко",
+        "de": "schnell",
+        "es": {
+          "text": "rápidamente",
+          "alternates": [
+            "rápido"
+          ]
+        },
+        "fr": {
+          "text": "rapidement",
+          "alternates": [
+            "vite"
+          ]
+        },
+        "it": {
+          "text": "rapidamente",
+          "alternates": [
+            "velocemente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "eye",
+          "partOfSpeech": "noun"
+        },
+        "ru": "глаз",
+        "pl": "oko",
+        "uk": "око",
+        "de": {
+          "text": "das Auge",
+          "alternates": [
+            "Auge"
+          ]
+        },
+        "es": {
+          "text": "el ojo",
+          "alternates": [
+            "ojo"
+          ]
+        },
+        "fr": {
+          "text": "l'œil",
+          "alternates": [
+            "œil"
+          ]
+        },
+        "it": {
+          "text": "l'occhio",
+          "alternates": [
+            "occhio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "old",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "старый",
+        "pl": "stary",
+        "uk": "старий",
+        "de": "alt",
+        "es": "viejo",
+        "fr": "vieux",
+        "it": "vecchio"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to hold",
+          "partOfSpeech": "verb"
+        },
+        "ru": "держать",
+        "pl": "trzymać",
+        "uk": "тримати",
+        "de": "halten",
+        "es": {
+          "text": "sostener",
+          "alternates": [
+            "agarrar"
+          ]
+        },
+        "fr": "tenir",
+        "it": "tenere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "memory",
+          "partOfSpeech": "noun"
+        },
+        "ru": "воспоминание",
+        "pl": "wspomnienie",
+        "uk": "спогад",
+        "de": {
+          "text": "die Erinnerung",
+          "alternates": [
+            "Erinnerung"
+          ]
+        },
+        "es": {
+          "text": "el recuerdo",
+          "alternates": [
+            "recuerdo"
+          ]
+        },
+        "fr": {
+          "text": "le souvenir",
+          "alternates": [
+            "souvenir"
+          ]
+        },
+        "it": {
+          "text": "il ricordo",
+          "alternates": [
+            "ricordo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to become",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "становиться",
+          "alternates": [
+            "стать"
+          ]
+        },
+        "pl": {
+          "text": "stawać się",
+          "alternates": [
+            "stać się"
+          ]
+        },
+        "uk": {
+          "text": "ставати",
+          "alternates": [
+            "стати"
+          ]
+        },
+        "de": "werden",
+        "es": {
+          "text": "convertirse",
+          "alternates": [
+            "volverse"
+          ]
+        },
+        "fr": "devenir",
+        "it": "diventare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to occupy",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "занимать",
+          "alternates": [
+            "занять"
+          ]
+        },
+        "pl": {
+          "text": "zajmować",
+          "alternates": [
+            "zająć"
+          ]
+        },
+        "uk": {
+          "text": "займати",
+          "alternates": [
+            "зайняти"
+          ]
+        },
+        "de": {
+          "text": "einnehmen",
+          "alternates": [
+            "besetzen"
+          ]
+        },
+        "es": "ocupar",
+        "fr": "occuper",
+        "it": "occupare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to fall",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "падать",
+          "alternates": [
+            "упасть"
+          ]
+        },
+        "pl": {
+          "text": "spadać",
+          "alternates": [
+            "spaść"
+          ]
+        },
+        "uk": {
+          "text": "падати",
+          "alternates": [
+            "впасти"
+          ]
+        },
+        "de": "fallen",
+        "es": {
+          "text": "caer",
+          "alternates": [
+            "caerse"
+          ]
+        },
+        "fr": "tomber",
+        "it": "cadere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "today",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "сегодня",
+        "pl": "dzisiaj",
+        "uk": "сьогодні",
+        "de": "heute",
+        "es": "hoy",
+        "fr": "aujourd'hui",
+        "it": "oggi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tomorrow",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "завтра",
+        "pl": "jutro",
+        "uk": "завтра",
+        "de": "morgen",
+        "es": "mañana",
+        "fr": "demain",
+        "it": "domani"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to pay",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "платить",
+          "alternates": [
+            "заплатить"
+          ]
+        },
+        "pl": {
+          "text": "płacić",
+          "alternates": [
+            "zapłacić"
+          ]
+        },
+        "uk": {
+          "text": "платити",
+          "alternates": [
+            "заплатити"
+          ]
+        },
+        "de": {
+          "text": "zahlen",
+          "alternates": [
+            "bezahlen"
+          ]
+        },
+        "es": "pagar",
+        "fr": "payer",
+        "it": "pagare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "late",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "поздно",
+        "pl": "późno",
+        "uk": "пізно",
+        "de": "spät",
+        "es": "tarde",
+        "fr": "tard",
+        "it": "tardi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "history",
+          "partOfSpeech": "noun"
+        },
+        "ru": "история",
+        "pl": "historia",
+        "uk": "історія",
+        "de": {
+          "text": "die Geschichte",
+          "alternates": [
+            "Geschichte"
+          ]
+        },
+        "es": {
+          "text": "la historia",
+          "alternates": [
+            "historia"
+          ]
+        },
+        "fr": {
+          "text": "l'histoire",
+          "alternates": [
+            "histoire"
+          ]
+        },
+        "it": {
+          "text": "la storia",
+          "alternates": [
+            "storia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "so much",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "так сильно",
+          "alternates": [
+            "столько"
+          ]
+        },
+        "pl": {
+          "text": "tak bardzo",
+          "alternates": [
+            "tyle"
+          ]
+        },
+        "uk": {
+          "text": "так сильно",
+          "alternates": [
+            "стільки"
+          ]
+        },
+        "de": {
+          "text": "so viel",
+          "alternates": [
+            "so sehr"
+          ]
+        },
+        "es": "tanto",
+        "fr": "tant",
+        "it": "tanto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to send",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "посылать",
+          "alternates": [
+            "послать",
+            "отправлять"
+          ]
+        },
+        "pl": {
+          "text": "wysyłać",
+          "alternates": [
+            "wysłać"
+          ]
+        },
+        "uk": {
+          "text": "надсилати",
+          "alternates": [
+            "надіслати",
+            "посилати"
+          ]
+        },
+        "de": {
+          "text": "schicken",
+          "alternates": [
+            "senden"
+          ]
+        },
+        "es": {
+          "text": "enviar",
+          "alternates": [
+            "mandar"
+          ]
+        },
+        "fr": "envoyer",
+        "it": {
+          "text": "mandare",
+          "alternates": [
+            "inviare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "how much",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "сколько",
+        "pl": "ile",
+        "uk": "скільки",
+        "de": {
+          "text": "wie viel",
+          "alternates": [
+            "wie viele"
+          ]
+        },
+        "es": "cuánto",
+        "fr": "combien",
+        "it": "quanto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sweetheart",
+          "partOfSpeech": "noun"
+        },
+        "ru": "любимый",
+        "pl": {
+          "text": "kochanie",
+          "alternates": [
+            "skarb"
+          ]
+        },
+        "uk": "коханий",
+        "de": {
+          "text": "der Schatz",
+          "alternates": [
+            "Schatz"
+          ]
+        },
+        "es": {
+          "text": "el cariño",
+          "alternates": [
+            "cariño"
+          ]
+        },
+        "fr": {
+          "text": "le chéri",
+          "alternates": [
+            "chéri",
+            "chéri"
+          ]
+        },
+        "it": {
+          "text": "il tesoro",
+          "alternates": [
+            "tesoro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "brother",
+          "transcription": "ˈbrʌð.ər",
+          "partOfSpeech": "noun"
+        },
+        "ru": "брат",
+        "pl": "brat",
+        "uk": "брат",
+        "de": {
+          "text": "der Bruder",
+          "alternates": [
+            "Bruder"
+          ]
+        },
+        "es": {
+          "text": "el hermano",
+          "alternates": [
+            "hermano"
+          ]
+        },
+        "fr": {
+          "text": "le frère",
+          "alternates": [
+            "frère"
+          ]
+        },
+        "it": {
+          "text": "il fratello",
+          "alternates": [
+            "fratello"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "law",
+          "partOfSpeech": "noun",
+          "alternates": [
+            "right"
+          ]
+        },
+        "ru": "право",
+        "pl": "prawo",
+        "uk": "право",
+        "de": {
+          "text": "das Recht",
+          "alternates": [
+            "Recht"
+          ]
+        },
+        "es": {
+          "text": "el derecho",
+          "alternates": [
+            "derecho"
+          ]
+        },
+        "fr": {
+          "text": "le droit",
+          "alternates": [
+            "droit"
+          ]
+        },
+        "it": {
+          "text": "il diritto",
+          "alternates": [
+            "diritto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "great",
+          "alternates": [
+            "awesome"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "классный",
+          "alternates": [
+            "отличный",
+            "супер"
+          ]
+        },
+        "pl": "super",
+        "uk": {
+          "text": "класний",
+          "alternates": [
+            "чудовий",
+            "супер"
+          ]
+        },
+        "de": {
+          "text": "super",
+          "alternates": [
+            "toll",
+            "klasse"
+          ]
+        },
+        "es": {
+          "text": "genial",
+          "alternates": [
+            "estupendo"
+          ]
+        },
+        "fr": {
+          "text": "super",
+          "alternates": [
+            "génial"
+          ]
+        },
+        "it": {
+          "text": "fantastico",
+          "alternates": [
+            "ottimo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to shoot",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "стрелять",
+          "alternates": [
+            "выстрелить"
+          ]
+        },
+        "pl": {
+          "text": "strzelać",
+          "alternates": [
+            "strzelić"
+          ]
+        },
+        "uk": {
+          "text": "стріляти",
+          "alternates": [
+            "вистрілити"
+          ]
+        },
+        "de": "schießen",
+        "es": "disparar",
+        "fr": "tirer",
+        "it": "sparare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to learn",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "учить",
+          "alternates": [
+            "изучать"
+          ]
+        },
+        "pl": "uczyć się",
+        "uk": {
+          "text": "вчити",
+          "alternates": [
+            "вивчати"
+          ]
+        },
+        "de": "lernen",
+        "es": {
+          "text": "aprender",
+          "alternates": [
+            "estudiar"
+          ]
+        },
+        "fr": {
+          "text": "apprendre",
+          "alternates": [
+            "étudier"
+          ]
+        },
+        "it": {
+          "text": "imparare",
+          "alternates": [
+            "studiare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to count",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "считать",
+          "alternates": [
+            "посчитать"
+          ]
+        },
+        "pl": {
+          "text": "liczyć",
+          "alternates": [
+            "policzyć"
+          ]
+        },
+        "uk": {
+          "text": "рахувати",
+          "alternates": [
+            "порахувати"
+          ]
+        },
+        "de": "zählen",
+        "es": "contar",
+        "fr": "compter",
+        "it": "contare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to hope",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "надеяться",
+          "alternates": [
+            "понадеяться"
+          ]
+        },
+        "pl": "mieć nadzieję",
+        "uk": {
+          "text": "сподіватися",
+          "alternates": [
+            "надіятися"
+          ]
+        },
+        "de": "hoffen",
+        "es": "esperar",
+        "fr": "espérer",
+        "it": "sperare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "together",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "вместе",
+        "pl": "razem",
+        "uk": "разом",
+        "de": "zusammen",
+        "es": "juntos",
+        "fr": "ensemble",
+        "it": "insieme"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "week",
+          "partOfSpeech": "noun"
+        },
+        "ru": "неделя",
+        "pl": "tydzień",
+        "uk": "тиждень",
+        "de": {
+          "text": "die Woche",
+          "alternates": [
+            "Woche"
+          ]
+        },
+        "es": {
+          "text": "la semana",
+          "alternates": [
+            "semana"
+          ]
+        },
+        "fr": {
+          "text": "la semaine",
+          "alternates": [
+            "semaine"
+          ]
+        },
+        "it": {
+          "text": "la settimana",
+          "alternates": [
+            "settimana"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to matter",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "иметь значение",
+          "alternates": [
+            "быть важным"
+          ]
+        },
+        "pl": {
+          "text": "mieć znaczenie",
+          "alternates": [
+            "być ważnym"
+          ]
+        },
+        "uk": {
+          "text": "мати значення",
+          "alternates": [
+            "бути важливим"
+          ]
+        },
+        "de": {
+          "text": "wichtig sein",
+          "alternates": [
+            "von Bedeutung sein"
+          ]
+        },
+        "es": "importar",
+        "fr": "importer",
+        "it": "importare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to see again",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "снова видеть",
+          "alternates": [
+            "увидеть снова"
+          ]
+        },
+        "pl": {
+          "text": "widzieć ponownie",
+          "alternates": [
+            "zobaczyć ponownie"
+          ]
+        },
+        "uk": {
+          "text": "бачити знову",
+          "alternates": [
+            "побачити знову"
+          ]
+        },
+        "de": "wiedersehen",
+        "es": "volver a ver",
+        "fr": "revoir",
+        "it": "rivedere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "blood",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кровь",
+        "pl": "krew",
+        "uk": "кров",
+        "de": {
+          "text": "das Blut",
+          "alternates": [
+            "Blut"
+          ]
+        },
+        "es": {
+          "text": "la sangre",
+          "alternates": [
+            "sangre"
+          ]
+        },
+        "fr": {
+          "text": "le sang",
+          "alternates": [
+            "sang"
+          ]
+        },
+        "it": {
+          "text": "il sangue",
+          "alternates": [
+            "sangue"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to show",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "показывать",
+          "alternates": [
+            "показать"
+          ]
+        },
+        "pl": {
+          "text": "pokazywać",
+          "alternates": [
+            "pokazać"
+          ]
+        },
+        "uk": {
+          "text": "показувати",
+          "alternates": [
+            "показати"
+          ]
+        },
+        "de": "zeigen",
+        "es": {
+          "text": "mostrar",
+          "alternates": [
+            "enseñar"
+          ]
+        },
+        "fr": "montrer",
+        "it": {
+          "text": "mostrare",
+          "alternates": [
+            "far vedere"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to win",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "выигрывать",
+          "alternates": [
+            "выиграть",
+            "побеждать"
+          ]
+        },
+        "pl": {
+          "text": "wygrywać",
+          "alternates": [
+            "wygrać"
+          ]
+        },
+        "uk": {
+          "text": "вигравати",
+          "alternates": [
+            "виграти",
+            "перемагати"
+          ]
+        },
+        "de": "gewinnen",
+        "es": "ganar",
+        "fr": "gagner",
+        "it": "vincere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to seem",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "казаться",
+          "alternates": [
+            "показаться"
+          ]
+        },
+        "pl": {
+          "text": "wydawać się",
+          "alternates": [
+            "zdawać się"
+          ]
+        },
+        "uk": {
+          "text": "здаватися",
+          "alternates": [
+            "здатися"
+          ]
+        },
+        "de": "scheinen",
+        "es": "parecer",
+        "fr": "sembler",
+        "it": "sembrare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to continue",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "продолжать",
+          "alternates": [
+            "продолжить"
+          ]
+        },
+        "pl": "kontynuować",
+        "uk": {
+          "text": "продовжувати",
+          "alternates": [
+            "продовжити"
+          ]
+        },
+        "de": {
+          "text": "fortsetzen",
+          "alternates": [
+            "weitermachen"
+          ]
+        },
+        "es": {
+          "text": "continuar",
+          "alternates": [
+            "seguir"
+          ]
+        },
+        "fr": "continuer",
+        "it": "continuare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to open",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "открывать",
+          "alternates": [
+            "открыть"
+          ]
+        },
+        "pl": {
+          "text": "otwierać",
+          "alternates": [
+            "otworzyć"
+          ]
+        },
+        "uk": {
+          "text": "відкривати",
+          "alternates": [
+            "відкрити"
+          ]
+        },
+        "de": "öffnen",
+        "es": "abrir",
+        "fr": "ouvrir",
+        "it": "aprire"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "party (political)",
+          "partOfSpeech": "noun"
+        },
+        "ru": "партия",
+        "pl": "partia",
+        "uk": "партія",
+        "de": {
+          "text": "die Partei",
+          "alternates": [
+            "Partei"
+          ]
+        },
+        "es": {
+          "text": "el partido",
+          "alternates": [
+            "partido"
+          ]
+        },
+        "fr": {
+          "text": "le parti",
+          "alternates": [
+            "parti"
+          ]
+        },
+        "it": {
+          "text": "il partito",
+          "alternates": [
+            "partito"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to meet",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "встречать",
+          "alternates": [
+            "знакомиться"
+          ]
+        },
+        "pl": {
+          "text": "spotykać",
+          "alternates": [
+            "poznawać"
+          ]
+        },
+        "uk": {
+          "text": "зустрічати",
+          "alternates": [
+            "знайомитися"
+          ]
+        },
+        "de": {
+          "text": "treffen",
+          "alternates": [
+            "kennenlernen"
+          ]
+        },
+        "es": {
+          "text": "encontrar",
+          "alternates": [
+            "conocer"
+          ]
+        },
+        "fr": "rencontrer",
+        "it": {
+          "text": "incontrare",
+          "alternates": [
+            "conoscere"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to enter",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "входить",
+          "alternates": [
+            "войти"
+          ]
+        },
+        "pl": {
+          "text": "wchodzić",
+          "alternates": [
+            "wejść"
+          ]
+        },
+        "uk": {
+          "text": "входити",
+          "alternates": [
+            "увійти"
+          ]
+        },
+        "de": {
+          "text": "betreten",
+          "alternates": [
+            "eintreten"
+          ]
+        },
+        "es": "entrar",
+        "fr": "entrer",
+        "it": "entrare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "police",
+          "partOfSpeech": "noun"
+        },
+        "ru": "полиция",
+        "pl": "policja",
+        "uk": "поліція",
+        "de": {
+          "text": "die Polizei",
+          "alternates": [
+            "Polizei"
+          ]
+        },
+        "es": {
+          "text": "la policía",
+          "alternates": [
+            "policía"
+          ]
+        },
+        "fr": {
+          "text": "la police",
+          "alternates": [
+            "police"
+          ]
+        },
+        "it": {
+          "text": "la polizia",
+          "alternates": [
+            "polizia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "only",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "только",
+        "pl": "tylko",
+        "uk": {
+          "text": "тільки",
+          "alternates": [
+            "лише"
+          ]
+        },
+        "de": {
+          "text": "nur",
+          "alternates": [
+            "bloß"
+          ]
+        },
+        "es": {
+          "text": "solo",
+          "alternates": [
+            "solamente"
+          ]
+        },
+        "fr": {
+          "text": "seulement",
+          "alternates": [
+            "uniquement"
+          ]
+        },
+        "it": {
+          "text": "solo",
+          "alternates": [
+            "soltanto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "baby",
+          "alternates": [
+            "little one"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "малыш",
+        "pl": "maluch",
+        "uk": "малюк",
+        "de": {
+          "text": "das Baby",
+          "alternates": [
+            "Baby",
+            "Kleinkind"
+          ]
+        },
+        "es": {
+          "text": "el bebé",
+          "alternates": [
+            "bebé"
+          ]
+        },
+        "fr": {
+          "text": "le bébé",
+          "alternates": [
+            "bébé"
+          ]
+        },
+        "it": {
+          "text": "il bimbo",
+          "alternates": [
+            "bimbo",
+            "il bambino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "point",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "точка",
+          "alternates": [
+            "пункт"
+          ]
+        },
+        "pl": "punkt",
+        "uk": {
+          "text": "точка",
+          "alternates": [
+            "пункт"
+          ]
+        },
+        "de": {
+          "text": "der Punkt",
+          "alternates": [
+            "Punkt"
+          ]
+        },
+        "es": {
+          "text": "el punto",
+          "alternates": [
+            "punto"
+          ]
+        },
+        "fr": {
+          "text": "le point",
+          "alternates": [
+            "point"
+          ]
+        },
+        "it": {
+          "text": "il punto",
+          "alternates": [
+            "punto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "month",
+          "partOfSpeech": "noun"
+        },
+        "ru": "месяц",
+        "pl": "miesiąc",
+        "uk": "місяць",
+        "de": {
+          "text": "der Monat",
+          "alternates": [
+            "Monat"
+          ]
+        },
+        "es": {
+          "text": "el mes",
+          "alternates": [
+            "mes"
+          ]
+        },
+        "fr": {
+          "text": "le mois",
+          "alternates": [
+            "mois"
+          ]
+        },
+        "it": {
+          "text": "il mese",
+          "alternates": [
+            "mese"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to use",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "использовать",
+          "alternates": [
+            "пользоваться",
+            "применять"
+          ]
+        },
+        "pl": {
+          "text": "używać",
+          "alternates": [
+            "użyć",
+            "stosować"
+          ]
+        },
+        "uk": {
+          "text": "використовувати",
+          "alternates": [
+            "користуватися"
+          ]
+        },
+        "de": {
+          "text": "benutzen",
+          "alternates": [
+            "verwenden"
+          ]
+        },
+        "es": {
+          "text": "usar",
+          "alternates": [
+            "utilizar"
+          ]
+        },
+        "fr": {
+          "text": "utiliser",
+          "alternates": [
+            "employer"
+          ]
+        },
+        "it": {
+          "text": "usare",
+          "alternates": [
+            "utilizzare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "young",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "молодой",
+        "pl": "młody",
+        "uk": "молодий",
+        "de": "jung",
+        "es": "joven",
+        "fr": "jeune",
+        "it": "giovane"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "place",
+          "partOfSpeech": "noun",
+          "alternates": [
+            "spot"
+          ]
+        },
+        "ru": "место",
+        "pl": "miejsce",
+        "uk": "місце",
+        "de": {
+          "text": "der Platz",
+          "alternates": [
+            "Platz",
+            "der Ort"
+          ]
+        },
+        "es": {
+          "text": "el lugar",
+          "alternates": [
+            "lugar",
+            "sitio"
+          ]
+        },
+        "fr": {
+          "text": "l'endroit",
+          "alternates": [
+            "endroit",
+            "la place"
+          ]
+        },
+        "it": {
+          "text": "il posto",
+          "alternates": [
+            "posto",
+            "luogo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "each",
+          "partOfSpeech": "adjective",
+          "alternates": [
+            "every"
+          ]
+        },
+        "ru": "каждый",
+        "pl": "każdy",
+        "uk": {
+          "text": "кожний",
+          "alternates": [
+            "кожен"
+          ]
+        },
+        "de": "jeder",
+        "es": "cada",
+        "fr": "chaque",
+        "it": "ogni"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to read",
+          "partOfSpeech": "verb"
+        },
+        "ru": "читать",
+        "pl": "czytać",
+        "uk": "читати",
+        "de": "lesen",
+        "es": "leer",
+        "fr": "lire",
+        "it": "leggere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to run",
+          "partOfSpeech": "verb"
+        },
+        "ru": "бегать",
+        "pl": "biegać",
+        "uk": "бігати",
+        "de": {
+          "text": "laufen",
+          "alternates": [
+            "rennen"
+          ]
+        },
+        "es": "correr",
+        "fr": "courir",
+        "it": "correre"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to sleep",
+          "partOfSpeech": "verb"
+        },
+        "ru": "спать",
+        "pl": "spać",
+        "uk": "спати",
+        "de": "schlafen",
+        "es": "dormir",
+        "fr": "dormir",
+        "it": "dormire"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to cause",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "причинять",
+          "alternates": [
+            "вызывать"
+          ]
+        },
+        "pl": {
+          "text": "sprawiać",
+          "alternates": [
+            "sprawić"
+          ]
+        },
+        "uk": {
+          "text": "спричиняти",
+          "alternates": [
+            "викликати"
+          ]
+        },
+        "de": {
+          "text": "verursachen",
+          "alternates": [
+            "bereiten"
+          ]
+        },
+        "es": "causar",
+        "fr": "causer",
+        "it": {
+          "text": "causare",
+          "alternates": [
+            "provocare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "for a long time",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "долго",
+        "pl": "długo",
+        "uk": "довго",
+        "de": "lange",
+        "es": "mucho tiempo",
+        "fr": "longtemps",
+        "it": {
+          "text": "a lungo",
+          "alternates": [
+            "per molto tempo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dead",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "мёртвый",
+        "pl": "martwy",
+        "uk": "мертвий",
+        "de": "tot",
+        "es": "muerto",
+        "fr": "mort",
+        "it": "morto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to follow",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "следовать",
+          "alternates": [
+            "последовать"
+          ]
+        },
+        "pl": {
+          "text": "iść za",
+          "alternates": [
+            "pójść za"
+          ]
+        },
+        "uk": {
+          "text": "слідувати",
+          "alternates": [
+            "послідувати"
+          ]
+        },
+        "de": "folgen",
+        "es": "seguir",
+        "fr": "suivre",
+        "it": "seguire"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "way",
+          "partOfSpeech": "noun",
+          "alternates": [
+            "method"
+          ]
+        },
+        "ru": "способ",
+        "pl": "sposób",
+        "uk": "спосіб",
+        "de": {
+          "text": "die Art",
+          "alternates": [
+            "Art",
+            "Weise",
+            "Methode"
+          ]
+        },
+        "es": {
+          "text": "la manera",
+          "alternates": [
+            "manera",
+            "el modo",
+            "el método"
+          ]
+        },
+        "fr": {
+          "text": "la façon",
+          "alternates": [
+            "façon",
+            "la manière",
+            "la méthode"
+          ]
+        },
+        "it": {
+          "text": "il modo",
+          "alternates": [
+            "modo",
+            "la maniera",
+            "il metodo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "crazy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "сумасшедший",
+          "alternates": [
+            "безумный"
+          ]
+        },
+        "pl": "szalony",
+        "uk": "божевільний",
+        "de": "verrückt",
+        "es": "loco",
+        "fr": "fou",
+        "it": {
+          "text": "pazzo",
+          "alternates": [
+            "matto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to remind",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "напоминать",
+          "alternates": [
+            "напомнить"
+          ]
+        },
+        "pl": {
+          "text": "przypominać",
+          "alternates": [
+            "przypomnieć"
+          ]
+        },
+        "uk": {
+          "text": "нагадувати",
+          "alternates": [
+            "нагадати"
+          ]
+        },
+        "de": "erinnern",
+        "es": {
+          "text": "recordar",
+          "alternates": [
+            "hacer recordar"
+          ]
+        },
+        "fr": "rappeler",
+        "it": "ricordare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "weapon",
+          "partOfSpeech": "noun"
+        },
+        "ru": "оружие",
+        "pl": "broń",
+        "uk": "зброя",
+        "de": {
+          "text": "die Waffe",
+          "alternates": [
+            "Waffe"
+          ]
+        },
+        "es": {
+          "text": "el arma",
+          "alternates": [
+            "arma"
+          ]
+        },
+        "fr": {
+          "text": "l'arme",
+          "alternates": [
+            "arme"
+          ]
+        },
+        "it": {
+          "text": "l'arma",
+          "alternates": [
+            "arma"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to seat",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "усаживать",
+          "alternates": [
+            "посадить"
+          ]
+        },
+        "pl": {
+          "text": "sadzać",
+          "alternates": [
+            "posadzić"
+          ]
+        },
+        "uk": {
+          "text": "саджати",
+          "alternates": [
+            "посадити"
+          ]
+        },
+        "de": {
+          "text": "setzen",
+          "alternates": [
+            "hinsetzen"
+          ]
+        },
+        "es": "sentar",
+        "fr": "asseoir",
+        "it": {
+          "text": "far sedere",
+          "alternates": [
+            "mettere a sedere"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "train",
+          "partOfSpeech": "noun"
+        },
+        "ru": "поезд",
+        "pl": "pociąg",
+        "uk": "потяг",
+        "de": {
+          "text": "der Zug",
+          "alternates": [
+            "Zug"
+          ]
+        },
+        "es": {
+          "text": "el tren",
+          "alternates": [
+            "tren"
+          ]
+        },
+        "fr": {
+          "text": "le train",
+          "alternates": [
+            "train"
+          ]
+        },
+        "it": {
+          "text": "il treno",
+          "alternates": [
+            "treno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "strong",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "сильный",
+        "pl": {
+          "text": "silny",
+          "alternates": [
+            "mocny"
+          ]
+        },
+        "uk": {
+          "text": "сильний",
+          "alternates": [
+            "міцний"
+          ]
+        },
+        "de": "stark",
+        "es": "fuerte",
+        "fr": "fort",
+        "it": "forte"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hard",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "твёрдый",
+          "alternates": [
+            "жёсткий"
+          ]
+        },
+        "pl": "twardy",
+        "uk": {
+          "text": "твердий",
+          "alternates": [
+            "жорсткий"
+          ]
+        },
+        "de": {
+          "text": "hart",
+          "alternates": [
+            "fest"
+          ]
+        },
+        "es": "duro",
+        "fr": "dur",
+        "it": "duro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "body",
+          "partOfSpeech": "noun"
+        },
+        "ru": "тело",
+        "pl": "ciało",
+        "uk": "тіло",
+        "de": {
+          "text": "der Körper",
+          "alternates": [
+            "Körper"
+          ]
+        },
+        "es": {
+          "text": "el cuerpo",
+          "alternates": [
+            "cuerpo"
+          ]
+        },
+        "fr": {
+          "text": "le corps",
+          "alternates": [
+            "corps"
+          ]
+        },
+        "it": {
+          "text": "il corpo",
+          "alternates": [
+            "corpo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "word",
+          "partOfSpeech": "noun"
+        },
+        "ru": "слово",
+        "pl": "słowo",
+        "uk": "слово",
+        "de": {
+          "text": "das Wort",
+          "alternates": [
+            "Wort"
+          ]
+        },
+        "es": {
+          "text": "la palabra",
+          "alternates": [
+            "palabra"
+          ]
+        },
+        "fr": {
+          "text": "le mot",
+          "alternates": [
+            "mot"
+          ]
+        },
+        "it": {
+          "text": "la parola",
+          "alternates": [
+            "parola"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to get back",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "возвращать",
+          "alternates": [
+            "вернуть"
+          ]
+        },
+        "pl": {
+          "text": "odzyskiwać",
+          "alternates": [
+            "odzyskać"
+          ]
+        },
+        "uk": {
+          "text": "повертати",
+          "alternates": [
+            "повернути"
+          ]
+        },
+        "de": {
+          "text": "zurückbekommen",
+          "alternates": [
+            "wiedererlangen"
+          ]
+        },
+        "es": "recuperar",
+        "fr": {
+          "text": "récupérer",
+          "alternates": [
+            "retrouver"
+          ]
+        },
+        "it": {
+          "text": "recuperare",
+          "alternates": [
+            "riprendere"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to concern",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "волновать",
+          "alternates": [
+            "взволновать"
+          ]
+        },
+        "pl": {
+          "text": "niepokoić",
+          "alternates": [
+            "zaniepokoić"
+          ]
+        },
+        "uk": {
+          "text": "хвилювати",
+          "alternates": [
+            "схвилювати"
+          ]
+        },
+        "de": {
+          "text": "beunruhigen",
+          "alternates": [
+            "aufregen"
+          ]
+        },
+        "es": {
+          "text": "preocupar",
+          "alternates": [
+            "inquietar"
+          ]
+        },
+        "fr": {
+          "text": "inquiéter",
+          "alternates": [
+            "préoccuper"
+          ]
+        },
+        "it": {
+          "text": "preoccupare",
+          "alternates": [
+            "agitare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "important",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "важный",
+        "pl": "ważny",
+        "uk": "важливий",
+        "de": "wichtig",
+        "es": "importante",
+        "fr": "important",
+        "it": "importante"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to close",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "закрывать",
+          "alternates": [
+            "закрыть"
+          ]
+        },
+        "pl": {
+          "text": "zamykać",
+          "alternates": [
+            "zamknąć"
+          ]
+        },
+        "uk": {
+          "text": "закривати",
+          "alternates": [
+            "закрити"
+          ]
+        },
+        "de": {
+          "text": "schließen",
+          "alternates": [
+            "zumachen"
+          ]
+        },
+        "es": "cerrar",
+        "fr": "fermer",
+        "it": "chiudere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to write",
+          "partOfSpeech": "verb"
+        },
+        "ru": "писать",
+        "pl": "pisać",
+        "uk": "писати",
+        "de": "schreiben",
+        "es": "escribir",
+        "fr": "écrire",
+        "it": "scrivere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to miss",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "скучать",
+          "alternates": [
+            "соскучиться"
+          ]
+        },
+        "pl": {
+          "text": "tęsknić",
+          "alternates": [
+            "zatęsknić"
+          ]
+        },
+        "uk": {
+          "text": "сумувати",
+          "alternates": [
+            "скучати"
+          ]
+        },
+        "de": "vermissen",
+        "es": {
+          "text": "echar de menos",
+          "alternates": [
+            "extrañar"
+          ]
+        },
+        "fr": "manquer",
+        "it": {
+          "text": "mancare",
+          "alternates": [
+            "sentire la mancanza"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "in the morning",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "утром",
+        "pl": "rano",
+        "uk": "вранці",
+        "de": {
+          "text": "morgens",
+          "alternates": [
+            "früh"
+          ]
+        },
+        "es": {
+          "text": "por la mañana",
+          "alternates": [
+            "de mañana"
+          ]
+        },
+        "fr": {
+          "text": "le matin",
+          "alternates": [
+            "matin"
+          ]
+        },
+        "it": {
+          "text": "la mattina",
+          "alternates": [
+            "di mattina"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to leave",
+          "alternates": [
+            "to abandon"
+          ],
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "покидать",
+          "alternates": [
+            "покинуть"
+          ]
+        },
+        "pl": {
+          "text": "opuszczać",
+          "alternates": [
+            "opuścić"
+          ]
+        },
+        "uk": {
+          "text": "покидати",
+          "alternates": [
+            "покинути"
+          ]
+        },
+        "de": "verlassen",
+        "es": {
+          "text": "abandonar",
+          "alternates": [
+            "dejar"
+          ]
+        },
+        "fr": {
+          "text": "quitter",
+          "alternates": [
+            "abandonner"
+          ]
+        },
+        "it": {
+          "text": "lasciare",
+          "alternates": [
+            "abbandonare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bedroom",
+          "partOfSpeech": "noun"
+        },
+        "ru": "спальня",
+        "pl": "sypialnia",
+        "uk": "спальня",
+        "de": {
+          "text": "das Schlafzimmer",
+          "alternates": [
+            "Schlafzimmer"
+          ]
+        },
+        "es": {
+          "text": "el dormitorio",
+          "alternates": [
+            "dormitorio"
+          ]
+        },
+        "fr": {
+          "text": "la chambre",
+          "alternates": [
+            "chambre"
+          ]
+        },
+        "it": {
+          "text": "la camera da letto",
+          "alternates": [
+            "camera da letto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "so much",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "столько",
+          "alternates": [
+            "так много"
+          ]
+        },
+        "pl": "tyle",
+        "uk": "стільки",
+        "de": {
+          "text": "so viel",
+          "alternates": [
+            "so sehr"
+          ]
+        },
+        "es": "tanto",
+        "fr": {
+          "text": "tellement",
+          "alternates": [
+            "autant"
+          ]
+        },
+        "it": {
+          "text": "così tanto",
+          "alternates": [
+            "tanto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "happy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "счастливый",
+        "pl": "szczęśliwy",
+        "uk": "щасливий",
+        "de": "glücklich",
+        "es": "feliz",
+        "fr": "heureux",
+        "it": "felice"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to buy",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "покупать",
+          "alternates": [
+            "купить"
+          ]
+        },
+        "pl": {
+          "text": "kupować",
+          "alternates": [
+            "kupić"
+          ]
+        },
+        "uk": {
+          "text": "купувати",
+          "alternates": [
+            "купити"
+          ]
+        },
+        "de": "kaufen",
+        "es": "comprar",
+        "fr": "acheter",
+        "it": "comprare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "end",
+          "partOfSpeech": "noun"
+        },
+        "ru": "конец",
+        "pl": "koniec",
+        "uk": "кінець",
+        "de": {
+          "text": "das Ende",
+          "alternates": [
+            "Ende"
+          ]
+        },
+        "es": {
+          "text": "el fin",
+          "alternates": [
+            "fin"
+          ]
+        },
+        "fr": {
+          "text": "la fin",
+          "alternates": [
+            "fin"
+          ]
+        },
+        "it": {
+          "text": "la fine",
+          "alternates": [
+            "fine"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to serve",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "подавать",
+          "alternates": [
+            "подать"
+          ]
+        },
+        "pl": {
+          "text": "podawać",
+          "alternates": [
+            "podać"
+          ]
+        },
+        "uk": {
+          "text": "подавати",
+          "alternates": [
+            "подати"
+          ]
+        },
+        "de": {
+          "text": "servieren",
+          "alternates": [
+            "bedienen"
+          ]
+        },
+        "es": "servir",
+        "fr": "servir",
+        "it": "servire"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to adore",
+          "partOfSpeech": "verb"
+        },
+        "ru": "обожать",
+        "pl": "uwielbiać",
+        "uk": "обожнювати",
+        "de": "vergöttern",
+        "es": "adorar",
+        "fr": "adorer",
+        "it": "adorare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to steal",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "красть",
+          "alternates": [
+            "украсть"
+          ]
+        },
+        "pl": {
+          "text": "kraść",
+          "alternates": [
+            "ukraść"
+          ]
+        },
+        "uk": {
+          "text": "красти",
+          "alternates": [
+            "украсти"
+          ]
+        },
+        "de": "stehlen",
+        "es": "robar",
+        "fr": "voler",
+        "it": "rubare"
+      }
+    }
+  ]
+}
