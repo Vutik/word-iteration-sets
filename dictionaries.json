@@ -1,0 +1,387 @@
+{
+  "format": 1,
+  "release": "2026-06",
+  "licence": "CC BY-SA 4.0",
+  "attribution": "Wiktionary contributors, via DBnary and WikDict (wikdict.com)",
+  "source": "https://www.wikdict.com",
+  "dictionaries": [
+    {
+      "from": "en",
+      "to": "ru",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/en-ru.zip",
+      "size": 5842577,
+      "sha256": "847ffb8120e3e811dab9e2c550c41a11ee32f445db27d34b363555deb322c3ea",
+      "unpackedSize": 14319616,
+      "words": 94904
+    },
+    {
+      "from": "en",
+      "to": "pl",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/en-pl.zip",
+      "size": 5260815,
+      "sha256": "8e11c8c7fa8b77a85e45c25fb9d91f5719f982d26efc58dd197d8faefb0a7428",
+      "unpackedSize": 12005376,
+      "words": 90529
+    },
+    {
+      "from": "en",
+      "to": "de",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/en-de.zip",
+      "size": 6979518,
+      "sha256": "e57bdb5a11c34bf54ac6916a2074fe5d1ae99d92d5db1d7986538a52c398c60e",
+      "unpackedSize": 16162816,
+      "words": 123195
+    },
+    {
+      "from": "en",
+      "to": "es",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/en-es.zip",
+      "size": 5135615,
+      "sha256": "b2ced365bbc8508573b7a359763694053a4f1772fb2db6f5693518b5191fe8b0",
+      "unpackedSize": 11640832,
+      "words": 81179
+    },
+    {
+      "from": "en",
+      "to": "fr",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/en-fr.zip",
+      "size": 8035729,
+      "sha256": "277cef6e6161d4617b59491b72eeb3325bf820a443bd499819efbac56aafc9d3",
+      "unpackedSize": 19283968,
+      "words": 165478
+    },
+    {
+      "from": "en",
+      "to": "it",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/en-it.zip",
+      "size": 4754041,
+      "sha256": "02f8e2951c412b84c4581d8b6c41a4abc731dcfe297d65a3eba3663a893b3e46",
+      "unpackedSize": 10960896,
+      "words": 80825
+    },
+    {
+      "from": "ru",
+      "to": "en",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/ru-en.zip",
+      "size": 4555445,
+      "sha256": "6b41da3a2b543d9c0b4498d87be94963fb47e6eb13fb15d34a6632c9a097491d",
+      "unpackedSize": 13762560,
+      "words": 101481
+    },
+    {
+      "from": "ru",
+      "to": "pl",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/ru-pl.zip",
+      "size": 2332228,
+      "sha256": "38c9c0f92d323ca041cd769f9e4124a84783acfbe1ab672202eb42fbbf69254d",
+      "unpackedSize": 7012352,
+      "words": 51466
+    },
+    {
+      "from": "ru",
+      "to": "de",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/ru-de.zip",
+      "size": 2750624,
+      "sha256": "a5d790f3ae2f7cbdeca284b0278e13123c2b1bccb36b42472a01b3d16a82ff57",
+      "unpackedSize": 8081408,
+      "words": 57232
+    },
+    {
+      "from": "ru",
+      "to": "es",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/ru-es.zip",
+      "size": 1871369,
+      "sha256": "251b428b09818f625248dbee5cd4341cd8a9ace4731da6caa9cbf8339506207e",
+      "unpackedSize": 5394432,
+      "words": 38150
+    },
+    {
+      "from": "ru",
+      "to": "fr",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/ru-fr.zip",
+      "size": 2566256,
+      "sha256": "92d988ef82e8bd9c51354f9fe0d928a9c9f880a372a1b0af5685d3537e3b877f",
+      "unpackedSize": 7426048,
+      "words": 53218
+    },
+    {
+      "from": "ru",
+      "to": "it",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/ru-it.zip",
+      "size": 1792626,
+      "sha256": "f3c7639f14046e10de420183a6f88b91e54473b19e57a4ba107ecf4732eb7d5c",
+      "unpackedSize": 5255168,
+      "words": 36786
+    },
+    {
+      "from": "pl",
+      "to": "en",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/pl-en.zip",
+      "size": 5618871,
+      "sha256": "14bf35c598945cb144f3ec15f5a67545d91c7ac640389136afa564f46d996822",
+      "unpackedSize": 13996032,
+      "words": 94316
+    },
+    {
+      "from": "pl",
+      "to": "ru",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/pl-ru.zip",
+      "size": 3673480,
+      "sha256": "ab4cdf6a140574b7b8c29bc2de9e11a54a49fe6920b4988fe22108cc6dc1849a",
+      "unpackedSize": 9568256,
+      "words": 48717
+    },
+    {
+      "from": "pl",
+      "to": "de",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/pl-de.zip",
+      "size": 3877891,
+      "sha256": "f904cb7feb99effa5c3dbd5cf9ef5352ef7c354f62bb479105b317ad48b0302b",
+      "unpackedSize": 9662464,
+      "words": 54511
+    },
+    {
+      "from": "pl",
+      "to": "es",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/pl-es.zip",
+      "size": 3309600,
+      "sha256": "805805e099c2895c15397b00c8d19f1c62649a6969df73e725147a8719b86b81",
+      "unpackedSize": 8273920,
+      "words": 41888
+    },
+    {
+      "from": "pl",
+      "to": "fr",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/pl-fr.zip",
+      "size": 3635265,
+      "sha256": "952729b0a4bd90e7165f69dabeae9e76eaaa7c3980522919624b51542705a658",
+      "unpackedSize": 9089024,
+      "words": 51050
+    },
+    {
+      "from": "pl",
+      "to": "it",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/pl-it.zip",
+      "size": 3081203,
+      "sha256": "a7cf5029183c31f0294832eb103005bddae280970704ee858329ea9c6695969a",
+      "unpackedSize": 7733248,
+      "words": 40211
+    },
+    {
+      "from": "de",
+      "to": "en",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/de-en.zip",
+      "size": 9014910,
+      "sha256": "4a2473d2ce65d940c960598fa611bcb2cee1d7a57af6712f445a5c943d348bb8",
+      "unpackedSize": 21610496,
+      "words": 140893
+    },
+    {
+      "from": "de",
+      "to": "ru",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/de-ru.zip",
+      "size": 5577317,
+      "sha256": "ca9ac25ca1e5d0e7efdf99da1d62229307cd0e40891311670a68e00ff49487db",
+      "unpackedSize": 13778944,
+      "words": 75135
+    },
+    {
+      "from": "de",
+      "to": "pl",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/de-pl.zip",
+      "size": 4997279,
+      "sha256": "26e2be5ecc89ad15ffa2019824ebf346ba4a770647d056f408c99455ea8e6ff0",
+      "unpackedSize": 11890688,
+      "words": 66685
+    },
+    {
+      "from": "de",
+      "to": "es",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/de-es.zip",
+      "size": 5182677,
+      "sha256": "b38f806ae9e97a2234db167d7b689275e92fe3e964275ae4ecc22f28809b34e8",
+      "unpackedSize": 12210176,
+      "words": 64339
+    },
+    {
+      "from": "de",
+      "to": "fr",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/de-fr.zip",
+      "size": 7361107,
+      "sha256": "8d8318a5ba59b3f4c74f1829baca140bea7048bfc922259b39e1ac7a9044e06f",
+      "unpackedSize": 17510400,
+      "words": 105221
+    },
+    {
+      "from": "de",
+      "to": "it",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/de-it.zip",
+      "size": 4964895,
+      "sha256": "95f923226dca7f61b2b10c924511f28b700a4438826ad98aab8a8a3a1a0228f7",
+      "unpackedSize": 11767808,
+      "words": 61905
+    },
+    {
+      "from": "es",
+      "to": "en",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/es-en.zip",
+      "size": 3909427,
+      "sha256": "457b7f65c033e1f9a44e9e5074dd01c852012c45c730d35d2e680273237e6382",
+      "unpackedSize": 9801728,
+      "words": 95759
+    },
+    {
+      "from": "es",
+      "to": "ru",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/es-ru.zip",
+      "size": 1822928,
+      "sha256": "a8479db56b9bf3c93ea4e6ba2e40d8c29657000b3729ae036b571b3a48a576a5",
+      "unpackedSize": 4616192,
+      "words": 33317
+    },
+    {
+      "from": "es",
+      "to": "pl",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/es-pl.zip",
+      "size": 1833045,
+      "sha256": "3a9837e36bf799546369da87332f6e8958ae79bb9c37987f73e22a23a5e9b74e",
+      "unpackedSize": 4403200,
+      "words": 35514
+    },
+    {
+      "from": "es",
+      "to": "de",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/es-de.zip",
+      "size": 2417560,
+      "sha256": "1d353f77b11618cb5193fba208ac615f8aedc15e708199501f66b55890126494",
+      "unpackedSize": 5812224,
+      "words": 48615
+    },
+    {
+      "from": "es",
+      "to": "fr",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/es-fr.zip",
+      "size": 2894195,
+      "sha256": "abb5f90cdce7ab726d899a80cff2ac4e8c19d40bf5a6f3dd3b9aefe024315259",
+      "unpackedSize": 7196672,
+      "words": 66635
+    },
+    {
+      "from": "es",
+      "to": "it",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/es-it.zip",
+      "size": 1349161,
+      "sha256": "4fe0c1e584c901eeeb285121053d04b4959a3b5c2086210ceadf6cae8c74eb38",
+      "unpackedSize": 3166208,
+      "words": 23069
+    },
+    {
+      "from": "fr",
+      "to": "en",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/fr-en.zip",
+      "size": 7136180,
+      "sha256": "1d61953c13ea99beb2053303826eee41a6c19ccdf1cadf0f41fff5b5850156e5",
+      "unpackedSize": 17227776,
+      "words": 160407
+    },
+    {
+      "from": "fr",
+      "to": "ru",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/fr-ru.zip",
+      "size": 3453495,
+      "sha256": "3a44d8f88f06b44aea64c72c4479a03c79f1802fe6d7b16d15962f4336afa5c6",
+      "unpackedSize": 8687616,
+      "words": 68309
+    },
+    {
+      "from": "fr",
+      "to": "pl",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/fr-pl.zip",
+      "size": 3069657,
+      "sha256": "0ea29b14ade8385c3e4d05599b66298a635e3d58ee4cc17bad78b08a224b27db",
+      "unpackedSize": 7213056,
+      "words": 62892
+    },
+    {
+      "from": "fr",
+      "to": "de",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/fr-de.zip",
+      "size": 5050866,
+      "sha256": "086ab702ea401ded2eb0d7c608eb5f4852e4ec749b89af80ff04312ba6656f8e",
+      "unpackedSize": 12148736,
+      "words": 106413
+    },
+    {
+      "from": "fr",
+      "to": "es",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/fr-es.zip",
+      "size": 3810169,
+      "sha256": "55423f63c1fb17b68bd038d23bcdde3391a5036a9ca468296c40b825e6703808",
+      "unpackedSize": 8929280,
+      "words": 81295
+    },
+    {
+      "from": "fr",
+      "to": "it",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/fr-it.zip",
+      "size": 3888682,
+      "sha256": "5a4afd9ef0aeb9daadd3856100f3a19973a5a312b4c4a30eecfee56489b85694",
+      "unpackedSize": 9179136,
+      "words": 86318
+    },
+    {
+      "from": "it",
+      "to": "en",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/it-en.zip",
+      "size": 2731638,
+      "sha256": "dc6882a8998c063153c050085fe23469e2aaea9c9e3981453352f6bfa5835a2d",
+      "unpackedSize": 6828032,
+      "words": 69993
+    },
+    {
+      "from": "it",
+      "to": "ru",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/it-ru.zip",
+      "size": 1582372,
+      "sha256": "6b80743a1a991b8071aae6317c4bafcf1444a9b6add2cdcff8b74d35fb869a6d",
+      "unpackedSize": 4378624,
+      "words": 33811
+    },
+    {
+      "from": "it",
+      "to": "pl",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/it-pl.zip",
+      "size": 1535322,
+      "sha256": "1fa14716b6abb0f4913a5a72733cb90a34dea0e4e06e39f7a2db156df4a8a9c0",
+      "unpackedSize": 3915776,
+      "words": 36233
+    },
+    {
+      "from": "it",
+      "to": "de",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/it-de.zip",
+      "size": 2070969,
+      "sha256": "181068b44bca6fb24e801ee6ff0f0c77cd26eab4c878bf3a5856c3114bcb8a4e",
+      "unpackedSize": 5275648,
+      "words": 48525
+    },
+    {
+      "from": "it",
+      "to": "es",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/it-es.zip",
+      "size": 1193768,
+      "sha256": "a30d4281d347bb391858843378eef12b288ea4a0c889bf165645d46d038d5ed8",
+      "unpackedSize": 3014656,
+      "words": 27353
+    },
+    {
+      "from": "it",
+      "to": "fr",
+      "url": "https://github.com/vutik/word-iteration-sets/releases/download/dictionaries-2026-06/it-fr.zip",
+      "size": 2910997,
+      "sha256": "75d36fde5ee220c708b0af5428ae8d8b14067b5eb0ca7cdc6984a9f5464848dc",
+      "unpackedSize": 7880704,
+      "words": 78945
+    }
+  ]
+}
