@@ -773,19 +773,43 @@
           "text": "надевать",
           "alternates": [
             "надеть"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "надевать"
+            ],
+            "pf": [
+              "надеть"
+            ]
+          }
         },
         "pl": {
           "text": "zakładać",
           "alternates": [
             "założyć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "zakładać"
+            ],
+            "pf": [
+              "założyć"
+            ]
+          }
         },
         "uk": {
           "text": "одягати",
           "alternates": [
             "одягнути"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "одягати"
+            ],
+            "pf": [
+              "одягнути"
+            ]
+          }
         },
         "de": "anziehen",
         "es": "ponerse",

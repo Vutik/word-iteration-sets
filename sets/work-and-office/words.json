@@ -864,19 +864,43 @@
           "text": "нанимать",
           "alternates": [
             "нанять"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "нанимать"
+            ],
+            "pf": [
+              "нанять"
+            ]
+          }
         },
         "pl": {
           "text": "zatrudniać",
           "alternates": [
             "zatrudnić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "zatrudniać"
+            ],
+            "pf": [
+              "zatrudnić"
+            ]
+          }
         },
         "uk": {
           "text": "наймати",
           "alternates": [
             "найняти"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "наймати"
+            ],
+            "pf": [
+              "найняти"
+            ]
+          }
         },
         "de": "einstellen",
         "es": "contratar",
@@ -902,19 +926,43 @@
           "text": "увольнять",
           "alternates": [
             "уволить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "увольнять"
+            ],
+            "pf": [
+              "уволить"
+            ]
+          }
         },
         "pl": {
           "text": "zwalniać",
           "alternates": [
             "zwolnić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "zwalniać"
+            ],
+            "pf": [
+              "zwolnić"
+            ]
+          }
         },
         "uk": {
           "text": "звільняти",
           "alternates": [
             "звільнити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "звільняти"
+            ],
+            "pf": [
+              "звільнити"
+            ]
+          }
         },
         "de": "entlassen",
         "es": "despedir",
@@ -940,7 +988,15 @@
           "text": "увольняться",
           "alternates": [
             "уволиться"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "увольняться"
+            ],
+            "pf": [
+              "уволиться"
+            ]
+          }
         },
         "pl": {
           "text": "rezygnować",
@@ -952,7 +1008,15 @@
           "text": "звільнятися",
           "alternates": [
             "звільнитися"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "звільнятися"
+            ],
+            "pf": [
+              "звільнитися"
+            ]
+          }
         },
         "de": "kündigen",
         "es": {

@@ -11,19 +11,43 @@
           "text": "получать",
           "alternates": [
             "получить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "получать"
+            ],
+            "pf": [
+              "получить"
+            ]
+          }
         },
         "pl": {
           "text": "dostawać",
           "alternates": [
             "dostać"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "dostawać"
+            ],
+            "pf": [
+              "dostać"
+            ]
+          }
         },
         "uk": {
           "text": "отримувати",
           "alternates": [
             "отримати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "отримувати"
+            ],
+            "pf": [
+              "отримати"
+            ]
+          }
         },
         "de": "bekommen",
         "es": {
@@ -71,19 +95,43 @@
           "text": "слышать",
           "alternates": [
             "услышать"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "слышать"
+            ],
+            "pf": [
+              "услышать"
+            ]
+          }
         },
         "pl": {
           "text": "słyszeć",
           "alternates": [
             "usłyszeć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "słyszeć"
+            ],
+            "pf": [
+              "usłyszeć"
+            ]
+          }
         },
         "uk": {
           "text": "чути",
           "alternates": [
             "почути"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "чути"
+            ],
+            "pf": [
+              "почути"
+            ]
+          }
         },
         "de": "hören",
         "es": "oír",
@@ -216,19 +264,43 @@
           "text": "предполагать",
           "alternates": [
             "предположить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "предполагать"
+            ],
+            "pf": [
+              "предположить"
+            ]
+          }
         },
         "pl": {
           "text": "przypuszczać",
           "alternates": [
             "przypuścić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "przypuszczać"
+            ],
+            "pf": [
+              "przypuścić"
+            ]
+          }
         },
         "uk": {
           "text": "припускати",
           "alternates": [
             "припустити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "припускати"
+            ],
+            "pf": [
+              "припустити"
+            ]
+          }
         },
         "de": "annehmen",
         "es": "suponer",
@@ -307,20 +379,46 @@
           "alternates": [
             "выиграть",
             "побеждать"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "выигрывать",
+              "побеждать"
+            ],
+            "pf": [
+              "выиграть"
+            ]
+          }
         },
         "pl": {
           "text": "wygrywać",
           "alternates": [
             "wygrać"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "wygrywać"
+            ],
+            "pf": [
+              "wygrać"
+            ]
+          }
         },
         "uk": {
           "text": "вигравати",
           "alternates": [
             "виграти",
             "перемагати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "вигравати",
+              "перемагати"
+            ],
+            "pf": [
+              "виграти"
+            ]
+          }
         },
         "de": "gewinnen",
         "es": "ganar",
@@ -459,19 +557,43 @@
           "text": "волновать",
           "alternates": [
             "взволновать"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "волновать"
+            ],
+            "pf": [
+              "взволновать"
+            ]
+          }
         },
         "pl": {
           "text": "niepokoić",
           "alternates": [
             "zaniepokoić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "niepokoić"
+            ],
+            "pf": [
+              "zaniepokoić"
+            ]
+          }
         },
         "uk": {
           "text": "хвилювати",
           "alternates": [
             "схвилювати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "хвилювати"
+            ],
+            "pf": [
+              "схвилювати"
+            ]
+          }
         },
         "de": {
           "text": "beunruhigen",
@@ -549,19 +671,43 @@
           "text": "забывать",
           "alternates": [
             "забыть"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "забывать"
+            ],
+            "pf": [
+              "забыть"
+            ]
+          }
         },
         "pl": {
           "text": "zapominać",
           "alternates": [
             "zapomnieć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "zapominać"
+            ],
+            "pf": [
+              "zapomnieć"
+            ]
+          }
         },
         "uk": {
           "text": "забувати",
           "alternates": [
             "забути"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "забувати"
+            ],
+            "pf": [
+              "забути"
+            ]
+          }
         },
         "de": "vergessen",
         "es": "olvidar",
@@ -579,19 +725,43 @@
           "text": "снимать",
           "alternates": [
             "снять"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "снимать"
+            ],
+            "pf": [
+              "снять"
+            ]
+          }
         },
         "pl": {
           "text": "wypłacać",
           "alternates": [
             "wypłacić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "wypłacać"
+            ],
+            "pf": [
+              "wypłacić"
+            ]
+          }
         },
         "uk": {
           "text": "знімати",
           "alternates": [
             "зняти"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "знімати"
+            ],
+            "pf": [
+              "зняти"
+            ]
+          }
         },
         "de": "abheben",
         "es": {
@@ -619,20 +789,45 @@
           "text": "менять",
           "alternates": [
             "изменить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "менять"
+            ],
+            "pf": [
+              "изменить"
+            ]
+          }
         },
         "pl": {
           "text": "zmieniać",
           "alternates": [
             "zmienić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "zmieniać"
+            ],
+            "pf": [
+              "zmienić"
+            ]
+          }
         },
         "uk": {
           "text": "змінювати",
           "alternates": [
             "змінити",
             "міняти"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "змінювати",
+              "міняти"
+            ],
+            "pf": [
+              "змінити"
+            ]
+          }
         },
         "de": {
           "text": "ändern",
@@ -747,19 +942,43 @@
           "text": "платить",
           "alternates": [
             "заплатить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "платить"
+            ],
+            "pf": [
+              "заплатить"
+            ]
+          }
         },
         "pl": {
           "text": "płacić",
           "alternates": [
             "zapłacić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "płacić"
+            ],
+            "pf": [
+              "zapłacić"
+            ]
+          }
         },
         "uk": {
           "text": "платити",
           "alternates": [
             "заплатити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "платити"
+            ],
+            "pf": [
+              "заплатити"
+            ]
+          }
         },
         "de": {
           "text": "zahlen",
@@ -817,19 +1036,43 @@
           "text": "открывать",
           "alternates": [
             "открыть"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "открывать"
+            ],
+            "pf": [
+              "открыть"
+            ]
+          }
         },
         "pl": {
           "text": "otwierać",
           "alternates": [
             "otworzyć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "otwierać"
+            ],
+            "pf": [
+              "otworzyć"
+            ]
+          }
         },
         "uk": {
           "text": "відкривати",
           "alternates": [
             "відкрити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "відкривати"
+            ],
+            "pf": [
+              "відкрити"
+            ]
+          }
         },
         "de": "öffnen",
         "es": "abrir",
@@ -1059,19 +1302,43 @@
           "text": "покупать",
           "alternates": [
             "купить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "покупать"
+            ],
+            "pf": [
+              "купить"
+            ]
+          }
         },
         "pl": {
           "text": "kupować",
           "alternates": [
             "kupić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "kupować"
+            ],
+            "pf": [
+              "kupić"
+            ]
+          }
         },
         "uk": {
           "text": "купувати",
           "alternates": [
             "купити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "купувати"
+            ],
+            "pf": [
+              "купити"
+            ]
+          }
         },
         "de": "kaufen",
         "es": "comprar",
@@ -1089,19 +1356,43 @@
           "text": "поддерживать",
           "alternates": [
             "поддержать"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "поддерживать"
+            ],
+            "pf": [
+              "поддержать"
+            ]
+          }
         },
         "pl": {
           "text": "utrzymywać",
           "alternates": [
             "utrzymać"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "utrzymywać"
+            ],
+            "pf": [
+              "utrzymać"
+            ]
+          }
         },
         "uk": {
           "text": "підтримувати",
           "alternates": [
             "підтримати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "підтримувати"
+            ],
+            "pf": [
+              "підтримати"
+            ]
+          }
         },
         "de": {
           "text": "aufrechterhalten",
@@ -1449,19 +1740,43 @@
           "text": "трогать",
           "alternates": [
             "тронуть"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "трогать"
+            ],
+            "pf": [
+              "тронуть"
+            ]
+          }
         },
         "pl": {
           "text": "dotykać",
           "alternates": [
             "dotknąć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "dotykać"
+            ],
+            "pf": [
+              "dotknąć"
+            ]
+          }
         },
         "uk": {
           "text": "торкатися",
           "alternates": [
             "торкнутися"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "торкатися"
+            ],
+            "pf": [
+              "торкнутися"
+            ]
+          }
         },
         "de": {
           "text": "berühren",
@@ -1513,20 +1828,46 @@
           "alternates": [
             "послать",
             "отправлять"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "посылать",
+              "отправлять"
+            ],
+            "pf": [
+              "послать"
+            ]
+          }
         },
         "pl": {
           "text": "wysyłać",
           "alternates": [
             "wysłać"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "wysyłać"
+            ],
+            "pf": [
+              "wysłać"
+            ]
+          }
         },
         "uk": {
           "text": "надсилати",
           "alternates": [
             "надіслати",
             "посилати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "надсилати",
+              "посилати"
+            ],
+            "pf": [
+              "надіслати"
+            ]
+          }
         },
         "de": {
           "text": "schicken",
@@ -1574,19 +1915,43 @@
           "text": "двигаться",
           "alternates": [
             "двинуться"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "двигаться"
+            ],
+            "pf": [
+              "двинуться"
+            ]
+          }
         },
         "pl": {
           "text": "ruszać się",
           "alternates": [
             "ruszyć się"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "ruszać się"
+            ],
+            "pf": [
+              "ruszyć się"
+            ]
+          }
         },
         "uk": {
           "text": "рухатися",
           "alternates": [
             "рушити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "рухатися"
+            ],
+            "pf": [
+              "рушити"
+            ]
+          }
         },
         "de": {
           "text": "sich bewegen",
@@ -1646,21 +2011,48 @@
           "alternates": [
             "остановиться",
             "прекратить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "останавливаться"
+            ],
+            "pf": [
+              "остановиться",
+              "прекратить"
+            ]
+          }
         },
         "pl": {
           "text": "zatrzymywać się",
           "alternates": [
             "zatrzymać się",
             "przestać"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "zatrzymywać się"
+            ],
+            "pf": [
+              "zatrzymać się",
+              "przestać"
+            ]
+          }
         },
         "uk": {
           "text": "зупинятися",
           "alternates": [
             "зупинитися",
             "припинити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "зупинятися"
+            ],
+            "pf": [
+              "зупинитися",
+              "припинити"
+            ]
+          }
         },
         "de": {
           "text": "aufhören",
@@ -1700,19 +2092,43 @@
           "text": "падать",
           "alternates": [
             "упасть"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "падать"
+            ],
+            "pf": [
+              "упасть"
+            ]
+          }
         },
         "pl": {
           "text": "spadać",
           "alternates": [
             "spaść"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "spadać"
+            ],
+            "pf": [
+              "spaść"
+            ]
+          }
         },
         "uk": {
           "text": "падати",
           "alternates": [
             "впасти"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "падати"
+            ],
+            "pf": [
+              "впасти"
+            ]
+          }
         },
         "de": "fallen",
         "es": {
@@ -1770,19 +2186,43 @@
           "text": "садиться",
           "alternates": [
             "сесть"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "садиться"
+            ],
+            "pf": [
+              "сесть"
+            ]
+          }
         },
         "pl": {
           "text": "siadać",
           "alternates": [
             "usiąść"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "siadać"
+            ],
+            "pf": [
+              "usiąść"
+            ]
+          }
         },
         "uk": {
           "text": "сідати",
           "alternates": [
             "сісти"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "сідати"
+            ],
+            "pf": [
+              "сісти"
+            ]
+          }
         },
         "de": "sich setzen",
         "es": {
@@ -2059,19 +2499,43 @@
           "text": "стрелять",
           "alternates": [
             "выстрелить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "стрелять"
+            ],
+            "pf": [
+              "выстрелить"
+            ]
+          }
         },
         "pl": {
           "text": "strzelać",
           "alternates": [
             "strzelić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "strzelać"
+            ],
+            "pf": [
+              "strzelić"
+            ]
+          }
         },
         "uk": {
           "text": "стріляти",
           "alternates": [
             "вистрілити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "стріляти"
+            ],
+            "pf": [
+              "вистрілити"
+            ]
+          }
         },
         "de": "schießen",
         "es": "disparar",
@@ -2162,19 +2626,43 @@
           "text": "красть",
           "alternates": [
             "украсть"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "красть"
+            ],
+            "pf": [
+              "украсть"
+            ]
+          }
         },
         "pl": {
           "text": "kraść",
           "alternates": [
             "ukraść"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "kraść"
+            ],
+            "pf": [
+              "ukraść"
+            ]
+          }
         },
         "uk": {
           "text": "красти",
           "alternates": [
             "украсти"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "красти"
+            ],
+            "pf": [
+              "украсти"
+            ]
+          }
         },
         "de": "stehlen",
         "es": "robar",
@@ -2297,19 +2785,43 @@
           "text": "закрывать",
           "alternates": [
             "закрыть"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "закрывать"
+            ],
+            "pf": [
+              "закрыть"
+            ]
+          }
         },
         "pl": {
           "text": "zamykać",
           "alternates": [
             "zamknąć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "zamykać"
+            ],
+            "pf": [
+              "zamknąć"
+            ]
+          }
         },
         "uk": {
           "text": "закривати",
           "alternates": [
             "закрити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "закривати"
+            ],
+            "pf": [
+              "закрити"
+            ]
+          }
         },
         "de": {
           "text": "schließen",
@@ -2332,19 +2844,43 @@
           "text": "бросать",
           "alternates": [
             "бросить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "бросать"
+            ],
+            "pf": [
+              "бросить"
+            ]
+          }
         },
         "pl": {
           "text": "rzucać",
           "alternates": [
             "rzucić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "rzucać"
+            ],
+            "pf": [
+              "rzucić"
+            ]
+          }
         },
         "uk": {
           "text": "кидати",
           "alternates": [
             "кинути"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "кидати"
+            ],
+            "pf": [
+              "кинути"
+            ]
+          }
         },
         "de": "werfen",
         "es": "echar",
@@ -2513,19 +3049,43 @@
           "text": "получать",
           "alternates": [
             "получить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "получать"
+            ],
+            "pf": [
+              "получить"
+            ]
+          }
         },
         "pl": {
           "text": "otrzymywać",
           "alternates": [
             "otrzymać"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "otrzymywać"
+            ],
+            "pf": [
+              "otrzymać"
+            ]
+          }
         },
         "uk": {
           "text": "отримувати",
           "alternates": [
             "отримати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "отримувати"
+            ],
+            "pf": [
+              "отримати"
+            ]
+          }
         },
         "de": {
           "text": "erhalten",
@@ -2647,19 +3207,43 @@
           "text": "желать",
           "alternates": [
             "пожелать"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "желать"
+            ],
+            "pf": [
+              "пожелать"
+            ]
+          }
         },
         "pl": {
           "text": "pragnąć",
           "alternates": [
             "zapragnąć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "pragnąć"
+            ],
+            "pf": [
+              "zapragnąć"
+            ]
+          }
         },
         "uk": {
           "text": "бажати",
           "alternates": [
             "забажати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "бажати"
+            ],
+            "pf": [
+              "забажати"
+            ]
+          }
         },
         "de": "begehren",
         "es": "desear",
@@ -2997,19 +3581,43 @@
           "text": "показывать",
           "alternates": [
             "показать"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "показывать"
+            ],
+            "pf": [
+              "показать"
+            ]
+          }
         },
         "pl": {
           "text": "pokazywać",
           "alternates": [
             "pokazać"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "pokazywać"
+            ],
+            "pf": [
+              "pokazać"
+            ]
+          }
         },
         "uk": {
           "text": "показувати",
           "alternates": [
             "показати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "показувати"
+            ],
+            "pf": [
+              "показати"
+            ]
+          }
         },
         "de": "zeigen",
         "es": {
@@ -3038,13 +3646,29 @@
           "text": "obwiniać",
           "alternates": [
             "obwinić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "obwiniać"
+            ],
+            "pf": [
+              "obwinić"
+            ]
+          }
         },
         "uk": {
           "text": "звинувачувати",
           "alternates": [
             "звинуватити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "звинувачувати"
+            ],
+            "pf": [
+              "звинуватити"
+            ]
+          }
         },
         "de": {
           "text": "beschuldigen",
@@ -3207,19 +3831,43 @@
           "text": "резать",
           "alternates": [
             "порезать"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "резать"
+            ],
+            "pf": [
+              "порезать"
+            ]
+          }
         },
         "pl": {
           "text": "ciąć",
           "alternates": [
             "pociąć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "ciąć"
+            ],
+            "pf": [
+              "pociąć"
+            ]
+          }
         },
         "uk": {
           "text": "різати",
           "alternates": [
             "порізати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "різати"
+            ],
+            "pf": [
+              "порізати"
+            ]
+          }
         },
         "de": "schneiden",
         "es": "cortar",
@@ -3289,19 +3937,43 @@
           "text": "бросать",
           "alternates": [
             "бросить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "бросать"
+            ],
+            "pf": [
+              "бросить"
+            ]
+          }
         },
         "pl": {
           "text": "rzucać",
           "alternates": [
             "rzucić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "rzucać"
+            ],
+            "pf": [
+              "rzucić"
+            ]
+          }
         },
         "uk": {
           "text": "кидати",
           "alternates": [
             "кинути"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "кидати"
+            ],
+            "pf": [
+              "кинути"
+            ]
+          }
         },
         "de": {
           "text": "werfen",

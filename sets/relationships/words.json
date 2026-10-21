@@ -623,14 +623,30 @@
           "text": "влюбляться",
           "alternates": [
             "влюбиться"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "влюбляться"
+            ],
+            "pf": [
+              "влюбиться"
+            ]
+          }
         },
         "pl": "zakochać się",
         "uk": {
           "text": "закохуватися",
           "alternates": [
             "закохатися"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "закохуватися"
+            ],
+            "pf": [
+              "закохатися"
+            ]
+          }
         },
         "de": "sich verlieben",
         "es": "enamorarse",
@@ -648,7 +664,15 @@
           "text": "расстаться",
           "alternates": [
             "расставаться"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "расставаться"
+            ],
+            "pf": [
+              "расстаться"
+            ]
+          }
         },
         "pl": {
           "text": "rozstać się",
@@ -764,13 +788,29 @@
           "text": "извиняться",
           "alternates": [
             "извиниться"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "извиняться"
+            ],
+            "pf": [
+              "извиниться"
+            ]
+          }
         },
         "pl": {
           "text": "przepraszać",
           "alternates": [
             "przeprosić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "przepraszać"
+            ],
+            "pf": [
+              "przeprosić"
+            ]
+          }
         },
         "uk": {
           "text": "перепрошувати",
@@ -804,19 +844,43 @@
           "text": "прощать",
           "alternates": [
             "простить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "прощать"
+            ],
+            "pf": [
+              "простить"
+            ]
+          }
         },
         "pl": {
           "text": "wybaczać",
           "alternates": [
             "wybaczyć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "wybaczać"
+            ],
+            "pf": [
+              "wybaczyć"
+            ]
+          }
         },
         "uk": {
           "text": "пробачати",
           "alternates": [
             "пробачити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "пробачати"
+            ],
+            "pf": [
+              "пробачити"
+            ]
+          }
         },
         "de": {
           "text": "verzeihen",
@@ -854,14 +918,30 @@
           "text": "поддерживать",
           "alternates": [
             "поддержать"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "поддерживать"
+            ],
+            "pf": [
+              "поддержать"
+            ]
+          }
         },
         "pl": "wspierać",
         "uk": {
           "text": "підтримувати",
           "alternates": [
             "підтримати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "підтримувати"
+            ],
+            "pf": [
+              "підтримати"
+            ]
+          }
         },
         "de": "unterstützen",
         "es": "apoyar",

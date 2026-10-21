@@ -195,8 +195,13 @@ with the decks nested in it; a nested deck is written `Parent / Child`:
 ```
 
 - Every word needs a form in every language of the set. A form is a plain string, or an object
-  with `text` and optional `alternates` (also accepted as answers), `transcription` and
-  `partOfSpeech`.
+  with `text` and optional `alternates` (also accepted as answers), `transcription`,
+  `partOfSpeech` and `aspects`.
+- `aspects` sorts the wordings of a Russian, Polish or Ukrainian verb pair by aspect:
+  `{ "text": "просыпаться", "alternates": ["проснуться"], "aspects": { "impf": ["просыпаться"], "pf": ["проснуться"] } }`.
+  A learner of that language gets the two as separate words; everyone else, and older versions
+  of the app, get one word as before. `python3 tools/aspects.py --write` marks the pairs; see
+  its header for the rules and the hand decisions.
 - `examples` and `image` (relative to the set folder, or `https://`) are optional. A word without
   an image gets one the usual way after import.
 

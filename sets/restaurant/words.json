@@ -631,19 +631,43 @@
           "text": "заказывать",
           "alternates": [
             "заказать"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "заказывать"
+            ],
+            "pf": [
+              "заказать"
+            ]
+          }
         },
         "pl": {
           "text": "zamawiać",
           "alternates": [
             "zamówić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "zamawiać"
+            ],
+            "pf": [
+              "zamówić"
+            ]
+          }
         },
         "uk": {
           "text": "замовляти",
           "alternates": [
             "замовити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "замовляти"
+            ],
+            "pf": [
+              "замовити"
+            ]
+          }
         },
         "de": "bestellen",
         "es": "pedir",
@@ -664,19 +688,43 @@
           "text": "бронировать",
           "alternates": [
             "забронировать"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "бронировать"
+            ],
+            "pf": [
+              "забронировать"
+            ]
+          }
         },
         "pl": {
           "text": "rezerwować",
           "alternates": [
             "zarezerwować"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "rezerwować"
+            ],
+            "pf": [
+              "zarezerwować"
+            ]
+          }
         },
         "uk": {
           "text": "бронювати",
           "alternates": [
             "забронювати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "бронювати"
+            ],
+            "pf": [
+              "забронювати"
+            ]
+          }
         },
         "de": {
           "text": "reservieren",
@@ -705,7 +753,15 @@
           "text": "polecać",
           "alternates": [
             "polecić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "polecać"
+            ],
+            "pf": [
+              "polecić"
+            ]
+          }
         },
         "uk": {
           "text": "радити",

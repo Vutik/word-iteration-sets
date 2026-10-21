@@ -71,8 +71,13 @@ def texts(form) -> list[str]:
 
 def make_form(old, wordings: list[str]):
     """A form with these wordings, keeping the old one's transcription and part of speech, as
-    a bare string when there is nothing else — the way the files are written by hand."""
+    a bare string when there is nothing else — the way the files are written by hand. The old
+    aspect pair is kept with the wordings that are left, while both aspects still have one."""
     extra = {k: v for k, v in (old or {}).items() if k in ("transcription", "partOfSpeech")} if isinstance(old, dict) else {}
+    if isinstance(old, dict) and "aspects" in old:
+        aspects = {k: [w for w in v if w in wordings] for k, v in old["aspects"].items()}
+        if all(aspects.values()):
+            extra["aspects"] = aspects
     if len(wordings) == 1 and not extra:
         return wordings[0]
     form = {"text": wordings[0]}

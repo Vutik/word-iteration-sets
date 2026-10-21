@@ -668,19 +668,43 @@
           "text": "выздоравливать",
           "alternates": [
             "выздороветь"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "выздоравливать"
+            ],
+            "pf": [
+              "выздороветь"
+            ]
+          }
         },
         "pl": {
           "text": "wyzdrowieć",
           "alternates": [
             "zdrowieć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "zdrowieć"
+            ],
+            "pf": [
+              "wyzdrowieć"
+            ]
+          }
         },
         "uk": {
           "text": "одужувати",
           "alternates": [
             "одужати"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "одужувати"
+            ],
+            "pf": [
+              "одужати"
+            ]
+          }
         },
         "de": {
           "text": "genesen",

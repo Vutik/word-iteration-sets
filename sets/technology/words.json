@@ -695,19 +695,43 @@
           "text": "сохранять",
           "alternates": [
             "сохранить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "сохранять"
+            ],
+            "pf": [
+              "сохранить"
+            ]
+          }
         },
         "pl": {
           "text": "zapisywać",
           "alternates": [
             "zapisać"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "zapisywać"
+            ],
+            "pf": [
+              "zapisać"
+            ]
+          }
         },
         "uk": {
           "text": "зберігати",
           "alternates": [
             "зберегти"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "зберігати"
+            ],
+            "pf": [
+              "зберегти"
+            ]
+          }
         },
         "de": "speichern",
         "es": "guardar",
@@ -730,19 +754,43 @@
           "text": "удалять",
           "alternates": [
             "удалить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "удалять"
+            ],
+            "pf": [
+              "удалить"
+            ]
+          }
         },
         "pl": {
           "text": "usuwać",
           "alternates": [
             "usunąć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "usuwać"
+            ],
+            "pf": [
+              "usunąć"
+            ]
+          }
         },
         "uk": {
           "text": "видаляти",
           "alternates": [
             "видалити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "видаляти"
+            ],
+            "pf": [
+              "видалити"
+            ]
+          }
         },
         "de": "löschen",
         "es": {
@@ -806,7 +854,15 @@
           "text": "logować się",
           "alternates": [
             "zalogować się"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "logować się"
+            ],
+            "pf": [
+              "zalogować się"
+            ]
+          }
         },
         "uk": {
           "text": "входити",
@@ -840,19 +896,43 @@
           "text": "заряжать",
           "alternates": [
             "зарядить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "заряжать"
+            ],
+            "pf": [
+              "зарядить"
+            ]
+          }
         },
         "pl": {
           "text": "ładować",
           "alternates": [
             "naładować"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "ładować"
+            ],
+            "pf": [
+              "naładować"
+            ]
+          }
         },
         "uk": {
           "text": "заряджати",
           "alternates": [
             "зарядити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "заряджати"
+            ],
+            "pf": [
+              "зарядити"
+            ]
+          }
         },
         "de": {
           "text": "aufladen",

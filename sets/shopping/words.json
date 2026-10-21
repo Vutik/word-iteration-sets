@@ -638,19 +638,43 @@
           "text": "покупать",
           "alternates": [
             "купить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "покупать"
+            ],
+            "pf": [
+              "купить"
+            ]
+          }
         },
         "pl": {
           "text": "kupować",
           "alternates": [
             "kupić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "kupować"
+            ],
+            "pf": [
+              "kupić"
+            ]
+          }
         },
         "uk": {
           "text": "купувати",
           "alternates": [
             "купити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "купувати"
+            ],
+            "pf": [
+              "купити"
+            ]
+          }
         },
         "de": "kaufen",
         "es": "comprar",
@@ -668,19 +692,43 @@
           "text": "платить",
           "alternates": [
             "заплатить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "платить"
+            ],
+            "pf": [
+              "заплатить"
+            ]
+          }
         },
         "pl": {
           "text": "płacić",
           "alternates": [
             "zapłacić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "płacić"
+            ],
+            "pf": [
+              "zapłacić"
+            ]
+          }
         },
         "uk": {
           "text": "платити",
           "alternates": [
             "заплатити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "платити"
+            ],
+            "pf": [
+              "заплатити"
+            ]
+          }
         },
         "de": {
           "text": "zahlen",
@@ -703,19 +751,43 @@
           "text": "примерять",
           "alternates": [
             "примерить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "примерять"
+            ],
+            "pf": [
+              "примерить"
+            ]
+          }
         },
         "pl": {
           "text": "przymierzać",
           "alternates": [
             "przymierzyć"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "przymierzać"
+            ],
+            "pf": [
+              "przymierzyć"
+            ]
+          }
         },
         "uk": {
           "text": "примірювати",
           "alternates": [
             "приміряти"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "примірювати"
+            ],
+            "pf": [
+              "приміряти"
+            ]
+          }
         },
         "de": "anprobieren",
         "es": "probarse",

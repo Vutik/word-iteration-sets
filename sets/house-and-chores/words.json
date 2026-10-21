@@ -655,7 +655,15 @@
           "text": "naprawiać",
           "alternates": [
             "naprawić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "naprawiać"
+            ],
+            "pf": [
+              "naprawić"
+            ]
+          }
         },
         "uk": {
           "text": "лагодити",

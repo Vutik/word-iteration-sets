@@ -729,19 +729,43 @@
           "text": "тратить",
           "alternates": [
             "потратить"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "тратить"
+            ],
+            "pf": [
+              "потратить"
+            ]
+          }
         },
         "pl": {
           "text": "wydawać",
           "alternates": [
             "wydać"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "wydawać"
+            ],
+            "pf": [
+              "wydać"
+            ]
+          }
         },
         "uk": {
           "text": "витрачати",
           "alternates": [
             "витратити"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "витрачати"
+            ],
+            "pf": [
+              "витратити"
+            ]
+          }
         },
         "de": "ausgeben",
         "es": "gastar",
@@ -765,7 +789,15 @@
           "text": "pożyczać od kogoś",
           "alternates": [
             "pożyczyć od kogoś"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "pożyczać od kogoś"
+            ],
+            "pf": [
+              "pożyczyć od kogoś"
+            ]
+          }
         },
         "uk": {
           "text": "позичати в когось",
@@ -805,7 +837,15 @@
           "text": "pożyczać komuś",
           "alternates": [
             "pożyczyć komuś"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "pożyczać komuś"
+            ],
+            "pf": [
+              "pożyczyć komuś"
+            ]
+          }
         },
         "uk": {
           "text": "давати в борг",
@@ -839,19 +879,43 @@
           "text": "снимать",
           "alternates": [
             "снять"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "снимать"
+            ],
+            "pf": [
+              "снять"
+            ]
+          }
         },
         "pl": {
           "text": "wypłacać",
           "alternates": [
             "wypłacić"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "wypłacać"
+            ],
+            "pf": [
+              "wypłacić"
+            ]
+          }
         },
         "uk": {
           "text": "знімати",
           "alternates": [
             "зняти"
-          ]
+          ],
+          "aspects": {
+            "impf": [
+              "знімати"
+            ],
+            "pf": [
+              "зняти"
+            ]
+          }
         },
         "de": "abheben",
         "es": {

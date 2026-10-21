@@ -27,7 +27,7 @@ LEVELS = {"A1", "A2", "B1", "B2", "C1", "C2"}
 SOURCE_TYPES = {"json", "anki", "text"}
 IMAGE_SUFFIXES = {".png", ".jpg", ".jpeg", ".webp", ".heic"}
 SET_KEYS = {"title", "description", "languages", "learning", "image", "level", "tags", "updated", "source"}
-FORM_KEYS = {"text", "alternates", "transcription", "partOfSpeech"}
+FORM_KEYS = {"text", "alternates", "transcription", "partOfSpeech", "aspects"}
 
 errors: list[str] = []
 
@@ -116,9 +116,27 @@ def check_form(value, where: str) -> None:
     for key in ("transcription", "partOfSpeech"):
         if key in value and not isinstance(value[key], str):
             error(where, f"{key} must be a string")
+    if "aspects" in value:
+        check_aspects(value["aspects"], [value.get("text"), *alternates] if isinstance(alternates, list) else [], where)
     unknown = set(value) - FORM_KEYS
     if unknown:
         error(where, f"unknown keys {sorted(unknown)}")
+
+
+def check_aspects(value, wordings: list, where: str) -> None:
+    """`{"impf": [...], "pf": [...]}`: the form's wordings by aspect, both non-empty."""
+    if not isinstance(value, dict) or set(value) != {"impf", "pf"}:
+        error(where, "aspects must be an object with \"impf\" and \"pf\"")
+        return
+    for key, items in value.items():
+        if not isinstance(items, list) or not items or not all(isinstance(i, str) for i in items):
+            error(where, f"aspects.{key} must be a non-empty list of strings")
+            return
+        for item in items:
+            if item not in wordings:
+                error(where, f"aspects.{key}: {item!r} is not one of the form's wordings")
+    if set(value["impf"]) & set(value["pf"]):
+        error(where, "a wording is in both aspects")
 
 
 def check_words_json(path: Path, languages: list[str]) -> int:
