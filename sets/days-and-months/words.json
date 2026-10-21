@@ -556,6 +556,465 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "day",
+          "partOfSpeech": "noun"
+        },
+        "ru": "день",
+        "pl": "dzień",
+        "uk": "день",
+        "de": {
+          "text": "der Tag",
+          "alternates": [
+            "Tag"
+          ]
+        },
+        "es": {
+          "text": "el día",
+          "alternates": [
+            "día"
+          ]
+        },
+        "fr": {
+          "text": "le jour",
+          "alternates": [
+            "jour"
+          ]
+        },
+        "it": {
+          "text": "il giorno",
+          "alternates": [
+            "giorno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "morning",
+          "partOfSpeech": "noun"
+        },
+        "ru": "утро",
+        "pl": {
+          "text": "ranek",
+          "alternates": [
+            "rano"
+          ]
+        },
+        "uk": "ранок",
+        "de": {
+          "text": "der Morgen",
+          "alternates": [
+            "Morgen"
+          ]
+        },
+        "es": {
+          "text": "la mañana",
+          "alternates": [
+            "mañana"
+          ]
+        },
+        "fr": {
+          "text": "le matin",
+          "alternates": [
+            "matin"
+          ]
+        },
+        "it": {
+          "text": "la mattina",
+          "alternates": [
+            "mattina"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "evening",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вечер",
+        "pl": "wieczór",
+        "uk": "вечір",
+        "de": {
+          "text": "der Abend",
+          "alternates": [
+            "Abend"
+          ]
+        },
+        "es": {
+          "text": "la tarde",
+          "alternates": [
+            "tarde"
+          ]
+        },
+        "fr": {
+          "text": "le soir",
+          "alternates": [
+            "soir"
+          ]
+        },
+        "it": {
+          "text": "la sera",
+          "alternates": [
+            "sera"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "night",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ночь",
+        "pl": "noc",
+        "uk": "ніч",
+        "de": {
+          "text": "die Nacht",
+          "alternates": [
+            "Nacht"
+          ]
+        },
+        "es": {
+          "text": "la noche",
+          "alternates": [
+            "noche"
+          ]
+        },
+        "fr": {
+          "text": "la nuit",
+          "alternates": [
+            "nuit"
+          ]
+        },
+        "it": {
+          "text": "la notte",
+          "alternates": [
+            "notte"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "noon",
+          "alternates": [
+            "midday"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "полдень",
+        "pl": "południe",
+        "uk": "полудень",
+        "de": {
+          "text": "der Mittag",
+          "alternates": [
+            "Mittag"
+          ]
+        },
+        "es": {
+          "text": "el mediodía",
+          "alternates": [
+            "mediodía"
+          ]
+        },
+        "fr": "midi",
+        "it": {
+          "text": "il mezzogiorno",
+          "alternates": [
+            "mezzogiorno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "midnight",
+          "partOfSpeech": "noun"
+        },
+        "ru": "полночь",
+        "pl": "północ",
+        "uk": "північ",
+        "de": {
+          "text": "die Mitternacht",
+          "alternates": [
+            "Mitternacht"
+          ]
+        },
+        "es": {
+          "text": "la medianoche",
+          "alternates": [
+            "medianoche"
+          ]
+        },
+        "fr": "minuit",
+        "it": {
+          "text": "la mezzanotte",
+          "alternates": [
+            "mezzanotte"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hour",
+          "partOfSpeech": "noun"
+        },
+        "ru": "час",
+        "pl": "godzina",
+        "uk": "година",
+        "de": {
+          "text": "die Stunde",
+          "alternates": [
+            "Stunde"
+          ]
+        },
+        "es": {
+          "text": "la hora",
+          "alternates": [
+            "hora"
+          ]
+        },
+        "fr": {
+          "text": "l'heure",
+          "alternates": [
+            "heure"
+          ]
+        },
+        "it": {
+          "text": "l'ora",
+          "alternates": [
+            "ora"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "minute",
+          "partOfSpeech": "noun"
+        },
+        "ru": "минута",
+        "pl": "minuta",
+        "uk": "хвилина",
+        "de": {
+          "text": "die Minute",
+          "alternates": [
+            "Minute"
+          ]
+        },
+        "es": {
+          "text": "el minuto",
+          "alternates": [
+            "minuto"
+          ]
+        },
+        "fr": {
+          "text": "la minute",
+          "alternates": [
+            "minute"
+          ]
+        },
+        "it": {
+          "text": "il minuto",
+          "alternates": [
+            "minuto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "second",
+          "partOfSpeech": "noun"
+        },
+        "ru": "секунда",
+        "pl": "sekunda",
+        "uk": "секунда",
+        "de": {
+          "text": "die Sekunde",
+          "alternates": [
+            "Sekunde"
+          ]
+        },
+        "es": {
+          "text": "el segundo",
+          "alternates": [
+            "segundo"
+          ]
+        },
+        "fr": {
+          "text": "la seconde",
+          "alternates": [
+            "seconde"
+          ]
+        },
+        "it": {
+          "text": "il secondo",
+          "alternates": [
+            "secondo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "calendar",
+          "partOfSpeech": "noun"
+        },
+        "ru": "календарь",
+        "pl": "kalendarz",
+        "uk": "календар",
+        "de": {
+          "text": "der Kalender",
+          "alternates": [
+            "Kalender"
+          ]
+        },
+        "es": {
+          "text": "el calendario",
+          "alternates": [
+            "calendario"
+          ]
+        },
+        "fr": {
+          "text": "le calendrier",
+          "alternates": [
+            "calendrier"
+          ]
+        },
+        "it": {
+          "text": "il calendario",
+          "alternates": [
+            "calendario"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "birthday",
+          "partOfSpeech": "noun"
+        },
+        "ru": "день рождения",
+        "pl": "urodziny",
+        "uk": "день народження",
+        "de": {
+          "text": "der Geburtstag",
+          "alternates": [
+            "Geburtstag"
+          ]
+        },
+        "es": {
+          "text": "el cumpleaños",
+          "alternates": [
+            "cumpleaños"
+          ]
+        },
+        "fr": {
+          "text": "l'anniversaire",
+          "alternates": [
+            "anniversaire"
+          ]
+        },
+        "it": {
+          "text": "il compleanno",
+          "alternates": [
+            "compleanno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "weekday",
+          "partOfSpeech": "noun"
+        },
+        "ru": "будний день",
+        "pl": "dzień roboczy",
+        "uk": "будній день",
+        "de": {
+          "text": "der Wochentag",
+          "alternates": [
+            "Wochentag"
+          ]
+        },
+        "es": {
+          "text": "el día laborable",
+          "alternates": [
+            "día laborable"
+          ]
+        },
+        "fr": {
+          "text": "le jour de semaine",
+          "alternates": [
+            "jour de semaine",
+            "le jour ouvrable"
+          ]
+        },
+        "it": {
+          "text": "il giorno feriale",
+          "alternates": [
+            "giorno feriale"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "century",
+          "partOfSpeech": "noun"
+        },
+        "ru": "век",
+        "pl": "wiek",
+        "uk": {
+          "text": "століття",
+          "alternates": [
+            "вік"
+          ]
+        },
+        "de": {
+          "text": "das Jahrhundert",
+          "alternates": [
+            "Jahrhundert"
+          ]
+        },
+        "es": {
+          "text": "el siglo",
+          "alternates": [
+            "siglo"
+          ]
+        },
+        "fr": {
+          "text": "le siècle",
+          "alternates": [
+            "siècle"
+          ]
+        },
+        "it": {
+          "text": "il secolo",
+          "alternates": [
+            "secolo"
+          ]
+        }
+      }
     }
   ]
 }

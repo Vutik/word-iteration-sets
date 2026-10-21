@@ -948,6 +948,772 @@
         "fr": "soutenir",
         "it": "sostenere"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "couple",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пара",
+        "pl": "para",
+        "uk": "пара",
+        "de": {
+          "text": "das Paar",
+          "alternates": [
+            "Paar"
+          ]
+        },
+        "es": {
+          "text": "la pareja",
+          "alternates": [
+            "pareja"
+          ]
+        },
+        "fr": {
+          "text": "le couple",
+          "alternates": [
+            "couple"
+          ]
+        },
+        "it": {
+          "text": "la coppia",
+          "alternates": [
+            "coppia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "date",
+          "partOfSpeech": "noun"
+        },
+        "ru": "свидание",
+        "pl": "randka",
+        "uk": "побачення",
+        "de": {
+          "text": "das Date",
+          "alternates": [
+            "das Rendezvous",
+            "Date",
+            "Rendezvous"
+          ]
+        },
+        "es": {
+          "text": "la cita",
+          "alternates": [
+            "cita"
+          ]
+        },
+        "fr": {
+          "text": "le rendez-vous",
+          "alternates": [
+            "rendez-vous"
+          ]
+        },
+        "it": {
+          "text": "l'appuntamento",
+          "alternates": [
+            "appuntamento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "kiss",
+          "partOfSpeech": "noun"
+        },
+        "ru": "поцелуй",
+        "pl": "pocałunek",
+        "uk": "поцілунок",
+        "de": {
+          "text": "der Kuss",
+          "alternates": [
+            "Kuss"
+          ]
+        },
+        "es": {
+          "text": "el beso",
+          "alternates": [
+            "beso"
+          ]
+        },
+        "fr": {
+          "text": "le baiser",
+          "alternates": [
+            "baiser"
+          ]
+        },
+        "it": {
+          "text": "il bacio",
+          "alternates": [
+            "bacio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hug",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "объятие",
+          "alternates": [
+            "объятия"
+          ]
+        },
+        "pl": {
+          "text": "uścisk",
+          "alternates": [
+            "przytulenie"
+          ]
+        },
+        "uk": "обійми",
+        "de": {
+          "text": "die Umarmung",
+          "alternates": [
+            "Umarmung"
+          ]
+        },
+        "es": {
+          "text": "el abrazo",
+          "alternates": [
+            "abrazo"
+          ]
+        },
+        "fr": {
+          "text": "l'étreinte",
+          "alternates": [
+            "le câlin",
+            "étreinte",
+            "câlin"
+          ]
+        },
+        "it": {
+          "text": "l'abbraccio",
+          "alternates": [
+            "abbraccio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "respect",
+          "partOfSpeech": "noun"
+        },
+        "ru": "уважение",
+        "pl": "szacunek",
+        "uk": "повага",
+        "de": {
+          "text": "der Respekt",
+          "alternates": [
+            "die Achtung",
+            "Respekt",
+            "Achtung"
+          ]
+        },
+        "es": {
+          "text": "el respeto",
+          "alternates": [
+            "respeto"
+          ]
+        },
+        "fr": {
+          "text": "le respect",
+          "alternates": [
+            "respect"
+          ]
+        },
+        "it": {
+          "text": "il rispetto",
+          "alternates": [
+            "rispetto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "secret",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "секрет",
+          "alternates": [
+            "тайна"
+          ]
+        },
+        "pl": {
+          "text": "sekret",
+          "alternates": [
+            "tajemnica"
+          ]
+        },
+        "uk": {
+          "text": "секрет",
+          "alternates": [
+            "таємниця"
+          ]
+        },
+        "de": {
+          "text": "das Geheimnis",
+          "alternates": [
+            "Geheimnis"
+          ]
+        },
+        "es": {
+          "text": "el secreto",
+          "alternates": [
+            "secreto"
+          ]
+        },
+        "fr": {
+          "text": "le secret",
+          "alternates": [
+            "secret"
+          ]
+        },
+        "it": {
+          "text": "il segreto",
+          "alternates": [
+            "segreto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "advice",
+          "partOfSpeech": "noun"
+        },
+        "ru": "совет",
+        "pl": "rada",
+        "uk": "порада",
+        "de": {
+          "text": "der Rat",
+          "alternates": [
+            "der Ratschlag",
+            "Rat",
+            "Ratschlag"
+          ]
+        },
+        "es": {
+          "text": "el consejo",
+          "alternates": [
+            "consejo"
+          ]
+        },
+        "fr": {
+          "text": "le conseil",
+          "alternates": [
+            "conseil"
+          ]
+        },
+        "it": {
+          "text": "il consiglio",
+          "alternates": [
+            "consiglio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "loneliness",
+          "partOfSpeech": "noun"
+        },
+        "ru": "одиночество",
+        "pl": "samotność",
+        "uk": "самотність",
+        "de": {
+          "text": "die Einsamkeit",
+          "alternates": [
+            "Einsamkeit"
+          ]
+        },
+        "es": {
+          "text": "la soledad",
+          "alternates": [
+            "soledad"
+          ]
+        },
+        "fr": {
+          "text": "la solitude",
+          "alternates": [
+            "solitude"
+          ]
+        },
+        "it": {
+          "text": "la solitudine",
+          "alternates": [
+            "solitudine"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "guest",
+          "partOfSpeech": "noun"
+        },
+        "ru": "гость",
+        "pl": "gość",
+        "uk": "гість",
+        "de": {
+          "text": "der Gast",
+          "alternates": [
+            "Gast"
+          ]
+        },
+        "es": {
+          "text": "el invitado",
+          "alternates": [
+            "invitado"
+          ]
+        },
+        "fr": {
+          "text": "l'invité",
+          "alternates": [
+            "invité"
+          ]
+        },
+        "it": {
+          "text": "l'ospite",
+          "alternates": [
+            "ospite"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to hug",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "обнимать",
+          "alternates": [
+            "обнять"
+          ],
+          "aspects": {
+            "impf": [
+              "обнимать"
+            ],
+            "pf": [
+              "обнять"
+            ]
+          }
+        },
+        "pl": {
+          "text": "przytulać",
+          "alternates": [
+            "przytulić"
+          ],
+          "aspects": {
+            "impf": [
+              "przytulać"
+            ],
+            "pf": [
+              "przytulić"
+            ]
+          }
+        },
+        "uk": {
+          "text": "обіймати",
+          "alternates": [
+            "обійняти"
+          ],
+          "aspects": {
+            "impf": [
+              "обіймати"
+            ],
+            "pf": [
+              "обійняти"
+            ]
+          }
+        },
+        "de": "umarmen",
+        "es": "abrazar",
+        "fr": {
+          "text": "serrer dans ses bras",
+          "alternates": [
+            "câliner"
+          ]
+        },
+        "it": "abbracciare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to kiss",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "целовать",
+          "alternates": [
+            "поцеловать"
+          ],
+          "aspects": {
+            "impf": [
+              "целовать"
+            ],
+            "pf": [
+              "поцеловать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "całować",
+          "alternates": [
+            "pocałować"
+          ],
+          "aspects": {
+            "impf": [
+              "całować"
+            ],
+            "pf": [
+              "pocałować"
+            ]
+          }
+        },
+        "uk": {
+          "text": "цілувати",
+          "alternates": [
+            "поцілувати"
+          ],
+          "aspects": {
+            "impf": [
+              "цілувати"
+            ],
+            "pf": [
+              "поцілувати"
+            ]
+          }
+        },
+        "de": "küssen",
+        "es": "besar",
+        "fr": "embrasser",
+        "it": "baciare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to miss someone",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "скучать",
+          "alternates": [
+            "соскучиться"
+          ],
+          "aspects": {
+            "impf": [
+              "скучать"
+            ],
+            "pf": [
+              "соскучиться"
+            ]
+          }
+        },
+        "pl": "tęsknić",
+        "uk": {
+          "text": "сумувати",
+          "alternates": [
+            "скучати"
+          ]
+        },
+        "de": "vermissen",
+        "es": {
+          "text": "echar de menos",
+          "alternates": [
+            "extrañar"
+          ]
+        },
+        "fr": "manquer à",
+        "it": {
+          "text": "mancare a",
+          "alternates": [
+            "sentire la mancanza di"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to invite",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "приглашать",
+          "alternates": [
+            "пригласить"
+          ],
+          "aspects": {
+            "impf": [
+              "приглашать"
+            ],
+            "pf": [
+              "пригласить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "zapraszać",
+          "alternates": [
+            "zaprosić"
+          ],
+          "aspects": {
+            "impf": [
+              "zapraszać"
+            ],
+            "pf": [
+              "zaprosić"
+            ]
+          }
+        },
+        "uk": {
+          "text": "запрошувати",
+          "alternates": [
+            "запросити"
+          ],
+          "aspects": {
+            "impf": [
+              "запрошувати"
+            ],
+            "pf": [
+              "запросити"
+            ]
+          }
+        },
+        "de": "einladen",
+        "es": "invitar",
+        "fr": "inviter",
+        "it": "invitare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to promise",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "обещать",
+          "alternates": [
+            "пообещать"
+          ],
+          "aspects": {
+            "impf": [
+              "обещать"
+            ],
+            "pf": [
+              "пообещать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "obiecywać",
+          "alternates": [
+            "obiecać"
+          ],
+          "aspects": {
+            "impf": [
+              "obiecywać"
+            ],
+            "pf": [
+              "obiecać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "обіцяти",
+          "alternates": [
+            "пообіцяти"
+          ],
+          "aspects": {
+            "impf": [
+              "обіцяти"
+            ],
+            "pf": [
+              "пообіцяти"
+            ]
+          }
+        },
+        "de": "versprechen",
+        "es": "prometer",
+        "fr": "promettre",
+        "it": "promettere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to respect",
+          "partOfSpeech": "verb"
+        },
+        "ru": "уважать",
+        "pl": "szanować",
+        "uk": "поважати",
+        "de": {
+          "text": "respektieren",
+          "alternates": [
+            "achten"
+          ]
+        },
+        "es": "respetar",
+        "fr": "respecter",
+        "it": "rispettare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to share",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "делиться",
+          "alternates": [
+            "поделиться"
+          ],
+          "aspects": {
+            "impf": [
+              "делиться"
+            ],
+            "pf": [
+              "поделиться"
+            ]
+          }
+        },
+        "pl": {
+          "text": "dzielić się",
+          "alternates": [
+            "podzielić się"
+          ],
+          "aspects": {
+            "impf": [
+              "dzielić się"
+            ],
+            "pf": [
+              "podzielić się"
+            ]
+          }
+        },
+        "uk": {
+          "text": "ділитися",
+          "alternates": [
+            "поділитися"
+          ],
+          "aspects": {
+            "impf": [
+              "ділитися"
+            ],
+            "pf": [
+              "поділитися"
+            ]
+          }
+        },
+        "de": "teilen",
+        "es": "compartir",
+        "fr": "partager",
+        "it": "condividere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to flirt",
+          "partOfSpeech": "verb"
+        },
+        "ru": "флиртовать",
+        "pl": "flirtować",
+        "uk": "фліртувати",
+        "de": "flirten",
+        "es": {
+          "text": "flirtear",
+          "alternates": [
+            "coquetear"
+          ]
+        },
+        "fr": "flirter",
+        "it": "flirtare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "engaged",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "помолвленный",
+        "pl": "zaręczony",
+        "uk": "заручений",
+        "de": "verlobt",
+        "es": {
+          "text": "comprometido",
+          "alternates": [
+            "prometido"
+          ]
+        },
+        "fr": "fiancé",
+        "it": "fidanzato"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "divorced",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "разведённый",
+        "pl": "rozwiedziony",
+        "uk": "розлучений",
+        "de": "geschieden",
+        "es": "divorciado",
+        "fr": "divorcé",
+        "it": "divorziato"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "close",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "близкий",
+        "pl": "bliski",
+        "uk": "близький",
+        "de": {
+          "text": "eng",
+          "alternates": [
+            "nah"
+          ]
+        },
+        "es": "cercano",
+        "fr": "proche",
+        "it": {
+          "text": "intimo",
+          "alternates": [
+            "stretto"
+          ]
+        }
+      }
     }
   ]
 }

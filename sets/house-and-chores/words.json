@@ -819,6 +819,855 @@
         },
         "it": "disordinato"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "broom",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "метла",
+          "alternates": [
+            "веник"
+          ]
+        },
+        "pl": "miotła",
+        "uk": {
+          "text": "мітла",
+          "alternates": [
+            "віник"
+          ]
+        },
+        "de": {
+          "text": "der Besen",
+          "alternates": [
+            "Besen"
+          ]
+        },
+        "es": {
+          "text": "la escoba",
+          "alternates": [
+            "escoba"
+          ]
+        },
+        "fr": {
+          "text": "le balai",
+          "alternates": [
+            "balai"
+          ]
+        },
+        "it": {
+          "text": "la scopa",
+          "alternates": [
+            "scopa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mop",
+          "partOfSpeech": "noun"
+        },
+        "ru": "швабра",
+        "pl": "mop",
+        "uk": "швабра",
+        "de": {
+          "text": "der Wischmopp",
+          "alternates": [
+            "der Mopp",
+            "Wischmopp",
+            "Mopp"
+          ]
+        },
+        "es": {
+          "text": "la fregona",
+          "alternates": [
+            "fregona"
+          ]
+        },
+        "fr": {
+          "text": "le balai à franges",
+          "alternates": [
+            "balai à franges"
+          ]
+        },
+        "it": {
+          "text": "il mocio",
+          "alternates": [
+            "lo straccio",
+            "mocio",
+            "straccio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bucket",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ведро",
+        "pl": "wiadro",
+        "uk": "відро",
+        "de": {
+          "text": "der Eimer",
+          "alternates": [
+            "Eimer"
+          ]
+        },
+        "es": {
+          "text": "el cubo",
+          "alternates": [
+            "el balde",
+            "cubo",
+            "balde"
+          ]
+        },
+        "fr": {
+          "text": "le seau",
+          "alternates": [
+            "seau"
+          ]
+        },
+        "it": {
+          "text": "il secchio",
+          "alternates": [
+            "secchio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sponge",
+          "partOfSpeech": "noun"
+        },
+        "ru": "губка",
+        "pl": "gąbka",
+        "uk": "губка",
+        "de": {
+          "text": "der Schwamm",
+          "alternates": [
+            "Schwamm"
+          ]
+        },
+        "es": {
+          "text": "la esponja",
+          "alternates": [
+            "esponja"
+          ]
+        },
+        "fr": {
+          "text": "l'éponge",
+          "alternates": [
+            "éponge"
+          ]
+        },
+        "it": {
+          "text": "la spugna",
+          "alternates": [
+            "spugna"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "washing powder",
+          "partOfSpeech": "noun"
+        },
+        "ru": "стиральный порошок",
+        "pl": "proszek do prania",
+        "uk": "пральний порошок",
+        "de": {
+          "text": "das Waschpulver",
+          "alternates": [
+            "Waschpulver"
+          ]
+        },
+        "es": {
+          "text": "el detergente",
+          "alternates": [
+            "el jabón en polvo",
+            "detergente",
+            "jabón en polvo"
+          ]
+        },
+        "fr": {
+          "text": "la lessive",
+          "alternates": [
+            "le détergent",
+            "lessive",
+            "détergent"
+          ]
+        },
+        "it": {
+          "text": "il detersivo",
+          "alternates": [
+            "detersivo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ladder",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "лестница",
+          "alternates": [
+            "стремянка"
+          ]
+        },
+        "pl": "drabina",
+        "uk": "драбина",
+        "de": {
+          "text": "die Leiter",
+          "alternates": [
+            "Leiter"
+          ]
+        },
+        "es": {
+          "text": "la escalera",
+          "alternates": [
+            "escalera"
+          ]
+        },
+        "fr": {
+          "text": "l'échelle",
+          "alternates": [
+            "échelle"
+          ]
+        },
+        "it": {
+          "text": "la scala",
+          "alternates": [
+            "scala"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hammer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "молоток",
+        "pl": "młotek",
+        "uk": "молоток",
+        "de": {
+          "text": "der Hammer",
+          "alternates": [
+            "Hammer"
+          ]
+        },
+        "es": {
+          "text": "el martillo",
+          "alternates": [
+            "martillo"
+          ]
+        },
+        "fr": {
+          "text": "le marteau",
+          "alternates": [
+            "marteau"
+          ]
+        },
+        "it": {
+          "text": "il martello",
+          "alternates": [
+            "martello"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "screwdriver",
+          "partOfSpeech": "noun"
+        },
+        "ru": "отвёртка",
+        "pl": "śrubokręt",
+        "uk": "викрутка",
+        "de": {
+          "text": "der Schraubenzieher",
+          "alternates": [
+            "der Schraubendreher",
+            "Schraubenzieher",
+            "Schraubendreher"
+          ]
+        },
+        "es": {
+          "text": "el destornillador",
+          "alternates": [
+            "destornillador"
+          ]
+        },
+        "fr": {
+          "text": "le tournevis",
+          "alternates": [
+            "tournevis"
+          ]
+        },
+        "it": {
+          "text": "il cacciavite",
+          "alternates": [
+            "cacciavite"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nail",
+          "partOfSpeech": "noun"
+        },
+        "ru": "гвоздь",
+        "pl": "gwóźdź",
+        "uk": "цвях",
+        "de": {
+          "text": "der Nagel",
+          "alternates": [
+            "Nagel"
+          ]
+        },
+        "es": {
+          "text": "el clavo",
+          "alternates": [
+            "clavo"
+          ]
+        },
+        "fr": {
+          "text": "le clou",
+          "alternates": [
+            "clou"
+          ]
+        },
+        "it": {
+          "text": "il chiodo",
+          "alternates": [
+            "chiodo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "leak",
+          "partOfSpeech": "noun"
+        },
+        "ru": "протечка",
+        "pl": {
+          "text": "przeciek",
+          "alternates": [
+            "wyciek"
+          ]
+        },
+        "uk": {
+          "text": "протікання",
+          "alternates": [
+            "витік"
+          ]
+        },
+        "de": {
+          "text": "das Leck",
+          "alternates": [
+            "die undichte Stelle",
+            "Leck",
+            "undichte Stelle"
+          ]
+        },
+        "es": {
+          "text": "la fuga",
+          "alternates": [
+            "la gotera",
+            "fuga",
+            "gotera"
+          ]
+        },
+        "fr": {
+          "text": "la fuite",
+          "alternates": [
+            "fuite"
+          ]
+        },
+        "it": {
+          "text": "la perdita",
+          "alternates": [
+            "perdita"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "socket",
+          "partOfSpeech": "noun"
+        },
+        "ru": "розетка",
+        "pl": "gniazdko",
+        "uk": "розетка",
+        "de": {
+          "text": "die Steckdose",
+          "alternates": [
+            "Steckdose"
+          ]
+        },
+        "es": {
+          "text": "el enchufe",
+          "alternates": [
+            "enchufe"
+          ]
+        },
+        "fr": {
+          "text": "la prise",
+          "alternates": [
+            "prise"
+          ]
+        },
+        "it": {
+          "text": "la presa",
+          "alternates": [
+            "presa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to sweep",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "подметать",
+          "alternates": [
+            "подмести"
+          ],
+          "aspects": {
+            "impf": [
+              "подметать"
+            ],
+            "pf": [
+              "подмести"
+            ]
+          }
+        },
+        "pl": {
+          "text": "zamiatać",
+          "alternates": [
+            "zamieść"
+          ],
+          "aspects": {
+            "impf": [
+              "zamiatać"
+            ],
+            "pf": [
+              "zamieść"
+            ]
+          }
+        },
+        "uk": {
+          "text": "підмітати",
+          "alternates": [
+            "підмести"
+          ],
+          "aspects": {
+            "impf": [
+              "підмітати"
+            ],
+            "pf": [
+              "підмести"
+            ]
+          }
+        },
+        "de": {
+          "text": "fegen",
+          "alternates": [
+            "kehren"
+          ]
+        },
+        "es": "barrer",
+        "fr": "balayer",
+        "it": "spazzare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to wipe",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "вытирать",
+          "alternates": [
+            "вытереть"
+          ],
+          "aspects": {
+            "impf": [
+              "вытирать"
+            ],
+            "pf": [
+              "вытереть"
+            ]
+          }
+        },
+        "pl": {
+          "text": "wycierać",
+          "alternates": [
+            "wytrzeć"
+          ],
+          "aspects": {
+            "impf": [
+              "wycierać"
+            ],
+            "pf": [
+              "wytrzeć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "витирати",
+          "alternates": [
+            "витерти"
+          ],
+          "aspects": {
+            "impf": [
+              "витирати"
+            ],
+            "pf": [
+              "витерти"
+            ]
+          }
+        },
+        "de": {
+          "text": "abwischen",
+          "alternates": [
+            "wischen"
+          ]
+        },
+        "es": {
+          "text": "pasar un trapo",
+          "alternates": [
+            "fregar"
+          ]
+        },
+        "fr": "essuyer",
+        "it": {
+          "text": "strofinare",
+          "alternates": [
+            "passare uno straccio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to dust",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "вытирать пыль",
+          "alternates": [
+            "вытереть пыль"
+          ],
+          "aspects": {
+            "impf": [
+              "вытирать пыль"
+            ],
+            "pf": [
+              "вытереть пыль"
+            ]
+          }
+        },
+        "pl": {
+          "text": "ścierać kurz",
+          "alternates": [
+            "zetrzeć kurz"
+          ],
+          "aspects": {
+            "impf": [
+              "ścierać kurz"
+            ],
+            "pf": [
+              "zetrzeć kurz"
+            ]
+          }
+        },
+        "uk": {
+          "text": "витирати пил",
+          "alternates": [
+            "витерти пил"
+          ],
+          "aspects": {
+            "impf": [
+              "витирати пил"
+            ],
+            "pf": [
+              "витерти пил"
+            ]
+          }
+        },
+        "de": {
+          "text": "Staub wischen",
+          "alternates": [
+            "abstauben"
+          ]
+        },
+        "es": "quitar el polvo",
+        "fr": {
+          "text": "épousseter",
+          "alternates": [
+            "faire la poussière"
+          ]
+        },
+        "it": "spolverare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to hang out the washing",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "развешивать бельё",
+          "alternates": [
+            "развесить бельё"
+          ],
+          "aspects": {
+            "impf": [
+              "развешивать бельё"
+            ],
+            "pf": [
+              "развесить бельё"
+            ]
+          }
+        },
+        "pl": {
+          "text": "wieszać pranie",
+          "alternates": [
+            "powiesić pranie"
+          ],
+          "aspects": {
+            "impf": [
+              "wieszać pranie"
+            ],
+            "pf": [
+              "powiesić pranie"
+            ]
+          }
+        },
+        "uk": {
+          "text": "розвішувати білизну",
+          "alternates": [
+            "розвісити білизну"
+          ],
+          "aspects": {
+            "impf": [
+              "розвішувати білизну"
+            ],
+            "pf": [
+              "розвісити білизну"
+            ]
+          }
+        },
+        "de": "die Wäsche aufhängen",
+        "es": "tender la ropa",
+        "fr": "étendre le linge",
+        "it": "stendere il bucato"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to make the bed",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "заправлять кровать",
+          "alternates": [
+            "заправить кровать"
+          ],
+          "aspects": {
+            "impf": [
+              "заправлять кровать"
+            ],
+            "pf": [
+              "заправить кровать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "ścielić łóżko",
+          "alternates": [
+            "pościelić łóżko"
+          ],
+          "aspects": {
+            "impf": [
+              "ścielić łóżko"
+            ],
+            "pf": [
+              "pościelić łóżko"
+            ]
+          }
+        },
+        "uk": {
+          "text": "застеляти ліжко",
+          "alternates": [
+            "застелити ліжко"
+          ],
+          "aspects": {
+            "impf": [
+              "застеляти ліжко"
+            ],
+            "pf": [
+              "застелити ліжко"
+            ]
+          }
+        },
+        "de": "das Bett machen",
+        "es": "hacer la cama",
+        "fr": "faire le lit",
+        "it": "fare il letto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to set the table",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "накрывать на стол",
+          "alternates": [
+            "накрыть на стол"
+          ],
+          "aspects": {
+            "impf": [
+              "накрывать на стол"
+            ],
+            "pf": [
+              "накрыть на стол"
+            ]
+          }
+        },
+        "pl": {
+          "text": "nakrywać do stołu",
+          "alternates": [
+            "nakryć do stołu"
+          ],
+          "aspects": {
+            "impf": [
+              "nakrywać do stołu"
+            ],
+            "pf": [
+              "nakryć do stołu"
+            ]
+          }
+        },
+        "uk": {
+          "text": "накривати на стіл",
+          "alternates": [
+            "накрити на стіл"
+          ],
+          "aspects": {
+            "impf": [
+              "накривати на стіл"
+            ],
+            "pf": [
+              "накрити на стіл"
+            ]
+          }
+        },
+        "de": "den Tisch decken",
+        "es": "poner la mesa",
+        "fr": {
+          "text": "mettre la table",
+          "alternates": [
+            "mettre le couvert"
+          ]
+        },
+        "it": {
+          "text": "apparecchiare la tavola",
+          "alternates": [
+            "apparecchiare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to renovate",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "делать ремонт",
+          "alternates": [
+            "сделать ремонт"
+          ],
+          "aspects": {
+            "impf": [
+              "делать ремонт"
+            ],
+            "pf": [
+              "сделать ремонт"
+            ]
+          }
+        },
+        "pl": {
+          "text": "remontować",
+          "alternates": [
+            "wyremontować"
+          ],
+          "aspects": {
+            "impf": [
+              "remontować"
+            ],
+            "pf": [
+              "wyremontować"
+            ]
+          }
+        },
+        "uk": {
+          "text": "робити ремонт",
+          "alternates": [
+            "зробити ремонт"
+          ],
+          "aspects": {
+            "impf": [
+              "робити ремонт"
+            ],
+            "pf": [
+              "зробити ремонт"
+            ]
+          }
+        },
+        "de": "renovieren",
+        "es": {
+          "text": "reformar",
+          "alternates": [
+            "renovar"
+          ]
+        },
+        "fr": "rénover",
+        "it": "ristrutturare"
+      }
     }
   ]
 }

@@ -1,0 +1,42 @@
+{
+  "title": {
+    "en": "Little words",
+    "ru": "Маленькие слова",
+    "pl": "Małe słówka",
+    "uk": "Маленькі слова",
+    "de": "Kleine Wörter",
+    "es": "Palabras pequeñas",
+    "fr": "Petits mots",
+    "it": "Parole piccole"
+  },
+  "description": {
+    "en": "Yes, not, very, too, only, even, a lot, a little, maybe, please: the words every sentence needs.",
+    "ru": "Да, не, очень, слишком, только, даже, много, немного, может быть, пожалуйста: без них не обходится ни одна фраза.",
+    "pl": "Tak, nie, bardzo, zbyt, tylko, nawet, dużo, trochę, może, proszę: słowa, bez których nie ma zdania.",
+    "uk": "Так, не, дуже, занадто, тільки, навіть, багато, трохи, можливо, будь ласка: без них не обходиться жодна фраза.",
+    "de": "Ja, nicht, sehr, zu, nur, sogar, viel, ein bisschen, vielleicht, bitte: Wörter, die jeder Satz braucht.",
+    "es": "Sí, no, muy, demasiado, solo, incluso, mucho, un poco, quizás, por favor: las palabras que toda frase necesita.",
+    "fr": "Oui, ne... pas, très, trop, seulement, même, beaucoup, un peu, peut-être, s'il vous plaît : les mots de chaque phrase.",
+    "it": "Sì, non, molto, troppo, solo, perfino, tanto, un po', forse, per favore: le parole di ogni frase."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "grammar"
+  ],
+  "updated": "2026-10-21",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

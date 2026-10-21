@@ -995,6 +995,946 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to be",
+          "partOfSpeech": "verb"
+        },
+        "ru": "быть",
+        "pl": "być",
+        "uk": "бути",
+        "de": "sein",
+        "es": {
+          "text": "ser",
+          "alternates": [
+            "estar"
+          ]
+        },
+        "fr": "être",
+        "it": "essere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to have",
+          "partOfSpeech": "verb"
+        },
+        "ru": "иметь",
+        "pl": "mieć",
+        "uk": "мати",
+        "de": "haben",
+        "es": "tener",
+        "fr": "avoir",
+        "it": "avere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to do",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "делать",
+          "alternates": [
+            "сделать"
+          ],
+          "aspects": {
+            "impf": [
+              "делать"
+            ],
+            "pf": [
+              "сделать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "robić",
+          "alternates": [
+            "zrobić"
+          ],
+          "aspects": {
+            "impf": [
+              "robić"
+            ],
+            "pf": [
+              "zrobić"
+            ]
+          }
+        },
+        "uk": {
+          "text": "робити",
+          "alternates": [
+            "зробити"
+          ],
+          "aspects": {
+            "impf": [
+              "робити"
+            ],
+            "pf": [
+              "зробити"
+            ]
+          }
+        },
+        "de": {
+          "text": "machen",
+          "alternates": [
+            "tun"
+          ]
+        },
+        "es": "hacer",
+        "fr": "faire",
+        "it": "fare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to say",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "говорить",
+          "alternates": [
+            "сказать"
+          ],
+          "aspects": {
+            "impf": [
+              "говорить"
+            ],
+            "pf": [
+              "сказать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "mówić",
+          "alternates": [
+            "powiedzieć"
+          ],
+          "aspects": {
+            "impf": [
+              "mówić"
+            ],
+            "pf": [
+              "powiedzieć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "говорити",
+          "alternates": [
+            "сказати"
+          ],
+          "aspects": {
+            "impf": [
+              "говорити"
+            ],
+            "pf": [
+              "сказати"
+            ]
+          }
+        },
+        "de": "sagen",
+        "es": "decir",
+        "fr": "dire",
+        "it": "dire"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to see",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "видеть",
+          "alternates": [
+            "увидеть"
+          ],
+          "aspects": {
+            "impf": [
+              "видеть"
+            ],
+            "pf": [
+              "увидеть"
+            ]
+          }
+        },
+        "pl": {
+          "text": "widzieć",
+          "alternates": [
+            "zobaczyć"
+          ],
+          "aspects": {
+            "impf": [
+              "widzieć"
+            ],
+            "pf": [
+              "zobaczyć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "бачити",
+          "alternates": [
+            "побачити"
+          ],
+          "aspects": {
+            "impf": [
+              "бачити"
+            ],
+            "pf": [
+              "побачити"
+            ]
+          }
+        },
+        "de": "sehen",
+        "es": "ver",
+        "fr": "voir",
+        "it": "vedere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to give",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "давать",
+          "alternates": [
+            "дать"
+          ],
+          "aspects": {
+            "impf": [
+              "давать"
+            ],
+            "pf": [
+              "дать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "dawać",
+          "alternates": [
+            "dać"
+          ],
+          "aspects": {
+            "impf": [
+              "dawać"
+            ],
+            "pf": [
+              "dać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "давати",
+          "alternates": [
+            "дати"
+          ],
+          "aspects": {
+            "impf": [
+              "давати"
+            ],
+            "pf": [
+              "дати"
+            ]
+          }
+        },
+        "de": "geben",
+        "es": "dar",
+        "fr": "donner",
+        "it": "dare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to take",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "брать",
+          "alternates": [
+            "взять"
+          ],
+          "aspects": {
+            "impf": [
+              "брать"
+            ],
+            "pf": [
+              "взять"
+            ]
+          }
+        },
+        "pl": {
+          "text": "brać",
+          "alternates": [
+            "wziąć"
+          ],
+          "aspects": {
+            "impf": [
+              "brać"
+            ],
+            "pf": [
+              "wziąć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "брати",
+          "alternates": [
+            "взяти"
+          ],
+          "aspects": {
+            "impf": [
+              "брати"
+            ],
+            "pf": [
+              "взяти"
+            ]
+          }
+        },
+        "de": "nehmen",
+        "es": {
+          "text": "tomar",
+          "alternates": [
+            "coger"
+          ]
+        },
+        "fr": "prendre",
+        "it": "prendere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to want",
+          "partOfSpeech": "verb"
+        },
+        "ru": "хотеть",
+        "pl": "chcieć",
+        "uk": "хотіти",
+        "de": "wollen",
+        "es": "querer",
+        "fr": "vouloir",
+        "it": "volere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to need",
+          "partOfSpeech": "verb"
+        },
+        "ru": "нуждаться",
+        "pl": "potrzebować",
+        "uk": "потребувати",
+        "de": "brauchen",
+        "es": "necesitar",
+        "fr": "avoir besoin de",
+        "it": "aver bisogno di"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to think",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "думать",
+          "alternates": [
+            "подумать"
+          ],
+          "aspects": {
+            "impf": [
+              "думать"
+            ],
+            "pf": [
+              "подумать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "myśleć",
+          "alternates": [
+            "pomyśleć"
+          ],
+          "aspects": {
+            "impf": [
+              "myśleć"
+            ],
+            "pf": [
+              "pomyśleć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "думати",
+          "alternates": [
+            "подумати"
+          ],
+          "aspects": {
+            "impf": [
+              "думати"
+            ],
+            "pf": [
+              "подумати"
+            ]
+          }
+        },
+        "de": "denken",
+        "es": "pensar",
+        "fr": "penser",
+        "it": "pensare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to find",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "находить",
+          "alternates": [
+            "найти"
+          ],
+          "aspects": {
+            "impf": [
+              "находить"
+            ],
+            "pf": [
+              "найти"
+            ]
+          }
+        },
+        "pl": {
+          "text": "znajdować",
+          "alternates": [
+            "znaleźć"
+          ],
+          "aspects": {
+            "impf": [
+              "znajdować"
+            ],
+            "pf": [
+              "znaleźć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "знаходити",
+          "alternates": [
+            "знайти"
+          ],
+          "aspects": {
+            "impf": [
+              "знаходити"
+            ],
+            "pf": [
+              "знайти"
+            ]
+          }
+        },
+        "de": "finden",
+        "es": "encontrar",
+        "fr": "trouver",
+        "it": "trovare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to ask",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "спрашивать",
+          "alternates": [
+            "спросить"
+          ],
+          "aspects": {
+            "impf": [
+              "спрашивать"
+            ],
+            "pf": [
+              "спросить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "pytać",
+          "alternates": [
+            "zapytać"
+          ],
+          "aspects": {
+            "impf": [
+              "pytać"
+            ],
+            "pf": [
+              "zapytać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "питати",
+          "alternates": [
+            "запитати"
+          ],
+          "aspects": {
+            "impf": [
+              "питати"
+            ],
+            "pf": [
+              "запитати"
+            ]
+          }
+        },
+        "de": "fragen",
+        "es": "preguntar",
+        "fr": "demander",
+        "it": {
+          "text": "chiedere",
+          "alternates": [
+            "domandare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to answer",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "отвечать",
+          "alternates": [
+            "ответить"
+          ],
+          "aspects": {
+            "impf": [
+              "отвечать"
+            ],
+            "pf": [
+              "ответить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "odpowiadać",
+          "alternates": [
+            "odpowiedzieć"
+          ],
+          "aspects": {
+            "impf": [
+              "odpowiadać"
+            ],
+            "pf": [
+              "odpowiedzieć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "відповідати",
+          "alternates": [
+            "відповісти"
+          ],
+          "aspects": {
+            "impf": [
+              "відповідати"
+            ],
+            "pf": [
+              "відповісти"
+            ]
+          }
+        },
+        "de": "antworten",
+        "es": {
+          "text": "responder",
+          "alternates": [
+            "contestar"
+          ]
+        },
+        "fr": "répondre",
+        "it": "rispondere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to begin",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "начинать",
+          "alternates": [
+            "начать"
+          ],
+          "aspects": {
+            "impf": [
+              "начинать"
+            ],
+            "pf": [
+              "начать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "zaczynać",
+          "alternates": [
+            "zacząć"
+          ],
+          "aspects": {
+            "impf": [
+              "zaczynać"
+            ],
+            "pf": [
+              "zacząć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "починати",
+          "alternates": [
+            "почати"
+          ],
+          "aspects": {
+            "impf": [
+              "починати"
+            ],
+            "pf": [
+              "почати"
+            ]
+          }
+        },
+        "de": {
+          "text": "beginnen",
+          "alternates": [
+            "anfangen"
+          ]
+        },
+        "es": {
+          "text": "empezar",
+          "alternates": [
+            "comenzar"
+          ]
+        },
+        "fr": "commencer",
+        "it": {
+          "text": "cominciare",
+          "alternates": [
+            "iniziare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to sit down",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "садиться",
+          "alternates": [
+            "сесть"
+          ],
+          "aspects": {
+            "impf": [
+              "садиться"
+            ],
+            "pf": [
+              "сесть"
+            ]
+          }
+        },
+        "pl": {
+          "text": "siadać",
+          "alternates": [
+            "usiąść"
+          ],
+          "aspects": {
+            "impf": [
+              "siadać"
+            ],
+            "pf": [
+              "usiąść"
+            ]
+          }
+        },
+        "uk": {
+          "text": "сідати",
+          "alternates": [
+            "сісти"
+          ],
+          "aspects": {
+            "impf": [
+              "сідати"
+            ],
+            "pf": [
+              "сісти"
+            ]
+          }
+        },
+        "de": {
+          "text": "sich setzen",
+          "alternates": [
+            "sich hinsetzen"
+          ]
+        },
+        "es": "sentarse",
+        "fr": "s'asseoir",
+        "it": "sedersi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to bring",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "приносить",
+          "alternates": [
+            "принести"
+          ],
+          "aspects": {
+            "impf": [
+              "приносить"
+            ],
+            "pf": [
+              "принести"
+            ]
+          }
+        },
+        "pl": {
+          "text": "przynosić",
+          "alternates": [
+            "przynieść"
+          ],
+          "aspects": {
+            "impf": [
+              "przynosić"
+            ],
+            "pf": [
+              "przynieść"
+            ]
+          }
+        },
+        "uk": {
+          "text": "приносити",
+          "alternates": [
+            "принести"
+          ],
+          "aspects": {
+            "impf": [
+              "приносити"
+            ],
+            "pf": [
+              "принести"
+            ]
+          }
+        },
+        "de": {
+          "text": "bringen",
+          "alternates": [
+            "mitbringen"
+          ]
+        },
+        "es": "traer",
+        "fr": "apporter",
+        "it": "portare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to put",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "класть",
+          "alternates": [
+            "положить"
+          ],
+          "aspects": {
+            "impf": [
+              "класть"
+            ],
+            "pf": [
+              "положить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "kłaść",
+          "alternates": [
+            "położyć"
+          ],
+          "aspects": {
+            "impf": [
+              "kłaść"
+            ],
+            "pf": [
+              "położyć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "класти",
+          "alternates": [
+            "покласти"
+          ],
+          "aspects": {
+            "impf": [
+              "класти"
+            ],
+            "pf": [
+              "покласти"
+            ]
+          }
+        },
+        "de": {
+          "text": "legen",
+          "alternates": [
+            "stellen"
+          ]
+        },
+        "es": "poner",
+        "fr": "mettre",
+        "it": "mettere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to use",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "пользоваться",
+          "alternates": [
+            "воспользоваться"
+          ],
+          "aspects": {
+            "impf": [
+              "пользоваться"
+            ],
+            "pf": [
+              "воспользоваться"
+            ]
+          }
+        },
+        "pl": {
+          "text": "używać",
+          "alternates": [
+            "użyć"
+          ],
+          "aspects": {
+            "impf": [
+              "używać"
+            ],
+            "pf": [
+              "użyć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "користуватися",
+          "alternates": [
+            "скористатися"
+          ],
+          "aspects": {
+            "impf": [
+              "користуватися"
+            ],
+            "pf": [
+              "скористатися"
+            ]
+          }
+        },
+        "de": {
+          "text": "benutzen",
+          "alternates": [
+            "verwenden"
+          ]
+        },
+        "es": {
+          "text": "usar",
+          "alternates": [
+            "utilizar"
+          ]
+        },
+        "fr": "utiliser",
+        "it": {
+          "text": "usare",
+          "alternates": [
+            "utilizzare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to stay",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "оставаться",
+          "alternates": [
+            "остаться"
+          ],
+          "aspects": {
+            "impf": [
+              "оставаться"
+            ],
+            "pf": [
+              "остаться"
+            ]
+          }
+        },
+        "pl": {
+          "text": "zostawać",
+          "alternates": [
+            "zostać"
+          ],
+          "aspects": {
+            "impf": [
+              "zostawać"
+            ],
+            "pf": [
+              "zostać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "залишатися",
+          "alternates": [
+            "залишитися"
+          ],
+          "aspects": {
+            "impf": [
+              "залишатися"
+            ],
+            "pf": [
+              "залишитися"
+            ]
+          }
+        },
+        "de": "bleiben",
+        "es": "quedarse",
+        "fr": "rester",
+        "it": "restare"
+      }
     }
   ]
 }

@@ -736,6 +736,755 @@
         "fr": "écrire",
         "it": "scrivere"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "classroom",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "класс",
+          "alternates": [
+            "кабинет"
+          ]
+        },
+        "pl": {
+          "text": "sala lekcyjna",
+          "alternates": [
+            "klasa"
+          ]
+        },
+        "uk": {
+          "text": "клас",
+          "alternates": [
+            "класна кімната"
+          ]
+        },
+        "de": {
+          "text": "das Klassenzimmer",
+          "alternates": [
+            "Klassenzimmer"
+          ]
+        },
+        "es": {
+          "text": "el aula",
+          "alternates": [
+            "la clase",
+            "aula",
+            "clase"
+          ]
+        },
+        "fr": {
+          "text": "la salle de classe",
+          "alternates": [
+            "la classe",
+            "salle de classe",
+            "classe"
+          ]
+        },
+        "it": {
+          "text": "l'aula",
+          "alternates": [
+            "la classe",
+            "aula",
+            "classe"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "textbook",
+          "partOfSpeech": "noun"
+        },
+        "ru": "учебник",
+        "pl": "podręcznik",
+        "uk": "підручник",
+        "de": {
+          "text": "das Lehrbuch",
+          "alternates": [
+            "das Schulbuch",
+            "Lehrbuch",
+            "Schulbuch"
+          ]
+        },
+        "es": {
+          "text": "el libro de texto",
+          "alternates": [
+            "libro de texto"
+          ]
+        },
+        "fr": {
+          "text": "le manuel",
+          "alternates": [
+            "manuel"
+          ]
+        },
+        "it": {
+          "text": "il libro di testo",
+          "alternates": [
+            "il manuale",
+            "libro di testo",
+            "manuale"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ruler",
+          "partOfSpeech": "noun"
+        },
+        "ru": "линейка",
+        "pl": "linijka",
+        "uk": "лінійка",
+        "de": {
+          "text": "das Lineal",
+          "alternates": [
+            "Lineal"
+          ]
+        },
+        "es": {
+          "text": "la regla",
+          "alternates": [
+            "regla"
+          ]
+        },
+        "fr": {
+          "text": "la règle",
+          "alternates": [
+            "règle"
+          ]
+        },
+        "it": {
+          "text": "il righello",
+          "alternates": [
+            "righello"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rubber",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "ластик",
+          "alternates": [
+            "стёрка"
+          ]
+        },
+        "pl": "gumka",
+        "uk": "гумка",
+        "de": {
+          "text": "der Radiergummi",
+          "alternates": [
+            "Radiergummi"
+          ]
+        },
+        "es": {
+          "text": "la goma de borrar",
+          "alternates": [
+            "la goma",
+            "goma de borrar",
+            "goma"
+          ]
+        },
+        "fr": {
+          "text": "la gomme",
+          "alternates": [
+            "gomme"
+          ]
+        },
+        "it": {
+          "text": "la gomma",
+          "alternates": [
+            "gomma"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "scissors",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ножницы",
+        "pl": "nożyczki",
+        "uk": "ножиці",
+        "de": {
+          "text": "die Schere",
+          "alternates": [
+            "Schere"
+          ]
+        },
+        "es": {
+          "text": "las tijeras",
+          "alternates": [
+            "tijeras"
+          ]
+        },
+        "fr": {
+          "text": "les ciseaux",
+          "alternates": [
+            "ciseaux"
+          ]
+        },
+        "it": {
+          "text": "le forbici",
+          "alternates": [
+            "forbici"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "paper",
+          "partOfSpeech": "noun"
+        },
+        "ru": "бумага",
+        "pl": "papier",
+        "uk": "папір",
+        "de": {
+          "text": "das Papier",
+          "alternates": [
+            "Papier"
+          ]
+        },
+        "es": {
+          "text": "el papel",
+          "alternates": [
+            "papel"
+          ]
+        },
+        "fr": {
+          "text": "le papier",
+          "alternates": [
+            "papier"
+          ]
+        },
+        "it": {
+          "text": "la carta",
+          "alternates": [
+            "carta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "page",
+          "partOfSpeech": "noun"
+        },
+        "ru": "страница",
+        "pl": "strona",
+        "uk": "сторінка",
+        "de": {
+          "text": "die Seite",
+          "alternates": [
+            "Seite"
+          ]
+        },
+        "es": {
+          "text": "la página",
+          "alternates": [
+            "página"
+          ]
+        },
+        "fr": {
+          "text": "la page",
+          "alternates": [
+            "page"
+          ]
+        },
+        "it": {
+          "text": "la pagina",
+          "alternates": [
+            "pagina"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sentence",
+          "partOfSpeech": "noun"
+        },
+        "ru": "предложение",
+        "pl": "zdanie",
+        "uk": "речення",
+        "de": {
+          "text": "der Satz",
+          "alternates": [
+            "Satz"
+          ]
+        },
+        "es": {
+          "text": "la frase",
+          "alternates": [
+            "la oración",
+            "frase",
+            "oración"
+          ]
+        },
+        "fr": {
+          "text": "la phrase",
+          "alternates": [
+            "phrase"
+          ]
+        },
+        "it": {
+          "text": "la frase",
+          "alternates": [
+            "frase"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "word",
+          "partOfSpeech": "noun"
+        },
+        "ru": "слово",
+        "pl": "słowo",
+        "uk": "слово",
+        "de": {
+          "text": "das Wort",
+          "alternates": [
+            "Wort"
+          ]
+        },
+        "es": {
+          "text": "la palabra",
+          "alternates": [
+            "palabra"
+          ]
+        },
+        "fr": {
+          "text": "le mot",
+          "alternates": [
+            "mot"
+          ]
+        },
+        "it": {
+          "text": "la parola",
+          "alternates": [
+            "parola"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "letter",
+          "partOfSpeech": "noun"
+        },
+        "ru": "буква",
+        "pl": "litera",
+        "uk": {
+          "text": "літера",
+          "alternates": [
+            "буква"
+          ]
+        },
+        "de": {
+          "text": "der Buchstabe",
+          "alternates": [
+            "Buchstabe"
+          ]
+        },
+        "es": {
+          "text": "la letra",
+          "alternates": [
+            "letra"
+          ]
+        },
+        "fr": {
+          "text": "la lettre",
+          "alternates": [
+            "lettre"
+          ]
+        },
+        "it": {
+          "text": "la lettera",
+          "alternates": [
+            "lettera"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "question",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вопрос",
+        "pl": "pytanie",
+        "uk": "питання",
+        "de": {
+          "text": "die Frage",
+          "alternates": [
+            "Frage"
+          ]
+        },
+        "es": {
+          "text": "la pregunta",
+          "alternates": [
+            "pregunta"
+          ]
+        },
+        "fr": {
+          "text": "la question",
+          "alternates": [
+            "question"
+          ]
+        },
+        "it": {
+          "text": "la domanda",
+          "alternates": [
+            "domanda"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "answer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ответ",
+        "pl": "odpowiedź",
+        "uk": "відповідь",
+        "de": {
+          "text": "die Antwort",
+          "alternates": [
+            "Antwort"
+          ]
+        },
+        "es": {
+          "text": "la respuesta",
+          "alternates": [
+            "respuesta"
+          ]
+        },
+        "fr": {
+          "text": "la réponse",
+          "alternates": [
+            "réponse"
+          ]
+        },
+        "it": {
+          "text": "la risposta",
+          "alternates": [
+            "risposta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "test",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "контрольная работа",
+          "alternates": [
+            "контрольная",
+            "тест"
+          ]
+        },
+        "pl": {
+          "text": "sprawdzian",
+          "alternates": [
+            "test",
+            "kartkówka"
+          ]
+        },
+        "uk": {
+          "text": "контрольна робота",
+          "alternates": [
+            "контрольна",
+            "тест"
+          ]
+        },
+        "de": {
+          "text": "der Test",
+          "alternates": [
+            "die Klassenarbeit",
+            "Test",
+            "Klassenarbeit"
+          ]
+        },
+        "es": {
+          "text": "la prueba",
+          "alternates": [
+            "el control",
+            "prueba",
+            "control"
+          ]
+        },
+        "fr": {
+          "text": "le contrôle",
+          "alternates": [
+            "l'interrogation",
+            "contrôle",
+            "interrogation"
+          ]
+        },
+        "it": {
+          "text": "la verifica",
+          "alternates": [
+            "il test",
+            "verifica",
+            "test"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "break",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "перемена",
+          "alternates": [
+            "перерыв"
+          ]
+        },
+        "pl": "przerwa",
+        "uk": "перерва",
+        "de": {
+          "text": "die Pause",
+          "alternates": [
+            "Pause"
+          ]
+        },
+        "es": {
+          "text": "el recreo",
+          "alternates": [
+            "el descanso",
+            "recreo",
+            "descanso"
+          ]
+        },
+        "fr": {
+          "text": "la récréation",
+          "alternates": [
+            "la pause",
+            "récréation",
+            "pause"
+          ]
+        },
+        "it": {
+          "text": "la ricreazione",
+          "alternates": [
+            "l'intervallo",
+            "ricreazione",
+            "intervallo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "physics",
+          "partOfSpeech": "noun"
+        },
+        "ru": "физика",
+        "pl": "fizyka",
+        "uk": "фізика",
+        "de": {
+          "text": "die Physik",
+          "alternates": [
+            "Physik"
+          ]
+        },
+        "es": {
+          "text": "la física",
+          "alternates": [
+            "física"
+          ]
+        },
+        "fr": {
+          "text": "la physique",
+          "alternates": [
+            "physique"
+          ]
+        },
+        "it": {
+          "text": "la fisica",
+          "alternates": [
+            "fisica"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "biology",
+          "partOfSpeech": "noun"
+        },
+        "ru": "биология",
+        "pl": "biologia",
+        "uk": "біологія",
+        "de": {
+          "text": "die Biologie",
+          "alternates": [
+            "Biologie"
+          ]
+        },
+        "es": {
+          "text": "la biología",
+          "alternates": [
+            "biología"
+          ]
+        },
+        "fr": {
+          "text": "la biologie",
+          "alternates": [
+            "biologie"
+          ]
+        },
+        "it": {
+          "text": "la biologia",
+          "alternates": [
+            "biologia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to repeat",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "повторять",
+          "alternates": [
+            "повторить"
+          ],
+          "aspects": {
+            "impf": [
+              "повторять"
+            ],
+            "pf": [
+              "повторить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "powtarzać",
+          "alternates": [
+            "powtórzyć"
+          ],
+          "aspects": {
+            "impf": [
+              "powtarzać"
+            ],
+            "pf": [
+              "powtórzyć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "повторювати",
+          "alternates": [
+            "повторити"
+          ],
+          "aspects": {
+            "impf": [
+              "повторювати"
+            ],
+            "pf": [
+              "повторити"
+            ]
+          }
+        },
+        "de": "wiederholen",
+        "es": "repetir",
+        "fr": "répéter",
+        "it": "ripetere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to count",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "считать",
+          "alternates": [
+            "посчитать"
+          ],
+          "aspects": {
+            "impf": [
+              "считать"
+            ],
+            "pf": [
+              "посчитать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "liczyć",
+          "alternates": [
+            "policzyć"
+          ],
+          "aspects": {
+            "impf": [
+              "liczyć"
+            ],
+            "pf": [
+              "policzyć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "рахувати",
+          "alternates": [
+            "порахувати"
+          ],
+          "aspects": {
+            "impf": [
+              "рахувати"
+            ],
+            "pf": [
+              "порахувати"
+            ]
+          }
+        },
+        "de": {
+          "text": "zählen",
+          "alternates": [
+            "rechnen"
+          ]
+        },
+        "es": "contar",
+        "fr": "compter",
+        "it": "contare"
+      }
     }
   ]
 }

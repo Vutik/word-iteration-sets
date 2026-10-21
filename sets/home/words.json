@@ -873,6 +873,727 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "garden",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сад",
+        "pl": "ogród",
+        "uk": "сад",
+        "de": {
+          "text": "der Garten",
+          "alternates": [
+            "Garten"
+          ]
+        },
+        "es": {
+          "text": "el jardín",
+          "alternates": [
+            "jardín"
+          ]
+        },
+        "fr": {
+          "text": "le jardin",
+          "alternates": [
+            "jardin"
+          ]
+        },
+        "it": {
+          "text": "il giardino",
+          "alternates": [
+            "giardino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "balcony",
+          "partOfSpeech": "noun"
+        },
+        "ru": "балкон",
+        "pl": "balkon",
+        "uk": "балкон",
+        "de": {
+          "text": "der Balkon",
+          "alternates": [
+            "Balkon"
+          ]
+        },
+        "es": {
+          "text": "el balcón",
+          "alternates": [
+            "balcón"
+          ]
+        },
+        "fr": {
+          "text": "le balcon",
+          "alternates": [
+            "balcon"
+          ]
+        },
+        "it": {
+          "text": "il balcone",
+          "alternates": [
+            "balcone"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "roof",
+          "partOfSpeech": "noun"
+        },
+        "ru": "крыша",
+        "pl": "dach",
+        "uk": "дах",
+        "de": {
+          "text": "das Dach",
+          "alternates": [
+            "Dach"
+          ]
+        },
+        "es": {
+          "text": "el tejado",
+          "alternates": [
+            "tejado"
+          ]
+        },
+        "fr": {
+          "text": "le toit",
+          "alternates": [
+            "toit"
+          ]
+        },
+        "it": {
+          "text": "il tetto",
+          "alternates": [
+            "tetto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ceiling",
+          "partOfSpeech": "noun"
+        },
+        "ru": "потолок",
+        "pl": "sufit",
+        "uk": "стеля",
+        "de": {
+          "text": "die Decke",
+          "alternates": [
+            "Decke"
+          ]
+        },
+        "es": {
+          "text": "el techo",
+          "alternates": [
+            "techo"
+          ]
+        },
+        "fr": {
+          "text": "le plafond",
+          "alternates": [
+            "plafond"
+          ]
+        },
+        "it": {
+          "text": "il soffitto",
+          "alternates": [
+            "soffitto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "carpet",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ковёр",
+        "pl": "dywan",
+        "uk": "килим",
+        "de": {
+          "text": "der Teppich",
+          "alternates": [
+            "Teppich"
+          ]
+        },
+        "es": {
+          "text": "la alfombra",
+          "alternates": [
+            "alfombra"
+          ]
+        },
+        "fr": {
+          "text": "le tapis",
+          "alternates": [
+            "tapis"
+          ]
+        },
+        "it": {
+          "text": "il tappeto",
+          "alternates": [
+            "tappeto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "curtain",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "штора",
+          "alternates": [
+            "занавеска"
+          ]
+        },
+        "pl": {
+          "text": "zasłona",
+          "alternates": [
+            "firanka"
+          ]
+        },
+        "uk": {
+          "text": "штора",
+          "alternates": [
+            "завіса"
+          ]
+        },
+        "de": {
+          "text": "der Vorhang",
+          "alternates": [
+            "die Gardine",
+            "Vorhang",
+            "Gardine"
+          ]
+        },
+        "es": {
+          "text": "la cortina",
+          "alternates": [
+            "cortina"
+          ]
+        },
+        "fr": {
+          "text": "le rideau",
+          "alternates": [
+            "rideau"
+          ]
+        },
+        "it": {
+          "text": "la tenda",
+          "alternates": [
+            "tenda"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shelf",
+          "partOfSpeech": "noun"
+        },
+        "ru": "полка",
+        "pl": "półka",
+        "uk": "полиця",
+        "de": {
+          "text": "das Regal",
+          "alternates": [
+            "Regal"
+          ]
+        },
+        "es": {
+          "text": "el estante",
+          "alternates": [
+            "la estantería",
+            "estante",
+            "estantería"
+          ]
+        },
+        "fr": {
+          "text": "l'étagère",
+          "alternates": [
+            "étagère"
+          ]
+        },
+        "it": {
+          "text": "lo scaffale",
+          "alternates": [
+            "la mensola",
+            "scaffale",
+            "mensola"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "furniture",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мебель",
+        "pl": "meble",
+        "uk": "меблі",
+        "de": {
+          "text": "die Möbel",
+          "alternates": [
+            "Möbel"
+          ]
+        },
+        "es": {
+          "text": "los muebles",
+          "alternates": [
+            "muebles"
+          ]
+        },
+        "fr": {
+          "text": "les meubles",
+          "alternates": [
+            "meubles"
+          ]
+        },
+        "it": {
+          "text": "i mobili",
+          "alternates": [
+            "mobili"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fridge",
+          "partOfSpeech": "noun"
+        },
+        "ru": "холодильник",
+        "pl": "lodówka",
+        "uk": "холодильник",
+        "de": {
+          "text": "der Kühlschrank",
+          "alternates": [
+            "Kühlschrank"
+          ]
+        },
+        "es": {
+          "text": "la nevera",
+          "alternates": [
+            "el frigorífico",
+            "nevera",
+            "frigorífico"
+          ]
+        },
+        "fr": {
+          "text": "le frigo",
+          "alternates": [
+            "le réfrigérateur",
+            "frigo",
+            "réfrigérateur"
+          ]
+        },
+        "it": {
+          "text": "il frigorifero",
+          "alternates": [
+            "il frigo",
+            "frigorifero",
+            "frigo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "oven",
+          "partOfSpeech": "noun"
+        },
+        "ru": "духовка",
+        "pl": "piekarnik",
+        "uk": "духовка",
+        "de": {
+          "text": "der Backofen",
+          "alternates": [
+            "der Ofen",
+            "Backofen",
+            "Ofen"
+          ]
+        },
+        "es": {
+          "text": "el horno",
+          "alternates": [
+            "horno"
+          ]
+        },
+        "fr": {
+          "text": "le four",
+          "alternates": [
+            "four"
+          ]
+        },
+        "it": {
+          "text": "il forno",
+          "alternates": [
+            "forno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bath",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ванна",
+        "pl": "wanna",
+        "uk": "ванна",
+        "de": {
+          "text": "die Badewanne",
+          "alternates": [
+            "Badewanne"
+          ]
+        },
+        "es": {
+          "text": "la bañera",
+          "alternates": [
+            "bañera"
+          ]
+        },
+        "fr": {
+          "text": "la baignoire",
+          "alternates": [
+            "baignoire"
+          ]
+        },
+        "it": {
+          "text": "la vasca da bagno",
+          "alternates": [
+            "la vasca",
+            "vasca da bagno",
+            "vasca"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shower",
+          "partOfSpeech": "noun"
+        },
+        "ru": "душ",
+        "pl": "prysznic",
+        "uk": "душ",
+        "de": {
+          "text": "die Dusche",
+          "alternates": [
+            "Dusche"
+          ]
+        },
+        "es": {
+          "text": "la ducha",
+          "alternates": [
+            "ducha"
+          ]
+        },
+        "fr": {
+          "text": "la douche",
+          "alternates": [
+            "douche"
+          ]
+        },
+        "it": {
+          "text": "la doccia",
+          "alternates": [
+            "doccia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sink",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "раковина",
+          "alternates": [
+            "мойка"
+          ]
+        },
+        "pl": {
+          "text": "zlew",
+          "alternates": [
+            "zlewozmywak"
+          ]
+        },
+        "uk": {
+          "text": "мийка",
+          "alternates": [
+            "раковина"
+          ]
+        },
+        "de": {
+          "text": "die Spüle",
+          "alternates": [
+            "das Waschbecken",
+            "Spüle",
+            "Waschbecken"
+          ]
+        },
+        "es": {
+          "text": "el fregadero",
+          "alternates": [
+            "el lavabo",
+            "fregadero",
+            "lavabo"
+          ]
+        },
+        "fr": {
+          "text": "l'évier",
+          "alternates": [
+            "le lavabo",
+            "évier",
+            "lavabo"
+          ]
+        },
+        "it": {
+          "text": "il lavello",
+          "alternates": [
+            "il lavandino",
+            "lavello",
+            "lavandino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "towel",
+          "partOfSpeech": "noun"
+        },
+        "ru": "полотенце",
+        "pl": "ręcznik",
+        "uk": "рушник",
+        "de": {
+          "text": "das Handtuch",
+          "alternates": [
+            "Handtuch"
+          ]
+        },
+        "es": {
+          "text": "la toalla",
+          "alternates": [
+            "toalla"
+          ]
+        },
+        "fr": {
+          "text": "la serviette",
+          "alternates": [
+            "serviette"
+          ]
+        },
+        "it": {
+          "text": "l'asciugamano",
+          "alternates": [
+            "asciugamano"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pillow",
+          "partOfSpeech": "noun"
+        },
+        "ru": "подушка",
+        "pl": "poduszka",
+        "uk": "подушка",
+        "de": {
+          "text": "das Kopfkissen",
+          "alternates": [
+            "das Kissen",
+            "Kopfkissen",
+            "Kissen"
+          ]
+        },
+        "es": {
+          "text": "la almohada",
+          "alternates": [
+            "almohada"
+          ]
+        },
+        "fr": {
+          "text": "l'oreiller",
+          "alternates": [
+            "oreiller"
+          ]
+        },
+        "it": {
+          "text": "il cuscino",
+          "alternates": [
+            "cuscino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "blanket",
+          "partOfSpeech": "noun"
+        },
+        "ru": "одеяло",
+        "pl": {
+          "text": "kołdra",
+          "alternates": [
+            "koc"
+          ]
+        },
+        "uk": "ковдра",
+        "de": {
+          "text": "die Bettdecke",
+          "alternates": [
+            "Bettdecke"
+          ]
+        },
+        "es": {
+          "text": "la manta",
+          "alternates": [
+            "manta"
+          ]
+        },
+        "fr": {
+          "text": "la couverture",
+          "alternates": [
+            "couverture"
+          ]
+        },
+        "it": {
+          "text": "la coperta",
+          "alternates": [
+            "coperta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "armchair",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кресло",
+        "pl": "fotel",
+        "uk": "крісло",
+        "de": {
+          "text": "der Sessel",
+          "alternates": [
+            "Sessel"
+          ]
+        },
+        "es": {
+          "text": "el sillón",
+          "alternates": [
+            "sillón"
+          ]
+        },
+        "fr": {
+          "text": "le fauteuil",
+          "alternates": [
+            "fauteuil"
+          ]
+        },
+        "it": {
+          "text": "la poltrona",
+          "alternates": [
+            "poltrona"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "address",
+          "partOfSpeech": "noun"
+        },
+        "ru": "адрес",
+        "pl": "adres",
+        "uk": "адреса",
+        "de": {
+          "text": "die Adresse",
+          "alternates": [
+            "Adresse"
+          ]
+        },
+        "es": {
+          "text": "la dirección",
+          "alternates": [
+            "dirección"
+          ]
+        },
+        "fr": {
+          "text": "l'adresse",
+          "alternates": [
+            "adresse"
+          ]
+        },
+        "it": {
+          "text": "l'indirizzo",
+          "alternates": [
+            "indirizzo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to live",
+          "partOfSpeech": "verb"
+        },
+        "ru": "жить",
+        "pl": "mieszkać",
+        "uk": {
+          "text": "жити",
+          "alternates": [
+            "мешкати"
+          ]
+        },
+        "de": "wohnen",
+        "es": "vivir",
+        "fr": {
+          "text": "habiter",
+          "alternates": [
+            "vivre"
+          ]
+        },
+        "it": {
+          "text": "abitare",
+          "alternates": [
+            "vivere"
+          ]
+        }
+      }
     }
   ]
 }

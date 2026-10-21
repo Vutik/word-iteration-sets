@@ -1,0 +1,42 @@
+{
+  "title": {
+    "en": "Where? Here, there",
+    "ru": "Где? Здесь, туда, оттуда",
+    "pl": "Gdzie? Tu, tam, stąd",
+    "uk": "Де? Тут, туди, звідти",
+    "de": "Wo? Hier, dorthin",
+    "es": "¿Dónde? Aquí, allí",
+    "fr": "Où ? Ici, là-bas",
+    "it": "Dove? Qui, lì"
+  },
+  "description": {
+    "en": "Question words — who, where, why, how much — and the words that answer them: here, there, to here, from there, up, left, everywhere.",
+    "ru": "Вопросительные слова — кто, где, куда, почему, сколько — и слова-ответы: здесь, там, сюда, туда, оттуда, наверх, налево, везде.",
+    "pl": "Słowa pytające — kto, gdzie, dokąd, dlaczego, ile — i odpowiedzi: tu, tam, stąd, stamtąd, w górę, w lewo, wszędzie.",
+    "uk": "Питальні слова — хто, де, куди, чому, скільки — і слова-відповіді: тут, там, сюди, туди, звідти, вгору, ліворуч, скрізь.",
+    "de": "Fragewörter — wer, wo, wohin, warum, wie viel — und die Antworten: hier, dort, hierher, von dort, nach oben, links, überall.",
+    "es": "Palabras interrogativas — quién, dónde, adónde, por qué, cuánto — y sus respuestas: aquí, allí, desde allí, arriba, a la izquierda, en todas partes.",
+    "fr": "Les mots interrogatifs — qui, où, pourquoi, combien — et leurs réponses : ici, là-bas, d'ici, de là, en haut, à gauche, partout.",
+    "it": "Le parole interrogative — chi, dove, perché, quanto — e le risposte: qui, lì, da qui, da lì, su, a sinistra, dappertutto."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "grammar"
+  ],
+  "updated": "2026-10-21",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

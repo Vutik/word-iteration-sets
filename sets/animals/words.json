@@ -748,6 +748,811 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "animal",
+          "partOfSpeech": "noun"
+        },
+        "ru": "животное",
+        "pl": "zwierzę",
+        "uk": "тварина",
+        "de": {
+          "text": "das Tier",
+          "alternates": [
+            "Tier"
+          ]
+        },
+        "es": {
+          "text": "el animal",
+          "alternates": [
+            "animal"
+          ]
+        },
+        "fr": {
+          "text": "l'animal",
+          "alternates": [
+            "animal"
+          ]
+        },
+        "it": {
+          "text": "l'animale",
+          "alternates": [
+            "animale"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pet",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "домашнее животное",
+          "alternates": [
+            "питомец"
+          ]
+        },
+        "pl": "zwierzę domowe",
+        "uk": {
+          "text": "домашня тварина",
+          "alternates": [
+            "улюбленець"
+          ]
+        },
+        "de": {
+          "text": "das Haustier",
+          "alternates": [
+            "Haustier"
+          ]
+        },
+        "es": {
+          "text": "la mascota",
+          "alternates": [
+            "mascota"
+          ]
+        },
+        "fr": {
+          "text": "l'animal de compagnie",
+          "alternates": [
+            "animal de compagnie"
+          ]
+        },
+        "it": {
+          "text": "l'animale domestico",
+          "alternates": [
+            "animale domestico"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "puppy",
+          "partOfSpeech": "noun"
+        },
+        "ru": "щенок",
+        "pl": {
+          "text": "szczeniak",
+          "alternates": [
+            "szczenię"
+          ]
+        },
+        "uk": "цуценя",
+        "de": {
+          "text": "der Welpe",
+          "alternates": [
+            "Welpe"
+          ]
+        },
+        "es": {
+          "text": "el cachorro",
+          "alternates": [
+            "cachorro"
+          ]
+        },
+        "fr": {
+          "text": "le chiot",
+          "alternates": [
+            "chiot"
+          ]
+        },
+        "it": {
+          "text": "il cucciolo",
+          "alternates": [
+            "cucciolo",
+            "il cagnolino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "kitten",
+          "partOfSpeech": "noun"
+        },
+        "ru": "котёнок",
+        "pl": {
+          "text": "kociak",
+          "alternates": [
+            "kotek"
+          ]
+        },
+        "uk": {
+          "text": "кошеня",
+          "alternates": [
+            "кошенятко"
+          ]
+        },
+        "de": {
+          "text": "das Kätzchen",
+          "alternates": [
+            "Kätzchen"
+          ]
+        },
+        "es": {
+          "text": "el gatito",
+          "alternates": [
+            "gatito"
+          ]
+        },
+        "fr": {
+          "text": "le chaton",
+          "alternates": [
+            "chaton"
+          ]
+        },
+        "it": {
+          "text": "il gattino",
+          "alternates": [
+            "gattino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "goat",
+          "partOfSpeech": "noun"
+        },
+        "ru": "коза",
+        "pl": "koza",
+        "uk": "коза",
+        "de": {
+          "text": "die Ziege",
+          "alternates": [
+            "Ziege"
+          ]
+        },
+        "es": {
+          "text": "la cabra",
+          "alternates": [
+            "cabra"
+          ]
+        },
+        "fr": {
+          "text": "la chèvre",
+          "alternates": [
+            "chèvre"
+          ]
+        },
+        "it": {
+          "text": "la capra",
+          "alternates": [
+            "capra"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rooster",
+          "partOfSpeech": "noun"
+        },
+        "ru": "петух",
+        "pl": "kogut",
+        "uk": "півень",
+        "de": {
+          "text": "der Hahn",
+          "alternates": [
+            "Hahn"
+          ]
+        },
+        "es": {
+          "text": "el gallo",
+          "alternates": [
+            "gallo"
+          ]
+        },
+        "fr": {
+          "text": "le coq",
+          "alternates": [
+            "coq"
+          ]
+        },
+        "it": {
+          "text": "il gallo",
+          "alternates": [
+            "gallo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "goose",
+          "partOfSpeech": "noun"
+        },
+        "ru": "гусь",
+        "pl": "gęś",
+        "uk": {
+          "text": "гуска",
+          "alternates": [
+            "гусак"
+          ]
+        },
+        "de": {
+          "text": "die Gans",
+          "alternates": [
+            "Gans"
+          ]
+        },
+        "es": {
+          "text": "el ganso",
+          "alternates": [
+            "ganso"
+          ]
+        },
+        "fr": {
+          "text": "l'oie",
+          "alternates": [
+            "oie"
+          ]
+        },
+        "it": {
+          "text": "l'oca",
+          "alternates": [
+            "oca"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "donkey",
+          "partOfSpeech": "noun"
+        },
+        "ru": "осёл",
+        "pl": "osioł",
+        "uk": "осел",
+        "de": {
+          "text": "der Esel",
+          "alternates": [
+            "Esel"
+          ]
+        },
+        "es": {
+          "text": "el burro",
+          "alternates": [
+            "burro",
+            "el asno"
+          ]
+        },
+        "fr": {
+          "text": "l'âne",
+          "alternates": [
+            "âne"
+          ]
+        },
+        "it": {
+          "text": "l'asino",
+          "alternates": [
+            "asino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tiger",
+          "partOfSpeech": "noun"
+        },
+        "ru": "тигр",
+        "pl": "tygrys",
+        "uk": "тигр",
+        "de": {
+          "text": "der Tiger",
+          "alternates": [
+            "Tiger"
+          ]
+        },
+        "es": {
+          "text": "el tigre",
+          "alternates": [
+            "tigre"
+          ]
+        },
+        "fr": {
+          "text": "le tigre",
+          "alternates": [
+            "tigre"
+          ]
+        },
+        "it": {
+          "text": "la tigre",
+          "alternates": [
+            "tigre"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "giraffe",
+          "partOfSpeech": "noun"
+        },
+        "ru": "жираф",
+        "pl": "żyrafa",
+        "uk": "жирафа",
+        "de": {
+          "text": "die Giraffe",
+          "alternates": [
+            "Giraffe"
+          ]
+        },
+        "es": {
+          "text": "la jirafa",
+          "alternates": [
+            "jirafa"
+          ]
+        },
+        "fr": {
+          "text": "la girafe",
+          "alternates": [
+            "girafe"
+          ]
+        },
+        "it": {
+          "text": "la giraffa",
+          "alternates": [
+            "giraffa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "camel",
+          "partOfSpeech": "noun"
+        },
+        "ru": "верблюд",
+        "pl": "wielbłąd",
+        "uk": "верблюд",
+        "de": {
+          "text": "das Kamel",
+          "alternates": [
+            "Kamel"
+          ]
+        },
+        "es": {
+          "text": "el camello",
+          "alternates": [
+            "camello"
+          ]
+        },
+        "fr": {
+          "text": "le chameau",
+          "alternates": [
+            "chameau"
+          ]
+        },
+        "it": {
+          "text": "il cammello",
+          "alternates": [
+            "cammello"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "deer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "олень",
+        "pl": "jeleń",
+        "uk": "олень",
+        "de": {
+          "text": "der Hirsch",
+          "alternates": [
+            "Hirsch"
+          ]
+        },
+        "es": {
+          "text": "el ciervo",
+          "alternates": [
+            "ciervo"
+          ]
+        },
+        "fr": {
+          "text": "le cerf",
+          "alternates": [
+            "cerf"
+          ]
+        },
+        "it": {
+          "text": "il cervo",
+          "alternates": [
+            "cervo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "squirrel",
+          "partOfSpeech": "noun"
+        },
+        "ru": "белка",
+        "pl": "wiewiórka",
+        "uk": "білка",
+        "de": {
+          "text": "das Eichhörnchen",
+          "alternates": [
+            "Eichhörnchen"
+          ]
+        },
+        "es": {
+          "text": "la ardilla",
+          "alternates": [
+            "ardilla"
+          ]
+        },
+        "fr": {
+          "text": "l'écureuil",
+          "alternates": [
+            "écureuil"
+          ]
+        },
+        "it": {
+          "text": "lo scoiattolo",
+          "alternates": [
+            "scoiattolo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "owl",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сова",
+        "pl": "sowa",
+        "uk": "сова",
+        "de": {
+          "text": "die Eule",
+          "alternates": [
+            "Eule"
+          ]
+        },
+        "es": {
+          "text": "el búho",
+          "alternates": [
+            "búho",
+            "la lechuza"
+          ]
+        },
+        "fr": {
+          "text": "le hibou",
+          "alternates": [
+            "hibou",
+            "la chouette"
+          ]
+        },
+        "it": {
+          "text": "il gufo",
+          "alternates": [
+            "gufo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "eagle",
+          "partOfSpeech": "noun"
+        },
+        "ru": "орёл",
+        "pl": "orzeł",
+        "uk": "орел",
+        "de": {
+          "text": "der Adler",
+          "alternates": [
+            "Adler"
+          ]
+        },
+        "es": {
+          "text": "el águila",
+          "alternates": [
+            "águila"
+          ]
+        },
+        "fr": {
+          "text": "l'aigle",
+          "alternates": [
+            "aigle"
+          ]
+        },
+        "it": {
+          "text": "l'aquila",
+          "alternates": [
+            "aquila"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dolphin",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дельфин",
+        "pl": "delfin",
+        "uk": "дельфін",
+        "de": {
+          "text": "der Delfin",
+          "alternates": [
+            "Delfin",
+            "der Delphin"
+          ]
+        },
+        "es": {
+          "text": "el delfín",
+          "alternates": [
+            "delfín"
+          ]
+        },
+        "fr": {
+          "text": "le dauphin",
+          "alternates": [
+            "dauphin"
+          ]
+        },
+        "it": {
+          "text": "il delfino",
+          "alternates": [
+            "delfino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "whale",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кит",
+        "pl": "wieloryb",
+        "uk": "кит",
+        "de": {
+          "text": "der Wal",
+          "alternates": [
+            "Wal"
+          ]
+        },
+        "es": {
+          "text": "la ballena",
+          "alternates": [
+            "ballena"
+          ]
+        },
+        "fr": {
+          "text": "la baleine",
+          "alternates": [
+            "baleine"
+          ]
+        },
+        "it": {
+          "text": "la balena",
+          "alternates": [
+            "balena"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "turtle",
+          "partOfSpeech": "noun"
+        },
+        "ru": "черепаха",
+        "pl": "żółw",
+        "uk": "черепаха",
+        "de": {
+          "text": "die Schildkröte",
+          "alternates": [
+            "Schildkröte"
+          ]
+        },
+        "es": {
+          "text": "la tortuga",
+          "alternates": [
+            "tortuga"
+          ]
+        },
+        "fr": {
+          "text": "la tortue",
+          "alternates": [
+            "tortue"
+          ]
+        },
+        "it": {
+          "text": "la tartaruga",
+          "alternates": [
+            "tartaruga"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bee",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пчела",
+        "pl": "pszczoła",
+        "uk": "бджола",
+        "de": {
+          "text": "die Biene",
+          "alternates": [
+            "Biene"
+          ]
+        },
+        "es": {
+          "text": "la abeja",
+          "alternates": [
+            "abeja"
+          ]
+        },
+        "fr": {
+          "text": "l'abeille",
+          "alternates": [
+            "abeille"
+          ]
+        },
+        "it": {
+          "text": "l'ape",
+          "alternates": [
+            "ape"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "butterfly",
+          "partOfSpeech": "noun"
+        },
+        "ru": "бабочка",
+        "pl": "motyl",
+        "uk": "метелик",
+        "de": {
+          "text": "der Schmetterling",
+          "alternates": [
+            "Schmetterling"
+          ]
+        },
+        "es": {
+          "text": "la mariposa",
+          "alternates": [
+            "mariposa"
+          ]
+        },
+        "fr": {
+          "text": "le papillon",
+          "alternates": [
+            "papillon"
+          ]
+        },
+        "it": {
+          "text": "la farfalla",
+          "alternates": [
+            "farfalla"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "spider",
+          "partOfSpeech": "noun"
+        },
+        "ru": "паук",
+        "pl": "pająk",
+        "uk": "павук",
+        "de": {
+          "text": "die Spinne",
+          "alternates": [
+            "Spinne"
+          ]
+        },
+        "es": {
+          "text": "la araña",
+          "alternates": [
+            "araña"
+          ]
+        },
+        "fr": {
+          "text": "l'araignée",
+          "alternates": [
+            "araignée"
+          ]
+        },
+        "it": {
+          "text": "il ragno",
+          "alternates": [
+            "ragno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fly",
+          "partOfSpeech": "noun"
+        },
+        "ru": "муха",
+        "pl": "mucha",
+        "uk": "муха",
+        "de": {
+          "text": "die Fliege",
+          "alternates": [
+            "Fliege"
+          ]
+        },
+        "es": {
+          "text": "la mosca",
+          "alternates": [
+            "mosca"
+          ]
+        },
+        "fr": {
+          "text": "la mouche",
+          "alternates": [
+            "mouche"
+          ]
+        },
+        "it": {
+          "text": "la mosca",
+          "alternates": [
+            "mosca"
+          ]
+        }
+      }
     }
   ]
 }

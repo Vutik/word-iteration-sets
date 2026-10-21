@@ -726,6 +726,869 @@
         },
         "it": "guarire"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "patient",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пациент",
+        "pl": "pacjent",
+        "uk": "пацієнт",
+        "de": {
+          "text": "der Patient",
+          "alternates": [
+            "Patient"
+          ]
+        },
+        "es": {
+          "text": "el paciente",
+          "alternates": [
+            "paciente"
+          ]
+        },
+        "fr": {
+          "text": "le patient",
+          "alternates": [
+            "patient"
+          ]
+        },
+        "it": {
+          "text": "il paziente",
+          "alternates": [
+            "paziente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ambulance",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "скорая помощь",
+          "alternates": [
+            "скорая"
+          ]
+        },
+        "pl": {
+          "text": "karetka",
+          "alternates": [
+            "pogotowie"
+          ]
+        },
+        "uk": {
+          "text": "швидка допомога",
+          "alternates": [
+            "швидка"
+          ]
+        },
+        "de": {
+          "text": "der Krankenwagen",
+          "alternates": [
+            "der Rettungswagen",
+            "Krankenwagen",
+            "Rettungswagen"
+          ]
+        },
+        "es": {
+          "text": "la ambulancia",
+          "alternates": [
+            "ambulancia"
+          ]
+        },
+        "fr": {
+          "text": "l'ambulance",
+          "alternates": [
+            "ambulance"
+          ]
+        },
+        "it": {
+          "text": "l'ambulanza",
+          "alternates": [
+            "ambulanza"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "injury",
+          "partOfSpeech": "noun"
+        },
+        "ru": "травма",
+        "pl": {
+          "text": "uraz",
+          "alternates": [
+            "kontuzja"
+          ]
+        },
+        "uk": "травма",
+        "de": {
+          "text": "die Verletzung",
+          "alternates": [
+            "Verletzung"
+          ]
+        },
+        "es": {
+          "text": "la lesión",
+          "alternates": [
+            "lesión"
+          ]
+        },
+        "fr": {
+          "text": "la blessure",
+          "alternates": [
+            "blessure"
+          ]
+        },
+        "it": {
+          "text": "l'infortunio",
+          "alternates": [
+            "la lesione",
+            "infortunio",
+            "lesione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wound",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рана",
+        "pl": "rana",
+        "uk": "рана",
+        "de": {
+          "text": "die Wunde",
+          "alternates": [
+            "Wunde"
+          ]
+        },
+        "es": {
+          "text": "la herida",
+          "alternates": [
+            "herida"
+          ]
+        },
+        "fr": {
+          "text": "la plaie",
+          "alternates": [
+            "la blessure",
+            "plaie",
+            "blessure"
+          ]
+        },
+        "it": {
+          "text": "la ferita",
+          "alternates": [
+            "ferita"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "blood",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кровь",
+        "pl": "krew",
+        "uk": "кров",
+        "de": {
+          "text": "das Blut",
+          "alternates": [
+            "Blut"
+          ]
+        },
+        "es": {
+          "text": "la sangre",
+          "alternates": [
+            "sangre"
+          ]
+        },
+        "fr": {
+          "text": "le sang",
+          "alternates": [
+            "sang"
+          ]
+        },
+        "it": {
+          "text": "il sangue",
+          "alternates": [
+            "sangue"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bandage",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "бинт",
+          "alternates": [
+            "повязка"
+          ]
+        },
+        "pl": {
+          "text": "bandaż",
+          "alternates": [
+            "opatrunek"
+          ]
+        },
+        "uk": {
+          "text": "бинт",
+          "alternates": [
+            "пов'язка"
+          ]
+        },
+        "de": {
+          "text": "der Verband",
+          "alternates": [
+            "Verband"
+          ]
+        },
+        "es": {
+          "text": "la venda",
+          "alternates": [
+            "venda"
+          ]
+        },
+        "fr": {
+          "text": "le pansement",
+          "alternates": [
+            "le bandage",
+            "pansement",
+            "bandage"
+          ]
+        },
+        "it": {
+          "text": "la benda",
+          "alternates": [
+            "benda"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "thermometer",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "термометр",
+          "alternates": [
+            "градусник"
+          ]
+        },
+        "pl": "termometr",
+        "uk": {
+          "text": "термометр",
+          "alternates": [
+            "градусник"
+          ]
+        },
+        "de": {
+          "text": "das Thermometer",
+          "alternates": [
+            "Thermometer"
+          ]
+        },
+        "es": {
+          "text": "el termómetro",
+          "alternates": [
+            "termómetro"
+          ]
+        },
+        "fr": {
+          "text": "le thermomètre",
+          "alternates": [
+            "thermomètre"
+          ]
+        },
+        "it": {
+          "text": "il termometro",
+          "alternates": [
+            "termometro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sore throat",
+          "partOfSpeech": "noun"
+        },
+        "ru": "боль в горле",
+        "pl": "ból gardła",
+        "uk": "біль у горлі",
+        "de": {
+          "text": "die Halsschmerzen",
+          "alternates": [
+            "Halsschmerzen"
+          ]
+        },
+        "es": {
+          "text": "el dolor de garganta",
+          "alternates": [
+            "dolor de garganta"
+          ]
+        },
+        "fr": {
+          "text": "le mal de gorge",
+          "alternates": [
+            "mal de gorge"
+          ]
+        },
+        "it": {
+          "text": "il mal di gola",
+          "alternates": [
+            "mal di gola"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "toothache",
+          "partOfSpeech": "noun"
+        },
+        "ru": "зубная боль",
+        "pl": "ból zęba",
+        "uk": "зубний біль",
+        "de": {
+          "text": "die Zahnschmerzen",
+          "alternates": [
+            "Zahnschmerzen"
+          ]
+        },
+        "es": {
+          "text": "el dolor de muelas",
+          "alternates": [
+            "el dolor de dientes",
+            "dolor de muelas",
+            "dolor de dientes"
+          ]
+        },
+        "fr": {
+          "text": "le mal de dents",
+          "alternates": [
+            "mal de dents"
+          ]
+        },
+        "it": {
+          "text": "il mal di denti",
+          "alternates": [
+            "mal di denti"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "stomach ache",
+          "partOfSpeech": "noun"
+        },
+        "ru": "боль в животе",
+        "pl": "ból brzucha",
+        "uk": "біль у животі",
+        "de": {
+          "text": "die Bauchschmerzen",
+          "alternates": [
+            "Bauchschmerzen"
+          ]
+        },
+        "es": {
+          "text": "el dolor de estómago",
+          "alternates": [
+            "el dolor de barriga",
+            "dolor de estómago",
+            "dolor de barriga"
+          ]
+        },
+        "fr": {
+          "text": "le mal au ventre",
+          "alternates": [
+            "le mal à l'estomac",
+            "mal au ventre",
+            "mal à l'estomac"
+          ]
+        },
+        "it": {
+          "text": "il mal di pancia",
+          "alternates": [
+            "il mal di stomaco",
+            "mal di pancia",
+            "mal di stomaco"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "allergy",
+          "partOfSpeech": "noun"
+        },
+        "ru": "аллергия",
+        "pl": "alergia",
+        "uk": "алергія",
+        "de": {
+          "text": "die Allergie",
+          "alternates": [
+            "Allergie"
+          ]
+        },
+        "es": {
+          "text": "la alergia",
+          "alternates": [
+            "alergia"
+          ]
+        },
+        "fr": {
+          "text": "l'allergie",
+          "alternates": [
+            "allergie"
+          ]
+        },
+        "it": {
+          "text": "l'allergia",
+          "alternates": [
+            "allergia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "treatment",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лечение",
+        "pl": "leczenie",
+        "uk": "лікування",
+        "de": {
+          "text": "die Behandlung",
+          "alternates": [
+            "Behandlung"
+          ]
+        },
+        "es": {
+          "text": "el tratamiento",
+          "alternates": [
+            "tratamiento"
+          ]
+        },
+        "fr": {
+          "text": "le traitement",
+          "alternates": [
+            "traitement"
+          ]
+        },
+        "it": {
+          "text": "il trattamento",
+          "alternates": [
+            "la cura",
+            "trattamento",
+            "cura"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "operation",
+          "partOfSpeech": "noun"
+        },
+        "ru": "операция",
+        "pl": "operacja",
+        "uk": "операція",
+        "de": {
+          "text": "die Operation",
+          "alternates": [
+            "Operation"
+          ]
+        },
+        "es": {
+          "text": "la operación",
+          "alternates": [
+            "operación"
+          ]
+        },
+        "fr": {
+          "text": "l'opération",
+          "alternates": [
+            "l'intervention",
+            "opération",
+            "intervention"
+          ]
+        },
+        "it": {
+          "text": "l'operazione",
+          "alternates": [
+            "l'intervento",
+            "operazione",
+            "intervento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "vaccine",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "вакцина",
+          "alternates": [
+            "прививка"
+          ]
+        },
+        "pl": "szczepionka",
+        "uk": {
+          "text": "вакцина",
+          "alternates": [
+            "щеплення"
+          ]
+        },
+        "de": {
+          "text": "der Impfstoff",
+          "alternates": [
+            "Impfstoff"
+          ]
+        },
+        "es": {
+          "text": "la vacuna",
+          "alternates": [
+            "vacuna"
+          ]
+        },
+        "fr": {
+          "text": "le vaccin",
+          "alternates": [
+            "vaccin"
+          ]
+        },
+        "it": {
+          "text": "il vaccino",
+          "alternates": [
+            "vaccino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "diet",
+          "partOfSpeech": "noun"
+        },
+        "ru": "диета",
+        "pl": "dieta",
+        "uk": "дієта",
+        "de": {
+          "text": "die Diät",
+          "alternates": [
+            "Diät"
+          ]
+        },
+        "es": {
+          "text": "la dieta",
+          "alternates": [
+            "dieta"
+          ]
+        },
+        "fr": {
+          "text": "le régime",
+          "alternates": [
+            "régime"
+          ]
+        },
+        "it": {
+          "text": "la dieta",
+          "alternates": [
+            "dieta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to cough",
+          "partOfSpeech": "verb"
+        },
+        "ru": "кашлять",
+        "pl": "kaszleć",
+        "uk": "кашляти",
+        "de": "husten",
+        "es": "toser",
+        "fr": "tousser",
+        "it": "tossire"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to sneeze",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "чихать",
+          "alternates": [
+            "чихнуть"
+          ],
+          "aspects": {
+            "impf": [
+              "чихать"
+            ],
+            "pf": [
+              "чихнуть"
+            ]
+          }
+        },
+        "pl": {
+          "text": "kichać",
+          "alternates": [
+            "kichnąć"
+          ],
+          "aspects": {
+            "impf": [
+              "kichać"
+            ],
+            "pf": [
+              "kichnąć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "чхати",
+          "alternates": [
+            "чхнути"
+          ],
+          "aspects": {
+            "impf": [
+              "чхати"
+            ],
+            "pf": [
+              "чхнути"
+            ]
+          }
+        },
+        "de": "niesen",
+        "es": "estornudar",
+        "fr": "éternuer",
+        "it": "starnutire"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to treat",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "лечить",
+          "alternates": [
+            "вылечить"
+          ],
+          "aspects": {
+            "impf": [
+              "лечить"
+            ],
+            "pf": [
+              "вылечить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "leczyć",
+          "alternates": [
+            "wyleczyć"
+          ],
+          "aspects": {
+            "impf": [
+              "leczyć"
+            ],
+            "pf": [
+              "wyleczyć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "лікувати",
+          "alternates": [
+            "вилікувати"
+          ],
+          "aspects": {
+            "impf": [
+              "лікувати"
+            ],
+            "pf": [
+              "вилікувати"
+            ]
+          }
+        },
+        "de": "behandeln",
+        "es": "tratar",
+        "fr": {
+          "text": "soigner",
+          "alternates": [
+            "traiter"
+          ]
+        },
+        "it": {
+          "text": "curare",
+          "alternates": [
+            "trattare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to take medicine",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "принимать лекарство",
+          "alternates": [
+            "принять лекарство"
+          ],
+          "aspects": {
+            "impf": [
+              "принимать лекарство"
+            ],
+            "pf": [
+              "принять лекарство"
+            ]
+          }
+        },
+        "pl": {
+          "text": "zażywać lek",
+          "alternates": [
+            "zażyć lek"
+          ],
+          "aspects": {
+            "impf": [
+              "zażywać lek"
+            ],
+            "pf": [
+              "zażyć lek"
+            ]
+          }
+        },
+        "uk": {
+          "text": "приймати ліки",
+          "alternates": [
+            "прийняти ліки"
+          ],
+          "aspects": {
+            "impf": [
+              "приймати ліки"
+            ],
+            "pf": [
+              "прийняти ліки"
+            ]
+          }
+        },
+        "de": {
+          "text": "Medizin einnehmen",
+          "alternates": [
+            "Medikamente einnehmen"
+          ]
+        },
+        "es": {
+          "text": "tomar medicina",
+          "alternates": [
+            "tomar un medicamento"
+          ]
+        },
+        "fr": "prendre un médicament",
+        "it": {
+          "text": "prendere una medicina",
+          "alternates": [
+            "prendere un farmaco"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to catch a cold",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "простужаться",
+          "alternates": [
+            "простудиться"
+          ],
+          "aspects": {
+            "impf": [
+              "простужаться"
+            ],
+            "pf": [
+              "простудиться"
+            ]
+          }
+        },
+        "pl": {
+          "text": "przeziębiać się",
+          "alternates": [
+            "przeziębić się"
+          ],
+          "aspects": {
+            "impf": [
+              "przeziębiać się"
+            ],
+            "pf": [
+              "przeziębić się"
+            ]
+          }
+        },
+        "uk": {
+          "text": "застуджуватися",
+          "alternates": [
+            "застудитися"
+          ],
+          "aspects": {
+            "impf": [
+              "застуджуватися"
+            ],
+            "pf": [
+              "застудитися"
+            ]
+          }
+        },
+        "de": "sich erkälten",
+        "es": "resfriarse",
+        "fr": {
+          "text": "attraper un rhume",
+          "alternates": [
+            "s'enrhumer"
+          ]
+        },
+        "it": "raffreddarsi"
+      }
     }
   ]
 }

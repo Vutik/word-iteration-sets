@@ -784,6 +784,524 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "glass",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "стакан",
+          "alternates": [
+            "бокал"
+          ]
+        },
+        "pl": {
+          "text": "szklanka",
+          "alternates": [
+            "kieliszek"
+          ]
+        },
+        "uk": {
+          "text": "склянка",
+          "alternates": [
+            "келих"
+          ]
+        },
+        "de": {
+          "text": "das Glas",
+          "alternates": [
+            "Glas"
+          ]
+        },
+        "es": {
+          "text": "el vaso",
+          "alternates": [
+            "vaso",
+            "copa",
+            "la copa"
+          ]
+        },
+        "fr": {
+          "text": "le verre",
+          "alternates": [
+            "verre"
+          ]
+        },
+        "it": {
+          "text": "il bicchiere",
+          "alternates": [
+            "bicchiere"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cup",
+          "partOfSpeech": "noun"
+        },
+        "ru": "чашка",
+        "pl": {
+          "text": "filiżanka",
+          "alternates": [
+            "kubek"
+          ]
+        },
+        "uk": "чашка",
+        "de": {
+          "text": "die Tasse",
+          "alternates": [
+            "Tasse"
+          ]
+        },
+        "es": {
+          "text": "la taza",
+          "alternates": [
+            "taza"
+          ]
+        },
+        "fr": {
+          "text": "la tasse",
+          "alternates": [
+            "tasse"
+          ]
+        },
+        "it": {
+          "text": "la tazza",
+          "alternates": [
+            "tazza"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "plate",
+          "partOfSpeech": "noun"
+        },
+        "ru": "тарелка",
+        "pl": "talerz",
+        "uk": "тарілка",
+        "de": {
+          "text": "der Teller",
+          "alternates": [
+            "Teller"
+          ]
+        },
+        "es": {
+          "text": "el plato",
+          "alternates": [
+            "plato"
+          ]
+        },
+        "fr": {
+          "text": "l'assiette",
+          "alternates": [
+            "assiette"
+          ]
+        },
+        "it": {
+          "text": "il piatto",
+          "alternates": [
+            "piatto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fork",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вилка",
+        "pl": "widelec",
+        "uk": "виделка",
+        "de": {
+          "text": "die Gabel",
+          "alternates": [
+            "Gabel"
+          ]
+        },
+        "es": {
+          "text": "el tenedor",
+          "alternates": [
+            "tenedor"
+          ]
+        },
+        "fr": {
+          "text": "la fourchette",
+          "alternates": [
+            "fourchette"
+          ]
+        },
+        "it": {
+          "text": "la forchetta",
+          "alternates": [
+            "forchetta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "knife",
+          "partOfSpeech": "noun"
+        },
+        "ru": "нож",
+        "pl": "nóż",
+        "uk": "ніж",
+        "de": {
+          "text": "das Messer",
+          "alternates": [
+            "Messer"
+          ]
+        },
+        "es": {
+          "text": "el cuchillo",
+          "alternates": [
+            "cuchillo"
+          ]
+        },
+        "fr": {
+          "text": "le couteau",
+          "alternates": [
+            "couteau"
+          ]
+        },
+        "it": {
+          "text": "il coltello",
+          "alternates": [
+            "coltello"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "spoon",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ложка",
+        "pl": "łyżka",
+        "uk": "ложка",
+        "de": {
+          "text": "der Löffel",
+          "alternates": [
+            "Löffel"
+          ]
+        },
+        "es": {
+          "text": "la cuchara",
+          "alternates": [
+            "cuchara"
+          ]
+        },
+        "fr": {
+          "text": "la cuillère",
+          "alternates": [
+            "cuillère"
+          ]
+        },
+        "it": {
+          "text": "il cucchiaio",
+          "alternates": [
+            "cucchiaio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "napkin",
+          "partOfSpeech": "noun"
+        },
+        "ru": "салфетка",
+        "pl": "serwetka",
+        "uk": "серветка",
+        "de": {
+          "text": "die Serviette",
+          "alternates": [
+            "Serviette"
+          ]
+        },
+        "es": {
+          "text": "la servilleta",
+          "alternates": [
+            "servilleta"
+          ]
+        },
+        "fr": {
+          "text": "la serviette",
+          "alternates": [
+            "serviette"
+          ]
+        },
+        "it": {
+          "text": "il tovagliolo",
+          "alternates": [
+            "tovagliolo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "portion",
+          "partOfSpeech": "noun"
+        },
+        "ru": "порция",
+        "pl": "porcja",
+        "uk": "порція",
+        "de": {
+          "text": "die Portion",
+          "alternates": [
+            "Portion"
+          ]
+        },
+        "es": {
+          "text": "la ración",
+          "alternates": [
+            "ración",
+            "porción",
+            "la porción"
+          ]
+        },
+        "fr": {
+          "text": "la portion",
+          "alternates": [
+            "portion"
+          ]
+        },
+        "it": {
+          "text": "la porzione",
+          "alternates": [
+            "porzione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "service",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "обслуживание",
+          "alternates": [
+            "сервис"
+          ]
+        },
+        "pl": "obsługa",
+        "uk": {
+          "text": "обслуговування",
+          "alternates": [
+            "сервіс"
+          ]
+        },
+        "de": {
+          "text": "die Bedienung",
+          "alternates": [
+            "Bedienung",
+            "Service",
+            "der Service"
+          ]
+        },
+        "es": {
+          "text": "el servicio",
+          "alternates": [
+            "servicio"
+          ]
+        },
+        "fr": {
+          "text": "le service",
+          "alternates": [
+            "service"
+          ]
+        },
+        "it": {
+          "text": "il servizio",
+          "alternates": [
+            "servizio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "takeaway",
+          "alternates": [
+            "takeout"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "еда навынос",
+        "pl": "jedzenie na wynos",
+        "uk": "їжа на винос",
+        "de": {
+          "text": "das Essen zum Mitnehmen",
+          "alternates": [
+            "Essen zum Mitnehmen"
+          ]
+        },
+        "es": {
+          "text": "la comida para llevar",
+          "alternates": [
+            "comida para llevar"
+          ]
+        },
+        "fr": {
+          "text": "le plat à emporter",
+          "alternates": [
+            "plat à emporter"
+          ]
+        },
+        "it": {
+          "text": "il cibo da asporto",
+          "alternates": [
+            "cibo da asporto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hungry",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "голодный",
+        "pl": "głodny",
+        "uk": "голодний",
+        "de": "hungrig",
+        "es": {
+          "text": "hambriento",
+          "alternates": [
+            "con hambre"
+          ]
+        },
+        "fr": "affamé",
+        "it": "affamato"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fresh",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "свежий",
+        "pl": "świeży",
+        "uk": "свіжий",
+        "de": "frisch",
+        "es": "fresco",
+        "fr": "frais",
+        "it": "fresco"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bitter",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "горький",
+        "pl": "gorzki",
+        "uk": "гіркий",
+        "de": "bitter",
+        "es": "amargo",
+        "fr": "amer",
+        "it": "amaro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sour",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "кислый",
+        "pl": "kwaśny",
+        "uk": "кислий",
+        "de": "sauer",
+        "es": "ácido",
+        "fr": {
+          "text": "acide",
+          "alternates": [
+            "aigre"
+          ]
+        },
+        "it": "acido"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to serve",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "подавать",
+          "alternates": [
+            "подать"
+          ],
+          "aspects": {
+            "impf": [
+              "подавать"
+            ],
+            "pf": [
+              "подать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "podawać",
+          "alternates": [
+            "podać"
+          ],
+          "aspects": {
+            "impf": [
+              "podawać"
+            ],
+            "pf": [
+              "podać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "подавати",
+          "alternates": [
+            "подати"
+          ],
+          "aspects": {
+            "impf": [
+              "подавати"
+            ],
+            "pf": [
+              "подати"
+            ]
+          }
+        },
+        "de": {
+          "text": "servieren",
+          "alternates": [
+            "bedienen"
+          ]
+        },
+        "es": "servir",
+        "fr": "servir",
+        "it": "servire"
+      }
     }
   ]
 }

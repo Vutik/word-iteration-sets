@@ -1,0 +1,42 @@
+{
+  "title": {
+    "en": "Prepositions",
+    "ru": "Предлоги",
+    "pl": "Przyimki",
+    "uk": "Прийменники",
+    "de": "Präpositionen",
+    "es": "Preposiciones",
+    "fr": "Prépositions",
+    "it": "Preposizioni"
+  },
+  "description": {
+    "en": "In, on, under, between, from, with, without, during, instead of.",
+    "ru": "В, на, под, между, от, с, без, во время, вместо.",
+    "pl": "W, na, pod, między, od, z, bez, podczas, zamiast.",
+    "uk": "В, на, під, між, від, з, без, під час, замість.",
+    "de": "In, auf, unter, zwischen, von, mit, ohne, während, statt.",
+    "es": "En, sobre, debajo de, entre, de, con, sin, durante, en lugar de.",
+    "fr": "Dans, sur, sous, entre, de, avec, sans, pendant, au lieu de.",
+    "it": "In, su, sotto, tra, da, con, senza, durante, invece di."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "image": "cover.png",
+  "level": "A2",
+  "tags": [
+    "grammar"
+  ],
+  "updated": "2026-10-21",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

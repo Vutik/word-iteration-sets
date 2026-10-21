@@ -1,0 +1,1205 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "yes",
+          "partOfSpeech": "particle"
+        },
+        "ru": "да",
+        "pl": "tak",
+        "uk": "так",
+        "de": "ja",
+        "es": "sí",
+        "fr": "oui",
+        "it": "sì"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "no",
+          "partOfSpeech": "particle"
+        },
+        "ru": "нет",
+        "pl": "nie",
+        "uk": "ні",
+        "de": "nein",
+        "es": "no",
+        "fr": "non",
+        "it": "no"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "not",
+          "partOfSpeech": "particle"
+        },
+        "ru": "не",
+        "pl": "nie",
+        "uk": "не",
+        "de": "nicht",
+        "es": "no",
+        "fr": {
+          "text": "ne... pas",
+          "alternates": [
+            "pas",
+            "ne pas"
+          ]
+        },
+        "it": "non"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "very",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "очень",
+        "pl": "bardzo",
+        "uk": "дуже",
+        "de": "sehr",
+        "es": "muy",
+        "fr": "très",
+        "it": "molto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "too",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "слишком",
+        "pl": {
+          "text": "za",
+          "alternates": [
+            "zbyt",
+            "zanadto"
+          ]
+        },
+        "uk": {
+          "text": "занадто",
+          "alternates": [
+            "надто"
+          ]
+        },
+        "de": "zu",
+        "es": "demasiado",
+        "fr": "trop",
+        "it": "troppo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "quite",
+          "alternates": [
+            "rather",
+            "fairly"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "довольно",
+          "alternates": [
+            "весьма"
+          ]
+        },
+        "pl": {
+          "text": "dość",
+          "alternates": [
+            "całkiem",
+            "dosyć"
+          ]
+        },
+        "uk": {
+          "text": "досить",
+          "alternates": [
+            "доволі"
+          ]
+        },
+        "de": {
+          "text": "ziemlich",
+          "alternates": [
+            "recht"
+          ]
+        },
+        "es": "bastante",
+        "fr": {
+          "text": "assez",
+          "alternates": [
+            "plutôt"
+          ]
+        },
+        "it": {
+          "text": "abbastanza",
+          "alternates": [
+            "piuttosto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "almost",
+          "alternates": [
+            "nearly"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "почти",
+        "pl": "prawie",
+        "uk": "майже",
+        "de": "fast",
+        "es": "casi",
+        "fr": "presque",
+        "it": "quasi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "only",
+          "alternates": [
+            "just"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "только",
+          "alternates": [
+            "лишь"
+          ]
+        },
+        "pl": {
+          "text": "tylko",
+          "alternates": [
+            "jedynie"
+          ]
+        },
+        "uk": {
+          "text": "тільки",
+          "alternates": [
+            "лише"
+          ]
+        },
+        "de": {
+          "text": "nur",
+          "alternates": [
+            "bloß"
+          ]
+        },
+        "es": {
+          "text": "solo",
+          "alternates": [
+            "sólo",
+            "solamente"
+          ]
+        },
+        "fr": {
+          "text": "seulement",
+          "alternates": [
+            "juste"
+          ]
+        },
+        "it": {
+          "text": "solo",
+          "alternates": [
+            "soltanto",
+            "solamente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "even",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "даже",
+        "pl": "nawet",
+        "uk": "навіть",
+        "de": {
+          "text": "sogar",
+          "alternates": [
+            "selbst"
+          ]
+        },
+        "es": {
+          "text": "incluso",
+          "alternates": [
+            "hasta"
+          ]
+        },
+        "fr": "même",
+        "it": {
+          "text": "perfino",
+          "alternates": [
+            "persino",
+            "anche"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "more",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "больше",
+          "alternates": [
+            "более"
+          ]
+        },
+        "pl": {
+          "text": "więcej",
+          "alternates": [
+            "bardziej"
+          ]
+        },
+        "uk": {
+          "text": "більше",
+          "alternates": [
+            "більш"
+          ]
+        },
+        "de": "mehr",
+        "es": "más",
+        "fr": "plus",
+        "it": "più"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "less",
+          "alternates": [
+            "fewer"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "меньше",
+          "alternates": [
+            "менее"
+          ]
+        },
+        "pl": "mniej",
+        "uk": {
+          "text": "менше",
+          "alternates": [
+            "менш"
+          ]
+        },
+        "de": "weniger",
+        "es": "menos",
+        "fr": "moins",
+        "it": "meno"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "most",
+          "alternates": [
+            "the most"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "больше всего",
+          "alternates": [
+            "наиболее",
+            "самый"
+          ]
+        },
+        "pl": {
+          "text": "najbardziej",
+          "alternates": [
+            "najwięcej"
+          ]
+        },
+        "uk": {
+          "text": "найбільше",
+          "alternates": [
+            "найбільш"
+          ]
+        },
+        "de": {
+          "text": "am meisten",
+          "alternates": [
+            "meist"
+          ]
+        },
+        "es": {
+          "text": "lo más",
+          "alternates": [
+            "más"
+          ]
+        },
+        "fr": "le plus",
+        "it": {
+          "text": "di più",
+          "alternates": [
+            "il più"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "much",
+          "alternates": [
+            "a lot",
+            "a lot of",
+            "lots of"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": "много",
+        "pl": {
+          "text": "dużo",
+          "alternates": [
+            "wiele"
+          ]
+        },
+        "uk": "багато",
+        "de": "viel",
+        "es": {
+          "text": "mucho",
+          "alternates": [
+            "mucha"
+          ]
+        },
+        "fr": {
+          "text": "beaucoup",
+          "alternates": [
+            "beaucoup de"
+          ]
+        },
+        "it": {
+          "text": "molto",
+          "alternates": [
+            "tanto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "many",
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "многие",
+          "alternates": [
+            "много"
+          ]
+        },
+        "pl": {
+          "text": "wiele",
+          "alternates": [
+            "wielu",
+            "dużo"
+          ]
+        },
+        "uk": {
+          "text": "багато",
+          "alternates": [
+            "чимало"
+          ]
+        },
+        "de": "viele",
+        "es": {
+          "text": "muchos",
+          "alternates": [
+            "muchas"
+          ]
+        },
+        "fr": {
+          "text": "beaucoup de",
+          "alternates": [
+            "nombreux"
+          ]
+        },
+        "it": {
+          "text": "molti",
+          "alternates": [
+            "molte",
+            "tanti"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "a little",
+          "alternates": [
+            "a bit"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "немного",
+          "alternates": [
+            "чуть-чуть",
+            "немножко"
+          ]
+        },
+        "pl": {
+          "text": "trochę",
+          "alternates": [
+            "troszkę"
+          ]
+        },
+        "uk": {
+          "text": "трохи",
+          "alternates": [
+            "трішки"
+          ]
+        },
+        "de": {
+          "text": "ein bisschen",
+          "alternates": [
+            "ein wenig",
+            "etwas"
+          ]
+        },
+        "es": "un poco",
+        "fr": "un peu",
+        "it": {
+          "text": "un po'",
+          "alternates": [
+            "un poco"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "little",
+          "alternates": [
+            "few",
+            "not much"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": "мало",
+        "pl": {
+          "text": "mało",
+          "alternates": [
+            "niewiele"
+          ]
+        },
+        "uk": {
+          "text": "мало",
+          "alternates": [
+            "небагато"
+          ]
+        },
+        "de": {
+          "text": "wenig",
+          "alternates": [
+            "wenige"
+          ]
+        },
+        "es": {
+          "text": "poco",
+          "alternates": [
+            "pocos",
+            "pocas"
+          ]
+        },
+        "fr": {
+          "text": "peu",
+          "alternates": [
+            "peu de"
+          ]
+        },
+        "it": {
+          "text": "poco",
+          "alternates": [
+            "pochi",
+            "poche"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "several",
+          "partOfSpeech": "determiner"
+        },
+        "ru": "несколько",
+        "pl": {
+          "text": "kilka",
+          "alternates": [
+            "kilku"
+          ]
+        },
+        "uk": {
+          "text": "кілька",
+          "alternates": [
+            "декілька"
+          ]
+        },
+        "de": "mehrere",
+        "es": {
+          "text": "varios",
+          "alternates": [
+            "varias"
+          ]
+        },
+        "fr": "plusieurs",
+        "it": {
+          "text": "parecchi",
+          "alternates": [
+            "diversi"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "enough",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "достаточно",
+          "alternates": [
+            "хватит",
+            "довольно"
+          ]
+        },
+        "pl": {
+          "text": "dość",
+          "alternates": [
+            "wystarczająco",
+            "dosyć"
+          ]
+        },
+        "uk": {
+          "text": "достатньо",
+          "alternates": [
+            "досить"
+          ]
+        },
+        "de": {
+          "text": "genug",
+          "alternates": [
+            "genügend"
+          ]
+        },
+        "es": {
+          "text": "suficiente",
+          "alternates": [
+            "bastante",
+            "basta"
+          ]
+        },
+        "fr": "assez",
+        "it": {
+          "text": "abbastanza",
+          "alternates": [
+            "basta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "like this",
+          "alternates": [
+            "like that",
+            "this way",
+            "so",
+            "thus"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "так",
+          "alternates": [
+            "таким образом"
+          ]
+        },
+        "pl": {
+          "text": "tak",
+          "alternates": [
+            "w ten sposób"
+          ]
+        },
+        "uk": {
+          "text": "так",
+          "alternates": [
+            "таким чином"
+          ]
+        },
+        "de": "so",
+        "es": "así",
+        "fr": {
+          "text": "ainsi",
+          "alternates": [
+            "comme ça"
+          ]
+        },
+        "it": "così"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "maybe",
+          "alternates": [
+            "perhaps"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "может быть",
+          "alternates": [
+            "может",
+            "возможно"
+          ]
+        },
+        "pl": {
+          "text": "może",
+          "alternates": [
+            "być może",
+            "możliwe"
+          ]
+        },
+        "uk": {
+          "text": "можливо",
+          "alternates": [
+            "може"
+          ]
+        },
+        "de": "vielleicht",
+        "es": {
+          "text": "quizás",
+          "alternates": [
+            "tal vez",
+            "quizá"
+          ]
+        },
+        "fr": "peut-être",
+        "it": "forse"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "really",
+          "alternates": [
+            "truly"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "действительно",
+          "alternates": [
+            "правда"
+          ]
+        },
+        "pl": {
+          "text": "naprawdę",
+          "alternates": [
+            "rzeczywiście"
+          ]
+        },
+        "uk": {
+          "text": "справді",
+          "alternates": [
+            "дійсно"
+          ]
+        },
+        "de": {
+          "text": "wirklich",
+          "alternates": [
+            "echt"
+          ]
+        },
+        "es": {
+          "text": "realmente",
+          "alternates": [
+            "de verdad"
+          ]
+        },
+        "fr": "vraiment",
+        "it": {
+          "text": "davvero",
+          "alternates": [
+            "veramente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "exactly",
+          "alternates": [
+            "precisely"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "точно",
+          "alternates": [
+            "именно"
+          ]
+        },
+        "pl": {
+          "text": "dokładnie",
+          "alternates": [
+            "właśnie"
+          ]
+        },
+        "uk": {
+          "text": "точно",
+          "alternates": [
+            "саме"
+          ]
+        },
+        "de": "genau",
+        "es": {
+          "text": "exactamente",
+          "alternates": [
+            "justo"
+          ]
+        },
+        "fr": {
+          "text": "exactement",
+          "alternates": [
+            "justement"
+          ]
+        },
+        "it": {
+          "text": "esattamente",
+          "alternates": [
+            "proprio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "approximately",
+          "alternates": [
+            "about",
+            "around",
+            "roughly"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "около",
+          "alternates": [
+            "примерно",
+            "приблизительно"
+          ]
+        },
+        "pl": {
+          "text": "około",
+          "alternates": [
+            "mniej więcej"
+          ]
+        },
+        "uk": {
+          "text": "близько",
+          "alternates": [
+            "приблизно"
+          ]
+        },
+        "de": {
+          "text": "ungefähr",
+          "alternates": [
+            "etwa",
+            "circa"
+          ]
+        },
+        "es": {
+          "text": "aproximadamente",
+          "alternates": [
+            "más o menos",
+            "unos"
+          ]
+        },
+        "fr": {
+          "text": "environ",
+          "alternates": [
+            "à peu près"
+          ]
+        },
+        "it": {
+          "text": "circa",
+          "alternates": [
+            "più o meno",
+            "all'incirca"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "together",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "вместе",
+        "pl": {
+          "text": "razem",
+          "alternates": [
+            "wspólnie"
+          ]
+        },
+        "uk": "разом",
+        "de": {
+          "text": "zusammen",
+          "alternates": [
+            "gemeinsam"
+          ]
+        },
+        "es": {
+          "text": "juntos",
+          "alternates": [
+            "juntas"
+          ]
+        },
+        "fr": "ensemble",
+        "it": "insieme"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "alone",
+          "alternates": [
+            "by oneself",
+            "on one's own"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "один",
+          "alternates": [
+            "одна",
+            "одни",
+            "сам",
+            "сама",
+            "в одиночку"
+          ]
+        },
+        "pl": {
+          "text": "sam",
+          "alternates": [
+            "sama",
+            "samo",
+            "samotnie"
+          ]
+        },
+        "uk": {
+          "text": "сам",
+          "alternates": [
+            "сама",
+            "самі",
+            "один",
+            "одна"
+          ]
+        },
+        "de": "allein",
+        "es": {
+          "text": "solo",
+          "alternates": [
+            "sola",
+            "a solas"
+          ]
+        },
+        "fr": {
+          "text": "seul",
+          "alternates": [
+            "seule",
+            "tout seul"
+          ]
+        },
+        "it": {
+          "text": "da solo",
+          "alternates": [
+            "da sola",
+            "solo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "well",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "хорошо",
+        "pl": "dobrze",
+        "uk": "добре",
+        "de": "gut",
+        "es": "bien",
+        "fr": "bien",
+        "it": "bene"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "badly",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "плохо",
+        "pl": "źle",
+        "uk": "погано",
+        "de": "schlecht",
+        "es": "mal",
+        "fr": "mal",
+        "it": "male"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "please",
+          "partOfSpeech": "particle"
+        },
+        "ru": "пожалуйста",
+        "pl": "proszę",
+        "uk": "будь ласка",
+        "de": "bitte",
+        "es": "por favor",
+        "fr": {
+          "text": "s'il vous plaît",
+          "alternates": [
+            "s'il te plaît"
+          ]
+        },
+        "it": {
+          "text": "per favore",
+          "alternates": [
+            "per piacere"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "thank you",
+          "alternates": [
+            "thanks"
+          ],
+          "partOfSpeech": "particle"
+        },
+        "ru": {
+          "text": "спасибо",
+          "alternates": [
+            "благодарю"
+          ]
+        },
+        "pl": {
+          "text": "dziękuję",
+          "alternates": [
+            "dzięki"
+          ]
+        },
+        "uk": {
+          "text": "дякую",
+          "alternates": [
+            "спасибі"
+          ]
+        },
+        "de": {
+          "text": "danke",
+          "alternates": [
+            "danke schön"
+          ]
+        },
+        "es": "gracias",
+        "fr": "merci",
+        "it": "grazie"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "excuse me",
+          "alternates": [
+            "sorry"
+          ],
+          "partOfSpeech": "particle"
+        },
+        "ru": {
+          "text": "извините",
+          "alternates": [
+            "простите",
+            "извини",
+            "прости"
+          ]
+        },
+        "pl": "przepraszam",
+        "uk": {
+          "text": "вибачте",
+          "alternates": [
+            "перепрошую",
+            "вибач",
+            "пробач"
+          ]
+        },
+        "de": {
+          "text": "Entschuldigung",
+          "alternates": [
+            "Verzeihung"
+          ]
+        },
+        "es": {
+          "text": "perdón",
+          "alternates": [
+            "disculpe",
+            "perdone"
+          ]
+        },
+        "fr": {
+          "text": "pardon",
+          "alternates": [
+            "excusez-moi"
+          ]
+        },
+        "it": {
+          "text": "scusi",
+          "alternates": [
+            "scusa",
+            "mi scusi"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "okay",
+          "alternates": [
+            "OK",
+            "all right"
+          ],
+          "partOfSpeech": "particle"
+        },
+        "ru": {
+          "text": "ладно",
+          "alternates": [
+            "хорошо",
+            "окей"
+          ]
+        },
+        "pl": {
+          "text": "dobrze",
+          "alternates": [
+            "okej",
+            "w porządku"
+          ]
+        },
+        "uk": {
+          "text": "гаразд",
+          "alternates": [
+            "добре",
+            "окей"
+          ]
+        },
+        "de": {
+          "text": "okay",
+          "alternates": [
+            "in Ordnung",
+            "gut"
+          ]
+        },
+        "es": {
+          "text": "vale",
+          "alternates": [
+            "de acuerdo",
+            "bien"
+          ]
+        },
+        "fr": {
+          "text": "d'accord",
+          "alternates": [
+            "OK"
+          ]
+        },
+        "it": {
+          "text": "va bene",
+          "alternates": [
+            "d'accordo",
+            "ok"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "here is",
+          "alternates": [
+            "here you are",
+            "there is"
+          ],
+          "partOfSpeech": "particle"
+        },
+        "ru": "вот",
+        "pl": {
+          "text": "oto",
+          "alternates": [
+            "proszę"
+          ]
+        },
+        "uk": {
+          "text": "ось",
+          "alternates": [
+            "от"
+          ]
+        },
+        "de": {
+          "text": "hier ist",
+          "alternates": [
+            "da ist",
+            "bitte"
+          ]
+        },
+        "es": {
+          "text": "aquí tienes",
+          "alternates": [
+            "aquí está",
+            "he aquí"
+          ]
+        },
+        "fr": {
+          "text": "voici",
+          "alternates": [
+            "voilà"
+          ]
+        },
+        "it": "ecco"
+      }
+    }
+  ]
+}

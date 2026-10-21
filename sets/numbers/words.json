@@ -341,6 +341,364 @@
         "fr": "mille",
         "it": "mille"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "thirteen",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "тринадцать",
+        "pl": "trzynaście",
+        "uk": "тринадцять",
+        "de": "dreizehn",
+        "es": "trece",
+        "fr": "treize",
+        "it": "tredici"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fourteen",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "четырнадцать",
+        "pl": "czternaście",
+        "uk": "чотирнадцять",
+        "de": "vierzehn",
+        "es": "catorce",
+        "fr": "quatorze",
+        "it": "quattordici"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sixteen",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "шестнадцать",
+        "pl": "szesnaście",
+        "uk": "шістнадцять",
+        "de": "sechzehn",
+        "es": "dieciséis",
+        "fr": "seize",
+        "it": "sedici"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "seventeen",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "семнадцать",
+        "pl": "siedemnaście",
+        "uk": "сімнадцять",
+        "de": "siebzehn",
+        "es": "diecisiete",
+        "fr": "dix-sept",
+        "it": "diciassette"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "eighteen",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "восемнадцать",
+        "pl": "osiemnaście",
+        "uk": "вісімнадцять",
+        "de": "achtzehn",
+        "es": "dieciocho",
+        "fr": "dix-huit",
+        "it": "diciotto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nineteen",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "девятнадцать",
+        "pl": "dziewiętnaście",
+        "uk": "дев'ятнадцять",
+        "de": "neunzehn",
+        "es": "diecinueve",
+        "fr": "dix-neuf",
+        "it": "diciannove"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sixty",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "шестьдесят",
+        "pl": "sześćdziesiąt",
+        "uk": "шістдесят",
+        "de": "sechzig",
+        "es": "sesenta",
+        "fr": "soixante",
+        "it": "sessanta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "seventy",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "семьдесят",
+        "pl": "siedemdziesiąt",
+        "uk": "сімдесят",
+        "de": "siebzig",
+        "es": "setenta",
+        "fr": {
+          "text": "soixante-dix",
+          "alternates": [
+            "septante"
+          ]
+        },
+        "it": "settanta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "eighty",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "восемьдесят",
+        "pl": "osiemdziesiąt",
+        "uk": "вісімдесят",
+        "de": "achtzig",
+        "es": "ochenta",
+        "fr": {
+          "text": "quatre-vingts",
+          "alternates": [
+            "huitante"
+          ]
+        },
+        "it": "ottanta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ninety",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "девяносто",
+        "pl": "dziewięćdziesiąt",
+        "uk": "дев'яносто",
+        "de": "neunzig",
+        "es": "noventa",
+        "fr": {
+          "text": "quatre-vingt-dix",
+          "alternates": [
+            "nonante"
+          ]
+        },
+        "it": "novanta"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "first",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "первый",
+        "pl": "pierwszy",
+        "uk": "перший",
+        "de": "erste",
+        "es": "primero",
+        "fr": "premier",
+        "it": "primo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "second",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "второй",
+        "pl": "drugi",
+        "uk": "другий",
+        "de": "zweite",
+        "es": "segundo",
+        "fr": {
+          "text": "deuxième",
+          "alternates": [
+            "second"
+          ]
+        },
+        "it": "secondo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "third",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "третий",
+        "pl": "trzeci",
+        "uk": "третій",
+        "de": "dritte",
+        "es": "tercero",
+        "fr": "troisième",
+        "it": "terzo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fourth",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "четвёртый",
+        "pl": "czwarty",
+        "uk": "четвертий",
+        "de": "vierte",
+        "es": "cuarto",
+        "fr": "quatrième",
+        "it": "quarto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fifth",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "пятый",
+        "pl": "piąty",
+        "uk": "п'ятий",
+        "de": "fünfte",
+        "es": "quinto",
+        "fr": "cinquième",
+        "it": "quinto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "half",
+          "partOfSpeech": "numeral"
+        },
+        "ru": "половина",
+        "pl": "połowa",
+        "uk": "половина",
+        "de": "die Hälfte",
+        "es": "la mitad",
+        "fr": "la moitié",
+        "it": "la metà"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "a million",
+          "alternates": [
+            "one million"
+          ],
+          "partOfSpeech": "numeral"
+        },
+        "ru": "миллион",
+        "pl": "milion",
+        "uk": "мільйон",
+        "de": "eine Million",
+        "es": "un millón",
+        "fr": "un million",
+        "it": "un milione"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "number",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "число",
+          "alternates": [
+            "номер"
+          ]
+        },
+        "pl": "liczba",
+        "uk": {
+          "text": "число",
+          "alternates": [
+            "номер"
+          ]
+        },
+        "de": {
+          "text": "die Zahl",
+          "alternates": [
+            "Zahl"
+          ]
+        },
+        "es": {
+          "text": "el número",
+          "alternates": [
+            "número"
+          ]
+        },
+        "fr": {
+          "text": "le nombre",
+          "alternates": [
+            "nombre"
+          ]
+        },
+        "it": {
+          "text": "il numero",
+          "alternates": [
+            "numero"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dozen",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дюжина",
+        "pl": "tuzin",
+        "uk": "дюжина",
+        "de": {
+          "text": "das Dutzend",
+          "alternates": [
+            "Dutzend"
+          ]
+        },
+        "es": {
+          "text": "la docena",
+          "alternates": [
+            "docena"
+          ]
+        },
+        "fr": {
+          "text": "la douzaine",
+          "alternates": [
+            "douzaine"
+          ]
+        },
+        "it": {
+          "text": "la dozzina",
+          "alternates": [
+            "dozzina"
+          ]
+        }
+      }
     }
   ]
 }

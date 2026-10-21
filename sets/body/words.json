@@ -721,6 +721,766 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "chin",
+          "partOfSpeech": "noun"
+        },
+        "ru": "подбородок",
+        "pl": "podbródek",
+        "uk": "підборіддя",
+        "de": {
+          "text": "das Kinn",
+          "alternates": [
+            "Kinn"
+          ]
+        },
+        "es": {
+          "text": "la barbilla",
+          "alternates": [
+            "barbilla"
+          ]
+        },
+        "fr": {
+          "text": "le menton",
+          "alternates": [
+            "menton"
+          ]
+        },
+        "it": {
+          "text": "il mento",
+          "alternates": [
+            "mento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lip",
+          "partOfSpeech": "noun"
+        },
+        "ru": "губа",
+        "pl": "warga",
+        "uk": "губа",
+        "de": {
+          "text": "die Lippe",
+          "alternates": [
+            "Lippe"
+          ]
+        },
+        "es": {
+          "text": "el labio",
+          "alternates": [
+            "labio"
+          ]
+        },
+        "fr": {
+          "text": "la lèvre",
+          "alternates": [
+            "lèvre"
+          ]
+        },
+        "it": {
+          "text": "il labbro",
+          "alternates": [
+            "labbro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tongue",
+          "partOfSpeech": "noun"
+        },
+        "ru": "язык",
+        "pl": "język",
+        "uk": "язик",
+        "de": {
+          "text": "die Zunge",
+          "alternates": [
+            "Zunge"
+          ]
+        },
+        "es": {
+          "text": "la lengua",
+          "alternates": [
+            "lengua"
+          ]
+        },
+        "fr": {
+          "text": "la langue",
+          "alternates": [
+            "langue"
+          ]
+        },
+        "it": {
+          "text": "la lingua",
+          "alternates": [
+            "lingua"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "eyebrow",
+          "partOfSpeech": "noun"
+        },
+        "ru": "бровь",
+        "pl": "brew",
+        "uk": "брова",
+        "de": {
+          "text": "die Augenbraue",
+          "alternates": [
+            "Augenbraue"
+          ]
+        },
+        "es": {
+          "text": "la ceja",
+          "alternates": [
+            "ceja"
+          ]
+        },
+        "fr": {
+          "text": "le sourcil",
+          "alternates": [
+            "sourcil"
+          ]
+        },
+        "it": {
+          "text": "il sopracciglio",
+          "alternates": [
+            "sopracciglio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "forehead",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лоб",
+        "pl": "czoło",
+        "uk": {
+          "text": "чоло",
+          "alternates": [
+            "лоб"
+          ]
+        },
+        "de": {
+          "text": "die Stirn",
+          "alternates": [
+            "Stirn"
+          ]
+        },
+        "es": {
+          "text": "la frente",
+          "alternates": [
+            "frente"
+          ]
+        },
+        "fr": {
+          "text": "le front",
+          "alternates": [
+            "front"
+          ]
+        },
+        "it": {
+          "text": "la fronte",
+          "alternates": [
+            "fronte"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cheek",
+          "partOfSpeech": "noun"
+        },
+        "ru": "щека",
+        "pl": "policzek",
+        "uk": "щока",
+        "de": {
+          "text": "die Wange",
+          "alternates": [
+            "Wange"
+          ]
+        },
+        "es": {
+          "text": "la mejilla",
+          "alternates": [
+            "mejilla"
+          ]
+        },
+        "fr": {
+          "text": "la joue",
+          "alternates": [
+            "joue"
+          ]
+        },
+        "it": {
+          "text": "la guancia",
+          "alternates": [
+            "guancia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "beard",
+          "partOfSpeech": "noun"
+        },
+        "ru": "борода",
+        "pl": "broda",
+        "uk": "борода",
+        "de": {
+          "text": "der Bart",
+          "alternates": [
+            "Bart"
+          ]
+        },
+        "es": {
+          "text": "la barba",
+          "alternates": [
+            "barba"
+          ]
+        },
+        "fr": {
+          "text": "la barbe",
+          "alternates": [
+            "barbe"
+          ]
+        },
+        "it": {
+          "text": "la barba",
+          "alternates": [
+            "barba"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "skin",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кожа",
+        "pl": "skóra",
+        "uk": "шкіра",
+        "de": {
+          "text": "die Haut",
+          "alternates": [
+            "Haut"
+          ]
+        },
+        "es": {
+          "text": "la piel",
+          "alternates": [
+            "piel"
+          ]
+        },
+        "fr": {
+          "text": "la peau",
+          "alternates": [
+            "peau"
+          ]
+        },
+        "it": {
+          "text": "la pelle",
+          "alternates": [
+            "pelle"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bone",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кость",
+        "pl": "kość",
+        "uk": "кістка",
+        "de": {
+          "text": "der Knochen",
+          "alternates": [
+            "Knochen"
+          ]
+        },
+        "es": {
+          "text": "el hueso",
+          "alternates": [
+            "hueso"
+          ]
+        },
+        "fr": {
+          "text": "l'os",
+          "alternates": [
+            "os"
+          ]
+        },
+        "it": {
+          "text": "l'osso",
+          "alternates": [
+            "osso"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "brain",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мозг",
+        "pl": "mózg",
+        "uk": "мозок",
+        "de": {
+          "text": "das Gehirn",
+          "alternates": [
+            "Gehirn"
+          ]
+        },
+        "es": {
+          "text": "el cerebro",
+          "alternates": [
+            "cerebro"
+          ]
+        },
+        "fr": {
+          "text": "le cerveau",
+          "alternates": [
+            "cerveau"
+          ]
+        },
+        "it": {
+          "text": "il cervello",
+          "alternates": [
+            "cervello"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "chest",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "грудь",
+          "alternates": [
+            "грудная клетка"
+          ]
+        },
+        "pl": {
+          "text": "klatka piersiowa",
+          "alternates": [
+            "pierś"
+          ]
+        },
+        "uk": {
+          "text": "груди",
+          "alternates": [
+            "грудна клітка"
+          ]
+        },
+        "de": {
+          "text": "die Brust",
+          "alternates": [
+            "Brust"
+          ]
+        },
+        "es": {
+          "text": "el pecho",
+          "alternates": [
+            "pecho"
+          ]
+        },
+        "fr": {
+          "text": "la poitrine",
+          "alternates": [
+            "poitrine"
+          ]
+        },
+        "it": {
+          "text": "il petto",
+          "alternates": [
+            "petto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "elbow",
+          "partOfSpeech": "noun"
+        },
+        "ru": "локоть",
+        "pl": "łokieć",
+        "uk": "лікоть",
+        "de": {
+          "text": "der Ellbogen",
+          "alternates": [
+            "Ellbogen"
+          ]
+        },
+        "es": {
+          "text": "el codo",
+          "alternates": [
+            "codo"
+          ]
+        },
+        "fr": {
+          "text": "le coude",
+          "alternates": [
+            "coude"
+          ]
+        },
+        "it": {
+          "text": "il gomito",
+          "alternates": [
+            "gomito"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wrist",
+          "partOfSpeech": "noun"
+        },
+        "ru": "запястье",
+        "pl": "nadgarstek",
+        "uk": "зап'ясток",
+        "de": {
+          "text": "das Handgelenk",
+          "alternates": [
+            "Handgelenk"
+          ]
+        },
+        "es": {
+          "text": "la muñeca",
+          "alternates": [
+            "muñeca"
+          ]
+        },
+        "fr": {
+          "text": "le poignet",
+          "alternates": [
+            "poignet"
+          ]
+        },
+        "it": {
+          "text": "il polso",
+          "alternates": [
+            "polso"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "thumb",
+          "partOfSpeech": "noun"
+        },
+        "ru": "большой палец",
+        "pl": "kciuk",
+        "uk": "великий палець",
+        "de": {
+          "text": "der Daumen",
+          "alternates": [
+            "Daumen"
+          ]
+        },
+        "es": {
+          "text": "el pulgar",
+          "alternates": [
+            "pulgar"
+          ]
+        },
+        "fr": {
+          "text": "le pouce",
+          "alternates": [
+            "pouce"
+          ]
+        },
+        "it": {
+          "text": "il pollice",
+          "alternates": [
+            "pollice"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nail",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ноготь",
+        "pl": "paznokieć",
+        "uk": "ніготь",
+        "de": {
+          "text": "der Nagel",
+          "alternates": [
+            "Nagel"
+          ]
+        },
+        "es": {
+          "text": "la uña",
+          "alternates": [
+            "uña"
+          ]
+        },
+        "fr": {
+          "text": "l'ongle",
+          "alternates": [
+            "ongle"
+          ]
+        },
+        "it": {
+          "text": "l'unghia",
+          "alternates": [
+            "unghia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ankle",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лодыжка",
+        "pl": "kostka",
+        "uk": {
+          "text": "кісточка",
+          "alternates": [
+            "щиколотка"
+          ]
+        },
+        "de": {
+          "text": "der Knöchel",
+          "alternates": [
+            "Knöchel"
+          ]
+        },
+        "es": {
+          "text": "el tobillo",
+          "alternates": [
+            "tobillo"
+          ]
+        },
+        "fr": {
+          "text": "la cheville",
+          "alternates": [
+            "cheville"
+          ]
+        },
+        "it": {
+          "text": "la caviglia",
+          "alternates": [
+            "caviglia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "toe",
+          "partOfSpeech": "noun"
+        },
+        "ru": "палец ноги",
+        "pl": "palec u nogi",
+        "uk": "палець ноги",
+        "de": {
+          "text": "der Zeh",
+          "alternates": [
+            "Zeh"
+          ]
+        },
+        "es": {
+          "text": "el dedo del pie",
+          "alternates": [
+            "dedo del pie"
+          ]
+        },
+        "fr": {
+          "text": "l'orteil",
+          "alternates": [
+            "orteil"
+          ]
+        },
+        "it": {
+          "text": "il dito del piede",
+          "alternates": [
+            "dito del piede"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "heel",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пятка",
+        "pl": "pięta",
+        "uk": "п'ята",
+        "de": {
+          "text": "die Ferse",
+          "alternates": [
+            "Ferse"
+          ]
+        },
+        "es": {
+          "text": "el talón",
+          "alternates": [
+            "talón"
+          ]
+        },
+        "fr": {
+          "text": "le talon",
+          "alternates": [
+            "talon"
+          ]
+        },
+        "it": {
+          "text": "il tallone",
+          "alternates": [
+            "tallone"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lung",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лёгкое",
+        "pl": "płuco",
+        "uk": "легеня",
+        "de": {
+          "text": "die Lunge",
+          "alternates": [
+            "Lunge"
+          ]
+        },
+        "es": {
+          "text": "el pulmón",
+          "alternates": [
+            "pulmón"
+          ]
+        },
+        "fr": {
+          "text": "le poumon",
+          "alternates": [
+            "poumon"
+          ]
+        },
+        "it": {
+          "text": "il polmone",
+          "alternates": [
+            "polmone"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "muscle",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мышца",
+        "pl": "mięsień",
+        "uk": "м'яз",
+        "de": {
+          "text": "der Muskel",
+          "alternates": [
+            "Muskel"
+          ]
+        },
+        "es": {
+          "text": "el músculo",
+          "alternates": [
+            "músculo"
+          ]
+        },
+        "fr": {
+          "text": "le muscle",
+          "alternates": [
+            "muscle"
+          ]
+        },
+        "it": {
+          "text": "il muscolo",
+          "alternates": [
+            "muscolo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "body",
+          "partOfSpeech": "noun"
+        },
+        "ru": "тело",
+        "pl": "ciało",
+        "uk": "тіло",
+        "de": {
+          "text": "der Körper",
+          "alternates": [
+            "Körper"
+          ]
+        },
+        "es": {
+          "text": "el cuerpo",
+          "alternates": [
+            "cuerpo"
+          ]
+        },
+        "fr": {
+          "text": "le corps",
+          "alternates": [
+            "corps"
+          ]
+        },
+        "it": {
+          "text": "il corpo",
+          "alternates": [
+            "corpo"
+          ]
+        }
+      }
     }
   ]
 }

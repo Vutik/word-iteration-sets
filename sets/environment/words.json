@@ -805,6 +805,957 @@
         "fr": "renouvelable",
         "it": "rinnovabile"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "emissions",
+          "partOfSpeech": "noun"
+        },
+        "ru": "выбросы",
+        "pl": "emisje",
+        "uk": "викиди",
+        "de": {
+          "text": "die Emissionen",
+          "alternates": [
+            "der Ausstoß",
+            "Emissionen",
+            "Ausstoß"
+          ]
+        },
+        "es": {
+          "text": "las emisiones",
+          "alternates": [
+            "emisiones"
+          ]
+        },
+        "fr": {
+          "text": "les émissions",
+          "alternates": [
+            "émissions"
+          ]
+        },
+        "it": {
+          "text": "le emissioni",
+          "alternates": [
+            "emissioni"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "carbon dioxide",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "углекислый газ",
+          "alternates": [
+            "диоксид углерода"
+          ]
+        },
+        "pl": "dwutlenek węgla",
+        "uk": {
+          "text": "вуглекислий газ",
+          "alternates": [
+            "діоксид вуглецю"
+          ]
+        },
+        "de": {
+          "text": "das Kohlendioxid",
+          "alternates": [
+            "CO2",
+            "Kohlendioxid"
+          ]
+        },
+        "es": {
+          "text": "el dióxido de carbono",
+          "alternates": [
+            "dióxido de carbono"
+          ]
+        },
+        "fr": {
+          "text": "le dioxyde de carbone",
+          "alternates": [
+            "le CO2",
+            "dioxyde de carbone",
+            "CO2"
+          ]
+        },
+        "it": {
+          "text": "l'anidride carbonica",
+          "alternates": [
+            "il biossido di carbonio",
+            "anidride carbonica",
+            "biossido di carbonio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "deforestation",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "вырубка лесов",
+          "alternates": [
+            "обезлесение"
+          ]
+        },
+        "pl": {
+          "text": "wylesianie",
+          "alternates": [
+            "wycinka lasów"
+          ]
+        },
+        "uk": {
+          "text": "вирубка лісів",
+          "alternates": [
+            "знеліснення"
+          ]
+        },
+        "de": {
+          "text": "die Abholzung",
+          "alternates": [
+            "die Entwaldung",
+            "Abholzung",
+            "Entwaldung"
+          ]
+        },
+        "es": {
+          "text": "la deforestación",
+          "alternates": [
+            "deforestación"
+          ]
+        },
+        "fr": {
+          "text": "la déforestation",
+          "alternates": [
+            "déforestation"
+          ]
+        },
+        "it": {
+          "text": "la deforestazione",
+          "alternates": [
+            "deforestazione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "habitat",
+          "partOfSpeech": "noun"
+        },
+        "ru": "среда обитания",
+        "pl": "siedlisko",
+        "uk": "середовище існування",
+        "de": {
+          "text": "der Lebensraum",
+          "alternates": [
+            "Lebensraum"
+          ]
+        },
+        "es": {
+          "text": "el hábitat",
+          "alternates": [
+            "hábitat"
+          ]
+        },
+        "fr": {
+          "text": "l'habitat",
+          "alternates": [
+            "habitat"
+          ]
+        },
+        "it": {
+          "text": "l'habitat",
+          "alternates": [
+            "habitat"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wildlife",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дикая природа",
+        "pl": {
+          "text": "dzika przyroda",
+          "alternates": [
+            "fauna"
+          ]
+        },
+        "uk": "дика природа",
+        "de": {
+          "text": "die Tierwelt",
+          "alternates": [
+            "die Wildtiere",
+            "Tierwelt",
+            "Wildtiere"
+          ]
+        },
+        "es": {
+          "text": "la fauna",
+          "alternates": [
+            "la vida silvestre",
+            "fauna",
+            "vida silvestre"
+          ]
+        },
+        "fr": {
+          "text": "la faune",
+          "alternates": [
+            "la vie sauvage",
+            "faune",
+            "vie sauvage"
+          ]
+        },
+        "it": {
+          "text": "la fauna selvatica",
+          "alternates": [
+            "fauna selvatica"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "natural disaster",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "стихийное бедствие",
+          "alternates": [
+            "природная катастрофа"
+          ]
+        },
+        "pl": {
+          "text": "klęska żywiołowa",
+          "alternates": [
+            "katastrofa naturalna"
+          ]
+        },
+        "uk": {
+          "text": "стихійне лихо",
+          "alternates": [
+            "природна катастрофа"
+          ]
+        },
+        "de": {
+          "text": "die Naturkatastrophe",
+          "alternates": [
+            "Naturkatastrophe"
+          ]
+        },
+        "es": {
+          "text": "el desastre natural",
+          "alternates": [
+            "la catástrofe natural",
+            "desastre natural",
+            "catástrofe natural"
+          ]
+        },
+        "fr": {
+          "text": "la catastrophe naturelle",
+          "alternates": [
+            "catastrophe naturelle"
+          ]
+        },
+        "it": {
+          "text": "il disastro naturale",
+          "alternates": [
+            "la calamità naturale",
+            "disastro naturale",
+            "calamità naturale"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "landfill",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "свалка",
+          "alternates": [
+            "мусорный полигон"
+          ]
+        },
+        "pl": {
+          "text": "wysypisko",
+          "alternates": [
+            "składowisko odpadów"
+          ]
+        },
+        "uk": {
+          "text": "сміттєзвалище",
+          "alternates": [
+            "звалище"
+          ]
+        },
+        "de": {
+          "text": "die Mülldeponie",
+          "alternates": [
+            "die Deponie",
+            "Mülldeponie",
+            "Deponie"
+          ]
+        },
+        "es": {
+          "text": "el vertedero",
+          "alternates": [
+            "vertedero"
+          ]
+        },
+        "fr": {
+          "text": "la décharge",
+          "alternates": [
+            "décharge"
+          ]
+        },
+        "it": {
+          "text": "la discarica",
+          "alternates": [
+            "discarica"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "smog",
+          "partOfSpeech": "noun"
+        },
+        "ru": "смог",
+        "pl": "smog",
+        "uk": "смог",
+        "de": {
+          "text": "der Smog",
+          "alternates": [
+            "Smog"
+          ]
+        },
+        "es": {
+          "text": "el esmog",
+          "alternates": [
+            "el smog",
+            "esmog",
+            "smog"
+          ]
+        },
+        "fr": {
+          "text": "le smog",
+          "alternates": [
+            "smog"
+          ]
+        },
+        "it": {
+          "text": "lo smog",
+          "alternates": [
+            "smog"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wind power",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "энергия ветра",
+          "alternates": [
+            "ветроэнергетика"
+          ]
+        },
+        "pl": {
+          "text": "energia wiatru",
+          "alternates": [
+            "energia wiatrowa"
+          ]
+        },
+        "uk": {
+          "text": "енергія вітру",
+          "alternates": [
+            "вітрова енергія"
+          ]
+        },
+        "de": {
+          "text": "die Windkraft",
+          "alternates": [
+            "die Windenergie",
+            "Windkraft",
+            "Windenergie"
+          ]
+        },
+        "es": {
+          "text": "la energía eólica",
+          "alternates": [
+            "energía eólica"
+          ]
+        },
+        "fr": {
+          "text": "l'énergie éolienne",
+          "alternates": [
+            "énergie éolienne"
+          ]
+        },
+        "it": {
+          "text": "l'energia eolica",
+          "alternates": [
+            "energia eolica"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nuclear energy",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "атомная энергия",
+          "alternates": [
+            "ядерная энергия"
+          ]
+        },
+        "pl": {
+          "text": "energia jądrowa",
+          "alternates": [
+            "energia atomowa"
+          ]
+        },
+        "uk": {
+          "text": "атомна енергія",
+          "alternates": [
+            "ядерна енергія"
+          ]
+        },
+        "de": {
+          "text": "die Atomenergie",
+          "alternates": [
+            "die Kernenergie",
+            "Atomenergie",
+            "Kernenergie"
+          ]
+        },
+        "es": {
+          "text": "la energía nuclear",
+          "alternates": [
+            "energía nuclear"
+          ]
+        },
+        "fr": {
+          "text": "l'énergie nucléaire",
+          "alternates": [
+            "énergie nucléaire"
+          ]
+        },
+        "it": {
+          "text": "l'energia nucleare",
+          "alternates": [
+            "energia nucleare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fossil fuels",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ископаемое топливо",
+        "pl": "paliwa kopalne",
+        "uk": "викопне паливо",
+        "de": {
+          "text": "die fossilen Brennstoffe",
+          "alternates": [
+            "fossilen Brennstoffe"
+          ]
+        },
+        "es": {
+          "text": "los combustibles fósiles",
+          "alternates": [
+            "combustibles fósiles"
+          ]
+        },
+        "fr": {
+          "text": "les combustibles fossiles",
+          "alternates": [
+            "combustibles fossiles"
+          ]
+        },
+        "it": {
+          "text": "i combustibili fossili",
+          "alternates": [
+            "combustibili fossili"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sustainable",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "устойчивый",
+        "pl": "zrównoważony",
+        "uk": {
+          "text": "сталий",
+          "alternates": [
+            "стійкий"
+          ]
+        },
+        "de": "nachhaltig",
+        "es": {
+          "text": "sostenible",
+          "alternates": [
+            "sustentable"
+          ]
+        },
+        "fr": "durable",
+        "it": "sostenibile"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "harmful",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "вредный",
+        "pl": "szkodliwy",
+        "uk": "шкідливий",
+        "de": "schädlich",
+        "es": {
+          "text": "dañino",
+          "alternates": [
+            "perjudicial"
+          ]
+        },
+        "fr": {
+          "text": "nocif",
+          "alternates": [
+            "nuisible"
+          ]
+        },
+        "it": {
+          "text": "dannoso",
+          "alternates": [
+            "nocivo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "eco-friendly",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "экологичный",
+          "alternates": [
+            "экологически чистый"
+          ]
+        },
+        "pl": {
+          "text": "ekologiczny",
+          "alternates": [
+            "przyjazny dla środowiska"
+          ]
+        },
+        "uk": {
+          "text": "екологічний",
+          "alternates": [
+            "екологічно чистий"
+          ]
+        },
+        "de": "umweltfreundlich",
+        "es": {
+          "text": "ecológico",
+          "alternates": [
+            "respetuoso con el medio ambiente"
+          ]
+        },
+        "fr": {
+          "text": "écologique",
+          "alternates": [
+            "respectueux de l'environnement"
+          ]
+        },
+        "it": {
+          "text": "ecologico",
+          "alternates": [
+            "ecosostenibile"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "organic",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "органический",
+          "alternates": [
+            "биологический"
+          ]
+        },
+        "pl": {
+          "text": "organiczny",
+          "alternates": [
+            "bio"
+          ]
+        },
+        "uk": {
+          "text": "органічний",
+          "alternates": [
+            "біологічний"
+          ]
+        },
+        "de": {
+          "text": "biologisch",
+          "alternates": [
+            "bio"
+          ]
+        },
+        "es": {
+          "text": "orgánico",
+          "alternates": [
+            "biológico"
+          ]
+        },
+        "fr": {
+          "text": "biologique",
+          "alternates": [
+            "bio"
+          ]
+        },
+        "it": {
+          "text": "biologico",
+          "alternates": [
+            "organico"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to damage",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "повреждать",
+          "alternates": [
+            "повредить"
+          ],
+          "aspects": {
+            "impf": [
+              "повреждать"
+            ],
+            "pf": [
+              "повредить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "uszkadzać",
+          "alternates": [
+            "uszkodzić"
+          ],
+          "aspects": {
+            "impf": [
+              "uszkadzać"
+            ],
+            "pf": [
+              "uszkodzić"
+            ]
+          }
+        },
+        "uk": {
+          "text": "пошкоджувати",
+          "alternates": [
+            "пошкодити"
+          ],
+          "aspects": {
+            "impf": [
+              "пошкоджувати"
+            ],
+            "pf": [
+              "пошкодити"
+            ]
+          }
+        },
+        "de": {
+          "text": "beschädigen",
+          "alternates": [
+            "schädigen"
+          ]
+        },
+        "es": {
+          "text": "dañar",
+          "alternates": [
+            "perjudicar"
+          ]
+        },
+        "fr": {
+          "text": "endommager",
+          "alternates": [
+            "abîmer"
+          ]
+        },
+        "it": "danneggiare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to ban",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "запрещать",
+          "alternates": [
+            "запретить"
+          ],
+          "aspects": {
+            "impf": [
+              "запрещать"
+            ],
+            "pf": [
+              "запретить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "zakazywać",
+          "alternates": [
+            "zakazać"
+          ],
+          "aspects": {
+            "impf": [
+              "zakazywać"
+            ],
+            "pf": [
+              "zakazać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "забороняти",
+          "alternates": [
+            "заборонити"
+          ],
+          "aspects": {
+            "impf": [
+              "забороняти"
+            ],
+            "pf": [
+              "заборонити"
+            ]
+          }
+        },
+        "de": "verbieten",
+        "es": {
+          "text": "prohibir",
+          "alternates": [
+            "vetar"
+          ]
+        },
+        "fr": {
+          "text": "interdire",
+          "alternates": [
+            "prohiber"
+          ]
+        },
+        "it": "vietare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to reuse",
+          "partOfSpeech": "verb"
+        },
+        "ru": "использовать повторно",
+        "pl": {
+          "text": "używać ponownie",
+          "alternates": [
+            "użyć ponownie"
+          ],
+          "aspects": {
+            "impf": [
+              "używać ponownie"
+            ],
+            "pf": [
+              "użyć ponownie"
+            ]
+          }
+        },
+        "uk": "використовувати повторно",
+        "de": "wiederverwenden",
+        "es": "reutilizar",
+        "fr": "réutiliser",
+        "it": {
+          "text": "riutilizzare",
+          "alternates": [
+            "riusare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to cut down",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "вырубать",
+          "alternates": [
+            "вырубить"
+          ],
+          "aspects": {
+            "impf": [
+              "вырубать"
+            ],
+            "pf": [
+              "вырубить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "wycinać",
+          "alternates": [
+            "wyciąć"
+          ],
+          "aspects": {
+            "impf": [
+              "wycinać"
+            ],
+            "pf": [
+              "wyciąć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "вирубувати",
+          "alternates": [
+            "вирубати"
+          ],
+          "aspects": {
+            "impf": [
+              "вирубувати"
+            ],
+            "pf": [
+              "вирубати"
+            ]
+          }
+        },
+        "de": {
+          "text": "fällen",
+          "alternates": [
+            "abholzen"
+          ]
+        },
+        "es": "talar",
+        "fr": "abattre",
+        "it": {
+          "text": "abbattere",
+          "alternates": [
+            "tagliare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to throw away",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "выбрасывать",
+          "alternates": [
+            "выбросить"
+          ],
+          "aspects": {
+            "impf": [
+              "выбрасывать"
+            ],
+            "pf": [
+              "выбросить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "wyrzucać",
+          "alternates": [
+            "wyrzucić"
+          ],
+          "aspects": {
+            "impf": [
+              "wyrzucać"
+            ],
+            "pf": [
+              "wyrzucić"
+            ]
+          }
+        },
+        "uk": {
+          "text": "викидати",
+          "alternates": [
+            "викинути"
+          ],
+          "aspects": {
+            "impf": [
+              "викидати"
+            ],
+            "pf": [
+              "викинути"
+            ]
+          }
+        },
+        "de": {
+          "text": "wegwerfen",
+          "alternates": [
+            "wegschmeißen"
+          ]
+        },
+        "es": {
+          "text": "tirar",
+          "alternates": [
+            "desechar"
+          ]
+        },
+        "fr": "jeter",
+        "it": {
+          "text": "buttare",
+          "alternates": [
+            "buttare via"
+          ]
+        }
+      }
     }
   ]
 }

@@ -224,6 +224,273 @@
         "fr": "gris",
         "it": "grigio"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "gold",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "золотой",
+        "pl": "złoty",
+        "uk": "золотий",
+        "de": {
+          "text": "golden",
+          "alternates": [
+            "gold"
+          ]
+        },
+        "es": {
+          "text": "dorado",
+          "alternates": [
+            "de oro"
+          ]
+        },
+        "fr": {
+          "text": "doré",
+          "alternates": [
+            "d'or"
+          ]
+        },
+        "it": {
+          "text": "dorato",
+          "alternates": [
+            "d'oro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "silver",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "серебряный",
+        "pl": "srebrny",
+        "uk": "срібний",
+        "de": {
+          "text": "silbern",
+          "alternates": [
+            "silber"
+          ]
+        },
+        "es": {
+          "text": "plateado",
+          "alternates": [
+            "de plata"
+          ]
+        },
+        "fr": {
+          "text": "argenté",
+          "alternates": [
+            "d'argent"
+          ]
+        },
+        "it": {
+          "text": "argentato",
+          "alternates": [
+            "d'argento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "beige",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "бежевый",
+        "pl": "beżowy",
+        "uk": "бежевий",
+        "de": "beige",
+        "es": "beige",
+        "fr": "beige",
+        "it": "beige"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "turquoise",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "бирюзовый",
+        "pl": "turkusowy",
+        "uk": "бірюзовий",
+        "de": "türkis",
+        "es": "turquesa",
+        "fr": "turquoise",
+        "it": "turchese"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "navy blue",
+          "alternates": [
+            "dark blue"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "тёмно-синий",
+        "pl": "granatowy",
+        "uk": "темно-синій",
+        "de": "dunkelblau",
+        "es": {
+          "text": "azul marino",
+          "alternates": [
+            "azul oscuro"
+          ]
+        },
+        "fr": {
+          "text": "bleu marine",
+          "alternates": [
+            "bleu foncé"
+          ]
+        },
+        "it": {
+          "text": "blu scuro",
+          "alternates": [
+            "blu navy"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "burgundy",
+          "alternates": [
+            "maroon"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": "бордовый",
+        "pl": "bordowy",
+        "uk": "бордовий",
+        "de": {
+          "text": "weinrot",
+          "alternates": [
+            "bordeaux"
+          ]
+        },
+        "es": {
+          "text": "granate",
+          "alternates": [
+            "burdeos"
+          ]
+        },
+        "fr": "bordeaux",
+        "it": "bordeaux"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cream",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "кремовый",
+        "pl": "kremowy",
+        "uk": "кремовий",
+        "de": {
+          "text": "cremefarben",
+          "alternates": [
+            "creme"
+          ]
+        },
+        "es": "crema",
+        "fr": "crème",
+        "it": "crema"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "colourful",
+          "alternates": [
+            "multicoloured"
+          ],
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "разноцветный",
+          "alternates": [
+            "цветной"
+          ]
+        },
+        "pl": "kolorowy",
+        "uk": {
+          "text": "різнокольоровий",
+          "alternates": [
+            "кольоровий"
+          ]
+        },
+        "de": {
+          "text": "bunt",
+          "alternates": [
+            "farbig"
+          ]
+        },
+        "es": {
+          "text": "colorido",
+          "alternates": [
+            "multicolor"
+          ]
+        },
+        "fr": {
+          "text": "coloré",
+          "alternates": [
+            "multicolore"
+          ]
+        },
+        "it": {
+          "text": "colorato",
+          "alternates": [
+            "multicolore"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "colour",
+          "alternates": [
+            "color"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "цвет",
+        "pl": "kolor",
+        "uk": "колір",
+        "de": {
+          "text": "die Farbe",
+          "alternates": [
+            "Farbe"
+          ]
+        },
+        "es": {
+          "text": "el color",
+          "alternates": [
+            "color"
+          ]
+        },
+        "fr": {
+          "text": "la couleur",
+          "alternates": [
+            "couleur"
+          ]
+        },
+        "it": {
+          "text": "il colore",
+          "alternates": [
+            "colore"
+          ]
+        }
+      }
     }
   ]
 }

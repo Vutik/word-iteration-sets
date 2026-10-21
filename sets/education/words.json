@@ -820,6 +820,781 @@
         "fr": "expliquer",
         "it": "spiegare"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "professor",
+          "partOfSpeech": "noun"
+        },
+        "ru": "профессор",
+        "pl": "profesor",
+        "uk": "професор",
+        "de": {
+          "text": "der Professor",
+          "alternates": [
+            "Professor"
+          ]
+        },
+        "es": {
+          "text": "el catedrático",
+          "alternates": [
+            "el profesor",
+            "catedrático",
+            "profesor"
+          ]
+        },
+        "fr": {
+          "text": "le professeur",
+          "alternates": [
+            "professeur"
+          ]
+        },
+        "it": {
+          "text": "il professore",
+          "alternates": [
+            "professore"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "faculty",
+          "partOfSpeech": "noun"
+        },
+        "ru": "факультет",
+        "pl": "wydział",
+        "uk": "факультет",
+        "de": {
+          "text": "die Fakultät",
+          "alternates": [
+            "Fakultät"
+          ]
+        },
+        "es": {
+          "text": "la facultad",
+          "alternates": [
+            "facultad"
+          ]
+        },
+        "fr": {
+          "text": "la faculté",
+          "alternates": [
+            "faculté"
+          ]
+        },
+        "it": {
+          "text": "la facoltà",
+          "alternates": [
+            "facoltà"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "certificate",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "сертификат",
+          "alternates": [
+            "свидетельство"
+          ]
+        },
+        "pl": {
+          "text": "certyfikat",
+          "alternates": [
+            "świadectwo"
+          ]
+        },
+        "uk": {
+          "text": "сертифікат",
+          "alternates": [
+            "свідоцтво"
+          ]
+        },
+        "de": {
+          "text": "das Zertifikat",
+          "alternates": [
+            "Zertifikat"
+          ]
+        },
+        "es": {
+          "text": "el certificado",
+          "alternates": [
+            "certificado"
+          ]
+        },
+        "fr": {
+          "text": "le certificat",
+          "alternates": [
+            "certificat"
+          ]
+        },
+        "it": {
+          "text": "il certificato",
+          "alternates": [
+            "certificato"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tuition fees",
+          "partOfSpeech": "noun"
+        },
+        "ru": "плата за обучение",
+        "pl": {
+          "text": "czesne",
+          "alternates": [
+            "opłata za naukę"
+          ]
+        },
+        "uk": "плата за навчання",
+        "de": {
+          "text": "die Studiengebühren",
+          "alternates": [
+            "Studiengebühren"
+          ]
+        },
+        "es": {
+          "text": "la matrícula",
+          "alternates": [
+            "matrícula"
+          ]
+        },
+        "fr": {
+          "text": "les frais de scolarité",
+          "alternates": [
+            "frais de scolarité"
+          ]
+        },
+        "it": {
+          "text": "le tasse universitarie",
+          "alternates": [
+            "tasse universitarie"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "campus",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кампус",
+        "pl": "kampus",
+        "uk": "кампус",
+        "de": {
+          "text": "der Campus",
+          "alternates": [
+            "Campus"
+          ]
+        },
+        "es": {
+          "text": "el campus",
+          "alternates": [
+            "campus"
+          ]
+        },
+        "fr": {
+          "text": "le campus",
+          "alternates": [
+            "campus"
+          ]
+        },
+        "it": {
+          "text": "il campus",
+          "alternates": [
+            "campus"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "thesis",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "дипломная работа",
+          "alternates": [
+            "диссертация"
+          ]
+        },
+        "pl": {
+          "text": "praca dyplomowa",
+          "alternates": [
+            "praca magisterska"
+          ]
+        },
+        "uk": {
+          "text": "дипломна робота",
+          "alternates": [
+            "дисертація"
+          ]
+        },
+        "de": {
+          "text": "die Abschlussarbeit",
+          "alternates": [
+            "die Diplomarbeit",
+            "Abschlussarbeit",
+            "Diplomarbeit"
+          ]
+        },
+        "es": {
+          "text": "la tesis",
+          "alternates": [
+            "tesis"
+          ]
+        },
+        "fr": {
+          "text": "le mémoire",
+          "alternates": [
+            "la thèse",
+            "mémoire",
+            "thèse"
+          ]
+        },
+        "it": {
+          "text": "la tesi",
+          "alternates": [
+            "tesi"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "seminar",
+          "partOfSpeech": "noun"
+        },
+        "ru": "семинар",
+        "pl": "seminarium",
+        "uk": "семінар",
+        "de": {
+          "text": "das Seminar",
+          "alternates": [
+            "Seminar"
+          ]
+        },
+        "es": {
+          "text": "el seminario",
+          "alternates": [
+            "seminario"
+          ]
+        },
+        "fr": {
+          "text": "le séminaire",
+          "alternates": [
+            "séminaire"
+          ]
+        },
+        "it": {
+          "text": "il seminario",
+          "alternates": [
+            "seminario"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "presentation",
+          "partOfSpeech": "noun"
+        },
+        "ru": "презентация",
+        "pl": "prezentacja",
+        "uk": "презентація",
+        "de": {
+          "text": "die Präsentation",
+          "alternates": [
+            "Präsentation"
+          ]
+        },
+        "es": {
+          "text": "la presentación",
+          "alternates": [
+            "presentación"
+          ]
+        },
+        "fr": {
+          "text": "la présentation",
+          "alternates": [
+            "présentation"
+          ]
+        },
+        "it": {
+          "text": "la presentazione",
+          "alternates": [
+            "presentazione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "education",
+          "partOfSpeech": "noun"
+        },
+        "ru": "образование",
+        "pl": {
+          "text": "edukacja",
+          "alternates": [
+            "wykształcenie"
+          ]
+        },
+        "uk": "освіта",
+        "de": {
+          "text": "die Bildung",
+          "alternates": [
+            "Bildung"
+          ]
+        },
+        "es": {
+          "text": "la educación",
+          "alternates": [
+            "la formación",
+            "educación",
+            "formación"
+          ]
+        },
+        "fr": {
+          "text": "l'éducation",
+          "alternates": [
+            "la formation",
+            "éducation",
+            "formation"
+          ]
+        },
+        "it": {
+          "text": "l'istruzione",
+          "alternates": [
+            "l'educazione",
+            "istruzione",
+            "educazione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bachelor's degree",
+          "partOfSpeech": "noun"
+        },
+        "ru": "степень бакалавра",
+        "pl": "licencjat",
+        "uk": "ступінь бакалавра",
+        "de": {
+          "text": "der Bachelor",
+          "alternates": [
+            "der Bachelorabschluss",
+            "Bachelor",
+            "Bachelorabschluss"
+          ]
+        },
+        "es": {
+          "text": "el grado universitario",
+          "alternates": [
+            "la licenciatura",
+            "grado universitario",
+            "licenciatura"
+          ]
+        },
+        "fr": {
+          "text": "la licence",
+          "alternates": [
+            "licence"
+          ]
+        },
+        "it": {
+          "text": "la laurea triennale",
+          "alternates": [
+            "laurea triennale"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "master's degree",
+          "partOfSpeech": "noun"
+        },
+        "ru": "степень магистра",
+        "pl": {
+          "text": "tytuł magistra",
+          "alternates": [
+            "magister"
+          ]
+        },
+        "uk": "ступінь магістра",
+        "de": {
+          "text": "der Master",
+          "alternates": [
+            "Master"
+          ]
+        },
+        "es": {
+          "text": "el máster",
+          "alternates": [
+            "máster"
+          ]
+        },
+        "fr": {
+          "text": "le master",
+          "alternates": [
+            "master"
+          ]
+        },
+        "it": {
+          "text": "la laurea magistrale",
+          "alternates": [
+            "laurea magistrale"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to attend",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "посещать",
+          "alternates": [
+            "посетить"
+          ],
+          "aspects": {
+            "impf": [
+              "посещать"
+            ],
+            "pf": [
+              "посетить"
+            ]
+          }
+        },
+        "pl": "uczęszczać",
+        "uk": {
+          "text": "відвідувати",
+          "alternates": [
+            "відвідати"
+          ],
+          "aspects": {
+            "impf": [
+              "відвідувати"
+            ],
+            "pf": [
+              "відвідати"
+            ]
+          }
+        },
+        "de": "besuchen",
+        "es": "asistir a",
+        "fr": "assister à",
+        "it": {
+          "text": "frequentare",
+          "alternates": [
+            "partecipare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to enrol",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "записываться",
+          "alternates": [
+            "записаться"
+          ],
+          "aspects": {
+            "impf": [
+              "записываться"
+            ],
+            "pf": [
+              "записаться"
+            ]
+          }
+        },
+        "pl": {
+          "text": "zapisywać się",
+          "alternates": [
+            "zapisać się"
+          ],
+          "aspects": {
+            "impf": [
+              "zapisywać się"
+            ],
+            "pf": [
+              "zapisać się"
+            ]
+          }
+        },
+        "uk": {
+          "text": "записуватися",
+          "alternates": [
+            "записатися"
+          ],
+          "aspects": {
+            "impf": [
+              "записуватися"
+            ],
+            "pf": [
+              "записатися"
+            ]
+          }
+        },
+        "de": {
+          "text": "sich einschreiben",
+          "alternates": [
+            "sich immatrikulieren"
+          ]
+        },
+        "es": {
+          "text": "matricularse",
+          "alternates": [
+            "inscribirse"
+          ]
+        },
+        "fr": "s'inscrire",
+        "it": "iscriversi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to memorize",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "запоминать",
+          "alternates": [
+            "запомнить"
+          ],
+          "aspects": {
+            "impf": [
+              "запоминать"
+            ],
+            "pf": [
+              "запомнить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "zapamiętywać",
+          "alternates": [
+            "zapamiętać"
+          ],
+          "aspects": {
+            "impf": [
+              "zapamiętywać"
+            ],
+            "pf": [
+              "zapamiętać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "запам'ятовувати",
+          "alternates": [
+            "запам'ятати"
+          ],
+          "aspects": {
+            "impf": [
+              "запам'ятовувати"
+            ],
+            "pf": [
+              "запам'ятати"
+            ]
+          }
+        },
+        "de": {
+          "text": "auswendig lernen",
+          "alternates": [
+            "sich merken"
+          ]
+        },
+        "es": "memorizar",
+        "fr": {
+          "text": "mémoriser",
+          "alternates": [
+            "apprendre par cœur"
+          ]
+        },
+        "it": {
+          "text": "memorizzare",
+          "alternates": [
+            "imparare a memoria"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to practise",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "тренироваться",
+          "alternates": [
+            "потренироваться",
+            "практиковаться"
+          ],
+          "aspects": {
+            "impf": [
+              "тренироваться",
+              "практиковаться"
+            ],
+            "pf": [
+              "потренироваться"
+            ]
+          }
+        },
+        "pl": {
+          "text": "ćwiczyć",
+          "alternates": [
+            "poćwiczyć"
+          ],
+          "aspects": {
+            "impf": [
+              "ćwiczyć"
+            ],
+            "pf": [
+              "poćwiczyć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "тренуватися",
+          "alternates": [
+            "потренуватися",
+            "практикуватися"
+          ],
+          "aspects": {
+            "impf": [
+              "тренуватися",
+              "практикуватися"
+            ],
+            "pf": [
+              "потренуватися"
+            ]
+          }
+        },
+        "de": {
+          "text": "üben",
+          "alternates": [
+            "trainieren"
+          ]
+        },
+        "es": "practicar",
+        "fr": {
+          "text": "s'entraîner",
+          "alternates": [
+            "pratiquer"
+          ]
+        },
+        "it": {
+          "text": "esercitarsi",
+          "alternates": [
+            "praticare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to cheat",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "списывать",
+          "alternates": [
+            "списать"
+          ],
+          "aspects": {
+            "impf": [
+              "списывать"
+            ],
+            "pf": [
+              "списать"
+            ]
+          }
+        },
+        "pl": "ściągać",
+        "uk": {
+          "text": "списувати",
+          "alternates": [
+            "списати"
+          ],
+          "aspects": {
+            "impf": [
+              "списувати"
+            ],
+            "pf": [
+              "списати"
+            ]
+          }
+        },
+        "de": {
+          "text": "abschreiben",
+          "alternates": [
+            "spicken",
+            "mogeln"
+          ]
+        },
+        "es": {
+          "text": "copiar",
+          "alternates": [
+            "hacer trampa"
+          ]
+        },
+        "fr": {
+          "text": "tricher",
+          "alternates": [
+            "copier"
+          ]
+        },
+        "it": {
+          "text": "copiare",
+          "alternates": [
+            "barare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "academic",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "академический",
+        "pl": "akademicki",
+        "uk": "академічний",
+        "de": "akademisch",
+        "es": "académico",
+        "fr": "académique",
+        "it": "accademico"
+      }
     }
   ]
 }

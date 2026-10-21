@@ -934,6 +934,757 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "radio",
+          "partOfSpeech": "noun"
+        },
+        "ru": "радио",
+        "pl": "radio",
+        "uk": "радіо",
+        "de": {
+          "text": "das Radio",
+          "alternates": [
+            "Radio"
+          ]
+        },
+        "es": {
+          "text": "la radio",
+          "alternates": [
+            "radio"
+          ]
+        },
+        "fr": {
+          "text": "la radio",
+          "alternates": [
+            "radio"
+          ]
+        },
+        "it": {
+          "text": "la radio",
+          "alternates": [
+            "radio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "television",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "телевидение",
+          "alternates": [
+            "телевизор"
+          ]
+        },
+        "pl": {
+          "text": "telewizja",
+          "alternates": [
+            "telewizor"
+          ]
+        },
+        "uk": {
+          "text": "телебачення",
+          "alternates": [
+            "телевізор"
+          ]
+        },
+        "de": {
+          "text": "das Fernsehen",
+          "alternates": [
+            "der Fernseher",
+            "Fernsehen",
+            "Fernseher"
+          ]
+        },
+        "es": {
+          "text": "la televisión",
+          "alternates": [
+            "televisión"
+          ]
+        },
+        "fr": {
+          "text": "la télévision",
+          "alternates": [
+            "télévision"
+          ]
+        },
+        "it": {
+          "text": "la televisione",
+          "alternates": [
+            "televisione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "documentary",
+          "partOfSpeech": "noun"
+        },
+        "ru": "документальный фильм",
+        "pl": "film dokumentalny",
+        "uk": "документальний фільм",
+        "de": {
+          "text": "die Dokumentation",
+          "alternates": [
+            "der Dokumentarfilm",
+            "Dokumentation",
+            "Dokumentarfilm"
+          ]
+        },
+        "es": {
+          "text": "el documental",
+          "alternates": [
+            "documental"
+          ]
+        },
+        "fr": {
+          "text": "le documentaire",
+          "alternates": [
+            "documentaire"
+          ]
+        },
+        "it": {
+          "text": "il documentario",
+          "alternates": [
+            "documentario"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "series",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сериал",
+        "pl": "serial",
+        "uk": "серіал",
+        "de": {
+          "text": "die Serie",
+          "alternates": [
+            "Serie"
+          ]
+        },
+        "es": {
+          "text": "la serie",
+          "alternates": [
+            "serie"
+          ]
+        },
+        "fr": {
+          "text": "la série",
+          "alternates": [
+            "série"
+          ]
+        },
+        "it": {
+          "text": "la serie tv",
+          "alternates": [
+            "la serie",
+            "serie tv",
+            "serie"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "podcast",
+          "partOfSpeech": "noun"
+        },
+        "ru": "подкаст",
+        "pl": "podcast",
+        "uk": "подкаст",
+        "de": {
+          "text": "der Podcast",
+          "alternates": [
+            "Podcast"
+          ]
+        },
+        "es": {
+          "text": "el pódcast",
+          "alternates": [
+            "el podcast",
+            "pódcast",
+            "podcast"
+          ]
+        },
+        "fr": {
+          "text": "le podcast",
+          "alternates": [
+            "podcast"
+          ]
+        },
+        "it": {
+          "text": "il podcast",
+          "alternates": [
+            "podcast"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "editor",
+          "partOfSpeech": "noun"
+        },
+        "ru": "редактор",
+        "pl": "redaktor",
+        "uk": "редактор",
+        "de": {
+          "text": "der Redakteur",
+          "alternates": [
+            "Redakteur"
+          ]
+        },
+        "es": {
+          "text": "el redactor",
+          "alternates": [
+            "el editor",
+            "redactor",
+            "editor"
+          ]
+        },
+        "fr": {
+          "text": "le rédacteur",
+          "alternates": [
+            "rédacteur"
+          ]
+        },
+        "it": {
+          "text": "il redattore",
+          "alternates": [
+            "redattore"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "presenter",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ведущий",
+        "pl": "prezenter",
+        "uk": "ведучий",
+        "de": {
+          "text": "der Moderator",
+          "alternates": [
+            "Moderator"
+          ]
+        },
+        "es": {
+          "text": "el presentador",
+          "alternates": [
+            "presentador"
+          ]
+        },
+        "fr": {
+          "text": "le présentateur",
+          "alternates": [
+            "présentateur"
+          ]
+        },
+        "it": {
+          "text": "il conduttore",
+          "alternates": [
+            "il presentatore",
+            "conduttore",
+            "presentatore"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "press",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пресса",
+        "pl": "prasa",
+        "uk": "преса",
+        "de": {
+          "text": "die Presse",
+          "alternates": [
+            "Presse"
+          ]
+        },
+        "es": {
+          "text": "la prensa",
+          "alternates": [
+            "prensa"
+          ]
+        },
+        "fr": {
+          "text": "la presse",
+          "alternates": [
+            "presse"
+          ]
+        },
+        "it": {
+          "text": "la stampa",
+          "alternates": [
+            "stampa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "report",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "репортаж",
+          "alternates": [
+            "сообщение"
+          ]
+        },
+        "pl": {
+          "text": "reportaż",
+          "alternates": [
+            "relacja"
+          ]
+        },
+        "uk": {
+          "text": "репортаж",
+          "alternates": [
+            "повідомлення"
+          ]
+        },
+        "de": {
+          "text": "der Bericht",
+          "alternates": [
+            "Bericht"
+          ]
+        },
+        "es": {
+          "text": "el reportaje",
+          "alternates": [
+            "el informe",
+            "reportaje",
+            "informe"
+          ]
+        },
+        "fr": {
+          "text": "le reportage",
+          "alternates": [
+            "le compte rendu",
+            "reportage",
+            "compte rendu"
+          ]
+        },
+        "it": {
+          "text": "il servizio",
+          "alternates": [
+            "il reportage",
+            "servizio",
+            "reportage"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rumour",
+          "partOfSpeech": "noun"
+        },
+        "ru": "слух",
+        "pl": "plotka",
+        "uk": "чутка",
+        "de": {
+          "text": "das Gerücht",
+          "alternates": [
+            "Gerücht"
+          ]
+        },
+        "es": {
+          "text": "el rumor",
+          "alternates": [
+            "rumor"
+          ]
+        },
+        "fr": {
+          "text": "la rumeur",
+          "alternates": [
+            "rumeur"
+          ]
+        },
+        "it": {
+          "text": "la voce",
+          "alternates": [
+            "la diceria",
+            "voce",
+            "diceria"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "censorship",
+          "partOfSpeech": "noun"
+        },
+        "ru": "цензура",
+        "pl": "cenzura",
+        "uk": "цензура",
+        "de": {
+          "text": "die Zensur",
+          "alternates": [
+            "Zensur"
+          ]
+        },
+        "es": {
+          "text": "la censura",
+          "alternates": [
+            "censura"
+          ]
+        },
+        "fr": {
+          "text": "la censure",
+          "alternates": [
+            "censure"
+          ]
+        },
+        "it": {
+          "text": "la censura",
+          "alternates": [
+            "censura"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "subscription",
+          "partOfSpeech": "noun"
+        },
+        "ru": "подписка",
+        "pl": {
+          "text": "subskrypcja",
+          "alternates": [
+            "prenumerata"
+          ]
+        },
+        "uk": "підписка",
+        "de": {
+          "text": "das Abonnement",
+          "alternates": [
+            "das Abo",
+            "Abonnement",
+            "Abo"
+          ]
+        },
+        "es": {
+          "text": "la suscripción",
+          "alternates": [
+            "suscripción"
+          ]
+        },
+        "fr": {
+          "text": "l'abonnement",
+          "alternates": [
+            "abonnement"
+          ]
+        },
+        "it": {
+          "text": "l'abbonamento",
+          "alternates": [
+            "abbonamento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "celebrity",
+          "partOfSpeech": "noun"
+        },
+        "ru": "знаменитость",
+        "pl": "celebryta",
+        "uk": "знаменитість",
+        "de": {
+          "text": "die Berühmtheit",
+          "alternates": [
+            "der Promi",
+            "der Star",
+            "Berühmtheit",
+            "Promi",
+            "Star"
+          ]
+        },
+        "es": {
+          "text": "la celebridad",
+          "alternates": [
+            "el famoso",
+            "celebridad",
+            "famoso"
+          ]
+        },
+        "fr": {
+          "text": "la célébrité",
+          "alternates": [
+            "la star",
+            "célébrité",
+            "star"
+          ]
+        },
+        "it": {
+          "text": "la celebrità",
+          "alternates": [
+            "il vip",
+            "celebrità",
+            "vip"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to subscribe",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "подписываться",
+          "alternates": [
+            "подписаться"
+          ],
+          "aspects": {
+            "impf": [
+              "подписываться"
+            ],
+            "pf": [
+              "подписаться"
+            ]
+          }
+        },
+        "pl": {
+          "text": "subskrybować",
+          "alternates": [
+            "zasubskrybować",
+            "prenumerować"
+          ],
+          "aspects": {
+            "impf": [
+              "subskrybować",
+              "prenumerować"
+            ],
+            "pf": [
+              "zasubskrybować"
+            ]
+          }
+        },
+        "uk": {
+          "text": "підписуватися",
+          "alternates": [
+            "підписатися"
+          ],
+          "aspects": {
+            "impf": [
+              "підписуватися"
+            ],
+            "pf": [
+              "підписатися"
+            ]
+          }
+        },
+        "de": "abonnieren",
+        "es": "suscribirse",
+        "fr": "s'abonner",
+        "it": "abbonarsi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to announce",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "объявлять",
+          "alternates": [
+            "объявить"
+          ],
+          "aspects": {
+            "impf": [
+              "объявлять"
+            ],
+            "pf": [
+              "объявить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "ogłaszać",
+          "alternates": [
+            "ogłosić"
+          ],
+          "aspects": {
+            "impf": [
+              "ogłaszać"
+            ],
+            "pf": [
+              "ogłosić"
+            ]
+          }
+        },
+        "uk": {
+          "text": "оголошувати",
+          "alternates": [
+            "оголосити"
+          ],
+          "aspects": {
+            "impf": [
+              "оголошувати"
+            ],
+            "pf": [
+              "оголосити"
+            ]
+          }
+        },
+        "de": {
+          "text": "ankündigen",
+          "alternates": [
+            "bekanntgeben"
+          ]
+        },
+        "es": "anunciar",
+        "fr": "annoncer",
+        "it": "annunciare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to comment",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "комментировать",
+          "alternates": [
+            "прокомментировать"
+          ],
+          "aspects": {
+            "impf": [
+              "комментировать"
+            ],
+            "pf": [
+              "прокомментировать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "komentować",
+          "alternates": [
+            "skomentować"
+          ],
+          "aspects": {
+            "impf": [
+              "komentować"
+            ],
+            "pf": [
+              "skomentować"
+            ]
+          }
+        },
+        "uk": {
+          "text": "коментувати",
+          "alternates": [
+            "прокоментувати"
+          ],
+          "aspects": {
+            "impf": [
+              "коментувати"
+            ],
+            "pf": [
+              "прокоментувати"
+            ]
+          }
+        },
+        "de": "kommentieren",
+        "es": "comentar",
+        "fr": "commenter",
+        "it": "commentare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "biased",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "предвзятый",
+        "pl": "stronniczy",
+        "uk": "упереджений",
+        "de": {
+          "text": "voreingenommen",
+          "alternates": [
+            "parteiisch"
+          ]
+        },
+        "es": {
+          "text": "parcial",
+          "alternates": [
+            "sesgado"
+          ]
+        },
+        "fr": "partial",
+        "it": {
+          "text": "di parte",
+          "alternates": [
+            "parziale"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "objective",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "объективный",
+        "pl": "obiektywny",
+        "uk": "об'єктивний",
+        "de": "objektiv",
+        "es": "objetivo",
+        "fr": "objectif",
+        "it": "obiettivo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "daily",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "ежедневный",
+        "pl": "codzienny",
+        "uk": "щоденний",
+        "de": "täglich",
+        "es": "diario",
+        "fr": "quotidien",
+        "it": "quotidiano"
+      }
     }
   ]
 }

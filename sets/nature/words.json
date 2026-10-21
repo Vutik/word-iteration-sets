@@ -715,6 +715,752 @@
           }
         }
       ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "plant",
+          "partOfSpeech": "noun"
+        },
+        "ru": "растение",
+        "pl": "roślina",
+        "uk": "рослина",
+        "de": {
+          "text": "die Pflanze",
+          "alternates": [
+            "Pflanze"
+          ]
+        },
+        "es": {
+          "text": "la planta",
+          "alternates": [
+            "planta"
+          ]
+        },
+        "fr": {
+          "text": "la plante",
+          "alternates": [
+            "plante"
+          ]
+        },
+        "it": {
+          "text": "la pianta",
+          "alternates": [
+            "pianta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "air",
+          "partOfSpeech": "noun"
+        },
+        "ru": "воздух",
+        "pl": "powietrze",
+        "uk": "повітря",
+        "de": {
+          "text": "die Luft",
+          "alternates": [
+            "Luft"
+          ]
+        },
+        "es": {
+          "text": "el aire",
+          "alternates": [
+            "aire"
+          ]
+        },
+        "fr": {
+          "text": "l'air",
+          "alternates": [
+            "air"
+          ]
+        },
+        "it": {
+          "text": "l'aria",
+          "alternates": [
+            "aria"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fire",
+          "partOfSpeech": "noun"
+        },
+        "ru": "огонь",
+        "pl": "ogień",
+        "uk": "вогонь",
+        "de": {
+          "text": "das Feuer",
+          "alternates": [
+            "Feuer"
+          ]
+        },
+        "es": {
+          "text": "el fuego",
+          "alternates": [
+            "fuego"
+          ]
+        },
+        "fr": {
+          "text": "le feu",
+          "alternates": [
+            "feu"
+          ]
+        },
+        "it": {
+          "text": "il fuoco",
+          "alternates": [
+            "fuoco"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sand",
+          "partOfSpeech": "noun"
+        },
+        "ru": "песок",
+        "pl": "piasek",
+        "uk": "пісок",
+        "de": {
+          "text": "der Sand",
+          "alternates": [
+            "Sand"
+          ]
+        },
+        "es": {
+          "text": "la arena",
+          "alternates": [
+            "arena"
+          ]
+        },
+        "fr": {
+          "text": "le sable",
+          "alternates": [
+            "sable"
+          ]
+        },
+        "it": {
+          "text": "la sabbia",
+          "alternates": [
+            "sabbia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wave",
+          "partOfSpeech": "noun"
+        },
+        "ru": "волна",
+        "pl": "fala",
+        "uk": "хвиля",
+        "de": {
+          "text": "die Welle",
+          "alternates": [
+            "Welle"
+          ]
+        },
+        "es": {
+          "text": "la ola",
+          "alternates": [
+            "ola"
+          ]
+        },
+        "fr": {
+          "text": "la vague",
+          "alternates": [
+            "vague"
+          ]
+        },
+        "it": {
+          "text": "l'onda",
+          "alternates": [
+            "onda"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "waterfall",
+          "partOfSpeech": "noun"
+        },
+        "ru": "водопад",
+        "pl": "wodospad",
+        "uk": "водоспад",
+        "de": {
+          "text": "der Wasserfall",
+          "alternates": [
+            "Wasserfall"
+          ]
+        },
+        "es": {
+          "text": "la cascada",
+          "alternates": [
+            "cascada"
+          ]
+        },
+        "fr": {
+          "text": "la cascade",
+          "alternates": [
+            "cascade"
+          ]
+        },
+        "it": {
+          "text": "la cascata",
+          "alternates": [
+            "cascata"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "valley",
+          "partOfSpeech": "noun"
+        },
+        "ru": "долина",
+        "pl": "dolina",
+        "uk": "долина",
+        "de": {
+          "text": "das Tal",
+          "alternates": [
+            "Tal"
+          ]
+        },
+        "es": {
+          "text": "el valle",
+          "alternates": [
+            "valle"
+          ]
+        },
+        "fr": {
+          "text": "la vallée",
+          "alternates": [
+            "vallée"
+          ]
+        },
+        "it": {
+          "text": "la valle",
+          "alternates": [
+            "valle"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "desert",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пустыня",
+        "pl": "pustynia",
+        "uk": "пустеля",
+        "de": {
+          "text": "die Wüste",
+          "alternates": [
+            "Wüste"
+          ]
+        },
+        "es": {
+          "text": "el desierto",
+          "alternates": [
+            "desierto"
+          ]
+        },
+        "fr": {
+          "text": "le désert",
+          "alternates": [
+            "désert"
+          ]
+        },
+        "it": {
+          "text": "il deserto",
+          "alternates": [
+            "deserto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cave",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пещера",
+        "pl": "jaskinia",
+        "uk": "печера",
+        "de": {
+          "text": "die Höhle",
+          "alternates": [
+            "Höhle"
+          ]
+        },
+        "es": {
+          "text": "la cueva",
+          "alternates": [
+            "cueva"
+          ]
+        },
+        "fr": {
+          "text": "la grotte",
+          "alternates": [
+            "grotte",
+            "caverne",
+            "la caverne"
+          ]
+        },
+        "it": {
+          "text": "la grotta",
+          "alternates": [
+            "grotta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "branch",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "ветка",
+          "alternates": [
+            "ветвь"
+          ]
+        },
+        "pl": "gałąź",
+        "uk": "гілка",
+        "de": {
+          "text": "der Ast",
+          "alternates": [
+            "Ast"
+          ]
+        },
+        "es": {
+          "text": "la rama",
+          "alternates": [
+            "rama"
+          ]
+        },
+        "fr": {
+          "text": "la branche",
+          "alternates": [
+            "branche"
+          ]
+        },
+        "it": {
+          "text": "il ramo",
+          "alternates": [
+            "ramo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "root",
+          "partOfSpeech": "noun"
+        },
+        "ru": "корень",
+        "pl": "korzeń",
+        "uk": "корінь",
+        "de": {
+          "text": "die Wurzel",
+          "alternates": [
+            "Wurzel"
+          ]
+        },
+        "es": {
+          "text": "la raíz",
+          "alternates": [
+            "raíz"
+          ]
+        },
+        "fr": {
+          "text": "la racine",
+          "alternates": [
+            "racine"
+          ]
+        },
+        "it": {
+          "text": "la radice",
+          "alternates": [
+            "radice"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bush",
+          "partOfSpeech": "noun"
+        },
+        "ru": "куст",
+        "pl": {
+          "text": "krzak",
+          "alternates": [
+            "krzew"
+          ]
+        },
+        "uk": "кущ",
+        "de": {
+          "text": "der Busch",
+          "alternates": [
+            "Busch",
+            "Strauch",
+            "der Strauch"
+          ]
+        },
+        "es": {
+          "text": "el arbusto",
+          "alternates": [
+            "arbusto"
+          ]
+        },
+        "fr": {
+          "text": "le buisson",
+          "alternates": [
+            "buisson"
+          ]
+        },
+        "it": {
+          "text": "il cespuglio",
+          "alternates": [
+            "cespuglio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "coast",
+          "partOfSpeech": "noun"
+        },
+        "ru": "побережье",
+        "pl": "wybrzeże",
+        "uk": "узбережжя",
+        "de": {
+          "text": "die Küste",
+          "alternates": [
+            "Küste"
+          ]
+        },
+        "es": {
+          "text": "la costa",
+          "alternates": [
+            "costa"
+          ]
+        },
+        "fr": {
+          "text": "la côte",
+          "alternates": [
+            "côte"
+          ]
+        },
+        "it": {
+          "text": "la costa",
+          "alternates": [
+            "costa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shore",
+          "partOfSpeech": "noun"
+        },
+        "ru": "берег",
+        "pl": "brzeg",
+        "uk": "берег",
+        "de": {
+          "text": "das Ufer",
+          "alternates": [
+            "Ufer"
+          ]
+        },
+        "es": {
+          "text": "la orilla",
+          "alternates": [
+            "orilla"
+          ]
+        },
+        "fr": {
+          "text": "le rivage",
+          "alternates": [
+            "rivage",
+            "rive",
+            "la rive"
+          ]
+        },
+        "it": {
+          "text": "la riva",
+          "alternates": [
+            "riva"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "path",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "тропинка",
+          "alternates": [
+            "тропа"
+          ]
+        },
+        "pl": "ścieżka",
+        "uk": "стежка",
+        "de": {
+          "text": "der Pfad",
+          "alternates": [
+            "Pfad",
+            "Fußweg",
+            "der Fußweg"
+          ]
+        },
+        "es": {
+          "text": "el sendero",
+          "alternates": [
+            "sendero",
+            "senda",
+            "la senda"
+          ]
+        },
+        "fr": {
+          "text": "le sentier",
+          "alternates": [
+            "sentier"
+          ]
+        },
+        "it": {
+          "text": "il sentiero",
+          "alternates": [
+            "sentiero"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "landscape",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "пейзаж",
+          "alternates": [
+            "ландшафт"
+          ]
+        },
+        "pl": "krajobraz",
+        "uk": {
+          "text": "краєвид",
+          "alternates": [
+            "пейзаж"
+          ]
+        },
+        "de": {
+          "text": "die Landschaft",
+          "alternates": [
+            "Landschaft"
+          ]
+        },
+        "es": {
+          "text": "el paisaje",
+          "alternates": [
+            "paisaje"
+          ]
+        },
+        "fr": {
+          "text": "le paysage",
+          "alternates": [
+            "paysage"
+          ]
+        },
+        "it": {
+          "text": "il paesaggio",
+          "alternates": [
+            "paesaggio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "meadow",
+          "partOfSpeech": "noun"
+        },
+        "ru": "луг",
+        "pl": "łąka",
+        "uk": "луг",
+        "de": {
+          "text": "die Wiese",
+          "alternates": [
+            "Wiese"
+          ]
+        },
+        "es": {
+          "text": "el prado",
+          "alternates": [
+            "prado"
+          ]
+        },
+        "fr": {
+          "text": "le pré",
+          "alternates": [
+            "pré",
+            "prairie",
+            "la prairie"
+          ]
+        },
+        "it": {
+          "text": "il prato",
+          "alternates": [
+            "prato"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sunset",
+          "partOfSpeech": "noun"
+        },
+        "ru": "закат",
+        "pl": "zachód słońca",
+        "uk": "захід сонця",
+        "de": {
+          "text": "der Sonnenuntergang",
+          "alternates": [
+            "Sonnenuntergang"
+          ]
+        },
+        "es": {
+          "text": "la puesta de sol",
+          "alternates": [
+            "puesta de sol"
+          ]
+        },
+        "fr": {
+          "text": "le coucher de soleil",
+          "alternates": [
+            "coucher de soleil"
+          ]
+        },
+        "it": {
+          "text": "il tramonto",
+          "alternates": [
+            "tramonto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wild",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "дикий",
+        "pl": "dziki",
+        "uk": "дикий",
+        "de": "wild",
+        "es": "salvaje",
+        "fr": "sauvage",
+        "it": {
+          "text": "selvaggio",
+          "alternates": [
+            "selvatico"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to grow",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "расти",
+          "alternates": [
+            "вырасти"
+          ],
+          "aspects": {
+            "impf": [
+              "расти"
+            ],
+            "pf": [
+              "вырасти"
+            ]
+          }
+        },
+        "pl": {
+          "text": "rosnąć",
+          "alternates": [
+            "urosnąć"
+          ],
+          "aspects": {
+            "impf": [
+              "rosnąć"
+            ],
+            "pf": [
+              "urosnąć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "рости",
+          "alternates": [
+            "вирости"
+          ],
+          "aspects": {
+            "impf": [
+              "рости"
+            ],
+            "pf": [
+              "вирости"
+            ]
+          }
+        },
+        "de": "wachsen",
+        "es": "crecer",
+        "fr": {
+          "text": "pousser",
+          "alternates": [
+            "grandir"
+          ]
+        },
+        "it": "crescere"
+      }
     }
   ]
 }

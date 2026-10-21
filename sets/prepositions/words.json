@@ -1,0 +1,1125 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "in",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "в",
+          "alternates": [
+            "во"
+          ]
+        },
+        "pl": {
+          "text": "w",
+          "alternates": [
+            "we"
+          ]
+        },
+        "uk": {
+          "text": "в",
+          "alternates": [
+            "у"
+          ]
+        },
+        "de": "in",
+        "es": "en",
+        "fr": {
+          "text": "dans",
+          "alternates": [
+            "en"
+          ]
+        },
+        "it": "in"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "on",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "на",
+        "pl": "na",
+        "uk": "на",
+        "de": {
+          "text": "auf",
+          "alternates": [
+            "an"
+          ]
+        },
+        "es": {
+          "text": "en",
+          "alternates": [
+            "sobre"
+          ]
+        },
+        "fr": "sur",
+        "it": {
+          "text": "su",
+          "alternates": [
+            "sopra"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "under",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "под",
+        "pl": "pod",
+        "uk": "під",
+        "de": "unter",
+        "es": {
+          "text": "debajo de",
+          "alternates": [
+            "bajo"
+          ]
+        },
+        "fr": "sous",
+        "it": "sotto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "over",
+          "alternates": [
+            "above"
+          ],
+          "partOfSpeech": "preposition"
+        },
+        "ru": "над",
+        "pl": "nad",
+        "uk": "над",
+        "de": "über",
+        "es": {
+          "text": "encima de",
+          "alternates": [
+            "sobre"
+          ]
+        },
+        "fr": "au-dessus de",
+        "it": "sopra"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "between",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "между",
+        "pl": "między",
+        "uk": {
+          "text": "між",
+          "alternates": [
+            "поміж"
+          ]
+        },
+        "de": "zwischen",
+        "es": "entre",
+        "fr": "entre",
+        "it": {
+          "text": "tra",
+          "alternates": [
+            "fra"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "among",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "среди",
+        "pl": {
+          "text": "wśród",
+          "alternates": [
+            "pośród"
+          ]
+        },
+        "uk": "серед",
+        "de": {
+          "text": "unter",
+          "alternates": [
+            "inmitten"
+          ]
+        },
+        "es": "entre",
+        "fr": "parmi",
+        "it": {
+          "text": "tra",
+          "alternates": [
+            "fra"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "behind",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "за",
+          "alternates": [
+            "позади"
+          ]
+        },
+        "pl": "za",
+        "uk": {
+          "text": "за",
+          "alternates": [
+            "позаду"
+          ]
+        },
+        "de": "hinter",
+        "es": "detrás de",
+        "fr": "derrière",
+        "it": {
+          "text": "dietro",
+          "alternates": [
+            "dietro a"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "in front of",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "перед",
+        "pl": "przed",
+        "uk": "перед",
+        "de": "vor",
+        "es": {
+          "text": "delante de",
+          "alternates": [
+            "enfrente de"
+          ]
+        },
+        "fr": "devant",
+        "it": "davanti a"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "next to",
+          "alternates": [
+            "beside"
+          ],
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "рядом с",
+          "alternates": [
+            "возле",
+            "около"
+          ]
+        },
+        "pl": {
+          "text": "obok",
+          "alternates": [
+            "koło",
+            "przy"
+          ]
+        },
+        "uk": {
+          "text": "поруч з",
+          "alternates": [
+            "біля",
+            "коло"
+          ]
+        },
+        "de": "neben",
+        "es": {
+          "text": "al lado de",
+          "alternates": [
+            "junto a"
+          ]
+        },
+        "fr": "à côté de",
+        "it": {
+          "text": "accanto a",
+          "alternates": [
+            "vicino a"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "opposite",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "напротив",
+        "pl": {
+          "text": "naprzeciwko",
+          "alternates": [
+            "naprzeciw"
+          ]
+        },
+        "uk": "навпроти",
+        "de": "gegenüber",
+        "es": {
+          "text": "enfrente de",
+          "alternates": [
+            "frente a"
+          ]
+        },
+        "fr": "en face de",
+        "it": "di fronte a"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "around",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "вокруг",
+        "pl": {
+          "text": "wokół",
+          "alternates": [
+            "dookoła"
+          ]
+        },
+        "uk": {
+          "text": "навколо",
+          "alternates": [
+            "довкола"
+          ]
+        },
+        "de": {
+          "text": "um",
+          "alternates": [
+            "um herum"
+          ]
+        },
+        "es": "alrededor de",
+        "fr": "autour de",
+        "it": "intorno a"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "through",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "через",
+          "alternates": [
+            "сквозь"
+          ]
+        },
+        "pl": "przez",
+        "uk": {
+          "text": "через",
+          "alternates": [
+            "крізь"
+          ]
+        },
+        "de": "durch",
+        "es": {
+          "text": "por",
+          "alternates": [
+            "a través de"
+          ]
+        },
+        "fr": {
+          "text": "à travers",
+          "alternates": [
+            "par"
+          ]
+        },
+        "it": {
+          "text": "attraverso",
+          "alternates": [
+            "per"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "across",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "через",
+          "alternates": [
+            "поперёк"
+          ]
+        },
+        "pl": {
+          "text": "przez",
+          "alternates": [
+            "w poprzek"
+          ]
+        },
+        "uk": {
+          "text": "через",
+          "alternates": [
+            "упоперек"
+          ]
+        },
+        "de": {
+          "text": "über",
+          "alternates": [
+            "quer durch"
+          ]
+        },
+        "es": {
+          "text": "a través de",
+          "alternates": [
+            "al otro lado de"
+          ]
+        },
+        "fr": {
+          "text": "à travers",
+          "alternates": [
+            "de l'autre côté de"
+          ]
+        },
+        "it": {
+          "text": "attraverso",
+          "alternates": [
+            "dall'altra parte di"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "along",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "вдоль",
+          "alternates": [
+            "по"
+          ]
+        },
+        "pl": {
+          "text": "wzdłuż",
+          "alternates": [
+            "po"
+          ]
+        },
+        "uk": {
+          "text": "уздовж",
+          "alternates": [
+            "вздовж",
+            "по"
+          ]
+        },
+        "de": "entlang",
+        "es": {
+          "text": "a lo largo de",
+          "alternates": [
+            "por"
+          ]
+        },
+        "fr": "le long de",
+        "it": "lungo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "into",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "в",
+          "alternates": [
+            "во"
+          ]
+        },
+        "pl": {
+          "text": "do",
+          "alternates": [
+            "w"
+          ]
+        },
+        "uk": {
+          "text": "в",
+          "alternates": [
+            "у"
+          ]
+        },
+        "de": "in",
+        "es": {
+          "text": "en",
+          "alternates": [
+            "dentro de"
+          ]
+        },
+        "fr": "dans",
+        "it": {
+          "text": "in",
+          "alternates": [
+            "dentro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "out of",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "из",
+        "pl": {
+          "text": "z",
+          "alternates": [
+            "ze"
+          ]
+        },
+        "uk": {
+          "text": "з",
+          "alternates": [
+            "із",
+            "зі"
+          ]
+        },
+        "de": "aus",
+        "es": {
+          "text": "de",
+          "alternates": [
+            "fuera de"
+          ]
+        },
+        "fr": {
+          "text": "hors de",
+          "alternates": [
+            "de"
+          ]
+        },
+        "it": {
+          "text": "fuori da",
+          "alternates": [
+            "da"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "from",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "от",
+          "alternates": [
+            "из",
+            "с"
+          ]
+        },
+        "pl": {
+          "text": "od",
+          "alternates": [
+            "z"
+          ]
+        },
+        "uk": {
+          "text": "від",
+          "alternates": [
+            "з"
+          ]
+        },
+        "de": {
+          "text": "von",
+          "alternates": [
+            "aus"
+          ]
+        },
+        "es": {
+          "text": "de",
+          "alternates": [
+            "desde"
+          ]
+        },
+        "fr": "de",
+        "it": {
+          "text": "da",
+          "alternates": [
+            "di"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "к",
+          "alternates": [
+            "в",
+            "на"
+          ]
+        },
+        "pl": {
+          "text": "do",
+          "alternates": [
+            "ku"
+          ]
+        },
+        "uk": "до",
+        "de": {
+          "text": "zu",
+          "alternates": [
+            "nach"
+          ]
+        },
+        "es": "a",
+        "fr": "à",
+        "it": "a"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "towards",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "к",
+          "alternates": [
+            "по направлению к"
+          ]
+        },
+        "pl": {
+          "text": "ku",
+          "alternates": [
+            "w stronę",
+            "w kierunku"
+          ]
+        },
+        "uk": {
+          "text": "до",
+          "alternates": [
+            "у бік",
+            "в напрямку"
+          ]
+        },
+        "de": {
+          "text": "in Richtung",
+          "alternates": [
+            "gegen"
+          ]
+        },
+        "es": "hacia",
+        "fr": "vers",
+        "it": "verso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "with",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "с",
+          "alternates": [
+            "со"
+          ]
+        },
+        "pl": {
+          "text": "z",
+          "alternates": [
+            "ze"
+          ]
+        },
+        "uk": {
+          "text": "з",
+          "alternates": [
+            "із",
+            "зі"
+          ]
+        },
+        "de": "mit",
+        "es": "con",
+        "fr": "avec",
+        "it": "con"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "without",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "без",
+        "pl": "bez",
+        "uk": "без",
+        "de": "ohne",
+        "es": "sin",
+        "fr": "sans",
+        "it": "senza"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "for",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "для",
+        "pl": "dla",
+        "uk": "для",
+        "de": "für",
+        "es": {
+          "text": "para",
+          "alternates": [
+            "por"
+          ]
+        },
+        "fr": "pour",
+        "it": "per"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "about",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "о",
+          "alternates": [
+            "об",
+            "про"
+          ]
+        },
+        "pl": "o",
+        "uk": {
+          "text": "про",
+          "alternates": [
+            "о"
+          ]
+        },
+        "de": {
+          "text": "über",
+          "alternates": [
+            "von"
+          ]
+        },
+        "es": {
+          "text": "sobre",
+          "alternates": [
+            "de",
+            "acerca de"
+          ]
+        },
+        "fr": {
+          "text": "de",
+          "alternates": [
+            "sur",
+            "à propos de"
+          ]
+        },
+        "it": {
+          "text": "di",
+          "alternates": [
+            "su"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "before",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "до",
+          "alternates": [
+            "перед"
+          ]
+        },
+        "pl": "przed",
+        "uk": {
+          "text": "до",
+          "alternates": [
+            "перед"
+          ]
+        },
+        "de": "vor",
+        "es": "antes de",
+        "fr": "avant",
+        "it": "prima di"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "after",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "после",
+        "pl": "po",
+        "uk": "після",
+        "de": "nach",
+        "es": "después de",
+        "fr": "après",
+        "it": "dopo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "during",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "во время",
+          "alternates": [
+            "в течение"
+          ]
+        },
+        "pl": {
+          "text": "podczas",
+          "alternates": [
+            "w czasie"
+          ]
+        },
+        "uk": {
+          "text": "під час",
+          "alternates": [
+            "протягом"
+          ]
+        },
+        "de": "während",
+        "es": "durante",
+        "fr": {
+          "text": "pendant",
+          "alternates": [
+            "durant"
+          ]
+        },
+        "it": "durante"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "since",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "с",
+          "alternates": [
+            "со"
+          ]
+        },
+        "pl": "od",
+        "uk": {
+          "text": "з",
+          "alternates": [
+            "від"
+          ]
+        },
+        "de": "seit",
+        "es": "desde",
+        "fr": "depuis",
+        "it": "da"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "till",
+          "alternates": [
+            "until",
+            "up to"
+          ],
+          "partOfSpeech": "preposition"
+        },
+        "ru": "до",
+        "pl": {
+          "text": "do",
+          "alternates": [
+            "aż do"
+          ]
+        },
+        "uk": "до",
+        "de": "bis",
+        "es": "hasta",
+        "fr": "jusqu'à",
+        "it": "fino a"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "against",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "против",
+        "pl": {
+          "text": "przeciw",
+          "alternates": [
+            "przeciwko"
+          ]
+        },
+        "uk": "проти",
+        "de": "gegen",
+        "es": "contra",
+        "fr": "contre",
+        "it": "contro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "except",
+          "alternates": [
+            "apart from"
+          ],
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "кроме",
+          "alternates": [
+            "за исключением"
+          ]
+        },
+        "pl": {
+          "text": "oprócz",
+          "alternates": [
+            "poza",
+            "z wyjątkiem"
+          ]
+        },
+        "uk": {
+          "text": "крім",
+          "alternates": [
+            "окрім"
+          ]
+        },
+        "de": "außer",
+        "es": {
+          "text": "excepto",
+          "alternates": [
+            "salvo",
+            "menos"
+          ]
+        },
+        "fr": {
+          "text": "sauf",
+          "alternates": [
+            "excepté",
+            "à part"
+          ]
+        },
+        "it": {
+          "text": "tranne",
+          "alternates": [
+            "eccetto",
+            "salvo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "instead of",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "вместо",
+        "pl": "zamiast",
+        "uk": "замість",
+        "de": {
+          "text": "statt",
+          "alternates": [
+            "anstatt"
+          ]
+        },
+        "es": {
+          "text": "en lugar de",
+          "alternates": [
+            "en vez de"
+          ]
+        },
+        "fr": "au lieu de",
+        "it": {
+          "text": "invece di",
+          "alternates": [
+            "al posto di"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "according to",
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "по словам",
+          "alternates": [
+            "согласно"
+          ]
+        },
+        "pl": {
+          "text": "według",
+          "alternates": [
+            "zgodnie z"
+          ]
+        },
+        "uk": {
+          "text": "за словами",
+          "alternates": [
+            "згідно з",
+            "відповідно до"
+          ]
+        },
+        "de": {
+          "text": "laut",
+          "alternates": [
+            "nach",
+            "gemäß"
+          ]
+        },
+        "es": "según",
+        "fr": {
+          "text": "selon",
+          "alternates": [
+            "d'après"
+          ]
+        },
+        "it": "secondo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "thanks to",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "благодаря",
+        "pl": "dzięki",
+        "uk": "завдяки",
+        "de": "dank",
+        "es": "gracias a",
+        "fr": "grâce à",
+        "it": "grazie a"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "because of",
+          "partOfSpeech": "preposition"
+        },
+        "ru": "из-за",
+        "pl": {
+          "text": "z powodu",
+          "alternates": [
+            "przez"
+          ]
+        },
+        "uk": {
+          "text": "через",
+          "alternates": [
+            "внаслідок"
+          ]
+        },
+        "de": "wegen",
+        "es": {
+          "text": "por",
+          "alternates": [
+            "a causa de",
+            "debido a"
+          ]
+        },
+        "fr": "à cause de",
+        "it": {
+          "text": "a causa di",
+          "alternates": [
+            "per"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "like",
+          "alternates": [
+            "as"
+          ],
+          "partOfSpeech": "preposition"
+        },
+        "ru": {
+          "text": "как",
+          "alternates": [
+            "словно"
+          ]
+        },
+        "pl": "jak",
+        "uk": {
+          "text": "як",
+          "alternates": [
+            "мов",
+            "наче"
+          ]
+        },
+        "de": "wie",
+        "es": "como",
+        "fr": "comme",
+        "it": "come"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "at somebody's place",
+          "alternates": [
+            "at"
+          ],
+          "partOfSpeech": "preposition"
+        },
+        "ru": "у",
+        "pl": "u",
+        "uk": {
+          "text": "у",
+          "alternates": [
+            "в"
+          ]
+        },
+        "de": "bei",
+        "es": "en casa de",
+        "fr": "chez",
+        "it": "da"
+      }
+    }
+  ]
+}

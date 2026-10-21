@@ -658,6 +658,601 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "optimistic",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "оптимистичный",
+        "pl": "optymistyczny",
+        "uk": "оптимістичний",
+        "de": "optimistisch",
+        "es": "optimista",
+        "fr": "optimiste",
+        "it": "ottimista"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pessimistic",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "пессимистичный",
+        "pl": "pesymistyczny",
+        "uk": "песимістичний",
+        "de": "pessimistisch",
+        "es": "pesimista",
+        "fr": "pessimiste",
+        "it": "pessimista"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "creative",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "творческий",
+          "alternates": [
+            "креативный"
+          ]
+        },
+        "pl": {
+          "text": "kreatywny",
+          "alternates": [
+            "twórczy"
+          ]
+        },
+        "uk": {
+          "text": "творчий",
+          "alternates": [
+            "креативний"
+          ]
+        },
+        "de": "kreativ",
+        "es": "creativo",
+        "fr": "créatif",
+        "it": "creativo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "curious",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "любопытный",
+        "pl": {
+          "text": "ciekawski",
+          "alternates": [
+            "ciekawy"
+          ]
+        },
+        "uk": {
+          "text": "цікавий",
+          "alternates": [
+            "допитливий"
+          ]
+        },
+        "de": "neugierig",
+        "es": "curioso",
+        "fr": "curieux",
+        "it": "curioso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cheerful",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "весёлый",
+          "alternates": [
+            "жизнерадостный"
+          ]
+        },
+        "pl": {
+          "text": "wesoły",
+          "alternates": [
+            "pogodny"
+          ]
+        },
+        "uk": {
+          "text": "веселий",
+          "alternates": [
+            "життєрадісний"
+          ]
+        },
+        "de": {
+          "text": "fröhlich",
+          "alternates": [
+            "heiter"
+          ]
+        },
+        "es": "alegre",
+        "fr": {
+          "text": "joyeux",
+          "alternates": [
+            "gai"
+          ]
+        },
+        "it": {
+          "text": "allegro",
+          "alternates": [
+            "gioioso"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "serious",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "серьёзный",
+        "pl": "poważny",
+        "uk": "серйозний",
+        "de": {
+          "text": "ernst",
+          "alternates": [
+            "ernsthaft"
+          ]
+        },
+        "es": "serio",
+        "fr": "sérieux",
+        "it": "serio"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "modest",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "скромный",
+        "pl": "skromny",
+        "uk": "скромний",
+        "de": "bescheiden",
+        "es": "modesto",
+        "fr": "modeste",
+        "it": "modesto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "arrogant",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "высокомерный",
+          "alternates": [
+            "надменный"
+          ]
+        },
+        "pl": {
+          "text": "arogancki",
+          "alternates": [
+            "zarozumiały"
+          ]
+        },
+        "uk": {
+          "text": "зарозумілий",
+          "alternates": [
+            "високомірний"
+          ]
+        },
+        "de": {
+          "text": "arrogant",
+          "alternates": [
+            "überheblich"
+          ]
+        },
+        "es": "arrogante",
+        "fr": {
+          "text": "arrogant",
+          "alternates": [
+            "hautain"
+          ]
+        },
+        "it": "arrogante"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "talkative",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "разговорчивый",
+          "alternates": [
+            "болтливый"
+          ]
+        },
+        "pl": {
+          "text": "gadatliwy",
+          "alternates": [
+            "rozmowny"
+          ]
+        },
+        "uk": {
+          "text": "балакучий",
+          "alternates": [
+            "говіркий"
+          ]
+        },
+        "de": {
+          "text": "gesprächig",
+          "alternates": [
+            "redselig"
+          ]
+        },
+        "es": {
+          "text": "hablador",
+          "alternates": [
+            "parlanchín"
+          ]
+        },
+        "fr": "bavard",
+        "it": {
+          "text": "loquace",
+          "alternates": [
+            "chiacchierone"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "loyal",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "верный",
+          "alternates": [
+            "преданный"
+          ]
+        },
+        "pl": {
+          "text": "lojalny",
+          "alternates": [
+            "wierny"
+          ]
+        },
+        "uk": {
+          "text": "вірний",
+          "alternates": [
+            "відданий"
+          ]
+        },
+        "de": {
+          "text": "loyal",
+          "alternates": [
+            "treu"
+          ]
+        },
+        "es": {
+          "text": "leal",
+          "alternates": [
+            "fiel"
+          ]
+        },
+        "fr": {
+          "text": "loyal",
+          "alternates": [
+            "fidèle"
+          ]
+        },
+        "it": {
+          "text": "leale",
+          "alternates": [
+            "fedele"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "responsible",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "ответственный",
+        "pl": "odpowiedzialny",
+        "uk": "відповідальний",
+        "de": {
+          "text": "verantwortungsbewusst",
+          "alternates": [
+            "verantwortlich"
+          ]
+        },
+        "es": "responsable",
+        "fr": "responsable",
+        "it": "responsabile"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ambitious",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "амбициозный",
+          "alternates": [
+            "честолюбивый"
+          ]
+        },
+        "pl": "ambitny",
+        "uk": {
+          "text": "амбітний",
+          "alternates": [
+            "честолюбний"
+          ]
+        },
+        "de": "ehrgeizig",
+        "es": "ambicioso",
+        "fr": "ambitieux",
+        "it": "ambizioso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "determined",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "целеустремлённый",
+          "alternates": [
+            "решительный"
+          ]
+        },
+        "pl": {
+          "text": "zdeterminowany",
+          "alternates": [
+            "zdecydowany"
+          ]
+        },
+        "uk": {
+          "text": "цілеспрямований",
+          "alternates": [
+            "рішучий"
+          ]
+        },
+        "de": "entschlossen",
+        "es": {
+          "text": "decidido",
+          "alternates": [
+            "resuelto"
+          ]
+        },
+        "fr": {
+          "text": "déterminé",
+          "alternates": [
+            "résolu"
+          ]
+        },
+        "it": {
+          "text": "determinato",
+          "alternates": [
+            "deciso"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "stingy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "скупой",
+          "alternates": [
+            "жадный"
+          ]
+        },
+        "pl": {
+          "text": "skąpy",
+          "alternates": [
+            "sknerowaty"
+          ]
+        },
+        "uk": {
+          "text": "скупий",
+          "alternates": [
+            "жадібний"
+          ]
+        },
+        "de": "geizig",
+        "es": {
+          "text": "tacaño",
+          "alternates": [
+            "avaro"
+          ]
+        },
+        "fr": {
+          "text": "avare",
+          "alternates": [
+            "radin"
+          ]
+        },
+        "it": {
+          "text": "avaro",
+          "alternates": [
+            "tirchio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "impatient",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "нетерпеливый",
+        "pl": "niecierpliwy",
+        "uk": "нетерплячий",
+        "de": "ungeduldig",
+        "es": "impaciente",
+        "fr": "impatient",
+        "it": "impaziente"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "caring",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "заботливый",
+          "alternates": [
+            "внимательный"
+          ]
+        },
+        "pl": {
+          "text": "troskliwy",
+          "alternates": [
+            "opiekuńczy"
+          ]
+        },
+        "uk": {
+          "text": "турботливий",
+          "alternates": [
+            "уважний"
+          ]
+        },
+        "de": {
+          "text": "fürsorglich",
+          "alternates": [
+            "rücksichtsvoll"
+          ]
+        },
+        "es": {
+          "text": "atento",
+          "alternates": [
+            "considerado"
+          ]
+        },
+        "fr": {
+          "text": "attentionné",
+          "alternates": [
+            "prévenant"
+          ]
+        },
+        "it": {
+          "text": "premuroso",
+          "alternates": [
+            "attento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sociable",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "общительный",
+        "pl": "towarzyski",
+        "uk": {
+          "text": "товариський",
+          "alternates": [
+            "комунікабельний"
+          ]
+        },
+        "de": {
+          "text": "gesellig",
+          "alternates": [
+            "kontaktfreudig"
+          ]
+        },
+        "es": {
+          "text": "sociable",
+          "alternates": [
+            "extrovertido"
+          ]
+        },
+        "fr": "sociable",
+        "it": {
+          "text": "socievole",
+          "alternates": [
+            "estroverso"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wise",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "мудрый",
+        "pl": "mądry",
+        "uk": "мудрий",
+        "de": "weise",
+        "es": "sabio",
+        "fr": "sage",
+        "it": "saggio"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "open-minded",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "открытый",
+          "alternates": [
+            "с широкими взглядами"
+          ]
+        },
+        "pl": "otwarty",
+        "uk": {
+          "text": "відкритий",
+          "alternates": [
+            "з широкими поглядами"
+          ]
+        },
+        "de": {
+          "text": "aufgeschlossen",
+          "alternates": [
+            "offen"
+          ]
+        },
+        "es": {
+          "text": "de mente abierta",
+          "alternates": [
+            "abierto"
+          ]
+        },
+        "fr": {
+          "text": "ouvert d'esprit",
+          "alternates": [
+            "ouvert"
+          ]
+        },
+        "it": {
+          "text": "di mentalità aperta",
+          "alternates": [
+            "aperto"
+          ]
+        }
+      }
     }
   ]
 }

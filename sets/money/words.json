@@ -1005,6 +1005,708 @@
         "fr": "pauvre",
         "it": "povero"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wallet",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кошелёк",
+        "pl": "portfel",
+        "uk": "гаманець",
+        "de": {
+          "text": "die Geldbörse",
+          "alternates": [
+            "Geldbörse",
+            "Portemonnaie",
+            "das Portemonnaie"
+          ]
+        },
+        "es": {
+          "text": "la cartera",
+          "alternates": [
+            "cartera",
+            "monedero",
+            "el monedero"
+          ]
+        },
+        "fr": {
+          "text": "le portefeuille",
+          "alternates": [
+            "portefeuille"
+          ]
+        },
+        "it": {
+          "text": "il portafoglio",
+          "alternates": [
+            "portafoglio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "credit card",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кредитная карта",
+        "pl": "karta kredytowa",
+        "uk": "кредитна картка",
+        "de": {
+          "text": "die Kreditkarte",
+          "alternates": [
+            "Kreditkarte"
+          ]
+        },
+        "es": {
+          "text": "la tarjeta de crédito",
+          "alternates": [
+            "tarjeta de crédito"
+          ]
+        },
+        "fr": {
+          "text": "la carte de crédit",
+          "alternates": [
+            "carte de crédit",
+            "carte bancaire",
+            "la carte bancaire"
+          ]
+        },
+        "it": {
+          "text": "la carta di credito",
+          "alternates": [
+            "carta di credito"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to deposit",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "вносить",
+          "alternates": [
+            "внести"
+          ],
+          "aspects": {
+            "impf": [
+              "вносить"
+            ],
+            "pf": [
+              "внести"
+            ]
+          }
+        },
+        "pl": {
+          "text": "wpłacać",
+          "alternates": [
+            "wpłacić"
+          ],
+          "aspects": {
+            "impf": [
+              "wpłacać"
+            ],
+            "pf": [
+              "wpłacić"
+            ]
+          }
+        },
+        "uk": {
+          "text": "вносити",
+          "alternates": [
+            "внести"
+          ],
+          "aspects": {
+            "impf": [
+              "вносити"
+            ],
+            "pf": [
+              "внести"
+            ]
+          }
+        },
+        "de": "einzahlen",
+        "es": "ingresar",
+        "fr": "déposer",
+        "it": "versare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "payment",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "платёж",
+          "alternates": [
+            "оплата"
+          ]
+        },
+        "pl": "płatność",
+        "uk": {
+          "text": "платіж",
+          "alternates": [
+            "оплата"
+          ]
+        },
+        "de": {
+          "text": "die Zahlung",
+          "alternates": [
+            "Zahlung"
+          ]
+        },
+        "es": {
+          "text": "el pago",
+          "alternates": [
+            "pago"
+          ]
+        },
+        "fr": {
+          "text": "le paiement",
+          "alternates": [
+            "paiement"
+          ]
+        },
+        "it": {
+          "text": "il pagamento",
+          "alternates": [
+            "pagamento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "profit",
+          "partOfSpeech": "noun"
+        },
+        "ru": "прибыль",
+        "pl": "zysk",
+        "uk": "прибуток",
+        "de": {
+          "text": "der Gewinn",
+          "alternates": [
+            "Gewinn",
+            "Profit",
+            "der Profit"
+          ]
+        },
+        "es": {
+          "text": "el beneficio",
+          "alternates": [
+            "beneficio",
+            "ganancia",
+            "la ganancia"
+          ]
+        },
+        "fr": {
+          "text": "le bénéfice",
+          "alternates": [
+            "bénéfice",
+            "profit",
+            "le profit"
+          ]
+        },
+        "it": {
+          "text": "il profitto",
+          "alternates": [
+            "profitto",
+            "guadagno",
+            "il guadagno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pension",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пенсия",
+        "pl": "emerytura",
+        "uk": "пенсія",
+        "de": {
+          "text": "die Rente",
+          "alternates": [
+            "Rente",
+            "Pension",
+            "die Pension"
+          ]
+        },
+        "es": {
+          "text": "la pensión",
+          "alternates": [
+            "pensión",
+            "jubilación",
+            "la jubilación"
+          ]
+        },
+        "fr": {
+          "text": "la retraite",
+          "alternates": [
+            "retraite"
+          ]
+        },
+        "it": {
+          "text": "la pensione",
+          "alternates": [
+            "pensione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "insurance",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "страховка",
+          "alternates": [
+            "страхование"
+          ]
+        },
+        "pl": "ubezpieczenie",
+        "uk": {
+          "text": "страхування",
+          "alternates": [
+            "страховка"
+          ]
+        },
+        "de": {
+          "text": "die Versicherung",
+          "alternates": [
+            "Versicherung"
+          ]
+        },
+        "es": {
+          "text": "el seguro",
+          "alternates": [
+            "seguro"
+          ]
+        },
+        "fr": {
+          "text": "l'assurance",
+          "alternates": [
+            "assurance"
+          ]
+        },
+        "it": {
+          "text": "l'assicurazione",
+          "alternates": [
+            "assicurazione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fee",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "плата",
+          "alternates": [
+            "сбор"
+          ]
+        },
+        "pl": "opłata",
+        "uk": {
+          "text": "плата",
+          "alternates": [
+            "збір"
+          ]
+        },
+        "de": {
+          "text": "die Gebühr",
+          "alternates": [
+            "Gebühr"
+          ]
+        },
+        "es": {
+          "text": "la tarifa",
+          "alternates": [
+            "tarifa",
+            "cuota",
+            "la cuota"
+          ]
+        },
+        "fr": {
+          "text": "les frais",
+          "alternates": [
+            "frais"
+          ]
+        },
+        "it": {
+          "text": "la tariffa",
+          "alternates": [
+            "tariffa",
+            "quota",
+            "la quota"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fine",
+          "partOfSpeech": "noun"
+        },
+        "ru": "штраф",
+        "pl": {
+          "text": "mandat",
+          "alternates": [
+            "grzywna"
+          ]
+        },
+        "uk": "штраф",
+        "de": {
+          "text": "das Bußgeld",
+          "alternates": [
+            "Bußgeld",
+            "Geldstrafe",
+            "die Geldstrafe"
+          ]
+        },
+        "es": {
+          "text": "la multa",
+          "alternates": [
+            "multa"
+          ]
+        },
+        "fr": {
+          "text": "l'amende",
+          "alternates": [
+            "amende"
+          ]
+        },
+        "it": {
+          "text": "la multa",
+          "alternates": [
+            "multa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "expense",
+          "partOfSpeech": "noun"
+        },
+        "ru": "расход",
+        "pl": "wydatek",
+        "uk": "витрата",
+        "de": {
+          "text": "die Ausgabe",
+          "alternates": [
+            "Ausgabe"
+          ]
+        },
+        "es": {
+          "text": "el gasto",
+          "alternates": [
+            "gasto"
+          ]
+        },
+        "fr": {
+          "text": "la dépense",
+          "alternates": [
+            "dépense"
+          ]
+        },
+        "it": {
+          "text": "la spesa",
+          "alternates": [
+            "spesa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to invest",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "инвестировать",
+          "alternates": [
+            "вкладывать"
+          ]
+        },
+        "pl": {
+          "text": "inwestować",
+          "alternates": [
+            "zainwestować"
+          ],
+          "aspects": {
+            "impf": [
+              "inwestować"
+            ],
+            "pf": [
+              "zainwestować"
+            ]
+          }
+        },
+        "uk": {
+          "text": "інвестувати",
+          "alternates": [
+            "вкладати"
+          ]
+        },
+        "de": "investieren",
+        "es": "invertir",
+        "fr": "investir",
+        "it": "investire"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to exchange",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "обменивать",
+          "alternates": [
+            "обменять"
+          ],
+          "aspects": {
+            "impf": [
+              "обменивать"
+            ],
+            "pf": [
+              "обменять"
+            ]
+          }
+        },
+        "pl": {
+          "text": "wymieniać",
+          "alternates": [
+            "wymienić"
+          ],
+          "aspects": {
+            "impf": [
+              "wymieniać"
+            ],
+            "pf": [
+              "wymienić"
+            ]
+          }
+        },
+        "uk": {
+          "text": "обмінювати",
+          "alternates": [
+            "обміняти"
+          ],
+          "aspects": {
+            "impf": [
+              "обмінювати"
+            ],
+            "pf": [
+              "обміняти"
+            ]
+          }
+        },
+        "de": {
+          "text": "wechseln",
+          "alternates": [
+            "umtauschen"
+          ]
+        },
+        "es": "cambiar",
+        "fr": "changer",
+        "it": "cambiare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to transfer",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "переводить",
+          "alternates": [
+            "перевести"
+          ],
+          "aspects": {
+            "impf": [
+              "переводить"
+            ],
+            "pf": [
+              "перевести"
+            ]
+          }
+        },
+        "pl": {
+          "text": "przelewać",
+          "alternates": [
+            "przelać"
+          ],
+          "aspects": {
+            "impf": [
+              "przelewać"
+            ],
+            "pf": [
+              "przelać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "переказувати",
+          "alternates": [
+            "переказати"
+          ],
+          "aspects": {
+            "impf": [
+              "переказувати"
+            ],
+            "pf": [
+              "переказати"
+            ]
+          }
+        },
+        "de": "überweisen",
+        "es": "transferir",
+        "fr": {
+          "text": "virer",
+          "alternates": [
+            "transférer"
+          ]
+        },
+        "it": {
+          "text": "trasferire",
+          "alternates": [
+            "fare un bonifico"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to afford",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "позволять себе",
+          "alternates": [
+            "позволить себе"
+          ],
+          "aspects": {
+            "impf": [
+              "позволять себе"
+            ],
+            "pf": [
+              "позволить себе"
+            ]
+          }
+        },
+        "pl": {
+          "text": "pozwalać sobie",
+          "alternates": [
+            "pozwolić sobie"
+          ],
+          "aspects": {
+            "impf": [
+              "pozwalać sobie"
+            ],
+            "pf": [
+              "pozwolić sobie"
+            ]
+          }
+        },
+        "uk": {
+          "text": "дозволяти собі",
+          "alternates": [
+            "дозволити собі"
+          ],
+          "aspects": {
+            "impf": [
+              "дозволяти собі"
+            ],
+            "pf": [
+              "дозволити собі"
+            ]
+          }
+        },
+        "de": "sich leisten",
+        "es": "permitirse",
+        "fr": "se permettre",
+        "it": "permettersi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to pay back",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "отдавать",
+          "alternates": [
+            "отдать"
+          ],
+          "aspects": {
+            "impf": [
+              "отдавать"
+            ],
+            "pf": [
+              "отдать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "oddawać",
+          "alternates": [
+            "oddać"
+          ],
+          "aspects": {
+            "impf": [
+              "oddawać"
+            ],
+            "pf": [
+              "oddać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "віддавати",
+          "alternates": [
+            "віддати"
+          ],
+          "aspects": {
+            "impf": [
+              "віддавати"
+            ],
+            "pf": [
+              "віддати"
+            ]
+          }
+        },
+        "de": "zurückzahlen",
+        "es": "devolver",
+        "fr": "rembourser",
+        "it": {
+          "text": "restituire",
+          "alternates": [
+            "rimborsare"
+          ]
+        }
+      }
     }
   ]
 }

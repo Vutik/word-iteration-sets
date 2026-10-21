@@ -632,6 +632,589 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "temperature",
+          "partOfSpeech": "noun"
+        },
+        "ru": "температура",
+        "pl": "temperatura",
+        "uk": "температура",
+        "de": {
+          "text": "die Temperatur",
+          "alternates": [
+            "Temperatur"
+          ]
+        },
+        "es": {
+          "text": "la temperatura",
+          "alternates": [
+            "temperatura"
+          ]
+        },
+        "fr": {
+          "text": "la température",
+          "alternates": [
+            "température"
+          ]
+        },
+        "it": {
+          "text": "la temperatura",
+          "alternates": [
+            "temperatura"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "degree",
+          "partOfSpeech": "noun"
+        },
+        "ru": "градус",
+        "pl": "stopień",
+        "uk": "градус",
+        "de": {
+          "text": "der Grad",
+          "alternates": [
+            "Grad"
+          ]
+        },
+        "es": {
+          "text": "el grado",
+          "alternates": [
+            "grado"
+          ]
+        },
+        "fr": {
+          "text": "le degré",
+          "alternates": [
+            "degré"
+          ]
+        },
+        "it": {
+          "text": "il grado",
+          "alternates": [
+            "grado"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "weather forecast",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "прогноз погоды",
+          "alternates": [
+            "прогноз"
+          ]
+        },
+        "pl": {
+          "text": "prognoza pogody",
+          "alternates": [
+            "prognoza"
+          ]
+        },
+        "uk": {
+          "text": "прогноз погоди",
+          "alternates": [
+            "прогноз"
+          ]
+        },
+        "de": {
+          "text": "die Wettervorhersage",
+          "alternates": [
+            "der Wetterbericht",
+            "Wettervorhersage",
+            "Wetterbericht"
+          ]
+        },
+        "es": {
+          "text": "la previsión del tiempo",
+          "alternates": [
+            "el pronóstico del tiempo",
+            "previsión del tiempo",
+            "pronóstico del tiempo"
+          ]
+        },
+        "fr": {
+          "text": "la météo",
+          "alternates": [
+            "la prévision météo",
+            "météo",
+            "prévision météo"
+          ]
+        },
+        "it": {
+          "text": "le previsioni del tempo",
+          "alternates": [
+            "le previsioni meteo",
+            "previsioni del tempo",
+            "previsioni meteo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "thunder",
+          "partOfSpeech": "noun"
+        },
+        "ru": "гром",
+        "pl": "grzmot",
+        "uk": "грім",
+        "de": {
+          "text": "der Donner",
+          "alternates": [
+            "Donner"
+          ]
+        },
+        "es": {
+          "text": "el trueno",
+          "alternates": [
+            "trueno"
+          ]
+        },
+        "fr": {
+          "text": "le tonnerre",
+          "alternates": [
+            "tonnerre"
+          ]
+        },
+        "it": {
+          "text": "il tuono",
+          "alternates": [
+            "tuono"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lightning",
+          "partOfSpeech": "noun"
+        },
+        "ru": "молния",
+        "pl": {
+          "text": "błyskawica",
+          "alternates": [
+            "piorun"
+          ]
+        },
+        "uk": "блискавка",
+        "de": {
+          "text": "der Blitz",
+          "alternates": [
+            "Blitz"
+          ]
+        },
+        "es": {
+          "text": "el relámpago",
+          "alternates": [
+            "el rayo",
+            "relámpago",
+            "rayo"
+          ]
+        },
+        "fr": {
+          "text": "l'éclair",
+          "alternates": [
+            "la foudre",
+            "éclair",
+            "foudre"
+          ]
+        },
+        "it": {
+          "text": "il fulmine",
+          "alternates": [
+            "il lampo",
+            "fulmine",
+            "lampo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rainbow",
+          "partOfSpeech": "noun"
+        },
+        "ru": "радуга",
+        "pl": "tęcza",
+        "uk": "веселка",
+        "de": {
+          "text": "der Regenbogen",
+          "alternates": [
+            "Regenbogen"
+          ]
+        },
+        "es": {
+          "text": "el arcoíris",
+          "alternates": [
+            "el arco iris",
+            "arcoíris",
+            "arco iris"
+          ]
+        },
+        "fr": {
+          "text": "l'arc-en-ciel",
+          "alternates": [
+            "arc-en-ciel"
+          ]
+        },
+        "it": {
+          "text": "l'arcobaleno",
+          "alternates": [
+            "arcobaleno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "frost",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "мороз",
+          "alternates": [
+            "заморозок"
+          ]
+        },
+        "pl": "mróz",
+        "uk": {
+          "text": "мороз",
+          "alternates": [
+            "приморозок"
+          ]
+        },
+        "de": {
+          "text": "der Frost",
+          "alternates": [
+            "Frost"
+          ]
+        },
+        "es": {
+          "text": "la helada",
+          "alternates": [
+            "helada"
+          ]
+        },
+        "fr": {
+          "text": "le gel",
+          "alternates": [
+            "gel"
+          ]
+        },
+        "it": {
+          "text": "il gelo",
+          "alternates": [
+            "gelo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "breeze",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "ветерок",
+          "alternates": [
+            "лёгкий ветер"
+          ]
+        },
+        "pl": "wietrzyk",
+        "uk": "вітерець",
+        "de": {
+          "text": "die Brise",
+          "alternates": [
+            "Brise"
+          ]
+        },
+        "es": {
+          "text": "la brisa",
+          "alternates": [
+            "brisa"
+          ]
+        },
+        "fr": {
+          "text": "la brise",
+          "alternates": [
+            "brise"
+          ]
+        },
+        "it": {
+          "text": "la brezza",
+          "alternates": [
+            "brezza"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "heat",
+          "partOfSpeech": "noun"
+        },
+        "ru": "жара",
+        "pl": "upał",
+        "uk": "спека",
+        "de": {
+          "text": "die Hitze",
+          "alternates": [
+            "Hitze"
+          ]
+        },
+        "es": {
+          "text": "el calor",
+          "alternates": [
+            "calor"
+          ]
+        },
+        "fr": {
+          "text": "la chaleur",
+          "alternates": [
+            "chaleur"
+          ]
+        },
+        "it": {
+          "text": "il caldo",
+          "alternates": [
+            "caldo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "umbrella",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "зонт",
+          "alternates": [
+            "зонтик"
+          ]
+        },
+        "pl": {
+          "text": "parasol",
+          "alternates": [
+            "parasolka"
+          ]
+        },
+        "uk": {
+          "text": "парасолька",
+          "alternates": [
+            "парасоля"
+          ]
+        },
+        "de": {
+          "text": "der Regenschirm",
+          "alternates": [
+            "der Schirm",
+            "Regenschirm",
+            "Schirm"
+          ]
+        },
+        "es": {
+          "text": "el paraguas",
+          "alternates": [
+            "paraguas"
+          ]
+        },
+        "fr": {
+          "text": "le parapluie",
+          "alternates": [
+            "parapluie"
+          ]
+        },
+        "it": {
+          "text": "l'ombrello",
+          "alternates": [
+            "ombrello"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "puddle",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лужа",
+        "pl": "kałuża",
+        "uk": "калюжа",
+        "de": {
+          "text": "die Pfütze",
+          "alternates": [
+            "Pfütze"
+          ]
+        },
+        "es": {
+          "text": "el charco",
+          "alternates": [
+            "charco"
+          ]
+        },
+        "fr": {
+          "text": "la flaque",
+          "alternates": [
+            "flaque"
+          ]
+        },
+        "it": {
+          "text": "la pozzanghera",
+          "alternates": [
+            "pozzanghera"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cool",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "прохладный",
+        "pl": "chłodny",
+        "uk": "прохолодний",
+        "de": "kühl",
+        "es": "fresco",
+        "fr": "frais",
+        "it": "fresco"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "freezing",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "морозный",
+          "alternates": [
+            "ледяной"
+          ]
+        },
+        "pl": {
+          "text": "mroźny",
+          "alternates": [
+            "lodowaty"
+          ]
+        },
+        "uk": {
+          "text": "морозний",
+          "alternates": [
+            "крижаний"
+          ]
+        },
+        "de": "eiskalt",
+        "es": "helado",
+        "fr": "glacial",
+        "it": "gelido"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "foggy",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "туманный",
+        "pl": "mglisty",
+        "uk": "туманний",
+        "de": "neblig",
+        "es": "neblinoso",
+        "fr": "brumeux",
+        "it": "nebbioso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "season",
+          "partOfSpeech": "noun"
+        },
+        "ru": "время года",
+        "pl": "pora roku",
+        "uk": "пора року",
+        "de": {
+          "text": "die Jahreszeit",
+          "alternates": [
+            "Jahreszeit"
+          ]
+        },
+        "es": {
+          "text": "la estación",
+          "alternates": [
+            "estación"
+          ]
+        },
+        "fr": {
+          "text": "la saison",
+          "alternates": [
+            "saison"
+          ]
+        },
+        "it": {
+          "text": "la stagione",
+          "alternates": [
+            "stagione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hail",
+          "partOfSpeech": "noun"
+        },
+        "ru": "град",
+        "pl": "grad",
+        "uk": "град",
+        "de": {
+          "text": "der Hagel",
+          "alternates": [
+            "Hagel"
+          ]
+        },
+        "es": {
+          "text": "el granizo",
+          "alternates": [
+            "granizo"
+          ]
+        },
+        "fr": {
+          "text": "la grêle",
+          "alternates": [
+            "grêle"
+          ]
+        },
+        "it": {
+          "text": "la grandine",
+          "alternates": [
+            "grandine"
+          ]
+        }
+      }
     }
   ]
 }

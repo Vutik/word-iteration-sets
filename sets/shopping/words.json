@@ -809,6 +809,731 @@
         "fr": "coûter",
         "it": "costare"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "customer",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "покупатель",
+          "alternates": [
+            "клиент"
+          ]
+        },
+        "pl": {
+          "text": "klient",
+          "alternates": [
+            "kupujący"
+          ]
+        },
+        "uk": {
+          "text": "покупець",
+          "alternates": [
+            "клієнт"
+          ]
+        },
+        "de": {
+          "text": "der Kunde",
+          "alternates": [
+            "Kunde"
+          ]
+        },
+        "es": {
+          "text": "el cliente",
+          "alternates": [
+            "cliente"
+          ]
+        },
+        "fr": {
+          "text": "le client",
+          "alternates": [
+            "client"
+          ]
+        },
+        "it": {
+          "text": "il cliente",
+          "alternates": [
+            "cliente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "basket",
+          "partOfSpeech": "noun"
+        },
+        "ru": "корзина",
+        "pl": "koszyk",
+        "uk": "кошик",
+        "de": {
+          "text": "der Korb",
+          "alternates": [
+            "Korb"
+          ]
+        },
+        "es": {
+          "text": "la cesta",
+          "alternates": [
+            "cesta"
+          ]
+        },
+        "fr": {
+          "text": "le panier",
+          "alternates": [
+            "panier"
+          ]
+        },
+        "it": {
+          "text": "il cestino",
+          "alternates": [
+            "cestino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "trolley",
+          "partOfSpeech": "noun"
+        },
+        "ru": "тележка",
+        "pl": "wózek",
+        "uk": "візок",
+        "de": {
+          "text": "der Einkaufswagen",
+          "alternates": [
+            "Einkaufswagen"
+          ]
+        },
+        "es": {
+          "text": "el carrito",
+          "alternates": [
+            "carrito"
+          ]
+        },
+        "fr": {
+          "text": "le chariot",
+          "alternates": [
+            "chariot"
+          ]
+        },
+        "it": {
+          "text": "il carrello",
+          "alternates": [
+            "carrello"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shopping list",
+          "partOfSpeech": "noun"
+        },
+        "ru": "список покупок",
+        "pl": "lista zakupów",
+        "uk": "список покупок",
+        "de": {
+          "text": "die Einkaufsliste",
+          "alternates": [
+            "Einkaufsliste"
+          ]
+        },
+        "es": {
+          "text": "la lista de la compra",
+          "alternates": [
+            "lista de la compra"
+          ]
+        },
+        "fr": {
+          "text": "la liste de courses",
+          "alternates": [
+            "liste de courses"
+          ]
+        },
+        "it": {
+          "text": "la lista della spesa",
+          "alternates": [
+            "lista della spesa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bakery",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "пекарня",
+          "alternates": [
+            "булочная"
+          ]
+        },
+        "pl": "piekarnia",
+        "uk": {
+          "text": "пекарня",
+          "alternates": [
+            "булочна"
+          ]
+        },
+        "de": {
+          "text": "die Bäckerei",
+          "alternates": [
+            "Bäckerei"
+          ]
+        },
+        "es": {
+          "text": "la panadería",
+          "alternates": [
+            "panadería"
+          ]
+        },
+        "fr": {
+          "text": "la boulangerie",
+          "alternates": [
+            "boulangerie"
+          ]
+        },
+        "it": {
+          "text": "il panificio",
+          "alternates": [
+            "la panetteria",
+            "panificio",
+            "panetteria"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shopping centre",
+          "partOfSpeech": "noun"
+        },
+        "ru": "торговый центр",
+        "pl": "centrum handlowe",
+        "uk": "торговий центр",
+        "de": {
+          "text": "das Einkaufszentrum",
+          "alternates": [
+            "Einkaufszentrum"
+          ]
+        },
+        "es": {
+          "text": "el centro comercial",
+          "alternates": [
+            "centro comercial"
+          ]
+        },
+        "fr": {
+          "text": "le centre commercial",
+          "alternates": [
+            "centre commercial"
+          ]
+        },
+        "it": {
+          "text": "il centro commerciale",
+          "alternates": [
+            "centro commerciale"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "product",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "товар",
+          "alternates": [
+            "продукт"
+          ]
+        },
+        "pl": {
+          "text": "produkt",
+          "alternates": [
+            "towar"
+          ]
+        },
+        "uk": {
+          "text": "товар",
+          "alternates": [
+            "продукт"
+          ]
+        },
+        "de": {
+          "text": "das Produkt",
+          "alternates": [
+            "die Ware",
+            "Produkt",
+            "Ware"
+          ]
+        },
+        "es": {
+          "text": "el producto",
+          "alternates": [
+            "producto"
+          ]
+        },
+        "fr": {
+          "text": "le produit",
+          "alternates": [
+            "produit"
+          ]
+        },
+        "it": {
+          "text": "il prodotto",
+          "alternates": [
+            "prodotto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "brand",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "марка",
+          "alternates": [
+            "бренд"
+          ]
+        },
+        "pl": "marka",
+        "uk": {
+          "text": "марка",
+          "alternates": [
+            "бренд"
+          ]
+        },
+        "de": {
+          "text": "die Marke",
+          "alternates": [
+            "Marke"
+          ]
+        },
+        "es": {
+          "text": "la marca",
+          "alternates": [
+            "marca"
+          ]
+        },
+        "fr": {
+          "text": "la marque",
+          "alternates": [
+            "marque"
+          ]
+        },
+        "it": {
+          "text": "la marca",
+          "alternates": [
+            "marca"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "queue",
+          "partOfSpeech": "noun"
+        },
+        "ru": "очередь",
+        "pl": "kolejka",
+        "uk": "черга",
+        "de": {
+          "text": "die Schlange",
+          "alternates": [
+            "die Warteschlange",
+            "Schlange",
+            "Warteschlange"
+          ]
+        },
+        "es": {
+          "text": "la cola",
+          "alternates": [
+            "cola"
+          ]
+        },
+        "fr": {
+          "text": "la file d'attente",
+          "alternates": [
+            "la queue",
+            "file d'attente",
+            "queue"
+          ]
+        },
+        "it": {
+          "text": "la fila",
+          "alternates": [
+            "la coda",
+            "fila",
+            "coda"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bottle",
+          "partOfSpeech": "noun"
+        },
+        "ru": "бутылка",
+        "pl": "butelka",
+        "uk": "пляшка",
+        "de": {
+          "text": "die Flasche",
+          "alternates": [
+            "Flasche"
+          ]
+        },
+        "es": {
+          "text": "la botella",
+          "alternates": [
+            "botella"
+          ]
+        },
+        "fr": {
+          "text": "la bouteille",
+          "alternates": [
+            "bouteille"
+          ]
+        },
+        "it": {
+          "text": "la bottiglia",
+          "alternates": [
+            "bottiglia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "packet",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "упаковка",
+          "alternates": [
+            "пачка"
+          ]
+        },
+        "pl": {
+          "text": "opakowanie",
+          "alternates": [
+            "paczka"
+          ]
+        },
+        "uk": {
+          "text": "упаковка",
+          "alternates": [
+            "пачка"
+          ]
+        },
+        "de": {
+          "text": "die Packung",
+          "alternates": [
+            "das Paket",
+            "Packung",
+            "Paket"
+          ]
+        },
+        "es": {
+          "text": "el paquete",
+          "alternates": [
+            "paquete"
+          ]
+        },
+        "fr": {
+          "text": "le paquet",
+          "alternates": [
+            "paquet"
+          ]
+        },
+        "it": {
+          "text": "il pacchetto",
+          "alternates": [
+            "la confezione",
+            "pacchetto",
+            "confezione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "kilo",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "килограмм",
+          "alternates": [
+            "кило"
+          ]
+        },
+        "pl": {
+          "text": "kilogram",
+          "alternates": [
+            "kilo"
+          ]
+        },
+        "uk": {
+          "text": "кілограм",
+          "alternates": [
+            "кіло"
+          ]
+        },
+        "de": {
+          "text": "das Kilo",
+          "alternates": [
+            "das Kilogramm",
+            "Kilo",
+            "Kilogramm"
+          ]
+        },
+        "es": {
+          "text": "el kilo",
+          "alternates": [
+            "el kilogramo",
+            "kilo",
+            "kilogramo"
+          ]
+        },
+        "fr": {
+          "text": "le kilo",
+          "alternates": [
+            "le kilogramme",
+            "kilo",
+            "kilogramme"
+          ]
+        },
+        "it": {
+          "text": "il chilo",
+          "alternates": [
+            "il chilogrammo",
+            "chilo",
+            "chilogrammo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "gift",
+          "partOfSpeech": "noun"
+        },
+        "ru": "подарок",
+        "pl": {
+          "text": "prezent",
+          "alternates": [
+            "podarunek"
+          ]
+        },
+        "uk": "подарунок",
+        "de": {
+          "text": "das Geschenk",
+          "alternates": [
+            "Geschenk"
+          ]
+        },
+        "es": {
+          "text": "el regalo",
+          "alternates": [
+            "regalo"
+          ]
+        },
+        "fr": {
+          "text": "le cadeau",
+          "alternates": [
+            "cadeau"
+          ]
+        },
+        "it": {
+          "text": "il regalo",
+          "alternates": [
+            "regalo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to sell",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "продавать",
+          "alternates": [
+            "продать"
+          ],
+          "aspects": {
+            "impf": [
+              "продавать"
+            ],
+            "pf": [
+              "продать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "sprzedawać",
+          "alternates": [
+            "sprzedać"
+          ],
+          "aspects": {
+            "impf": [
+              "sprzedawać"
+            ],
+            "pf": [
+              "sprzedać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "продавати",
+          "alternates": [
+            "продати"
+          ],
+          "aspects": {
+            "impf": [
+              "продавати"
+            ],
+            "pf": [
+              "продати"
+            ]
+          }
+        },
+        "de": "verkaufen",
+        "es": "vender",
+        "fr": "vendre",
+        "it": "vendere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to choose",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "выбирать",
+          "alternates": [
+            "выбрать"
+          ],
+          "aspects": {
+            "impf": [
+              "выбирать"
+            ],
+            "pf": [
+              "выбрать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "wybierać",
+          "alternates": [
+            "wybrać"
+          ],
+          "aspects": {
+            "impf": [
+              "wybierać"
+            ],
+            "pf": [
+              "wybrać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "вибирати",
+          "alternates": [
+            "вибрати"
+          ],
+          "aspects": {
+            "impf": [
+              "вибирати"
+            ],
+            "pf": [
+              "вибрати"
+            ]
+          }
+        },
+        "de": {
+          "text": "wählen",
+          "alternates": [
+            "auswählen"
+          ]
+        },
+        "es": "elegir",
+        "fr": "choisir",
+        "it": "scegliere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to look for",
+          "partOfSpeech": "verb"
+        },
+        "ru": "искать",
+        "pl": "szukać",
+        "uk": "шукати",
+        "de": "suchen",
+        "es": "buscar",
+        "fr": "chercher",
+        "it": "cercare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "free",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "бесплатный",
+        "pl": {
+          "text": "darmowy",
+          "alternates": [
+            "bezpłatny"
+          ]
+        },
+        "uk": "безкоштовний",
+        "de": {
+          "text": "kostenlos",
+          "alternates": [
+            "gratis"
+          ]
+        },
+        "es": {
+          "text": "gratis",
+          "alternates": [
+            "gratuito"
+          ]
+        },
+        "fr": "gratuit",
+        "it": {
+          "text": "gratis",
+          "alternates": [
+            "gratuito"
+          ]
+        }
+      }
     }
   ]
 }

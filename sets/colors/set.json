@@ -10,14 +10,14 @@
     "it": "I colori"
   },
   "description": {
-    "en": "The eleven basic colours.",
-    "ru": "Одиннадцать основных цветов.",
-    "pl": "Jedenaście podstawowych kolorów.",
-    "uk": "Одинадцять основних кольорів.",
-    "de": "Die elf Grundfarben.",
-    "es": "Los once colores básicos.",
-    "fr": "Les onze couleurs de base.",
-    "it": "I undici colori di base."
+    "en": "Basic colours and shades.",
+    "ru": "Основные цвета и оттенки.",
+    "pl": "Podstawowe kolory i odcienie.",
+    "uk": "Основні кольори та відтінки.",
+    "de": "Grundfarben und Farbtöne.",
+    "es": "Los colores básicos y sus matices.",
+    "fr": "Les couleurs de base et leurs nuances.",
+    "it": "I colori di base e le sfumature."
   },
   "languages": [
     "en",
@@ -34,7 +34,7 @@
   "tags": [
     "adjectives"
   ],
-  "updated": "2026-10-03",
+  "updated": "2026-10-21",
   "source": {
     "type": "json",
     "url": "words.json"

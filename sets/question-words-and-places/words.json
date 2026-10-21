@@ -1,0 +1,1301 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "who",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "кто",
+        "pl": "kto",
+        "uk": "хто",
+        "de": "wer",
+        "es": {
+          "text": "quién",
+          "alternates": [
+            "quiénes"
+          ]
+        },
+        "fr": "qui",
+        "it": "chi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "what",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "что",
+        "pl": "co",
+        "uk": "що",
+        "de": "was",
+        "es": "qué",
+        "fr": {
+          "text": "que",
+          "alternates": [
+            "quoi",
+            "qu'est-ce que"
+          ]
+        },
+        "it": {
+          "text": "che cosa",
+          "alternates": [
+            "cosa",
+            "che"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "which",
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "какой",
+          "alternates": [
+            "какая",
+            "какое",
+            "какие",
+            "который"
+          ]
+        },
+        "pl": {
+          "text": "który",
+          "alternates": [
+            "która",
+            "które",
+            "jaki"
+          ]
+        },
+        "uk": {
+          "text": "який",
+          "alternates": [
+            "яка",
+            "яке",
+            "які",
+            "котрий"
+          ]
+        },
+        "de": {
+          "text": "welcher",
+          "alternates": [
+            "welche",
+            "welches"
+          ]
+        },
+        "es": {
+          "text": "cuál",
+          "alternates": [
+            "cuáles",
+            "qué"
+          ]
+        },
+        "fr": {
+          "text": "quel",
+          "alternates": [
+            "quelle",
+            "quels",
+            "quelles",
+            "lequel"
+          ]
+        },
+        "it": {
+          "text": "quale",
+          "alternates": [
+            "quali",
+            "che"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "what kind of",
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "какой",
+          "alternates": [
+            "что за"
+          ]
+        },
+        "pl": {
+          "text": "jaki",
+          "alternates": [
+            "jaka",
+            "jakie",
+            "co za"
+          ]
+        },
+        "uk": {
+          "text": "який",
+          "alternates": [
+            "що за"
+          ]
+        },
+        "de": {
+          "text": "was für",
+          "alternates": [
+            "was für ein"
+          ]
+        },
+        "es": {
+          "text": "qué tipo de",
+          "alternates": [
+            "qué clase de"
+          ]
+        },
+        "fr": {
+          "text": "quel genre de",
+          "alternates": [
+            "quel type de"
+          ]
+        },
+        "it": {
+          "text": "che tipo di",
+          "alternates": [
+            "che genere di"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "whose",
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "чей",
+          "alternates": [
+            "чья",
+            "чьё",
+            "чьи"
+          ]
+        },
+        "pl": {
+          "text": "czyj",
+          "alternates": [
+            "czyja",
+            "czyje"
+          ]
+        },
+        "uk": {
+          "text": "чий",
+          "alternates": [
+            "чия",
+            "чиє",
+            "чиї"
+          ]
+        },
+        "de": "wessen",
+        "es": {
+          "text": "de quién",
+          "alternates": [
+            "de quiénes"
+          ]
+        },
+        "fr": {
+          "text": "à qui",
+          "alternates": [
+            "de qui"
+          ]
+        },
+        "it": "di chi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "where",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "где",
+        "pl": "gdzie",
+        "uk": "де",
+        "de": "wo",
+        "es": "dónde",
+        "fr": "où",
+        "it": "dove"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "where to",
+          "alternates": [
+            "where"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "куда",
+        "pl": {
+          "text": "dokąd",
+          "alternates": [
+            "gdzie"
+          ]
+        },
+        "uk": "куди",
+        "de": "wohin",
+        "es": {
+          "text": "adónde",
+          "alternates": [
+            "a dónde"
+          ]
+        },
+        "fr": "où",
+        "it": "dove"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "where from",
+          "alternates": [
+            "from where"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "откуда",
+        "pl": "skąd",
+        "uk": "звідки",
+        "de": "woher",
+        "es": "de dónde",
+        "fr": "d'où",
+        "it": {
+          "text": "da dove",
+          "alternates": [
+            "di dove"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "when",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "когда",
+        "pl": "kiedy",
+        "uk": "коли",
+        "de": "wann",
+        "es": "cuándo",
+        "fr": "quand",
+        "it": "quando"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "why",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "почему",
+        "pl": {
+          "text": "dlaczego",
+          "alternates": [
+            "czemu"
+          ]
+        },
+        "uk": "чому",
+        "de": {
+          "text": "warum",
+          "alternates": [
+            "wieso"
+          ]
+        },
+        "es": "por qué",
+        "fr": "pourquoi",
+        "it": "perché"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "what for",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "зачем",
+        "pl": "po co",
+        "uk": "навіщо",
+        "de": {
+          "text": "wozu",
+          "alternates": [
+            "wofür"
+          ]
+        },
+        "es": "para qué",
+        "fr": {
+          "text": "pour quoi faire",
+          "alternates": [
+            "pourquoi"
+          ]
+        },
+        "it": {
+          "text": "a che scopo",
+          "alternates": [
+            "per cosa",
+            "perché"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "how",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "как",
+        "pl": "jak",
+        "uk": "як",
+        "de": "wie",
+        "es": "cómo",
+        "fr": "comment",
+        "it": "come"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "how much",
+          "alternates": [
+            "how many"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "сколько",
+        "pl": "ile",
+        "uk": "скільки",
+        "de": {
+          "text": "wie viel",
+          "alternates": [
+            "wie viele"
+          ]
+        },
+        "es": {
+          "text": "cuánto",
+          "alternates": [
+            "cuánta",
+            "cuántos",
+            "cuántas"
+          ]
+        },
+        "fr": "combien",
+        "it": {
+          "text": "quanto",
+          "alternates": [
+            "quanta",
+            "quanti",
+            "quante"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "how long",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "как долго",
+          "alternates": [
+            "сколько времени"
+          ]
+        },
+        "pl": "jak długo",
+        "uk": {
+          "text": "як довго",
+          "alternates": [
+            "скільки часу"
+          ]
+        },
+        "de": "wie lange",
+        "es": "cuánto tiempo",
+        "fr": "combien de temps",
+        "it": {
+          "text": "quanto tempo",
+          "alternates": [
+            "per quanto tempo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "here",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "здесь",
+          "alternates": [
+            "тут"
+          ]
+        },
+        "pl": {
+          "text": "tu",
+          "alternates": [
+            "tutaj"
+          ]
+        },
+        "uk": "тут",
+        "de": "hier",
+        "es": {
+          "text": "aquí",
+          "alternates": [
+            "acá"
+          ]
+        },
+        "fr": "ici",
+        "it": {
+          "text": "qui",
+          "alternates": [
+            "qua"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "there",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "там",
+        "pl": "tam",
+        "uk": "там",
+        "de": {
+          "text": "da",
+          "alternates": [
+            "dort"
+          ]
+        },
+        "es": {
+          "text": "allí",
+          "alternates": [
+            "ahí",
+            "allá"
+          ]
+        },
+        "fr": {
+          "text": "là",
+          "alternates": [
+            "là-bas"
+          ]
+        },
+        "it": {
+          "text": "lì",
+          "alternates": [
+            "là"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to here",
+          "alternates": [
+            "here",
+            "this way"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "сюда",
+        "pl": {
+          "text": "tu",
+          "alternates": [
+            "tutaj",
+            "w tę stronę"
+          ]
+        },
+        "uk": "сюди",
+        "de": {
+          "text": "hierher",
+          "alternates": [
+            "her",
+            "hierhin"
+          ]
+        },
+        "es": {
+          "text": "aquí",
+          "alternates": [
+            "acá",
+            "hacia aquí"
+          ]
+        },
+        "fr": "ici",
+        "it": {
+          "text": "qui",
+          "alternates": [
+            "qua"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to there",
+          "alternates": [
+            "there",
+            "that way"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "туда",
+        "pl": {
+          "text": "tam",
+          "alternates": [
+            "w tamtą stronę"
+          ]
+        },
+        "uk": "туди",
+        "de": {
+          "text": "dorthin",
+          "alternates": [
+            "dahin",
+            "hin"
+          ]
+        },
+        "es": {
+          "text": "allí",
+          "alternates": [
+            "allá",
+            "ahí",
+            "hacia allí"
+          ]
+        },
+        "fr": {
+          "text": "là",
+          "alternates": [
+            "là-bas",
+            "y"
+          ]
+        },
+        "it": {
+          "text": "lì",
+          "alternates": [
+            "là"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "from here",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "отсюда",
+        "pl": "stąd",
+        "uk": "звідси",
+        "de": "von hier",
+        "es": {
+          "text": "de aquí",
+          "alternates": [
+            "desde aquí"
+          ]
+        },
+        "fr": "d'ici",
+        "it": {
+          "text": "da qui",
+          "alternates": [
+            "di qui"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "from there",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "оттуда",
+        "pl": "stamtąd",
+        "uk": "звідти",
+        "de": {
+          "text": "von dort",
+          "alternates": [
+            "von da"
+          ]
+        },
+        "es": {
+          "text": "de allí",
+          "alternates": [
+            "desde allí",
+            "de ahí"
+          ]
+        },
+        "fr": {
+          "text": "de là",
+          "alternates": [
+            "de là-bas"
+          ]
+        },
+        "it": {
+          "text": "da lì",
+          "alternates": [
+            "di lì"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "everywhere",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "везде",
+          "alternates": [
+            "всюду",
+            "повсюду"
+          ]
+        },
+        "pl": "wszędzie",
+        "uk": {
+          "text": "скрізь",
+          "alternates": [
+            "всюди",
+            "усюди"
+          ]
+        },
+        "de": "überall",
+        "es": {
+          "text": "en todas partes",
+          "alternates": [
+            "por todas partes"
+          ]
+        },
+        "fr": "partout",
+        "it": {
+          "text": "dappertutto",
+          "alternates": [
+            "ovunque"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "somewhere",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "где-то",
+          "alternates": [
+            "где-нибудь",
+            "куда-то"
+          ]
+        },
+        "pl": "gdzieś",
+        "uk": {
+          "text": "десь",
+          "alternates": [
+            "кудись"
+          ]
+        },
+        "de": "irgendwo",
+        "es": {
+          "text": "en algún lugar",
+          "alternates": [
+            "en alguna parte"
+          ]
+        },
+        "fr": "quelque part",
+        "it": "da qualche parte"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nowhere",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "нигде",
+          "alternates": [
+            "никуда"
+          ]
+        },
+        "pl": "nigdzie",
+        "uk": {
+          "text": "ніде",
+          "alternates": [
+            "нікуди"
+          ]
+        },
+        "de": {
+          "text": "nirgends",
+          "alternates": [
+            "nirgendwo"
+          ]
+        },
+        "es": {
+          "text": "en ningún lugar",
+          "alternates": [
+            "en ninguna parte"
+          ]
+        },
+        "fr": "nulle part",
+        "it": "da nessuna parte"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "inside",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "внутри",
+        "pl": {
+          "text": "wewnątrz",
+          "alternates": [
+            "w środku"
+          ]
+        },
+        "uk": "всередині",
+        "de": {
+          "text": "drinnen",
+          "alternates": [
+            "innen"
+          ]
+        },
+        "es": "dentro",
+        "fr": {
+          "text": "dedans",
+          "alternates": [
+            "à l'intérieur"
+          ]
+        },
+        "it": "dentro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "outside",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "снаружи",
+          "alternates": [
+            "на улице"
+          ]
+        },
+        "pl": {
+          "text": "na zewnątrz",
+          "alternates": [
+            "na dworze"
+          ]
+        },
+        "uk": {
+          "text": "надворі",
+          "alternates": [
+            "зовні",
+            "назовні"
+          ]
+        },
+        "de": {
+          "text": "draußen",
+          "alternates": [
+            "außen"
+          ]
+        },
+        "es": {
+          "text": "fuera",
+          "alternates": [
+            "afuera"
+          ]
+        },
+        "fr": {
+          "text": "dehors",
+          "alternates": [
+            "à l'extérieur"
+          ]
+        },
+        "it": "fuori"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "up",
+          "alternates": [
+            "upwards"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "вверх",
+          "alternates": [
+            "наверх"
+          ]
+        },
+        "pl": {
+          "text": "w górę",
+          "alternates": [
+            "do góry"
+          ]
+        },
+        "uk": {
+          "text": "вгору",
+          "alternates": [
+            "нагору"
+          ]
+        },
+        "de": {
+          "text": "nach oben",
+          "alternates": [
+            "hinauf"
+          ]
+        },
+        "es": {
+          "text": "hacia arriba",
+          "alternates": [
+            "arriba"
+          ]
+        },
+        "fr": {
+          "text": "vers le haut",
+          "alternates": [
+            "en haut"
+          ]
+        },
+        "it": {
+          "text": "su",
+          "alternates": [
+            "in alto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "down",
+          "alternates": [
+            "downwards"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "вниз",
+        "pl": {
+          "text": "w dół",
+          "alternates": [
+            "na dół"
+          ]
+        },
+        "uk": {
+          "text": "вниз",
+          "alternates": [
+            "донизу"
+          ]
+        },
+        "de": {
+          "text": "nach unten",
+          "alternates": [
+            "hinunter"
+          ]
+        },
+        "es": {
+          "text": "hacia abajo",
+          "alternates": [
+            "abajo"
+          ]
+        },
+        "fr": {
+          "text": "vers le bas",
+          "alternates": [
+            "en bas"
+          ]
+        },
+        "it": {
+          "text": "giù",
+          "alternates": [
+            "in basso"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "above",
+          "alternates": [
+            "upstairs",
+            "at the top"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "наверху",
+          "alternates": [
+            "сверху"
+          ]
+        },
+        "pl": "na górze",
+        "uk": {
+          "text": "нагорі",
+          "alternates": [
+            "вгорі",
+            "зверху"
+          ]
+        },
+        "de": "oben",
+        "es": "arriba",
+        "fr": "en haut",
+        "it": {
+          "text": "sopra",
+          "alternates": [
+            "di sopra",
+            "in alto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "below",
+          "alternates": [
+            "downstairs",
+            "at the bottom"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "внизу",
+          "alternates": [
+            "снизу"
+          ]
+        },
+        "pl": "na dole",
+        "uk": {
+          "text": "внизу",
+          "alternates": [
+            "знизу"
+          ]
+        },
+        "de": "unten",
+        "es": "abajo",
+        "fr": "en bas",
+        "it": {
+          "text": "sotto",
+          "alternates": [
+            "di sotto",
+            "giù"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "forward",
+          "alternates": [
+            "ahead"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "вперёд",
+        "pl": {
+          "text": "naprzód",
+          "alternates": [
+            "do przodu"
+          ]
+        },
+        "uk": "вперед",
+        "de": {
+          "text": "vorwärts",
+          "alternates": [
+            "nach vorne"
+          ]
+        },
+        "es": {
+          "text": "adelante",
+          "alternates": [
+            "hacia adelante"
+          ]
+        },
+        "fr": "en avant",
+        "it": "avanti"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "back",
+          "alternates": [
+            "backwards"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "назад",
+        "pl": {
+          "text": "z powrotem",
+          "alternates": [
+            "do tyłu",
+            "wstecz"
+          ]
+        },
+        "uk": "назад",
+        "de": {
+          "text": "zurück",
+          "alternates": [
+            "rückwärts"
+          ]
+        },
+        "es": {
+          "text": "atrás",
+          "alternates": [
+            "hacia atrás"
+          ]
+        },
+        "fr": "en arrière",
+        "it": "indietro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "straight on",
+          "alternates": [
+            "straight ahead"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "прямо",
+        "pl": "prosto",
+        "uk": "прямо",
+        "de": "geradeaus",
+        "es": {
+          "text": "todo recto",
+          "alternates": [
+            "recto"
+          ]
+        },
+        "fr": "tout droit",
+        "it": {
+          "text": "dritto",
+          "alternates": [
+            "sempre dritto",
+            "diritto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to the left",
+          "alternates": [
+            "left"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "налево",
+          "alternates": [
+            "слева"
+          ]
+        },
+        "pl": {
+          "text": "w lewo",
+          "alternates": [
+            "na lewo",
+            "po lewej"
+          ]
+        },
+        "uk": {
+          "text": "ліворуч",
+          "alternates": [
+            "вліво",
+            "наліво",
+            "зліва"
+          ]
+        },
+        "de": {
+          "text": "links",
+          "alternates": [
+            "nach links"
+          ]
+        },
+        "es": "a la izquierda",
+        "fr": "à gauche",
+        "it": "a sinistra"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to the right",
+          "alternates": [
+            "right"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "направо",
+          "alternates": [
+            "справа"
+          ]
+        },
+        "pl": {
+          "text": "w prawo",
+          "alternates": [
+            "na prawo",
+            "po prawej"
+          ]
+        },
+        "uk": {
+          "text": "праворуч",
+          "alternates": [
+            "вправо",
+            "направо",
+            "справа"
+          ]
+        },
+        "de": {
+          "text": "rechts",
+          "alternates": [
+            "nach rechts"
+          ]
+        },
+        "es": "a la derecha",
+        "fr": "à droite",
+        "it": "a destra"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nearby",
+          "alternates": [
+            "near",
+            "close"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "близко",
+          "alternates": [
+            "рядом",
+            "поблизости"
+          ]
+        },
+        "pl": {
+          "text": "blisko",
+          "alternates": [
+            "niedaleko",
+            "obok"
+          ]
+        },
+        "uk": {
+          "text": "близько",
+          "alternates": [
+            "поруч",
+            "поблизу"
+          ]
+        },
+        "de": {
+          "text": "nah",
+          "alternates": [
+            "in der Nähe"
+          ]
+        },
+        "es": "cerca",
+        "fr": {
+          "text": "près",
+          "alternates": [
+            "tout près"
+          ]
+        },
+        "it": "vicino"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "far",
+          "alternates": [
+            "far away"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "далеко",
+        "pl": "daleko",
+        "uk": "далеко",
+        "de": {
+          "text": "weit",
+          "alternates": [
+            "weit weg"
+          ]
+        },
+        "es": "lejos",
+        "fr": "loin",
+        "it": "lontano"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "home",
+          "alternates": [
+            "homewards"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "домой",
+        "pl": "do domu",
+        "uk": "додому",
+        "de": "nach Hause",
+        "es": "a casa",
+        "fr": {
+          "text": "à la maison",
+          "alternates": [
+            "chez moi"
+          ]
+        },
+        "it": "a casa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "at home",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "дома",
+        "pl": "w domu",
+        "uk": {
+          "text": "вдома",
+          "alternates": [
+            "удома"
+          ]
+        },
+        "de": "zu Hause",
+        "es": "en casa",
+        "fr": {
+          "text": "à la maison",
+          "alternates": [
+            "chez moi"
+          ]
+        },
+        "it": "a casa"
+      }
+    }
+  ]
+}

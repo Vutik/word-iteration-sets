@@ -862,6 +862,741 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "actor",
+          "partOfSpeech": "noun"
+        },
+        "ru": "актёр",
+        "pl": "aktor",
+        "uk": "актор",
+        "de": {
+          "text": "der Schauspieler",
+          "alternates": [
+            "Schauspieler"
+          ]
+        },
+        "es": {
+          "text": "el actor",
+          "alternates": [
+            "actor"
+          ]
+        },
+        "fr": {
+          "text": "l'acteur",
+          "alternates": [
+            "acteur"
+          ]
+        },
+        "it": {
+          "text": "l'attore",
+          "alternates": [
+            "attore"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "artist",
+          "partOfSpeech": "noun"
+        },
+        "ru": "художник",
+        "pl": "artysta",
+        "uk": "художник",
+        "de": {
+          "text": "der Künstler",
+          "alternates": [
+            "Künstler"
+          ]
+        },
+        "es": {
+          "text": "el artista",
+          "alternates": [
+            "artista"
+          ]
+        },
+        "fr": {
+          "text": "l'artiste",
+          "alternates": [
+            "artiste"
+          ]
+        },
+        "it": {
+          "text": "l'artista",
+          "alternates": [
+            "artista"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "musician",
+          "partOfSpeech": "noun"
+        },
+        "ru": "музыкант",
+        "pl": "muzyk",
+        "uk": "музикант",
+        "de": {
+          "text": "der Musiker",
+          "alternates": [
+            "Musiker"
+          ]
+        },
+        "es": {
+          "text": "el músico",
+          "alternates": [
+            "músico"
+          ]
+        },
+        "fr": {
+          "text": "le musicien",
+          "alternates": [
+            "musicien"
+          ]
+        },
+        "it": {
+          "text": "il musicista",
+          "alternates": [
+            "musicista"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "singer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "певец",
+        "pl": "piosenkarz",
+        "uk": "співак",
+        "de": {
+          "text": "der Sänger",
+          "alternates": [
+            "Sänger"
+          ]
+        },
+        "es": {
+          "text": "el cantante",
+          "alternates": [
+            "cantante"
+          ]
+        },
+        "fr": {
+          "text": "le chanteur",
+          "alternates": [
+            "chanteur"
+          ]
+        },
+        "it": {
+          "text": "il cantante",
+          "alternates": [
+            "cantante"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "scientist",
+          "partOfSpeech": "noun"
+        },
+        "ru": "учёный",
+        "pl": "naukowiec",
+        "uk": {
+          "text": "науковець",
+          "alternates": [
+            "учений"
+          ]
+        },
+        "de": {
+          "text": "der Wissenschaftler",
+          "alternates": [
+            "Wissenschaftler"
+          ]
+        },
+        "es": {
+          "text": "el científico",
+          "alternates": [
+            "científico"
+          ]
+        },
+        "fr": {
+          "text": "le scientifique",
+          "alternates": [
+            "scientifique"
+          ]
+        },
+        "it": {
+          "text": "lo scienziato",
+          "alternates": [
+            "scienziato"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "soldier",
+          "partOfSpeech": "noun"
+        },
+        "ru": "солдат",
+        "pl": "żołnierz",
+        "uk": {
+          "text": "солдат",
+          "alternates": [
+            "військовий"
+          ]
+        },
+        "de": {
+          "text": "der Soldat",
+          "alternates": [
+            "Soldat"
+          ]
+        },
+        "es": {
+          "text": "el soldado",
+          "alternates": [
+            "soldado"
+          ]
+        },
+        "fr": {
+          "text": "le soldat",
+          "alternates": [
+            "soldat"
+          ]
+        },
+        "it": {
+          "text": "il soldato",
+          "alternates": [
+            "soldato"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mechanic",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "механик",
+          "alternates": [
+            "автомеханик"
+          ]
+        },
+        "pl": "mechanik",
+        "uk": "механік",
+        "de": {
+          "text": "der Mechaniker",
+          "alternates": [
+            "Mechaniker"
+          ]
+        },
+        "es": {
+          "text": "el mecánico",
+          "alternates": [
+            "mecánico"
+          ]
+        },
+        "fr": {
+          "text": "le mécanicien",
+          "alternates": [
+            "mécanicien"
+          ]
+        },
+        "it": {
+          "text": "il meccanico",
+          "alternates": [
+            "meccanico"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "electrician",
+          "partOfSpeech": "noun"
+        },
+        "ru": "электрик",
+        "pl": "elektryk",
+        "uk": "електрик",
+        "de": {
+          "text": "der Elektriker",
+          "alternates": [
+            "Elektriker"
+          ]
+        },
+        "es": {
+          "text": "el electricista",
+          "alternates": [
+            "electricista"
+          ]
+        },
+        "fr": {
+          "text": "l'électricien",
+          "alternates": [
+            "électricien"
+          ]
+        },
+        "it": {
+          "text": "l'elettricista",
+          "alternates": [
+            "elettricista"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "plumber",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сантехник",
+        "pl": "hydraulik",
+        "uk": "сантехнік",
+        "de": {
+          "text": "der Klempner",
+          "alternates": [
+            "der Installateur",
+            "Klempner",
+            "Installateur"
+          ]
+        },
+        "es": {
+          "text": "el fontanero",
+          "alternates": [
+            "fontanero"
+          ]
+        },
+        "fr": {
+          "text": "le plombier",
+          "alternates": [
+            "plombier"
+          ]
+        },
+        "it": {
+          "text": "l'idraulico",
+          "alternates": [
+            "idraulico"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "baker",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "пекарь",
+          "alternates": [
+            "булочник"
+          ]
+        },
+        "pl": "piekarz",
+        "uk": "пекар",
+        "de": {
+          "text": "der Bäcker",
+          "alternates": [
+            "Bäcker"
+          ]
+        },
+        "es": {
+          "text": "el panadero",
+          "alternates": [
+            "panadero"
+          ]
+        },
+        "fr": {
+          "text": "le boulanger",
+          "alternates": [
+            "boulanger"
+          ]
+        },
+        "it": {
+          "text": "il panettiere",
+          "alternates": [
+            "il fornaio",
+            "panettiere",
+            "fornaio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "butcher",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мясник",
+        "pl": "rzeźnik",
+        "uk": "м'ясник",
+        "de": {
+          "text": "der Metzger",
+          "alternates": [
+            "der Fleischer",
+            "Metzger",
+            "Fleischer"
+          ]
+        },
+        "es": {
+          "text": "el carnicero",
+          "alternates": [
+            "carnicero"
+          ]
+        },
+        "fr": {
+          "text": "le boucher",
+          "alternates": [
+            "boucher"
+          ]
+        },
+        "it": {
+          "text": "il macellaio",
+          "alternates": [
+            "macellaio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "photographer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "фотограф",
+        "pl": "fotograf",
+        "uk": "фотограф",
+        "de": {
+          "text": "der Fotograf",
+          "alternates": [
+            "Fotograf"
+          ]
+        },
+        "es": {
+          "text": "el fotógrafo",
+          "alternates": [
+            "fotógrafo"
+          ]
+        },
+        "fr": {
+          "text": "le photographe",
+          "alternates": [
+            "photographe"
+          ]
+        },
+        "it": {
+          "text": "il fotografo",
+          "alternates": [
+            "fotografo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "secretary",
+          "partOfSpeech": "noun"
+        },
+        "ru": "секретарь",
+        "pl": {
+          "text": "sekretarz",
+          "alternates": [
+            "sekretarka"
+          ]
+        },
+        "uk": "секретар",
+        "de": {
+          "text": "der Sekretär",
+          "alternates": [
+            "Sekretär"
+          ]
+        },
+        "es": {
+          "text": "el secretario",
+          "alternates": [
+            "secretario"
+          ]
+        },
+        "fr": {
+          "text": "le secrétaire",
+          "alternates": [
+            "secrétaire"
+          ]
+        },
+        "it": {
+          "text": "il segretario",
+          "alternates": [
+            "segretario"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cashier",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кассир",
+        "pl": "kasjer",
+        "uk": "касир",
+        "de": {
+          "text": "der Kassierer",
+          "alternates": [
+            "Kassierer"
+          ]
+        },
+        "es": {
+          "text": "el cajero",
+          "alternates": [
+            "cajero"
+          ]
+        },
+        "fr": {
+          "text": "le caissier",
+          "alternates": [
+            "caissier"
+          ]
+        },
+        "it": {
+          "text": "il cassiere",
+          "alternates": [
+            "cassiere"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "vet",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ветеринар",
+        "pl": "weterynarz",
+        "uk": "ветеринар",
+        "de": {
+          "text": "der Tierarzt",
+          "alternates": [
+            "Tierarzt"
+          ]
+        },
+        "es": {
+          "text": "el veterinario",
+          "alternates": [
+            "veterinario"
+          ]
+        },
+        "fr": {
+          "text": "le vétérinaire",
+          "alternates": [
+            "vétérinaire"
+          ]
+        },
+        "it": {
+          "text": "il veterinario",
+          "alternates": [
+            "veterinario"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "architect",
+          "partOfSpeech": "noun"
+        },
+        "ru": "архитектор",
+        "pl": "architekt",
+        "uk": "архітектор",
+        "de": {
+          "text": "der Architekt",
+          "alternates": [
+            "Architekt"
+          ]
+        },
+        "es": {
+          "text": "el arquitecto",
+          "alternates": [
+            "arquitecto"
+          ]
+        },
+        "fr": {
+          "text": "l'architecte",
+          "alternates": [
+            "architecte"
+          ]
+        },
+        "it": {
+          "text": "l'architetto",
+          "alternates": [
+            "architetto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "translator",
+          "partOfSpeech": "noun"
+        },
+        "ru": "переводчик",
+        "pl": "tłumacz",
+        "uk": "перекладач",
+        "de": {
+          "text": "der Übersetzer",
+          "alternates": [
+            "Übersetzer"
+          ]
+        },
+        "es": {
+          "text": "el traductor",
+          "alternates": [
+            "traductor"
+          ]
+        },
+        "fr": {
+          "text": "le traducteur",
+          "alternates": [
+            "traducteur"
+          ]
+        },
+        "it": {
+          "text": "il traduttore",
+          "alternates": [
+            "traduttore"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "writer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "писатель",
+        "pl": "pisarz",
+        "uk": "письменник",
+        "de": {
+          "text": "der Schriftsteller",
+          "alternates": [
+            "der Autor",
+            "Schriftsteller",
+            "Autor"
+          ]
+        },
+        "es": {
+          "text": "el escritor",
+          "alternates": [
+            "escritor"
+          ]
+        },
+        "fr": {
+          "text": "l'écrivain",
+          "alternates": [
+            "écrivain"
+          ]
+        },
+        "it": {
+          "text": "lo scrittore",
+          "alternates": [
+            "scrittore"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "postman",
+          "partOfSpeech": "noun"
+        },
+        "ru": "почтальон",
+        "pl": "listonosz",
+        "uk": "листоноша",
+        "de": {
+          "text": "der Briefträger",
+          "alternates": [
+            "Briefträger"
+          ]
+        },
+        "es": {
+          "text": "el cartero",
+          "alternates": [
+            "cartero"
+          ]
+        },
+        "fr": {
+          "text": "le facteur",
+          "alternates": [
+            "facteur"
+          ]
+        },
+        "it": {
+          "text": "il postino",
+          "alternates": [
+            "postino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "worker",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рабочий",
+        "pl": "robotnik",
+        "uk": "робітник",
+        "de": {
+          "text": "der Arbeiter",
+          "alternates": [
+            "Arbeiter"
+          ]
+        },
+        "es": {
+          "text": "el obrero",
+          "alternates": [
+            "el trabajador",
+            "obrero",
+            "trabajador"
+          ]
+        },
+        "fr": {
+          "text": "l'ouvrier",
+          "alternates": [
+            "ouvrier"
+          ]
+        },
+        "it": {
+          "text": "l'operaio",
+          "alternates": [
+            "operaio"
+          ]
+        }
+      }
     }
   ]
 }

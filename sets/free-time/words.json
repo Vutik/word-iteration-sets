@@ -761,6 +761,762 @@
           }
         }
       ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "party",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вечеринка",
+        "pl": {
+          "text": "impreza",
+          "alternates": [
+            "przyjęcie"
+          ]
+        },
+        "uk": "вечірка",
+        "de": {
+          "text": "die Party",
+          "alternates": [
+            "Party",
+            "Feier",
+            "die Feier"
+          ]
+        },
+        "es": {
+          "text": "la fiesta",
+          "alternates": [
+            "fiesta"
+          ]
+        },
+        "fr": {
+          "text": "la fête",
+          "alternates": [
+            "fête",
+            "soirée",
+            "la soirée"
+          ]
+        },
+        "it": {
+          "text": "la festa",
+          "alternates": [
+            "festa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "museum",
+          "partOfSpeech": "noun"
+        },
+        "ru": "музей",
+        "pl": "muzeum",
+        "uk": "музей",
+        "de": {
+          "text": "das Museum",
+          "alternates": [
+            "Museum"
+          ]
+        },
+        "es": {
+          "text": "el museo",
+          "alternates": [
+            "museo"
+          ]
+        },
+        "fr": {
+          "text": "le musée",
+          "alternates": [
+            "musée"
+          ]
+        },
+        "it": {
+          "text": "il museo",
+          "alternates": [
+            "museo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "park",
+          "partOfSpeech": "noun"
+        },
+        "ru": "парк",
+        "pl": "park",
+        "uk": "парк",
+        "de": {
+          "text": "der Park",
+          "alternates": [
+            "Park"
+          ]
+        },
+        "es": {
+          "text": "el parque",
+          "alternates": [
+            "parque"
+          ]
+        },
+        "fr": {
+          "text": "le parc",
+          "alternates": [
+            "parc"
+          ]
+        },
+        "it": {
+          "text": "il parco",
+          "alternates": [
+            "parco"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "theatre",
+          "alternates": [
+            "theater"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "театр",
+        "pl": "teatr",
+        "uk": "театр",
+        "de": {
+          "text": "das Theater",
+          "alternates": [
+            "Theater"
+          ]
+        },
+        "es": {
+          "text": "el teatro",
+          "alternates": [
+            "teatro"
+          ]
+        },
+        "fr": {
+          "text": "le théâtre",
+          "alternates": [
+            "théâtre"
+          ]
+        },
+        "it": {
+          "text": "il teatro",
+          "alternates": [
+            "teatro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "guitar",
+          "partOfSpeech": "noun"
+        },
+        "ru": "гитара",
+        "pl": "gitara",
+        "uk": "гітара",
+        "de": {
+          "text": "die Gitarre",
+          "alternates": [
+            "Gitarre"
+          ]
+        },
+        "es": {
+          "text": "la guitarra",
+          "alternates": [
+            "guitarra"
+          ]
+        },
+        "fr": {
+          "text": "la guitare",
+          "alternates": [
+            "guitare"
+          ]
+        },
+        "it": {
+          "text": "la chitarra",
+          "alternates": [
+            "chitarra"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "trip",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "поездка",
+          "alternates": [
+            "путешествие"
+          ]
+        },
+        "pl": {
+          "text": "wycieczka",
+          "alternates": [
+            "podróż"
+          ]
+        },
+        "uk": {
+          "text": "поїздка",
+          "alternates": [
+            "подорож"
+          ]
+        },
+        "de": {
+          "text": "der Ausflug",
+          "alternates": [
+            "Ausflug",
+            "Reise",
+            "die Reise"
+          ]
+        },
+        "es": {
+          "text": "el viaje",
+          "alternates": [
+            "viaje",
+            "excursión",
+            "la excursión"
+          ]
+        },
+        "fr": {
+          "text": "le voyage",
+          "alternates": [
+            "voyage",
+            "excursion",
+            "l'excursion"
+          ]
+        },
+        "it": {
+          "text": "la gita",
+          "alternates": [
+            "gita",
+            "viaggio",
+            "il viaggio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "gym",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "спортзал",
+          "alternates": [
+            "тренажёрный зал"
+          ]
+        },
+        "pl": "siłownia",
+        "uk": {
+          "text": "спортзал",
+          "alternates": [
+            "тренажерна зала"
+          ]
+        },
+        "de": {
+          "text": "das Fitnessstudio",
+          "alternates": [
+            "Fitnessstudio"
+          ]
+        },
+        "es": {
+          "text": "el gimnasio",
+          "alternates": [
+            "gimnasio"
+          ]
+        },
+        "fr": {
+          "text": "la salle de sport",
+          "alternates": [
+            "salle de sport"
+          ]
+        },
+        "it": {
+          "text": "la palestra",
+          "alternates": [
+            "palestra"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "picnic",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пикник",
+        "pl": "piknik",
+        "uk": "пікнік",
+        "de": {
+          "text": "das Picknick",
+          "alternates": [
+            "Picknick"
+          ]
+        },
+        "es": {
+          "text": "el picnic",
+          "alternates": [
+            "picnic"
+          ]
+        },
+        "fr": {
+          "text": "le pique-nique",
+          "alternates": [
+            "pique-nique"
+          ]
+        },
+        "it": {
+          "text": "il picnic",
+          "alternates": [
+            "picnic"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "chess",
+          "partOfSpeech": "noun"
+        },
+        "ru": "шахматы",
+        "pl": "szachy",
+        "uk": "шахи",
+        "de": {
+          "text": "das Schach",
+          "alternates": [
+            "Schach"
+          ]
+        },
+        "es": {
+          "text": "el ajedrez",
+          "alternates": [
+            "ajedrez"
+          ]
+        },
+        "fr": {
+          "text": "les échecs",
+          "alternates": [
+            "échecs"
+          ]
+        },
+        "it": {
+          "text": "gli scacchi",
+          "alternates": [
+            "scacchi"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "camping",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кемпинг",
+        "pl": "kemping",
+        "uk": "кемпінг",
+        "de": {
+          "text": "das Camping",
+          "alternates": [
+            "Camping"
+          ]
+        },
+        "es": {
+          "text": "el camping",
+          "alternates": [
+            "camping"
+          ]
+        },
+        "fr": {
+          "text": "le camping",
+          "alternates": [
+            "camping"
+          ]
+        },
+        "it": {
+          "text": "il campeggio",
+          "alternates": [
+            "campeggio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "board game",
+          "partOfSpeech": "noun"
+        },
+        "ru": "настольная игра",
+        "pl": "gra planszowa",
+        "uk": "настільна гра",
+        "de": {
+          "text": "das Brettspiel",
+          "alternates": [
+            "Brettspiel"
+          ]
+        },
+        "es": {
+          "text": "el juego de mesa",
+          "alternates": [
+            "juego de mesa"
+          ]
+        },
+        "fr": {
+          "text": "le jeu de société",
+          "alternates": [
+            "jeu de société"
+          ]
+        },
+        "it": {
+          "text": "il gioco da tavolo",
+          "alternates": [
+            "gioco da tavolo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "swimming pool",
+          "partOfSpeech": "noun"
+        },
+        "ru": "бассейн",
+        "pl": "basen",
+        "uk": "басейн",
+        "de": {
+          "text": "das Schwimmbad",
+          "alternates": [
+            "Schwimmbad"
+          ]
+        },
+        "es": {
+          "text": "la piscina",
+          "alternates": [
+            "piscina"
+          ]
+        },
+        "fr": {
+          "text": "la piscine",
+          "alternates": [
+            "piscine"
+          ]
+        },
+        "it": {
+          "text": "la piscina",
+          "alternates": [
+            "piscina"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to watch",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "смотреть",
+          "alternates": [
+            "посмотреть"
+          ],
+          "aspects": {
+            "impf": [
+              "смотреть"
+            ],
+            "pf": [
+              "посмотреть"
+            ]
+          }
+        },
+        "pl": {
+          "text": "oglądać",
+          "alternates": [
+            "obejrzeć"
+          ],
+          "aspects": {
+            "impf": [
+              "oglądać"
+            ],
+            "pf": [
+              "obejrzeć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "дивитися",
+          "alternates": [
+            "подивитися"
+          ],
+          "aspects": {
+            "impf": [
+              "дивитися"
+            ],
+            "pf": [
+              "подивитися"
+            ]
+          }
+        },
+        "de": {
+          "text": "anschauen",
+          "alternates": [
+            "ansehen"
+          ]
+        },
+        "es": {
+          "text": "ver",
+          "alternates": [
+            "mirar"
+          ]
+        },
+        "fr": "regarder",
+        "it": "guardare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to listen",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "слушать",
+          "alternates": [
+            "послушать"
+          ],
+          "aspects": {
+            "impf": [
+              "слушать"
+            ],
+            "pf": [
+              "послушать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "słuchać",
+          "alternates": [
+            "posłuchać"
+          ],
+          "aspects": {
+            "impf": [
+              "słuchać"
+            ],
+            "pf": [
+              "posłuchać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "слухати",
+          "alternates": [
+            "послухати"
+          ],
+          "aspects": {
+            "impf": [
+              "слухати"
+            ],
+            "pf": [
+              "послухати"
+            ]
+          }
+        },
+        "de": {
+          "text": "hören",
+          "alternates": [
+            "zuhören"
+          ]
+        },
+        "es": "escuchar",
+        "fr": "écouter",
+        "it": "ascoltare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to win",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "выигрывать",
+          "alternates": [
+            "выиграть"
+          ],
+          "aspects": {
+            "impf": [
+              "выигрывать"
+            ],
+            "pf": [
+              "выиграть"
+            ]
+          }
+        },
+        "pl": {
+          "text": "wygrywać",
+          "alternates": [
+            "wygrać"
+          ],
+          "aspects": {
+            "impf": [
+              "wygrywać"
+            ],
+            "pf": [
+              "wygrać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "вигравати",
+          "alternates": [
+            "виграти"
+          ],
+          "aspects": {
+            "impf": [
+              "вигравати"
+            ],
+            "pf": [
+              "виграти"
+            ]
+          }
+        },
+        "de": {
+          "text": "gewinnen",
+          "alternates": [
+            "siegen"
+          ]
+        },
+        "es": "ganar",
+        "fr": "gagner",
+        "it": "vincere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to lose",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "проигрывать",
+          "alternates": [
+            "проиграть"
+          ],
+          "aspects": {
+            "impf": [
+              "проигрывать"
+            ],
+            "pf": [
+              "проиграть"
+            ]
+          }
+        },
+        "pl": {
+          "text": "przegrywać",
+          "alternates": [
+            "przegrać"
+          ],
+          "aspects": {
+            "impf": [
+              "przegrywać"
+            ],
+            "pf": [
+              "przegrać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "програвати",
+          "alternates": [
+            "програти"
+          ],
+          "aspects": {
+            "impf": [
+              "програвати"
+            ],
+            "pf": [
+              "програти"
+            ]
+          }
+        },
+        "de": "verlieren",
+        "es": "perder",
+        "fr": "perdre",
+        "it": "perdere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to ski",
+          "partOfSpeech": "verb"
+        },
+        "ru": "кататься на лыжах",
+        "pl": "jeździć na nartach",
+        "uk": "кататися на лижах",
+        "de": {
+          "text": "Ski fahren",
+          "alternates": [
+            "Ski laufen"
+          ]
+        },
+        "es": "esquiar",
+        "fr": "skier",
+        "it": "sciare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to skate",
+          "partOfSpeech": "verb"
+        },
+        "ru": "кататься на коньках",
+        "pl": "jeździć na łyżwach",
+        "uk": "кататися на ковзанах",
+        "de": "Schlittschuh laufen",
+        "es": "patinar",
+        "fr": "patiner",
+        "it": "pattinare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to ride a bike",
+          "partOfSpeech": "verb"
+        },
+        "ru": "ездить на велосипеде",
+        "pl": "jeździć na rowerze",
+        "uk": "їздити на велосипеді",
+        "de": "Rad fahren",
+        "es": {
+          "text": "montar en bicicleta",
+          "alternates": [
+            "andar en bicicleta"
+          ]
+        },
+        "fr": "faire du vélo",
+        "it": "andare in bicicletta"
+      }
     }
   ]
 }

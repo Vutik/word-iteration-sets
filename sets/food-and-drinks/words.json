@@ -873,6 +873,755 @@
           }
         }
       ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "vegetable",
+          "partOfSpeech": "noun"
+        },
+        "ru": "овощ",
+        "pl": "warzywo",
+        "uk": "овоч",
+        "de": {
+          "text": "das Gemüse",
+          "alternates": [
+            "Gemüse"
+          ]
+        },
+        "es": {
+          "text": "la verdura",
+          "alternates": [
+            "verdura"
+          ]
+        },
+        "fr": {
+          "text": "le légume",
+          "alternates": [
+            "légume"
+          ]
+        },
+        "it": {
+          "text": "la verdura",
+          "alternates": [
+            "l'ortaggio",
+            "verdura",
+            "ortaggio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fruit",
+          "partOfSpeech": "noun"
+        },
+        "ru": "фрукт",
+        "pl": "owoc",
+        "uk": "фрукт",
+        "de": {
+          "text": "das Obst",
+          "alternates": [
+            "die Frucht",
+            "Obst",
+            "Frucht"
+          ]
+        },
+        "es": {
+          "text": "la fruta",
+          "alternates": [
+            "fruta"
+          ]
+        },
+        "fr": {
+          "text": "le fruit",
+          "alternates": [
+            "fruit"
+          ]
+        },
+        "it": {
+          "text": "la frutta",
+          "alternates": [
+            "frutta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tomato",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "помидор",
+          "alternates": [
+            "томат"
+          ]
+        },
+        "pl": "pomidor",
+        "uk": {
+          "text": "помідор",
+          "alternates": [
+            "томат"
+          ]
+        },
+        "de": {
+          "text": "die Tomate",
+          "alternates": [
+            "Tomate"
+          ]
+        },
+        "es": {
+          "text": "el tomate",
+          "alternates": [
+            "tomate"
+          ]
+        },
+        "fr": {
+          "text": "la tomate",
+          "alternates": [
+            "tomate"
+          ]
+        },
+        "it": {
+          "text": "il pomodoro",
+          "alternates": [
+            "pomodoro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "onion",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лук",
+        "pl": "cebula",
+        "uk": "цибуля",
+        "de": {
+          "text": "die Zwiebel",
+          "alternates": [
+            "Zwiebel"
+          ]
+        },
+        "es": {
+          "text": "la cebolla",
+          "alternates": [
+            "cebolla"
+          ]
+        },
+        "fr": {
+          "text": "l'oignon",
+          "alternates": [
+            "oignon"
+          ]
+        },
+        "it": {
+          "text": "la cipolla",
+          "alternates": [
+            "cipolla"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "carrot",
+          "partOfSpeech": "noun"
+        },
+        "ru": "морковь",
+        "pl": "marchewka",
+        "uk": "морква",
+        "de": {
+          "text": "die Karotte",
+          "alternates": [
+            "die Möhre",
+            "Karotte",
+            "Möhre"
+          ]
+        },
+        "es": {
+          "text": "la zanahoria",
+          "alternates": [
+            "zanahoria"
+          ]
+        },
+        "fr": {
+          "text": "la carotte",
+          "alternates": [
+            "carotte"
+          ]
+        },
+        "it": {
+          "text": "la carota",
+          "alternates": [
+            "carota"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cucumber",
+          "partOfSpeech": "noun"
+        },
+        "ru": "огурец",
+        "pl": "ogórek",
+        "uk": "огірок",
+        "de": {
+          "text": "die Gurke",
+          "alternates": [
+            "Gurke"
+          ]
+        },
+        "es": {
+          "text": "el pepino",
+          "alternates": [
+            "pepino"
+          ]
+        },
+        "fr": {
+          "text": "le concombre",
+          "alternates": [
+            "concombre"
+          ]
+        },
+        "it": {
+          "text": "il cetriolo",
+          "alternates": [
+            "cetriolo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pasta",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "макароны",
+          "alternates": [
+            "паста"
+          ]
+        },
+        "pl": "makaron",
+        "uk": {
+          "text": "макарони",
+          "alternates": [
+            "паста"
+          ]
+        },
+        "de": {
+          "text": "die Nudeln",
+          "alternates": [
+            "die Pasta",
+            "Nudeln",
+            "Pasta"
+          ]
+        },
+        "es": {
+          "text": "la pasta",
+          "alternates": [
+            "pasta"
+          ]
+        },
+        "fr": {
+          "text": "les pâtes",
+          "alternates": [
+            "pâtes"
+          ]
+        },
+        "it": {
+          "text": "la pasta",
+          "alternates": [
+            "pasta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sausage",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "колбаса",
+          "alternates": [
+            "сосиска"
+          ]
+        },
+        "pl": "kiełbasa",
+        "uk": {
+          "text": "ковбаса",
+          "alternates": [
+            "сосиска"
+          ]
+        },
+        "de": {
+          "text": "die Wurst",
+          "alternates": [
+            "Wurst"
+          ]
+        },
+        "es": {
+          "text": "la salchicha",
+          "alternates": [
+            "salchicha"
+          ]
+        },
+        "fr": {
+          "text": "la saucisse",
+          "alternates": [
+            "saucisse"
+          ]
+        },
+        "it": {
+          "text": "la salsiccia",
+          "alternates": [
+            "salsiccia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ham",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ветчина",
+        "pl": "szynka",
+        "uk": "шинка",
+        "de": {
+          "text": "der Schinken",
+          "alternates": [
+            "Schinken"
+          ]
+        },
+        "es": {
+          "text": "el jamón",
+          "alternates": [
+            "jamón"
+          ]
+        },
+        "fr": {
+          "text": "le jambon",
+          "alternates": [
+            "jambon"
+          ]
+        },
+        "it": {
+          "text": "il prosciutto",
+          "alternates": [
+            "prosciutto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sandwich",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "бутерброд",
+          "alternates": [
+            "сэндвич"
+          ]
+        },
+        "pl": "kanapka",
+        "uk": {
+          "text": "бутерброд",
+          "alternates": [
+            "сендвіч"
+          ]
+        },
+        "de": {
+          "text": "das Sandwich",
+          "alternates": [
+            "das belegte Brötchen",
+            "Sandwich",
+            "belegte Brötchen"
+          ]
+        },
+        "es": {
+          "text": "el bocadillo",
+          "alternates": [
+            "el sándwich",
+            "bocadillo",
+            "sándwich"
+          ]
+        },
+        "fr": {
+          "text": "le sandwich",
+          "alternates": [
+            "sandwich"
+          ]
+        },
+        "it": {
+          "text": "il panino",
+          "alternates": [
+            "il sandwich",
+            "panino",
+            "sandwich"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pizza",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пицца",
+        "pl": "pizza",
+        "uk": "піца",
+        "de": {
+          "text": "die Pizza",
+          "alternates": [
+            "Pizza"
+          ]
+        },
+        "es": {
+          "text": "la pizza",
+          "alternates": [
+            "pizza"
+          ]
+        },
+        "fr": {
+          "text": "la pizza",
+          "alternates": [
+            "pizza"
+          ]
+        },
+        "it": {
+          "text": "la pizza",
+          "alternates": [
+            "pizza"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cake",
+          "partOfSpeech": "noun"
+        },
+        "ru": "торт",
+        "pl": {
+          "text": "ciasto",
+          "alternates": [
+            "tort"
+          ]
+        },
+        "uk": "торт",
+        "de": {
+          "text": "der Kuchen",
+          "alternates": [
+            "die Torte",
+            "Kuchen",
+            "Torte"
+          ]
+        },
+        "es": {
+          "text": "el pastel",
+          "alternates": [
+            "la tarta",
+            "pastel",
+            "tarta"
+          ]
+        },
+        "fr": {
+          "text": "le gâteau",
+          "alternates": [
+            "gâteau"
+          ]
+        },
+        "it": {
+          "text": "la torta",
+          "alternates": [
+            "torta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "chocolate",
+          "partOfSpeech": "noun"
+        },
+        "ru": "шоколад",
+        "pl": "czekolada",
+        "uk": "шоколад",
+        "de": {
+          "text": "die Schokolade",
+          "alternates": [
+            "Schokolade"
+          ]
+        },
+        "es": {
+          "text": "el chocolate",
+          "alternates": [
+            "chocolate"
+          ]
+        },
+        "fr": {
+          "text": "le chocolat",
+          "alternates": [
+            "chocolat"
+          ]
+        },
+        "it": {
+          "text": "il cioccolato",
+          "alternates": [
+            "cioccolato"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ice cream",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мороженое",
+        "pl": "lody",
+        "uk": "морозиво",
+        "de": {
+          "text": "das Eis",
+          "alternates": [
+            "Eis"
+          ]
+        },
+        "es": {
+          "text": "el helado",
+          "alternates": [
+            "helado"
+          ]
+        },
+        "fr": {
+          "text": "la glace",
+          "alternates": [
+            "glace"
+          ]
+        },
+        "it": {
+          "text": "il gelato",
+          "alternates": [
+            "gelato"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "honey",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мёд",
+        "pl": "miód",
+        "uk": "мед",
+        "de": {
+          "text": "der Honig",
+          "alternates": [
+            "Honig"
+          ]
+        },
+        "es": {
+          "text": "la miel",
+          "alternates": [
+            "miel"
+          ]
+        },
+        "fr": {
+          "text": "le miel",
+          "alternates": [
+            "miel"
+          ]
+        },
+        "it": {
+          "text": "il miele",
+          "alternates": [
+            "miele"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "oil",
+          "partOfSpeech": "noun"
+        },
+        "ru": "растительное масло",
+        "pl": "olej",
+        "uk": {
+          "text": "олія",
+          "alternates": [
+            "рослинна олія"
+          ]
+        },
+        "de": {
+          "text": "das Öl",
+          "alternates": [
+            "Öl"
+          ]
+        },
+        "es": {
+          "text": "el aceite",
+          "alternates": [
+            "aceite"
+          ]
+        },
+        "fr": {
+          "text": "l'huile",
+          "alternates": [
+            "huile"
+          ]
+        },
+        "it": {
+          "text": "l'olio",
+          "alternates": [
+            "olio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pepper",
+          "partOfSpeech": "noun"
+        },
+        "ru": "перец",
+        "pl": "pieprz",
+        "uk": "перець",
+        "de": {
+          "text": "der Pfeffer",
+          "alternates": [
+            "Pfeffer"
+          ]
+        },
+        "es": {
+          "text": "la pimienta",
+          "alternates": [
+            "pimienta"
+          ]
+        },
+        "fr": {
+          "text": "le poivre",
+          "alternates": [
+            "poivre"
+          ]
+        },
+        "it": {
+          "text": "il pepe",
+          "alternates": [
+            "pepe"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "yoghurt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "йогурт",
+        "pl": "jogurt",
+        "uk": "йогурт",
+        "de": {
+          "text": "der Joghurt",
+          "alternates": [
+            "Joghurt"
+          ]
+        },
+        "es": {
+          "text": "el yogur",
+          "alternates": [
+            "yogur"
+          ]
+        },
+        "fr": {
+          "text": "le yaourt",
+          "alternates": [
+            "le yogourt",
+            "yaourt",
+            "yogourt"
+          ]
+        },
+        "it": {
+          "text": "lo yogurt",
+          "alternates": [
+            "yogurt"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "jam",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "варенье",
+          "alternates": [
+            "джем"
+          ]
+        },
+        "pl": "dżem",
+        "uk": {
+          "text": "варення",
+          "alternates": [
+            "джем"
+          ]
+        },
+        "de": {
+          "text": "die Marmelade",
+          "alternates": [
+            "die Konfitüre",
+            "Marmelade",
+            "Konfitüre"
+          ]
+        },
+        "es": {
+          "text": "la mermelada",
+          "alternates": [
+            "mermelada"
+          ]
+        },
+        "fr": {
+          "text": "la confiture",
+          "alternates": [
+            "confiture"
+          ]
+        },
+        "it": {
+          "text": "la marmellata",
+          "alternates": [
+            "la confettura",
+            "marmellata",
+            "confettura"
+          ]
+        }
+      }
     }
   ]
 }

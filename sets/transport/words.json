@@ -799,6 +799,868 @@
         },
         "it": "cambiare"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "motorbike",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мотоцикл",
+        "pl": "motocykl",
+        "uk": "мотоцикл",
+        "de": {
+          "text": "das Motorrad",
+          "alternates": [
+            "Motorrad"
+          ]
+        },
+        "es": {
+          "text": "la moto",
+          "alternates": [
+            "la motocicleta",
+            "moto",
+            "motocicleta"
+          ]
+        },
+        "fr": {
+          "text": "la moto",
+          "alternates": [
+            "la motocyclette",
+            "moto",
+            "motocyclette"
+          ]
+        },
+        "it": {
+          "text": "la moto",
+          "alternates": [
+            "la motocicletta",
+            "moto",
+            "motocicletta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lorry",
+          "partOfSpeech": "noun"
+        },
+        "ru": "грузовик",
+        "pl": "ciężarówka",
+        "uk": "вантажівка",
+        "de": {
+          "text": "der Lastwagen",
+          "alternates": [
+            "der LKW",
+            "Lastwagen",
+            "LKW"
+          ]
+        },
+        "es": {
+          "text": "el camión",
+          "alternates": [
+            "camión"
+          ]
+        },
+        "fr": {
+          "text": "le camion",
+          "alternates": [
+            "camion"
+          ]
+        },
+        "it": {
+          "text": "il camion",
+          "alternates": [
+            "l'autocarro",
+            "camion",
+            "autocarro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "helicopter",
+          "partOfSpeech": "noun"
+        },
+        "ru": "вертолёт",
+        "pl": "helikopter",
+        "uk": "вертоліт",
+        "de": {
+          "text": "der Hubschrauber",
+          "alternates": [
+            "Hubschrauber"
+          ]
+        },
+        "es": {
+          "text": "el helicóptero",
+          "alternates": [
+            "helicóptero"
+          ]
+        },
+        "fr": {
+          "text": "l'hélicoptère",
+          "alternates": [
+            "hélicoptère"
+          ]
+        },
+        "it": {
+          "text": "l'elicottero",
+          "alternates": [
+            "elicottero"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "boat",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лодка",
+        "pl": "łódź",
+        "uk": "човен",
+        "de": {
+          "text": "das Boot",
+          "alternates": [
+            "Boot"
+          ]
+        },
+        "es": {
+          "text": "el bote",
+          "alternates": [
+            "la barca",
+            "bote",
+            "barca"
+          ]
+        },
+        "fr": {
+          "text": "la barque",
+          "alternates": [
+            "le canot",
+            "barque",
+            "canot"
+          ]
+        },
+        "it": {
+          "text": "la barca",
+          "alternates": [
+            "barca"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "petrol",
+          "partOfSpeech": "noun"
+        },
+        "ru": "бензин",
+        "pl": "benzyna",
+        "uk": "бензин",
+        "de": {
+          "text": "das Benzin",
+          "alternates": [
+            "Benzin"
+          ]
+        },
+        "es": {
+          "text": "la gasolina",
+          "alternates": [
+            "gasolina"
+          ]
+        },
+        "fr": {
+          "text": "l'essence",
+          "alternates": [
+            "essence"
+          ]
+        },
+        "it": {
+          "text": "la benzina",
+          "alternates": [
+            "benzina"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "petrol station",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "заправка",
+          "alternates": [
+            "АЗС"
+          ]
+        },
+        "pl": {
+          "text": "stacja benzynowa",
+          "alternates": [
+            "stacja paliw"
+          ]
+        },
+        "uk": {
+          "text": "заправка",
+          "alternates": [
+            "АЗС"
+          ]
+        },
+        "de": {
+          "text": "die Tankstelle",
+          "alternates": [
+            "Tankstelle"
+          ]
+        },
+        "es": {
+          "text": "la gasolinera",
+          "alternates": [
+            "gasolinera"
+          ]
+        },
+        "fr": {
+          "text": "la station-service",
+          "alternates": [
+            "la station d'essence",
+            "station-service",
+            "station d'essence"
+          ]
+        },
+        "it": {
+          "text": "il distributore di benzina",
+          "alternates": [
+            "il distributore",
+            "distributore di benzina",
+            "distributore"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pedestrian",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пешеход",
+        "pl": "pieszy",
+        "uk": "пішохід",
+        "de": {
+          "text": "der Fußgänger",
+          "alternates": [
+            "Fußgänger"
+          ]
+        },
+        "es": {
+          "text": "el peatón",
+          "alternates": [
+            "peatón"
+          ]
+        },
+        "fr": {
+          "text": "le piéton",
+          "alternates": [
+            "piéton"
+          ]
+        },
+        "it": {
+          "text": "il pedone",
+          "alternates": [
+            "pedone"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "traffic lights",
+          "partOfSpeech": "noun"
+        },
+        "ru": "светофор",
+        "pl": {
+          "text": "sygnalizacja świetlna",
+          "alternates": [
+            "światła"
+          ]
+        },
+        "uk": "світлофор",
+        "de": {
+          "text": "die Ampel",
+          "alternates": [
+            "Ampel"
+          ]
+        },
+        "es": {
+          "text": "el semáforo",
+          "alternates": [
+            "semáforo"
+          ]
+        },
+        "fr": {
+          "text": "le feu tricolore",
+          "alternates": [
+            "les feux",
+            "feu tricolore",
+            "feux"
+          ]
+        },
+        "it": {
+          "text": "il semaforo",
+          "alternates": [
+            "semaforo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "street",
+          "partOfSpeech": "noun"
+        },
+        "ru": "улица",
+        "pl": "ulica",
+        "uk": "вулиця",
+        "de": {
+          "text": "die Straße",
+          "alternates": [
+            "Straße"
+          ]
+        },
+        "es": {
+          "text": "la calle",
+          "alternates": [
+            "calle"
+          ]
+        },
+        "fr": {
+          "text": "la rue",
+          "alternates": [
+            "rue"
+          ]
+        },
+        "it": {
+          "text": "la via",
+          "alternates": [
+            "la strada",
+            "via",
+            "strada"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bridge",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мост",
+        "pl": "most",
+        "uk": "міст",
+        "de": {
+          "text": "die Brücke",
+          "alternates": [
+            "Brücke"
+          ]
+        },
+        "es": {
+          "text": "el puente",
+          "alternates": [
+            "puente"
+          ]
+        },
+        "fr": {
+          "text": "le pont",
+          "alternates": [
+            "pont"
+          ]
+        },
+        "it": {
+          "text": "il ponte",
+          "alternates": [
+            "ponte"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "car park",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "парковка",
+          "alternates": [
+            "стоянка"
+          ]
+        },
+        "pl": "parking",
+        "uk": {
+          "text": "паркінг",
+          "alternates": [
+            "стоянка"
+          ]
+        },
+        "de": {
+          "text": "der Parkplatz",
+          "alternates": [
+            "Parkplatz"
+          ]
+        },
+        "es": {
+          "text": "el aparcamiento",
+          "alternates": [
+            "el parking",
+            "aparcamiento",
+            "parking"
+          ]
+        },
+        "fr": {
+          "text": "le parking",
+          "alternates": [
+            "parking"
+          ]
+        },
+        "it": {
+          "text": "il parcheggio",
+          "alternates": [
+            "parcheggio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "speed",
+          "partOfSpeech": "noun"
+        },
+        "ru": "скорость",
+        "pl": "prędkość",
+        "uk": "швидкість",
+        "de": {
+          "text": "die Geschwindigkeit",
+          "alternates": [
+            "Geschwindigkeit"
+          ]
+        },
+        "es": {
+          "text": "la velocidad",
+          "alternates": [
+            "velocidad"
+          ]
+        },
+        "fr": {
+          "text": "la vitesse",
+          "alternates": [
+            "vitesse"
+          ]
+        },
+        "it": {
+          "text": "la velocità",
+          "alternates": [
+            "velocità"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "seat",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "место",
+          "alternates": [
+            "сиденье"
+          ]
+        },
+        "pl": {
+          "text": "miejsce",
+          "alternates": [
+            "siedzenie"
+          ]
+        },
+        "uk": {
+          "text": "місце",
+          "alternates": [
+            "сидіння"
+          ]
+        },
+        "de": {
+          "text": "der Platz",
+          "alternates": [
+            "der Sitz",
+            "Platz",
+            "Sitz"
+          ]
+        },
+        "es": {
+          "text": "el asiento",
+          "alternates": [
+            "la plaza",
+            "asiento",
+            "plaza"
+          ]
+        },
+        "fr": {
+          "text": "la place",
+          "alternates": [
+            "le siège",
+            "place",
+            "siège"
+          ]
+        },
+        "it": {
+          "text": "il posto",
+          "alternates": [
+            "il sedile",
+            "posto",
+            "sedile"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "seat belt",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ремень безопасности",
+        "pl": "pas bezpieczeństwa",
+        "uk": "ремінь безпеки",
+        "de": {
+          "text": "der Sicherheitsgurt",
+          "alternates": [
+            "der Gurt",
+            "Sicherheitsgurt",
+            "Gurt"
+          ]
+        },
+        "es": {
+          "text": "el cinturón de seguridad",
+          "alternates": [
+            "cinturón de seguridad"
+          ]
+        },
+        "fr": {
+          "text": "la ceinture de sécurité",
+          "alternates": [
+            "ceinture de sécurité"
+          ]
+        },
+        "it": {
+          "text": "la cintura di sicurezza",
+          "alternates": [
+            "cintura di sicurezza"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "journey",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "поездка",
+          "alternates": [
+            "путешествие"
+          ]
+        },
+        "pl": "podróż",
+        "uk": {
+          "text": "поїздка",
+          "alternates": [
+            "подорож"
+          ]
+        },
+        "de": {
+          "text": "die Reise",
+          "alternates": [
+            "die Fahrt",
+            "Reise",
+            "Fahrt"
+          ]
+        },
+        "es": {
+          "text": "el viaje",
+          "alternates": [
+            "viaje"
+          ]
+        },
+        "fr": {
+          "text": "le voyage",
+          "alternates": [
+            "voyage"
+          ]
+        },
+        "it": {
+          "text": "il viaggio",
+          "alternates": [
+            "viaggio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to park",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "парковаться",
+          "alternates": [
+            "припарковаться"
+          ],
+          "aspects": {
+            "impf": [
+              "парковаться"
+            ],
+            "pf": [
+              "припарковаться"
+            ]
+          }
+        },
+        "pl": {
+          "text": "parkować",
+          "alternates": [
+            "zaparkować"
+          ],
+          "aspects": {
+            "impf": [
+              "parkować"
+            ],
+            "pf": [
+              "zaparkować"
+            ]
+          }
+        },
+        "uk": {
+          "text": "паркуватися",
+          "alternates": [
+            "припаркуватися"
+          ],
+          "aspects": {
+            "impf": [
+              "паркуватися"
+            ],
+            "pf": [
+              "припаркуватися"
+            ]
+          }
+        },
+        "de": "parken",
+        "es": {
+          "text": "aparcar",
+          "alternates": [
+            "estacionar"
+          ]
+        },
+        "fr": {
+          "text": "se garer",
+          "alternates": [
+            "garer"
+          ]
+        },
+        "it": "parcheggiare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to arrive",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "приезжать",
+          "alternates": [
+            "приехать"
+          ],
+          "aspects": {
+            "impf": [
+              "приезжать"
+            ],
+            "pf": [
+              "приехать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "przyjeżdżać",
+          "alternates": [
+            "przyjechać"
+          ],
+          "aspects": {
+            "impf": [
+              "przyjeżdżać"
+            ],
+            "pf": [
+              "przyjechać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "приїжджати",
+          "alternates": [
+            "приїхати"
+          ],
+          "aspects": {
+            "impf": [
+              "приїжджати"
+            ],
+            "pf": [
+              "приїхати"
+            ]
+          }
+        },
+        "de": "ankommen",
+        "es": "llegar",
+        "fr": "arriver",
+        "it": "arrivare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to be late",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "опаздывать",
+          "alternates": [
+            "опоздать"
+          ],
+          "aspects": {
+            "impf": [
+              "опаздывать"
+            ],
+            "pf": [
+              "опоздать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "spóźniać się",
+          "alternates": [
+            "spóźnić się"
+          ],
+          "aspects": {
+            "impf": [
+              "spóźniać się"
+            ],
+            "pf": [
+              "spóźnić się"
+            ]
+          }
+        },
+        "uk": {
+          "text": "запізнюватися",
+          "alternates": [
+            "запізнитися"
+          ],
+          "aspects": {
+            "impf": [
+              "запізнюватися"
+            ],
+            "pf": [
+              "запізнитися"
+            ]
+          }
+        },
+        "de": {
+          "text": "sich verspäten",
+          "alternates": [
+            "zu spät kommen"
+          ]
+        },
+        "es": {
+          "text": "llegar tarde",
+          "alternates": [
+            "retrasarse"
+          ]
+        },
+        "fr": {
+          "text": "être en retard",
+          "alternates": [
+            "arriver en retard"
+          ]
+        },
+        "it": {
+          "text": "essere in ritardo",
+          "alternates": [
+            "arrivare in ritardo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to fly",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "лететь",
+          "alternates": [
+            "полететь"
+          ],
+          "aspects": {
+            "impf": [
+              "лететь"
+            ],
+            "pf": [
+              "полететь"
+            ]
+          }
+        },
+        "pl": {
+          "text": "lecieć",
+          "alternates": [
+            "polecieć"
+          ],
+          "aspects": {
+            "impf": [
+              "lecieć"
+            ],
+            "pf": [
+              "polecieć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "летіти",
+          "alternates": [
+            "полетіти"
+          ],
+          "aspects": {
+            "impf": [
+              "летіти"
+            ],
+            "pf": [
+              "полетіти"
+            ]
+          }
+        },
+        "de": "fliegen",
+        "es": "volar",
+        "fr": "voler",
+        "it": "volare"
+      }
     }
   ]
 }

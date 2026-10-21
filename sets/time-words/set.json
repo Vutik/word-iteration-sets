@@ -1,0 +1,43 @@
+{
+  "title": {
+    "en": "When and how often",
+    "ru": "Когда и как часто",
+    "pl": "Kiedy i jak często",
+    "uk": "Коли і як часто",
+    "de": "Wann und wie oft",
+    "es": "Cuándo y con qué frecuencia",
+    "fr": "Quand et à quelle fréquence",
+    "it": "Quando e quanto spesso"
+  },
+  "description": {
+    "en": "Now, already, still, soon, ago, always, never, again.",
+    "ru": "Сейчас, уже, ещё, скоро, назад, всегда, никогда, снова.",
+    "pl": "Teraz, już, jeszcze, wkrótce, temu, zawsze, nigdy, znowu.",
+    "uk": "Зараз, вже, ще, скоро, тому, завжди, ніколи, знову.",
+    "de": "Jetzt, schon, noch, bald, vor, immer, nie, wieder.",
+    "es": "Ahora, ya, todavía, pronto, hace, siempre, nunca, otra vez.",
+    "fr": "Maintenant, déjà, encore, bientôt, il y a, toujours, jamais, de nouveau.",
+    "it": "Ora, già, ancora, presto, fa, sempre, mai, di nuovo."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "grammar",
+    "time"
+  ],
+  "updated": "2026-10-21",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

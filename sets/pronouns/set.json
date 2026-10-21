@@ -1,0 +1,42 @@
+{
+  "title": {
+    "en": "Pronouns",
+    "ru": "Местоимения",
+    "pl": "Zaimki",
+    "uk": "Займенники",
+    "de": "Pronomen",
+    "es": "Pronombres",
+    "fr": "Pronoms",
+    "it": "Pronomi"
+  },
+  "description": {
+    "en": "I, you, he, my, this, that, someone, nothing: the words that stand for others.",
+    "ru": "Я, ты, он, мой, этот, тот, кто-то, ничего: слова, которые заменяют другие.",
+    "pl": "Ja, ty, on, mój, ten, tamten, ktoś, nic: słowa, które zastępują inne.",
+    "uk": "Я, ти, він, мій, цей, той, хтось, нічого: слова, що замінюють інші.",
+    "de": "Ich, du, er, mein, dieser, jener, jemand, nichts: Wörter, die für andere stehen.",
+    "es": "Yo, tú, él, mi, este, ese, alguien, nada: las palabras que sustituyen a otras.",
+    "fr": "Je, tu, il, mon, ce, celui-là, quelqu'un, rien : les mots qui en remplacent d'autres.",
+    "it": "Io, tu, lui, mio, questo, quello, qualcuno, niente: le parole che ne sostituiscono altre."
+  },
+  "languages": [
+    "en",
+    "ru",
+    "pl",
+    "uk",
+    "de",
+    "es",
+    "fr",
+    "it"
+  ],
+  "image": "cover.png",
+  "level": "A1",
+  "tags": [
+    "grammar"
+  ],
+  "updated": "2026-10-21",
+  "source": {
+    "type": "json",
+    "url": "words.json"
+  }
+}

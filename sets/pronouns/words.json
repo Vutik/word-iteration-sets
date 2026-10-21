@@ -1,0 +1,1908 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "I",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "я",
+        "pl": "ja",
+        "uk": "я",
+        "de": "ich",
+        "es": "yo",
+        "fr": {
+          "text": "je",
+          "alternates": [
+            "j'"
+          ]
+        },
+        "it": "io"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "you",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "ты",
+        "pl": "ty",
+        "uk": "ти",
+        "de": "du",
+        "es": "tú",
+        "fr": "tu",
+        "it": "tu"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "he",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "он",
+        "pl": "on",
+        "uk": "він",
+        "de": "er",
+        "es": "él",
+        "fr": "il",
+        "it": {
+          "text": "lui",
+          "alternates": [
+            "egli"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "she",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "она",
+        "pl": "ona",
+        "uk": "вона",
+        "de": "sie",
+        "es": "ella",
+        "fr": "elle",
+        "it": {
+          "text": "lei",
+          "alternates": [
+            "ella"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "it",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "оно",
+          "alternates": [
+            "это"
+          ]
+        },
+        "pl": "ono",
+        "uk": {
+          "text": "воно",
+          "alternates": [
+            "це"
+          ]
+        },
+        "de": "es",
+        "es": {
+          "text": "eso",
+          "alternates": [
+            "ello"
+          ]
+        },
+        "fr": {
+          "text": "il",
+          "alternates": [
+            "elle",
+            "ça"
+          ]
+        },
+        "it": {
+          "text": "esso",
+          "alternates": [
+            "essa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "we",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "мы",
+        "pl": "my",
+        "uk": "ми",
+        "de": "wir",
+        "es": {
+          "text": "nosotros",
+          "alternates": [
+            "nosotras"
+          ]
+        },
+        "fr": "nous",
+        "it": "noi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "you all",
+          "alternates": [
+            "you",
+            "you guys"
+          ],
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "вы",
+        "pl": "wy",
+        "uk": "ви",
+        "de": "ihr",
+        "es": {
+          "text": "vosotros",
+          "alternates": [
+            "vosotras",
+            "ustedes"
+          ]
+        },
+        "fr": "vous",
+        "it": "voi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "they",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "они",
+        "pl": {
+          "text": "oni",
+          "alternates": [
+            "one"
+          ]
+        },
+        "uk": "вони",
+        "de": "sie",
+        "es": {
+          "text": "ellos",
+          "alternates": [
+            "ellas"
+          ]
+        },
+        "fr": {
+          "text": "ils",
+          "alternates": [
+            "elles"
+          ]
+        },
+        "it": {
+          "text": "loro",
+          "alternates": [
+            "essi"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "me",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "меня",
+          "alternates": [
+            "мне",
+            "мной"
+          ]
+        },
+        "pl": {
+          "text": "mnie",
+          "alternates": [
+            "mi",
+            "mną"
+          ]
+        },
+        "uk": {
+          "text": "мене",
+          "alternates": [
+            "мені",
+            "мною"
+          ]
+        },
+        "de": {
+          "text": "mich",
+          "alternates": [
+            "mir"
+          ]
+        },
+        "es": {
+          "text": "me",
+          "alternates": [
+            "mí"
+          ]
+        },
+        "fr": {
+          "text": "me",
+          "alternates": [
+            "moi"
+          ]
+        },
+        "it": {
+          "text": "mi",
+          "alternates": [
+            "me"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "him",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "его",
+          "alternates": [
+            "ему",
+            "него",
+            "нему",
+            "ним"
+          ]
+        },
+        "pl": {
+          "text": "go",
+          "alternates": [
+            "jego",
+            "jemu",
+            "mu",
+            "niego",
+            "nim"
+          ]
+        },
+        "uk": {
+          "text": "його",
+          "alternates": [
+            "йому",
+            "нього",
+            "ньому",
+            "ним"
+          ]
+        },
+        "de": {
+          "text": "ihn",
+          "alternates": [
+            "ihm"
+          ]
+        },
+        "es": {
+          "text": "lo",
+          "alternates": [
+            "le",
+            "él"
+          ]
+        },
+        "fr": {
+          "text": "le",
+          "alternates": [
+            "lui"
+          ]
+        },
+        "it": {
+          "text": "lo",
+          "alternates": [
+            "gli",
+            "lui"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "us",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "нас",
+          "alternates": [
+            "нам",
+            "нами"
+          ]
+        },
+        "pl": {
+          "text": "nas",
+          "alternates": [
+            "nam",
+            "nami"
+          ]
+        },
+        "uk": {
+          "text": "нас",
+          "alternates": [
+            "нам",
+            "нами"
+          ]
+        },
+        "de": "uns",
+        "es": {
+          "text": "nos",
+          "alternates": [
+            "nosotros"
+          ]
+        },
+        "fr": "nous",
+        "it": {
+          "text": "ci",
+          "alternates": [
+            "noi"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "them",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "их",
+          "alternates": [
+            "им",
+            "ими",
+            "них",
+            "ним",
+            "ними"
+          ]
+        },
+        "pl": {
+          "text": "ich",
+          "alternates": [
+            "im",
+            "je",
+            "nich",
+            "nim",
+            "nimi"
+          ]
+        },
+        "uk": {
+          "text": "їх",
+          "alternates": [
+            "їм",
+            "ними",
+            "них",
+            "ним"
+          ]
+        },
+        "de": {
+          "text": "sie",
+          "alternates": [
+            "ihnen"
+          ]
+        },
+        "es": {
+          "text": "los",
+          "alternates": [
+            "las",
+            "les",
+            "ellos"
+          ]
+        },
+        "fr": {
+          "text": "les",
+          "alternates": [
+            "leur",
+            "eux"
+          ]
+        },
+        "it": {
+          "text": "li",
+          "alternates": [
+            "le",
+            "loro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "my",
+          "alternates": [
+            "mine"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "мой",
+          "alternates": [
+            "моя",
+            "моё",
+            "мои"
+          ]
+        },
+        "pl": {
+          "text": "mój",
+          "alternates": [
+            "moja",
+            "moje",
+            "moi"
+          ]
+        },
+        "uk": {
+          "text": "мій",
+          "alternates": [
+            "моя",
+            "моє",
+            "мої"
+          ]
+        },
+        "de": {
+          "text": "mein",
+          "alternates": [
+            "meine"
+          ]
+        },
+        "es": {
+          "text": "mi",
+          "alternates": [
+            "mis",
+            "mío",
+            "mía"
+          ]
+        },
+        "fr": {
+          "text": "mon",
+          "alternates": [
+            "ma",
+            "mes"
+          ]
+        },
+        "it": {
+          "text": "il mio",
+          "alternates": [
+            "mio",
+            "mia",
+            "la mia",
+            "i miei",
+            "le mie"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "your",
+          "alternates": [
+            "yours"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "твой",
+          "alternates": [
+            "твоя",
+            "твоё",
+            "твои"
+          ]
+        },
+        "pl": {
+          "text": "twój",
+          "alternates": [
+            "twoja",
+            "twoje",
+            "twoi"
+          ]
+        },
+        "uk": {
+          "text": "твій",
+          "alternates": [
+            "твоя",
+            "твоє",
+            "твої"
+          ]
+        },
+        "de": {
+          "text": "dein",
+          "alternates": [
+            "deine"
+          ]
+        },
+        "es": {
+          "text": "tu",
+          "alternates": [
+            "tus",
+            "tuyo",
+            "tuya"
+          ]
+        },
+        "fr": {
+          "text": "ton",
+          "alternates": [
+            "ta",
+            "tes"
+          ]
+        },
+        "it": {
+          "text": "il tuo",
+          "alternates": [
+            "tuo",
+            "tua",
+            "la tua",
+            "i tuoi",
+            "le tue"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "his",
+          "partOfSpeech": "determiner"
+        },
+        "ru": "его",
+        "pl": "jego",
+        "uk": "його",
+        "de": {
+          "text": "sein",
+          "alternates": [
+            "seine"
+          ]
+        },
+        "es": {
+          "text": "su",
+          "alternates": [
+            "sus",
+            "suyo"
+          ]
+        },
+        "fr": {
+          "text": "son",
+          "alternates": [
+            "sa",
+            "ses"
+          ]
+        },
+        "it": {
+          "text": "il suo",
+          "alternates": [
+            "suo",
+            "sua",
+            "la sua"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "her",
+          "alternates": [
+            "hers"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": "её",
+        "pl": "jej",
+        "uk": "її",
+        "de": {
+          "text": "ihr",
+          "alternates": [
+            "ihre"
+          ]
+        },
+        "es": {
+          "text": "su",
+          "alternates": [
+            "sus",
+            "suya"
+          ]
+        },
+        "fr": {
+          "text": "son",
+          "alternates": [
+            "sa",
+            "ses"
+          ]
+        },
+        "it": {
+          "text": "il suo",
+          "alternates": [
+            "suo",
+            "sua",
+            "la sua"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "our",
+          "alternates": [
+            "ours"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "наш",
+          "alternates": [
+            "наша",
+            "наше",
+            "наши"
+          ]
+        },
+        "pl": {
+          "text": "nasz",
+          "alternates": [
+            "nasza",
+            "nasze",
+            "nasi"
+          ]
+        },
+        "uk": {
+          "text": "наш",
+          "alternates": [
+            "наша",
+            "наше",
+            "наші"
+          ]
+        },
+        "de": {
+          "text": "unser",
+          "alternates": [
+            "unsere"
+          ]
+        },
+        "es": {
+          "text": "nuestro",
+          "alternates": [
+            "nuestra",
+            "nuestros",
+            "nuestras"
+          ]
+        },
+        "fr": {
+          "text": "notre",
+          "alternates": [
+            "nos"
+          ]
+        },
+        "it": {
+          "text": "il nostro",
+          "alternates": [
+            "nostro",
+            "nostra",
+            "la nostra"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "your (plural)",
+          "alternates": [
+            "your"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "ваш",
+          "alternates": [
+            "ваша",
+            "ваше",
+            "ваши"
+          ]
+        },
+        "pl": {
+          "text": "wasz",
+          "alternates": [
+            "wasza",
+            "wasze",
+            "wasi"
+          ]
+        },
+        "uk": {
+          "text": "ваш",
+          "alternates": [
+            "ваша",
+            "ваше",
+            "ваші"
+          ]
+        },
+        "de": {
+          "text": "euer",
+          "alternates": [
+            "eure"
+          ]
+        },
+        "es": {
+          "text": "vuestro",
+          "alternates": [
+            "vuestra",
+            "vuestros",
+            "vuestras",
+            "su"
+          ]
+        },
+        "fr": {
+          "text": "votre",
+          "alternates": [
+            "vos"
+          ]
+        },
+        "it": {
+          "text": "il vostro",
+          "alternates": [
+            "vostro",
+            "vostra",
+            "la vostra"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "their",
+          "alternates": [
+            "theirs"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": "их",
+        "pl": "ich",
+        "uk": {
+          "text": "їхній",
+          "alternates": [
+            "їхня",
+            "їхнє",
+            "їхні",
+            "їх"
+          ]
+        },
+        "de": {
+          "text": "ihr",
+          "alternates": [
+            "ihre"
+          ]
+        },
+        "es": {
+          "text": "su",
+          "alternates": [
+            "sus",
+            "suyo"
+          ]
+        },
+        "fr": {
+          "text": "leur",
+          "alternates": [
+            "leurs"
+          ]
+        },
+        "it": {
+          "text": "il loro",
+          "alternates": [
+            "loro",
+            "la loro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "one's own",
+          "alternates": [
+            "own"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "свой",
+          "alternates": [
+            "своя",
+            "своё",
+            "свои"
+          ]
+        },
+        "pl": {
+          "text": "swój",
+          "alternates": [
+            "swoja",
+            "swoje",
+            "swoi"
+          ]
+        },
+        "uk": {
+          "text": "свій",
+          "alternates": [
+            "своя",
+            "своє",
+            "свої"
+          ]
+        },
+        "de": {
+          "text": "eigen",
+          "alternates": [
+            "eigene",
+            "eigener"
+          ]
+        },
+        "es": {
+          "text": "propio",
+          "alternates": [
+            "propia"
+          ]
+        },
+        "fr": "propre",
+        "it": {
+          "text": "proprio",
+          "alternates": [
+            "propria"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "oneself",
+          "alternates": [
+            "myself",
+            "yourself",
+            "himself",
+            "herself"
+          ],
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "себя",
+          "alternates": [
+            "себе",
+            "собой"
+          ]
+        },
+        "pl": {
+          "text": "siebie",
+          "alternates": [
+            "się",
+            "sobie"
+          ]
+        },
+        "uk": {
+          "text": "себе",
+          "alternates": [
+            "собі",
+            "собою"
+          ]
+        },
+        "de": "sich",
+        "es": {
+          "text": "se",
+          "alternates": [
+            "sí"
+          ]
+        },
+        "fr": {
+          "text": "se",
+          "alternates": [
+            "soi"
+          ]
+        },
+        "it": {
+          "text": "si",
+          "alternates": [
+            "sé"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "each other",
+          "alternates": [
+            "one another"
+          ],
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "друг друга",
+        "pl": {
+          "text": "siebie nawzajem",
+          "alternates": [
+            "nawzajem",
+            "się"
+          ]
+        },
+        "uk": "один одного",
+        "de": {
+          "text": "einander",
+          "alternates": [
+            "sich"
+          ]
+        },
+        "es": {
+          "text": "el uno al otro",
+          "alternates": [
+            "se"
+          ]
+        },
+        "fr": {
+          "text": "l'un l'autre",
+          "alternates": [
+            "se"
+          ]
+        },
+        "it": {
+          "text": "l'un l'altro",
+          "alternates": [
+            "si"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "this",
+          "alternates": [
+            "this one"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "этот",
+          "alternates": [
+            "эта",
+            "это"
+          ]
+        },
+        "pl": {
+          "text": "ten",
+          "alternates": [
+            "ta",
+            "to"
+          ]
+        },
+        "uk": {
+          "text": "цей",
+          "alternates": [
+            "ця",
+            "це"
+          ]
+        },
+        "de": {
+          "text": "dieser",
+          "alternates": [
+            "diese",
+            "dieses"
+          ]
+        },
+        "es": {
+          "text": "este",
+          "alternates": [
+            "esta",
+            "esto"
+          ]
+        },
+        "fr": {
+          "text": "ce",
+          "alternates": [
+            "cet",
+            "cette",
+            "ceci"
+          ]
+        },
+        "it": {
+          "text": "questo",
+          "alternates": [
+            "questa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "that",
+          "alternates": [
+            "that one"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "тот",
+          "alternates": [
+            "та",
+            "то"
+          ]
+        },
+        "pl": {
+          "text": "tamten",
+          "alternates": [
+            "tamta",
+            "tamto"
+          ]
+        },
+        "uk": {
+          "text": "той",
+          "alternates": [
+            "та",
+            "те"
+          ]
+        },
+        "de": {
+          "text": "jener",
+          "alternates": [
+            "jene",
+            "jenes",
+            "der da"
+          ]
+        },
+        "es": {
+          "text": "ese",
+          "alternates": [
+            "esa",
+            "eso",
+            "aquel",
+            "aquella",
+            "aquello"
+          ]
+        },
+        "fr": {
+          "text": "celui-là",
+          "alternates": [
+            "celle-là",
+            "cela",
+            "ça"
+          ]
+        },
+        "it": {
+          "text": "quello",
+          "alternates": [
+            "quella"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "these",
+          "partOfSpeech": "determiner"
+        },
+        "ru": "эти",
+        "pl": {
+          "text": "ci",
+          "alternates": [
+            "te"
+          ]
+        },
+        "uk": "ці",
+        "de": "diese",
+        "es": {
+          "text": "estos",
+          "alternates": [
+            "estas"
+          ]
+        },
+        "fr": {
+          "text": "ces",
+          "alternates": [
+            "ceux-ci",
+            "celles-ci"
+          ]
+        },
+        "it": {
+          "text": "questi",
+          "alternates": [
+            "queste"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "those",
+          "partOfSpeech": "determiner"
+        },
+        "ru": "те",
+        "pl": {
+          "text": "tamci",
+          "alternates": [
+            "tamte"
+          ]
+        },
+        "uk": "ті",
+        "de": {
+          "text": "jene",
+          "alternates": [
+            "die da"
+          ]
+        },
+        "es": {
+          "text": "esos",
+          "alternates": [
+            "esas",
+            "aquellos",
+            "aquellas"
+          ]
+        },
+        "fr": {
+          "text": "ceux-là",
+          "alternates": [
+            "celles-là"
+          ]
+        },
+        "it": {
+          "text": "quelli",
+          "alternates": [
+            "quelle"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "such",
+          "alternates": [
+            "such a"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "такой",
+          "alternates": [
+            "такая",
+            "такое",
+            "такие"
+          ]
+        },
+        "pl": {
+          "text": "taki",
+          "alternates": [
+            "taka",
+            "takie"
+          ]
+        },
+        "uk": {
+          "text": "такий",
+          "alternates": [
+            "така",
+            "таке",
+            "такі"
+          ]
+        },
+        "de": {
+          "text": "solch",
+          "alternates": [
+            "solche",
+            "so ein",
+            "so eine"
+          ]
+        },
+        "es": {
+          "text": "tal",
+          "alternates": [
+            "tales"
+          ]
+        },
+        "fr": {
+          "text": "tel",
+          "alternates": [
+            "telle",
+            "tels",
+            "telles"
+          ]
+        },
+        "it": {
+          "text": "tale",
+          "alternates": [
+            "tali"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "the same",
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "тот же",
+          "alternates": [
+            "та же",
+            "то же",
+            "такой же",
+            "тот же самый"
+          ]
+        },
+        "pl": {
+          "text": "ten sam",
+          "alternates": [
+            "ta sama",
+            "to samo",
+            "taki sam"
+          ]
+        },
+        "uk": {
+          "text": "той самий",
+          "alternates": [
+            "та сама",
+            "те саме",
+            "такий самий"
+          ]
+        },
+        "de": {
+          "text": "derselbe",
+          "alternates": [
+            "dieselbe",
+            "dasselbe",
+            "der gleiche",
+            "gleich"
+          ]
+        },
+        "es": {
+          "text": "el mismo",
+          "alternates": [
+            "la misma",
+            "lo mismo",
+            "mismo"
+          ]
+        },
+        "fr": {
+          "text": "le même",
+          "alternates": [
+            "la même",
+            "même"
+          ]
+        },
+        "it": {
+          "text": "lo stesso",
+          "alternates": [
+            "la stessa",
+            "stesso"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "someone",
+          "alternates": [
+            "somebody"
+          ],
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "кто-то",
+          "alternates": [
+            "кто-нибудь"
+          ]
+        },
+        "pl": "ktoś",
+        "uk": "хтось",
+        "de": "jemand",
+        "es": "alguien",
+        "fr": "quelqu'un",
+        "it": "qualcuno"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "something",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "что-то",
+          "alternates": [
+            "что-нибудь"
+          ]
+        },
+        "pl": "coś",
+        "uk": "щось",
+        "de": "etwas",
+        "es": "algo",
+        "fr": "quelque chose",
+        "it": "qualcosa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "anyone",
+          "alternates": [
+            "anybody"
+          ],
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "кто угодно",
+          "alternates": [
+            "кто-нибудь"
+          ]
+        },
+        "pl": {
+          "text": "ktokolwiek",
+          "alternates": [
+            "ktoś"
+          ]
+        },
+        "uk": {
+          "text": "будь-хто",
+          "alternates": [
+            "хто-небудь"
+          ]
+        },
+        "de": {
+          "text": "irgendjemand",
+          "alternates": [
+            "jemand"
+          ]
+        },
+        "es": {
+          "text": "cualquiera",
+          "alternates": [
+            "alguien"
+          ]
+        },
+        "fr": {
+          "text": "n'importe qui",
+          "alternates": [
+            "quelqu'un"
+          ]
+        },
+        "it": {
+          "text": "chiunque",
+          "alternates": [
+            "qualcuno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "anything",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "что угодно",
+          "alternates": [
+            "что-нибудь"
+          ]
+        },
+        "pl": {
+          "text": "cokolwiek",
+          "alternates": [
+            "coś"
+          ]
+        },
+        "uk": {
+          "text": "будь-що",
+          "alternates": [
+            "що-небудь"
+          ]
+        },
+        "de": {
+          "text": "irgendetwas",
+          "alternates": [
+            "etwas"
+          ]
+        },
+        "es": {
+          "text": "cualquier cosa",
+          "alternates": [
+            "algo"
+          ]
+        },
+        "fr": {
+          "text": "n'importe quoi",
+          "alternates": [
+            "quelque chose"
+          ]
+        },
+        "it": {
+          "text": "qualsiasi cosa",
+          "alternates": [
+            "qualcosa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nobody",
+          "alternates": [
+            "no one"
+          ],
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "никто",
+        "pl": "nikt",
+        "uk": "ніхто",
+        "de": "niemand",
+        "es": "nadie",
+        "fr": "personne",
+        "it": "nessuno"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nothing",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "ничего",
+          "alternates": [
+            "ничто"
+          ]
+        },
+        "pl": "nic",
+        "uk": {
+          "text": "нічого",
+          "alternates": [
+            "ніщо"
+          ]
+        },
+        "de": "nichts",
+        "es": "nada",
+        "fr": "rien",
+        "it": {
+          "text": "niente",
+          "alternates": [
+            "nulla"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "everyone",
+          "alternates": [
+            "everybody"
+          ],
+          "partOfSpeech": "pronoun"
+        },
+        "ru": {
+          "text": "все",
+          "alternates": [
+            "каждый"
+          ]
+        },
+        "pl": {
+          "text": "wszyscy",
+          "alternates": [
+            "każdy"
+          ]
+        },
+        "uk": {
+          "text": "усі",
+          "alternates": [
+            "всі",
+            "кожен"
+          ]
+        },
+        "de": {
+          "text": "alle",
+          "alternates": [
+            "jeder"
+          ]
+        },
+        "es": {
+          "text": "todos",
+          "alternates": [
+            "todo el mundo"
+          ]
+        },
+        "fr": {
+          "text": "tout le monde",
+          "alternates": [
+            "tous"
+          ]
+        },
+        "it": {
+          "text": "tutti",
+          "alternates": [
+            "ognuno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "everything",
+          "partOfSpeech": "pronoun"
+        },
+        "ru": "всё",
+        "pl": "wszystko",
+        "uk": {
+          "text": "усе",
+          "alternates": [
+            "все"
+          ]
+        },
+        "de": "alles",
+        "es": "todo",
+        "fr": "tout",
+        "it": "tutto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "all",
+          "alternates": [
+            "the whole"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "весь",
+          "alternates": [
+            "вся",
+            "всё",
+            "все"
+          ]
+        },
+        "pl": {
+          "text": "cały",
+          "alternates": [
+            "cała",
+            "całe",
+            "wszyscy",
+            "wszystkie"
+          ]
+        },
+        "uk": {
+          "text": "весь",
+          "alternates": [
+            "вся",
+            "все",
+            "всі"
+          ]
+        },
+        "de": {
+          "text": "all",
+          "alternates": [
+            "alle",
+            "ganz"
+          ]
+        },
+        "es": {
+          "text": "todo",
+          "alternates": [
+            "toda",
+            "todos",
+            "todas"
+          ]
+        },
+        "fr": {
+          "text": "tout",
+          "alternates": [
+            "toute",
+            "tous",
+            "toutes"
+          ]
+        },
+        "it": {
+          "text": "tutto",
+          "alternates": [
+            "tutta",
+            "tutti",
+            "tutte"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "each",
+          "alternates": [
+            "every"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "каждый",
+          "alternates": [
+            "каждая",
+            "каждое"
+          ]
+        },
+        "pl": {
+          "text": "każdy",
+          "alternates": [
+            "każda",
+            "każde"
+          ]
+        },
+        "uk": {
+          "text": "кожен",
+          "alternates": [
+            "кожна",
+            "кожне",
+            "кожний"
+          ]
+        },
+        "de": {
+          "text": "jeder",
+          "alternates": [
+            "jede",
+            "jedes"
+          ]
+        },
+        "es": "cada",
+        "fr": {
+          "text": "chaque",
+          "alternates": [
+            "chacun"
+          ]
+        },
+        "it": {
+          "text": "ogni",
+          "alternates": [
+            "ciascuno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "other",
+          "alternates": [
+            "another"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "другой",
+          "alternates": [
+            "другая",
+            "другое",
+            "другие"
+          ]
+        },
+        "pl": {
+          "text": "inny",
+          "alternates": [
+            "inna",
+            "inne"
+          ]
+        },
+        "uk": {
+          "text": "інший",
+          "alternates": [
+            "інша",
+            "інше",
+            "інші"
+          ]
+        },
+        "de": {
+          "text": "anderer",
+          "alternates": [
+            "andere",
+            "anderes"
+          ]
+        },
+        "es": {
+          "text": "otro",
+          "alternates": [
+            "otra",
+            "otros",
+            "otras"
+          ]
+        },
+        "fr": {
+          "text": "autre",
+          "alternates": [
+            "autres"
+          ]
+        },
+        "it": {
+          "text": "altro",
+          "alternates": [
+            "altra",
+            "altri",
+            "altre"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "both",
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "оба",
+          "alternates": [
+            "обе"
+          ]
+        },
+        "pl": {
+          "text": "obaj",
+          "alternates": [
+            "oba",
+            "obie",
+            "obydwa"
+          ]
+        },
+        "uk": {
+          "text": "обидва",
+          "alternates": [
+            "обидві"
+          ]
+        },
+        "de": "beide",
+        "es": {
+          "text": "ambos",
+          "alternates": [
+            "ambas",
+            "los dos"
+          ]
+        },
+        "fr": {
+          "text": "les deux",
+          "alternates": [
+            "tous les deux"
+          ]
+        },
+        "it": {
+          "text": "entrambi",
+          "alternates": [
+            "entrambe",
+            "tutti e due"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "some",
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "некоторые",
+          "alternates": [
+            "несколько",
+            "какой-то"
+          ]
+        },
+        "pl": {
+          "text": "niektórzy",
+          "alternates": [
+            "niektóre",
+            "jakiś"
+          ]
+        },
+        "uk": {
+          "text": "деякі",
+          "alternates": [
+            "якийсь"
+          ]
+        },
+        "de": {
+          "text": "einige",
+          "alternates": [
+            "manche"
+          ]
+        },
+        "es": {
+          "text": "algunos",
+          "alternates": [
+            "algunas",
+            "unos"
+          ]
+        },
+        "fr": {
+          "text": "quelques",
+          "alternates": [
+            "certains"
+          ]
+        },
+        "it": {
+          "text": "alcuni",
+          "alternates": [
+            "alcune",
+            "qualche"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "none",
+          "alternates": [
+            "no",
+            "not any"
+          ],
+          "partOfSpeech": "determiner"
+        },
+        "ru": {
+          "text": "никакой",
+          "alternates": [
+            "никакая",
+            "никакое",
+            "никакие",
+            "ни один"
+          ]
+        },
+        "pl": {
+          "text": "żaden",
+          "alternates": [
+            "żadna",
+            "żadne"
+          ]
+        },
+        "uk": {
+          "text": "жоден",
+          "alternates": [
+            "жодна",
+            "жодне",
+            "ніякий"
+          ]
+        },
+        "de": {
+          "text": "kein",
+          "alternates": [
+            "keine"
+          ]
+        },
+        "es": {
+          "text": "ninguno",
+          "alternates": [
+            "ninguna",
+            "ningún"
+          ]
+        },
+        "fr": {
+          "text": "aucun",
+          "alternates": [
+            "aucune"
+          ]
+        },
+        "it": {
+          "text": "nessuno",
+          "alternates": [
+            "nessuna"
+          ]
+        }
+      }
+    }
+  ]
+}

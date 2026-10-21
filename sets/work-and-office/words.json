@@ -1058,6 +1058,720 @@
           }
         }
       ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "client",
+          "partOfSpeech": "noun"
+        },
+        "ru": "клиент",
+        "pl": "klient",
+        "uk": "клієнт",
+        "de": {
+          "text": "der Kunde",
+          "alternates": [
+            "Kunde"
+          ]
+        },
+        "es": {
+          "text": "el cliente",
+          "alternates": [
+            "cliente"
+          ]
+        },
+        "fr": {
+          "text": "le client",
+          "alternates": [
+            "client"
+          ]
+        },
+        "it": {
+          "text": "il cliente",
+          "alternates": [
+            "cliente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "project",
+          "partOfSpeech": "noun"
+        },
+        "ru": "проект",
+        "pl": "projekt",
+        "uk": "проєкт",
+        "de": {
+          "text": "das Projekt",
+          "alternates": [
+            "Projekt"
+          ]
+        },
+        "es": {
+          "text": "el proyecto",
+          "alternates": [
+            "proyecto"
+          ]
+        },
+        "fr": {
+          "text": "le projet",
+          "alternates": [
+            "projet"
+          ]
+        },
+        "it": {
+          "text": "il progetto",
+          "alternates": [
+            "progetto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "report",
+          "partOfSpeech": "noun"
+        },
+        "ru": "отчёт",
+        "pl": {
+          "text": "raport",
+          "alternates": [
+            "sprawozdanie"
+          ]
+        },
+        "uk": "звіт",
+        "de": {
+          "text": "der Bericht",
+          "alternates": [
+            "Bericht"
+          ]
+        },
+        "es": {
+          "text": "el informe",
+          "alternates": [
+            "informe"
+          ]
+        },
+        "fr": {
+          "text": "le rapport",
+          "alternates": [
+            "rapport"
+          ]
+        },
+        "it": {
+          "text": "il rapporto",
+          "alternates": [
+            "rapporto",
+            "relazione",
+            "la relazione"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "document",
+          "partOfSpeech": "noun"
+        },
+        "ru": "документ",
+        "pl": "dokument",
+        "uk": "документ",
+        "de": {
+          "text": "das Dokument",
+          "alternates": [
+            "Dokument"
+          ]
+        },
+        "es": {
+          "text": "el documento",
+          "alternates": [
+            "documento"
+          ]
+        },
+        "fr": {
+          "text": "le document",
+          "alternates": [
+            "document"
+          ]
+        },
+        "it": {
+          "text": "il documento",
+          "alternates": [
+            "documento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "break",
+          "partOfSpeech": "noun"
+        },
+        "ru": "перерыв",
+        "pl": "przerwa",
+        "uk": "перерва",
+        "de": {
+          "text": "die Pause",
+          "alternates": [
+            "Pause"
+          ]
+        },
+        "es": {
+          "text": "el descanso",
+          "alternates": [
+            "descanso",
+            "pausa",
+            "la pausa"
+          ]
+        },
+        "fr": {
+          "text": "la pause",
+          "alternates": [
+            "pause"
+          ]
+        },
+        "it": {
+          "text": "la pausa",
+          "alternates": [
+            "pausa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "career",
+          "partOfSpeech": "noun"
+        },
+        "ru": "карьера",
+        "pl": "kariera",
+        "uk": "кар'єра",
+        "de": {
+          "text": "die Karriere",
+          "alternates": [
+            "Karriere"
+          ]
+        },
+        "es": {
+          "text": "la carrera",
+          "alternates": [
+            "carrera"
+          ]
+        },
+        "fr": {
+          "text": "la carrière",
+          "alternates": [
+            "carrière"
+          ]
+        },
+        "it": {
+          "text": "la carriera",
+          "alternates": [
+            "carriera"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shift",
+          "partOfSpeech": "noun"
+        },
+        "ru": "смена",
+        "pl": "zmiana",
+        "uk": "зміна",
+        "de": {
+          "text": "die Schicht",
+          "alternates": [
+            "Schicht"
+          ]
+        },
+        "es": {
+          "text": "el turno",
+          "alternates": [
+            "turno"
+          ]
+        },
+        "fr": {
+          "text": "le poste",
+          "alternates": [
+            "poste"
+          ]
+        },
+        "it": {
+          "text": "il turno",
+          "alternates": [
+            "turno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "department",
+          "partOfSpeech": "noun"
+        },
+        "ru": "отдел",
+        "pl": {
+          "text": "dział",
+          "alternates": [
+            "wydział"
+          ]
+        },
+        "uk": "відділ",
+        "de": {
+          "text": "die Abteilung",
+          "alternates": [
+            "Abteilung"
+          ]
+        },
+        "es": {
+          "text": "el departamento",
+          "alternates": [
+            "departamento"
+          ]
+        },
+        "fr": {
+          "text": "le service",
+          "alternates": [
+            "service",
+            "département",
+            "le département"
+          ]
+        },
+        "it": {
+          "text": "il reparto",
+          "alternates": [
+            "reparto",
+            "dipartimento",
+            "il dipartimento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "workplace",
+          "partOfSpeech": "noun"
+        },
+        "ru": "рабочее место",
+        "pl": "miejsce pracy",
+        "uk": "робоче місце",
+        "de": {
+          "text": "der Arbeitsplatz",
+          "alternates": [
+            "Arbeitsplatz"
+          ]
+        },
+        "es": {
+          "text": "el lugar de trabajo",
+          "alternates": [
+            "lugar de trabajo",
+            "puesto de trabajo",
+            "el puesto de trabajo"
+          ]
+        },
+        "fr": {
+          "text": "le lieu de travail",
+          "alternates": [
+            "lieu de travail"
+          ]
+        },
+        "it": {
+          "text": "il posto di lavoro",
+          "alternates": [
+            "posto di lavoro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "profession",
+          "partOfSpeech": "noun"
+        },
+        "ru": "профессия",
+        "pl": "zawód",
+        "uk": "професія",
+        "de": {
+          "text": "der Beruf",
+          "alternates": [
+            "Beruf"
+          ]
+        },
+        "es": {
+          "text": "la profesión",
+          "alternates": [
+            "profesión"
+          ]
+        },
+        "fr": {
+          "text": "la profession",
+          "alternates": [
+            "profession",
+            "métier",
+            "le métier"
+          ]
+        },
+        "it": {
+          "text": "la professione",
+          "alternates": [
+            "professione",
+            "mestiere",
+            "il mestiere"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to manage",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "управлять",
+          "alternates": [
+            "руководить"
+          ]
+        },
+        "pl": "zarządzać",
+        "uk": "керувати",
+        "de": {
+          "text": "leiten",
+          "alternates": [
+            "verwalten"
+          ]
+        },
+        "es": {
+          "text": "dirigir",
+          "alternates": [
+            "gestionar"
+          ]
+        },
+        "fr": {
+          "text": "diriger",
+          "alternates": [
+            "gérer"
+          ]
+        },
+        "it": {
+          "text": "gestire",
+          "alternates": [
+            "dirigere"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to plan",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "планировать",
+          "alternates": [
+            "запланировать"
+          ],
+          "aspects": {
+            "impf": [
+              "планировать"
+            ],
+            "pf": [
+              "запланировать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "planować",
+          "alternates": [
+            "zaplanować"
+          ],
+          "aspects": {
+            "impf": [
+              "planować"
+            ],
+            "pf": [
+              "zaplanować"
+            ]
+          }
+        },
+        "uk": {
+          "text": "планувати",
+          "alternates": [
+            "запланувати"
+          ],
+          "aspects": {
+            "impf": [
+              "планувати"
+            ],
+            "pf": [
+              "запланувати"
+            ]
+          }
+        },
+        "de": "planen",
+        "es": {
+          "text": "planear",
+          "alternates": [
+            "planificar"
+          ]
+        },
+        "fr": "planifier",
+        "it": "pianificare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to send",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "отправлять",
+          "alternates": [
+            "отправить"
+          ],
+          "aspects": {
+            "impf": [
+              "отправлять"
+            ],
+            "pf": [
+              "отправить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "wysyłać",
+          "alternates": [
+            "wysłać"
+          ],
+          "aspects": {
+            "impf": [
+              "wysyłać"
+            ],
+            "pf": [
+              "wysłać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "надсилати",
+          "alternates": [
+            "надіслати"
+          ],
+          "aspects": {
+            "impf": [
+              "надсилати"
+            ],
+            "pf": [
+              "надіслати"
+            ]
+          }
+        },
+        "de": {
+          "text": "schicken",
+          "alternates": [
+            "senden"
+          ]
+        },
+        "es": "enviar",
+        "fr": "envoyer",
+        "it": {
+          "text": "mandare",
+          "alternates": [
+            "inviare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to organize",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "организовывать",
+          "alternates": [
+            "организовать"
+          ],
+          "aspects": {
+            "impf": [
+              "организовывать"
+            ],
+            "pf": [
+              "организовать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "organizować",
+          "alternates": [
+            "zorganizować"
+          ],
+          "aspects": {
+            "impf": [
+              "organizować"
+            ],
+            "pf": [
+              "zorganizować"
+            ]
+          }
+        },
+        "uk": {
+          "text": "організовувати",
+          "alternates": [
+            "організувати"
+          ],
+          "aspects": {
+            "impf": [
+              "організовувати"
+            ],
+            "pf": [
+              "організувати"
+            ]
+          }
+        },
+        "de": "organisieren",
+        "es": "organizar",
+        "fr": "organiser",
+        "it": "organizzare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to sign",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "подписывать",
+          "alternates": [
+            "подписать"
+          ],
+          "aspects": {
+            "impf": [
+              "подписывать"
+            ],
+            "pf": [
+              "подписать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "podpisywać",
+          "alternates": [
+            "podpisać"
+          ],
+          "aspects": {
+            "impf": [
+              "podpisywać"
+            ],
+            "pf": [
+              "podpisać"
+            ]
+          }
+        },
+        "uk": {
+          "text": "підписувати",
+          "alternates": [
+            "підписати"
+          ],
+          "aspects": {
+            "impf": [
+              "підписувати"
+            ],
+            "pf": [
+              "підписати"
+            ]
+          }
+        },
+        "de": {
+          "text": "unterschreiben",
+          "alternates": [
+            "unterzeichnen"
+          ]
+        },
+        "es": "firmar",
+        "fr": "signer",
+        "it": "firmare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to retire",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "выходить на пенсию",
+          "alternates": [
+            "выйти на пенсию"
+          ],
+          "aspects": {
+            "impf": [
+              "выходить на пенсию"
+            ],
+            "pf": [
+              "выйти на пенсию"
+            ]
+          }
+        },
+        "pl": {
+          "text": "przechodzić na emeryturę",
+          "alternates": [
+            "przejść na emeryturę"
+          ],
+          "aspects": {
+            "impf": [
+              "przechodzić na emeryturę"
+            ],
+            "pf": [
+              "przejść na emeryturę"
+            ]
+          }
+        },
+        "uk": {
+          "text": "виходити на пенсію",
+          "alternates": [
+            "вийти на пенсію"
+          ],
+          "aspects": {
+            "impf": [
+              "виходити на пенсію"
+            ],
+            "pf": [
+              "вийти на пенсію"
+            ]
+          }
+        },
+        "de": {
+          "text": "in Rente gehen",
+          "alternates": [
+            "in den Ruhestand gehen"
+          ]
+        },
+        "es": {
+          "text": "jubilarse",
+          "alternates": [
+            "retirarse"
+          ]
+        },
+        "fr": "prendre sa retraite",
+        "it": "andare in pensione"
+      }
     }
   ]
 }

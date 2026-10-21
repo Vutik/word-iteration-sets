@@ -770,6 +770,1133 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "that",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "что",
+        "pl": "że",
+        "uk": "що",
+        "de": "dass",
+        "es": "que",
+        "fr": "que",
+        "it": "che"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "than",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "чем",
+        "pl": {
+          "text": "niż",
+          "alternates": [
+            "od"
+          ]
+        },
+        "uk": {
+          "text": "ніж",
+          "alternates": [
+            "аніж"
+          ]
+        },
+        "de": "als",
+        "es": {
+          "text": "que",
+          "alternates": [
+            "de"
+          ]
+        },
+        "fr": "que",
+        "it": {
+          "text": "di",
+          "alternates": [
+            "che"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "as",
+          "alternates": [
+            "since"
+          ],
+          "partOfSpeech": "conjunction"
+        },
+        "ru": {
+          "text": "так как",
+          "alternates": [
+            "поскольку"
+          ]
+        },
+        "pl": {
+          "text": "skoro",
+          "alternates": [
+            "jako że",
+            "ponieważ"
+          ]
+        },
+        "uk": {
+          "text": "оскільки",
+          "alternates": [
+            "бо",
+            "так як"
+          ]
+        },
+        "de": "da",
+        "es": {
+          "text": "como",
+          "alternates": [
+            "ya que",
+            "puesto que"
+          ]
+        },
+        "fr": {
+          "text": "comme",
+          "alternates": [
+            "puisque"
+          ]
+        },
+        "it": {
+          "text": "poiché",
+          "alternates": [
+            "siccome",
+            "dato che"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "so that",
+          "alternates": [
+            "in order to"
+          ],
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "чтобы",
+        "pl": {
+          "text": "żeby",
+          "alternates": [
+            "aby",
+            "by"
+          ]
+        },
+        "uk": {
+          "text": "щоб",
+          "alternates": [
+            "аби"
+          ]
+        },
+        "de": {
+          "text": "damit",
+          "alternates": [
+            "um zu"
+          ]
+        },
+        "es": {
+          "text": "para que",
+          "alternates": [
+            "para"
+          ]
+        },
+        "fr": {
+          "text": "pour que",
+          "alternates": [
+            "pour",
+            "afin que"
+          ]
+        },
+        "it": {
+          "text": "perché",
+          "alternates": [
+            "affinché",
+            "per"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "as soon as",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "как только",
+        "pl": {
+          "text": "jak tylko",
+          "alternates": [
+            "gdy tylko"
+          ]
+        },
+        "uk": {
+          "text": "як тільки",
+          "alternates": [
+            "щойно"
+          ]
+        },
+        "de": "sobald",
+        "es": {
+          "text": "en cuanto",
+          "alternates": [
+            "tan pronto como"
+          ]
+        },
+        "fr": {
+          "text": "dès que",
+          "alternates": [
+            "aussitôt que"
+          ]
+        },
+        "it": {
+          "text": "appena",
+          "alternates": [
+            "non appena"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "whether",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "ли",
+        "pl": "czy",
+        "uk": "чи",
+        "de": "ob",
+        "es": "si",
+        "fr": "si",
+        "it": "se"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "either ... or",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": {
+          "text": "или ... или",
+          "alternates": [
+            "либо ... либо"
+          ]
+        },
+        "pl": {
+          "text": "albo ... albo",
+          "alternates": [
+            "czy ... czy"
+          ]
+        },
+        "uk": {
+          "text": "або ... або",
+          "alternates": [
+            "чи ... чи"
+          ]
+        },
+        "de": "entweder ... oder",
+        "es": "o ... o",
+        "fr": {
+          "text": "soit ... soit",
+          "alternates": [
+            "ou ... ou"
+          ]
+        },
+        "it": "o ... o"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "neither ... nor",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "ни ... ни",
+        "pl": "ani ... ani",
+        "uk": "ні ... ні",
+        "de": "weder ... noch",
+        "es": "ni ... ni",
+        "fr": "ni ... ni",
+        "it": "né ... né"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "not only ... but also",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "не только ... но и",
+        "pl": {
+          "text": "nie tylko ... ale też",
+          "alternates": [
+            "nie tylko ... ale i"
+          ]
+        },
+        "uk": {
+          "text": "не тільки ... а й",
+          "alternates": [
+            "не лише ... а й"
+          ]
+        },
+        "de": "nicht nur ... sondern auch",
+        "es": {
+          "text": "no solo ... sino también",
+          "alternates": [
+            "no sólo ... sino también"
+          ]
+        },
+        "fr": "non seulement ... mais aussi",
+        "it": "non solo ... ma anche"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "both ... and",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": {
+          "text": "и ... и",
+          "alternates": [
+            "как ... так и"
+          ]
+        },
+        "pl": {
+          "text": "zarówno ... jak i",
+          "alternates": [
+            "i ... i"
+          ]
+        },
+        "uk": {
+          "text": "і ... і",
+          "alternates": [
+            "як ... так і"
+          ]
+        },
+        "de": "sowohl ... als auch",
+        "es": "tanto ... como",
+        "fr": {
+          "text": "à la fois ... et",
+          "alternates": [
+            "et ... et"
+          ]
+        },
+        "it": {
+          "text": "sia ... sia",
+          "alternates": [
+            "sia ... che"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "as if",
+          "alternates": [
+            "as though"
+          ],
+          "partOfSpeech": "conjunction"
+        },
+        "ru": {
+          "text": "как будто",
+          "alternates": [
+            "словно",
+            "будто"
+          ]
+        },
+        "pl": {
+          "text": "jakby",
+          "alternates": [
+            "jak gdyby"
+          ]
+        },
+        "uk": {
+          "text": "ніби",
+          "alternates": [
+            "наче",
+            "мов",
+            "немов"
+          ]
+        },
+        "de": {
+          "text": "als ob",
+          "alternates": [
+            "als wenn"
+          ]
+        },
+        "es": "como si",
+        "fr": "comme si",
+        "it": "come se"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "even if",
+          "alternates": [
+            "even though"
+          ],
+          "partOfSpeech": "conjunction"
+        },
+        "ru": "даже если",
+        "pl": {
+          "text": "nawet jeśli",
+          "alternates": [
+            "nawet jeżeli"
+          ]
+        },
+        "uk": "навіть якщо",
+        "de": {
+          "text": "auch wenn",
+          "alternates": [
+            "selbst wenn"
+          ]
+        },
+        "es": {
+          "text": "incluso si",
+          "alternates": [
+            "aunque"
+          ]
+        },
+        "fr": "même si",
+        "it": "anche se"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "in case",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": {
+          "text": "на случай если",
+          "alternates": [
+            "если вдруг"
+          ]
+        },
+        "pl": {
+          "text": "na wypadek gdyby",
+          "alternates": [
+            "w razie gdyby"
+          ]
+        },
+        "uk": {
+          "text": "на випадок якщо",
+          "alternates": [
+            "у разі якщо"
+          ]
+        },
+        "de": {
+          "text": "für den Fall, dass",
+          "alternates": [
+            "falls"
+          ]
+        },
+        "es": {
+          "text": "por si",
+          "alternates": [
+            "en caso de que"
+          ]
+        },
+        "fr": "au cas où",
+        "it": {
+          "text": "nel caso",
+          "alternates": [
+            "in caso",
+            "casomai"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "as long as",
+          "alternates": [
+            "provided that"
+          ],
+          "partOfSpeech": "conjunction"
+        },
+        "ru": {
+          "text": "пока",
+          "alternates": [
+            "при условии что",
+            "если только"
+          ]
+        },
+        "pl": {
+          "text": "dopóki",
+          "alternates": [
+            "pod warunkiem że"
+          ]
+        },
+        "uk": {
+          "text": "поки",
+          "alternates": [
+            "за умови що"
+          ]
+        },
+        "de": {
+          "text": "solange",
+          "alternates": [
+            "sofern"
+          ]
+        },
+        "es": {
+          "text": "mientras",
+          "alternates": [
+            "siempre que",
+            "con tal de que"
+          ]
+        },
+        "fr": {
+          "text": "tant que",
+          "alternates": [
+            "pourvu que",
+            "à condition que"
+          ]
+        },
+        "it": {
+          "text": "finché",
+          "alternates": [
+            "purché",
+            "a patto che"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "whereas",
+          "partOfSpeech": "conjunction"
+        },
+        "ru": {
+          "text": "а",
+          "alternates": [
+            "тогда как"
+          ]
+        },
+        "pl": {
+          "text": "a",
+          "alternates": [
+            "natomiast",
+            "podczas gdy"
+          ]
+        },
+        "uk": {
+          "text": "а",
+          "alternates": [
+            "тоді як"
+          ]
+        },
+        "de": {
+          "text": "wohingegen",
+          "alternates": [
+            "während"
+          ]
+        },
+        "es": "mientras que",
+        "fr": {
+          "text": "alors que",
+          "alternates": [
+            "tandis que"
+          ]
+        },
+        "it": {
+          "text": "mentre",
+          "alternates": [
+            "invece"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "otherwise",
+          "alternates": [
+            "or else"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "иначе",
+          "alternates": [
+            "а то",
+            "в противном случае"
+          ]
+        },
+        "pl": {
+          "text": "inaczej",
+          "alternates": [
+            "w przeciwnym razie",
+            "bo inaczej"
+          ]
+        },
+        "uk": {
+          "text": "інакше",
+          "alternates": [
+            "а то"
+          ]
+        },
+        "de": {
+          "text": "sonst",
+          "alternates": [
+            "andernfalls"
+          ]
+        },
+        "es": {
+          "text": "si no",
+          "alternates": [
+            "de lo contrario"
+          ]
+        },
+        "fr": {
+          "text": "sinon",
+          "alternates": [
+            "autrement"
+          ]
+        },
+        "it": "altrimenti"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nevertheless",
+          "alternates": [
+            "nonetheless"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "тем не менее",
+          "alternates": [
+            "всё же",
+            "всё-таки"
+          ]
+        },
+        "pl": {
+          "text": "mimo to",
+          "alternates": [
+            "niemniej"
+          ]
+        },
+        "uk": {
+          "text": "тим не менш",
+          "alternates": [
+            "все ж таки"
+          ]
+        },
+        "de": {
+          "text": "trotzdem",
+          "alternates": [
+            "dennoch"
+          ]
+        },
+        "es": {
+          "text": "no obstante",
+          "alternates": [
+            "aun así"
+          ]
+        },
+        "fr": {
+          "text": "néanmoins",
+          "alternates": [
+            "quand même",
+            "toutefois"
+          ]
+        },
+        "it": {
+          "text": "tuttavia",
+          "alternates": [
+            "comunque",
+            "eppure"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "for example",
+          "alternates": [
+            "for instance"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "например",
+        "pl": "na przykład",
+        "uk": "наприклад",
+        "de": "zum Beispiel",
+        "es": "por ejemplo",
+        "fr": "par exemple",
+        "it": {
+          "text": "per esempio",
+          "alternates": [
+            "ad esempio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "that is",
+          "alternates": [
+            "in other words",
+            "i.e."
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "то есть",
+          "alternates": [
+            "иначе говоря",
+            "другими словами"
+          ]
+        },
+        "pl": {
+          "text": "to znaczy",
+          "alternates": [
+            "czyli",
+            "innymi słowy"
+          ]
+        },
+        "uk": {
+          "text": "тобто",
+          "alternates": [
+            "іншими словами"
+          ]
+        },
+        "de": {
+          "text": "das heißt",
+          "alternates": [
+            "mit anderen Worten"
+          ]
+        },
+        "es": {
+          "text": "es decir",
+          "alternates": [
+            "o sea",
+            "en otras palabras"
+          ]
+        },
+        "fr": {
+          "text": "c'est-à-dire",
+          "alternates": [
+            "autrement dit"
+          ]
+        },
+        "it": {
+          "text": "cioè",
+          "alternates": [
+            "in altre parole",
+            "ossia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "on the other hand",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "с другой стороны",
+        "pl": "z drugiej strony",
+        "uk": "з іншого боку",
+        "de": {
+          "text": "andererseits",
+          "alternates": [
+            "auf der anderen Seite"
+          ]
+        },
+        "es": {
+          "text": "por otro lado",
+          "alternates": [
+            "por otra parte"
+          ]
+        },
+        "fr": {
+          "text": "d'autre part",
+          "alternates": [
+            "par contre"
+          ]
+        },
+        "it": {
+          "text": "d'altra parte",
+          "alternates": [
+            "d'altro canto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "firstly",
+          "alternates": [
+            "first of all"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "во-первых",
+        "pl": "po pierwsze",
+        "uk": "по-перше",
+        "de": "erstens",
+        "es": "en primer lugar",
+        "fr": {
+          "text": "premièrement",
+          "alternates": [
+            "tout d'abord"
+          ]
+        },
+        "it": {
+          "text": "in primo luogo",
+          "alternates": [
+            "innanzitutto",
+            "primo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "secondly",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "во-вторых",
+        "pl": "po drugie",
+        "uk": "по-друге",
+        "de": "zweitens",
+        "es": "en segundo lugar",
+        "fr": "deuxièmement",
+        "it": {
+          "text": "in secondo luogo",
+          "alternates": [
+            "secondo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "in the end",
+          "alternates": [
+            "eventually"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "в конце концов",
+          "alternates": [
+            "в итоге"
+          ]
+        },
+        "pl": {
+          "text": "ostatecznie",
+          "alternates": [
+            "koniec końców"
+          ]
+        },
+        "uk": {
+          "text": "зрештою",
+          "alternates": [
+            "кінець кінцем"
+          ]
+        },
+        "de": {
+          "text": "letztendlich",
+          "alternates": [
+            "am Ende"
+          ]
+        },
+        "es": "al final",
+        "fr": {
+          "text": "en fin de compte",
+          "alternates": [
+            "à la fin"
+          ]
+        },
+        "it": {
+          "text": "alla fine",
+          "alternates": [
+            "infine"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "anyway",
+          "alternates": [
+            "in any case"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "в любом случае",
+          "alternates": [
+            "всё равно",
+            "так или иначе"
+          ]
+        },
+        "pl": {
+          "text": "w każdym razie",
+          "alternates": [
+            "tak czy inaczej",
+            "i tak"
+          ]
+        },
+        "uk": {
+          "text": "у будь-якому разі",
+          "alternates": [
+            "все одно",
+            "так чи інакше"
+          ]
+        },
+        "de": {
+          "text": "jedenfalls",
+          "alternates": [
+            "auf jeden Fall",
+            "sowieso"
+          ]
+        },
+        "es": {
+          "text": "de todos modos",
+          "alternates": [
+            "en cualquier caso",
+            "de todas formas"
+          ]
+        },
+        "fr": {
+          "text": "de toute façon",
+          "alternates": [
+            "en tout cas"
+          ]
+        },
+        "it": {
+          "text": "comunque",
+          "alternates": [
+            "in ogni caso"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "at least",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "по крайней мере",
+          "alternates": [
+            "хотя бы",
+            "как минимум"
+          ]
+        },
+        "pl": {
+          "text": "przynajmniej",
+          "alternates": [
+            "co najmniej"
+          ]
+        },
+        "uk": {
+          "text": "принаймні",
+          "alternates": [
+            "щонайменше",
+            "хоча б"
+          ]
+        },
+        "de": {
+          "text": "mindestens",
+          "alternates": [
+            "wenigstens",
+            "zumindest"
+          ]
+        },
+        "es": {
+          "text": "al menos",
+          "alternates": [
+            "por lo menos"
+          ]
+        },
+        "fr": {
+          "text": "au moins",
+          "alternates": [
+            "du moins"
+          ]
+        },
+        "it": "almeno"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "especially",
+          "alternates": [
+            "above all"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "особенно",
+          "alternates": [
+            "прежде всего"
+          ]
+        },
+        "pl": {
+          "text": "szczególnie",
+          "alternates": [
+            "zwłaszcza",
+            "przede wszystkim"
+          ]
+        },
+        "uk": {
+          "text": "особливо",
+          "alternates": [
+            "передусім",
+            "насамперед"
+          ]
+        },
+        "de": {
+          "text": "besonders",
+          "alternates": [
+            "vor allem"
+          ]
+        },
+        "es": {
+          "text": "sobre todo",
+          "alternates": [
+            "especialmente"
+          ]
+        },
+        "fr": {
+          "text": "surtout",
+          "alternates": [
+            "particulièrement"
+          ]
+        },
+        "it": {
+          "text": "soprattutto",
+          "alternates": [
+            "specialmente",
+            "in particolare"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "in general",
+          "alternates": [
+            "generally"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "вообще",
+          "alternates": [
+            "в целом",
+            "в общем"
+          ]
+        },
+        "pl": {
+          "text": "w ogóle",
+          "alternates": [
+            "ogólnie",
+            "na ogół"
+          ]
+        },
+        "uk": {
+          "text": "взагалі",
+          "alternates": [
+            "загалом",
+            "в цілому"
+          ]
+        },
+        "de": {
+          "text": "im Allgemeinen",
+          "alternates": [
+            "überhaupt"
+          ]
+        },
+        "es": "en general",
+        "fr": "en général",
+        "it": "in generale"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "that's why",
+          "alternates": [
+            "this is why"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "вот почему",
+          "alternates": [
+            "поэтому"
+          ]
+        },
+        "pl": {
+          "text": "dlatego",
+          "alternates": [
+            "właśnie dlatego"
+          ]
+        },
+        "uk": {
+          "text": "ось чому",
+          "alternates": [
+            "тому"
+          ]
+        },
+        "de": {
+          "text": "deshalb",
+          "alternates": [
+            "darum",
+            "deswegen"
+          ]
+        },
+        "es": {
+          "text": "por eso",
+          "alternates": [
+            "por esa razón"
+          ]
+        },
+        "fr": {
+          "text": "c'est pourquoi",
+          "alternates": [
+            "voilà pourquoi"
+          ]
+        },
+        "it": {
+          "text": "ecco perché",
+          "alternates": [
+            "per questo"
+          ]
+        }
+      }
     }
   ]
 }

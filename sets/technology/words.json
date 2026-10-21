@@ -969,6 +969,845 @@
           }
         }
       ]
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "internet",
+          "partOfSpeech": "noun"
+        },
+        "ru": "интернет",
+        "pl": "internet",
+        "uk": "інтернет",
+        "de": {
+          "text": "das Internet",
+          "alternates": [
+            "Internet"
+          ]
+        },
+        "es": {
+          "text": "internet",
+          "alternates": [
+            "Internet"
+          ]
+        },
+        "fr": {
+          "text": "l'internet",
+          "alternates": [
+            "internet"
+          ]
+        },
+        "it": {
+          "text": "internet",
+          "alternates": [
+            "Internet"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "Wi-Fi",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "Wi-Fi",
+          "alternates": [
+            "вайфай"
+          ]
+        },
+        "pl": "Wi-Fi",
+        "uk": {
+          "text": "Wi-Fi",
+          "alternates": [
+            "вайфай"
+          ]
+        },
+        "de": {
+          "text": "das WLAN",
+          "alternates": [
+            "Wi-Fi",
+            "WLAN"
+          ]
+        },
+        "es": {
+          "text": "el wifi",
+          "alternates": [
+            "el Wi-Fi",
+            "wifi",
+            "Wi-Fi"
+          ]
+        },
+        "fr": {
+          "text": "le wifi",
+          "alternates": [
+            "le Wi-Fi",
+            "wifi",
+            "Wi-Fi"
+          ]
+        },
+        "it": {
+          "text": "il Wi-Fi",
+          "alternates": [
+            "il wifi",
+            "Wi-Fi",
+            "wifi"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "smartphone",
+          "partOfSpeech": "noun"
+        },
+        "ru": "смартфон",
+        "pl": "smartfon",
+        "uk": "смартфон",
+        "de": {
+          "text": "das Smartphone",
+          "alternates": [
+            "Smartphone"
+          ]
+        },
+        "es": {
+          "text": "el smartphone",
+          "alternates": [
+            "el teléfono inteligente",
+            "smartphone",
+            "teléfono inteligente"
+          ]
+        },
+        "fr": {
+          "text": "le smartphone",
+          "alternates": [
+            "smartphone"
+          ]
+        },
+        "it": {
+          "text": "lo smartphone",
+          "alternates": [
+            "smartphone"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tablet",
+          "partOfSpeech": "noun"
+        },
+        "ru": "планшет",
+        "pl": "tablet",
+        "uk": "планшет",
+        "de": {
+          "text": "das Tablet",
+          "alternates": [
+            "Tablet"
+          ]
+        },
+        "es": {
+          "text": "la tableta",
+          "alternates": [
+            "tableta"
+          ]
+        },
+        "fr": {
+          "text": "la tablette",
+          "alternates": [
+            "tablette"
+          ]
+        },
+        "it": {
+          "text": "il tablet",
+          "alternates": [
+            "tablet"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "headphones",
+          "partOfSpeech": "noun"
+        },
+        "ru": "наушники",
+        "pl": "słuchawki",
+        "uk": "навушники",
+        "de": {
+          "text": "die Kopfhörer",
+          "alternates": [
+            "Kopfhörer"
+          ]
+        },
+        "es": {
+          "text": "los auriculares",
+          "alternates": [
+            "auriculares"
+          ]
+        },
+        "fr": {
+          "text": "le casque",
+          "alternates": [
+            "les écouteurs",
+            "casque",
+            "écouteurs"
+          ]
+        },
+        "it": {
+          "text": "le cuffie",
+          "alternates": [
+            "gli auricolari",
+            "cuffie",
+            "auricolari"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "computer mouse",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "компьютерная мышь",
+          "alternates": [
+            "мышь"
+          ]
+        },
+        "pl": {
+          "text": "myszka komputerowa",
+          "alternates": [
+            "myszka"
+          ]
+        },
+        "uk": {
+          "text": "комп'ютерна миша",
+          "alternates": [
+            "миша"
+          ]
+        },
+        "de": {
+          "text": "die Computermaus",
+          "alternates": [
+            "die Maus",
+            "Computermaus",
+            "Maus"
+          ]
+        },
+        "es": {
+          "text": "el ratón",
+          "alternates": [
+            "ratón"
+          ]
+        },
+        "fr": {
+          "text": "la souris",
+          "alternates": [
+            "souris"
+          ]
+        },
+        "it": {
+          "text": "il mouse",
+          "alternates": [
+            "mouse"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "printer",
+          "partOfSpeech": "noun"
+        },
+        "ru": "принтер",
+        "pl": "drukarka",
+        "uk": "принтер",
+        "de": {
+          "text": "der Drucker",
+          "alternates": [
+            "Drucker"
+          ]
+        },
+        "es": {
+          "text": "la impresora",
+          "alternates": [
+            "impresora"
+          ]
+        },
+        "fr": {
+          "text": "l'imprimante",
+          "alternates": [
+            "imprimante"
+          ]
+        },
+        "it": {
+          "text": "la stampante",
+          "alternates": [
+            "stampante"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "artificial intelligence",
+          "partOfSpeech": "noun"
+        },
+        "ru": "искусственный интеллект",
+        "pl": "sztuczna inteligencja",
+        "uk": "штучний інтелект",
+        "de": {
+          "text": "die künstliche Intelligenz",
+          "alternates": [
+            "künstliche Intelligenz"
+          ]
+        },
+        "es": {
+          "text": "la inteligencia artificial",
+          "alternates": [
+            "inteligencia artificial"
+          ]
+        },
+        "fr": {
+          "text": "l'intelligence artificielle",
+          "alternates": [
+            "intelligence artificielle"
+          ]
+        },
+        "it": {
+          "text": "l'intelligenza artificiale",
+          "alternates": [
+            "intelligenza artificiale"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "email",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "электронная почта",
+          "alternates": [
+            "имейл"
+          ]
+        },
+        "pl": {
+          "text": "e-mail",
+          "alternates": [
+            "mail"
+          ]
+        },
+        "uk": {
+          "text": "електронна пошта",
+          "alternates": [
+            "імейл"
+          ]
+        },
+        "de": {
+          "text": "die E-Mail",
+          "alternates": [
+            "E-Mail"
+          ]
+        },
+        "es": {
+          "text": "el correo electrónico",
+          "alternates": [
+            "el email",
+            "correo electrónico",
+            "email"
+          ]
+        },
+        "fr": {
+          "text": "l'e-mail",
+          "alternates": [
+            "le courriel",
+            "le mail",
+            "e-mail",
+            "courriel",
+            "mail"
+          ]
+        },
+        "it": {
+          "text": "l'e-mail",
+          "alternates": [
+            "la mail",
+            "e-mail",
+            "mail"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "browser",
+          "partOfSpeech": "noun"
+        },
+        "ru": "браузер",
+        "pl": "przeglądarka",
+        "uk": "браузер",
+        "de": {
+          "text": "der Browser",
+          "alternates": [
+            "Browser"
+          ]
+        },
+        "es": {
+          "text": "el navegador",
+          "alternates": [
+            "navegador"
+          ]
+        },
+        "fr": {
+          "text": "le navigateur",
+          "alternates": [
+            "navigateur"
+          ]
+        },
+        "it": {
+          "text": "il browser",
+          "alternates": [
+            "browser"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "user account",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "учётная запись",
+          "alternates": [
+            "аккаунт"
+          ]
+        },
+        "pl": {
+          "text": "konto użytkownika",
+          "alternates": [
+            "konto"
+          ]
+        },
+        "uk": {
+          "text": "обліковий запис",
+          "alternates": [
+            "акаунт"
+          ]
+        },
+        "de": {
+          "text": "das Benutzerkonto",
+          "alternates": [
+            "der Account",
+            "Benutzerkonto",
+            "Account"
+          ]
+        },
+        "es": {
+          "text": "la cuenta de usuario",
+          "alternates": [
+            "la cuenta",
+            "cuenta de usuario",
+            "cuenta"
+          ]
+        },
+        "fr": {
+          "text": "le compte utilisateur",
+          "alternates": [
+            "le compte",
+            "compte utilisateur",
+            "compte"
+          ]
+        },
+        "it": {
+          "text": "l'account",
+          "alternates": [
+            "il profilo",
+            "account",
+            "profilo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "data",
+          "partOfSpeech": "noun"
+        },
+        "ru": "данные",
+        "pl": "dane",
+        "uk": "дані",
+        "de": {
+          "text": "die Daten",
+          "alternates": [
+            "Daten"
+          ]
+        },
+        "es": {
+          "text": "los datos",
+          "alternates": [
+            "datos"
+          ]
+        },
+        "fr": {
+          "text": "les données",
+          "alternates": [
+            "données"
+          ]
+        },
+        "it": {
+          "text": "i dati",
+          "alternates": [
+            "dati"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to click",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "кликать",
+          "alternates": [
+            "кликнуть",
+            "щёлкать",
+            "щёлкнуть"
+          ],
+          "aspects": {
+            "impf": [
+              "кликать",
+              "щёлкать"
+            ],
+            "pf": [
+              "кликнуть",
+              "щёлкнуть"
+            ]
+          }
+        },
+        "pl": {
+          "text": "klikać",
+          "alternates": [
+            "kliknąć"
+          ],
+          "aspects": {
+            "impf": [
+              "klikać"
+            ],
+            "pf": [
+              "kliknąć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "клацати",
+          "alternates": [
+            "клацнути",
+            "клікати",
+            "клікнути"
+          ],
+          "aspects": {
+            "impf": [
+              "клацати",
+              "клікати"
+            ],
+            "pf": [
+              "клацнути",
+              "клікнути"
+            ]
+          }
+        },
+        "de": "klicken",
+        "es": {
+          "text": "hacer clic",
+          "alternates": [
+            "clicar"
+          ]
+        },
+        "fr": "cliquer",
+        "it": "cliccare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to install",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "устанавливать",
+          "alternates": [
+            "установить"
+          ],
+          "aspects": {
+            "impf": [
+              "устанавливать"
+            ],
+            "pf": [
+              "установить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "instalować",
+          "alternates": [
+            "zainstalować"
+          ],
+          "aspects": {
+            "impf": [
+              "instalować"
+            ],
+            "pf": [
+              "zainstalować"
+            ]
+          }
+        },
+        "uk": {
+          "text": "встановлювати",
+          "alternates": [
+            "встановити"
+          ],
+          "aspects": {
+            "impf": [
+              "встановлювати"
+            ],
+            "pf": [
+              "встановити"
+            ]
+          }
+        },
+        "de": "installieren",
+        "es": "instalar",
+        "fr": "installer",
+        "it": "installare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to turn on",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "включать",
+          "alternates": [
+            "включить"
+          ],
+          "aspects": {
+            "impf": [
+              "включать"
+            ],
+            "pf": [
+              "включить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "włączać",
+          "alternates": [
+            "włączyć"
+          ],
+          "aspects": {
+            "impf": [
+              "włączać"
+            ],
+            "pf": [
+              "włączyć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "вмикати",
+          "alternates": [
+            "увімкнути"
+          ],
+          "aspects": {
+            "impf": [
+              "вмикати"
+            ],
+            "pf": [
+              "увімкнути"
+            ]
+          }
+        },
+        "de": {
+          "text": "einschalten",
+          "alternates": [
+            "anschalten"
+          ]
+        },
+        "es": {
+          "text": "encender",
+          "alternates": [
+            "prender"
+          ]
+        },
+        "fr": "allumer",
+        "it": "accendere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to turn off",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "выключать",
+          "alternates": [
+            "выключить"
+          ],
+          "aspects": {
+            "impf": [
+              "выключать"
+            ],
+            "pf": [
+              "выключить"
+            ]
+          }
+        },
+        "pl": {
+          "text": "wyłączać",
+          "alternates": [
+            "wyłączyć"
+          ],
+          "aspects": {
+            "impf": [
+              "wyłączać"
+            ],
+            "pf": [
+              "wyłączyć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "вимикати",
+          "alternates": [
+            "вимкнути"
+          ],
+          "aspects": {
+            "impf": [
+              "вимикати"
+            ],
+            "pf": [
+              "вимкнути"
+            ]
+          }
+        },
+        "de": {
+          "text": "ausschalten",
+          "alternates": [
+            "abschalten"
+          ]
+        },
+        "es": "apagar",
+        "fr": "éteindre",
+        "it": "spegnere"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to print",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "печатать",
+          "alternates": [
+            "напечатать"
+          ],
+          "aspects": {
+            "impf": [
+              "печатать"
+            ],
+            "pf": [
+              "напечатать"
+            ]
+          }
+        },
+        "pl": {
+          "text": "drukować",
+          "alternates": [
+            "wydrukować"
+          ],
+          "aspects": {
+            "impf": [
+              "drukować"
+            ],
+            "pf": [
+              "wydrukować"
+            ]
+          }
+        },
+        "uk": {
+          "text": "друкувати",
+          "alternates": [
+            "надрукувати"
+          ],
+          "aspects": {
+            "impf": [
+              "друкувати"
+            ],
+            "pf": [
+              "надрукувати"
+            ]
+          }
+        },
+        "de": {
+          "text": "drucken",
+          "alternates": [
+            "ausdrucken"
+          ]
+        },
+        "es": "imprimir",
+        "fr": "imprimer",
+        "it": "stampare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "digital",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "цифровой",
+        "pl": "cyfrowy",
+        "uk": "цифровий",
+        "de": "digital",
+        "es": "digital",
+        "fr": "numérique",
+        "it": "digitale"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "online",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "онлайн",
+        "pl": "online",
+        "uk": "онлайн",
+        "de": "online",
+        "es": "en línea",
+        "fr": "en ligne",
+        "it": "online"
+      }
     }
   ]
 }

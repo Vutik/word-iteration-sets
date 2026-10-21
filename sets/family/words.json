@@ -680,6 +680,775 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "baby",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "младенец",
+          "alternates": [
+            "малыш"
+          ]
+        },
+        "pl": {
+          "text": "niemowlę",
+          "alternates": [
+            "bobas"
+          ]
+        },
+        "uk": {
+          "text": "немовля",
+          "alternates": [
+            "малюк"
+          ]
+        },
+        "de": {
+          "text": "das Baby",
+          "alternates": [
+            "Baby"
+          ]
+        },
+        "es": {
+          "text": "el bebé",
+          "alternates": [
+            "bebé"
+          ]
+        },
+        "fr": {
+          "text": "le bébé",
+          "alternates": [
+            "bébé"
+          ]
+        },
+        "it": {
+          "text": "il neonato",
+          "alternates": [
+            "neonato",
+            "il bebè"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "child",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ребёнок",
+        "pl": "dziecko",
+        "uk": "дитина",
+        "de": {
+          "text": "das Kind",
+          "alternates": [
+            "Kind"
+          ]
+        },
+        "es": {
+          "text": "el niño",
+          "alternates": [
+            "niño",
+            "el hijo"
+          ]
+        },
+        "fr": {
+          "text": "l'enfant",
+          "alternates": [
+            "enfant"
+          ]
+        },
+        "it": {
+          "text": "il bambino",
+          "alternates": [
+            "bambino",
+            "il figlio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "boy",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мальчик",
+        "pl": {
+          "text": "chłopiec",
+          "alternates": [
+            "chłopak"
+          ]
+        },
+        "uk": {
+          "text": "хлопчик",
+          "alternates": [
+            "хлопець"
+          ]
+        },
+        "de": {
+          "text": "der Junge",
+          "alternates": [
+            "Junge"
+          ]
+        },
+        "es": {
+          "text": "el chico",
+          "alternates": [
+            "chico",
+            "el niño"
+          ]
+        },
+        "fr": {
+          "text": "le garçon",
+          "alternates": [
+            "garçon"
+          ]
+        },
+        "it": {
+          "text": "il ragazzo",
+          "alternates": [
+            "ragazzo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "girl",
+          "partOfSpeech": "noun"
+        },
+        "ru": "девочка",
+        "pl": {
+          "text": "dziewczynka",
+          "alternates": [
+            "dziewczyna"
+          ]
+        },
+        "uk": {
+          "text": "дівчинка",
+          "alternates": [
+            "дівчина"
+          ]
+        },
+        "de": {
+          "text": "das Mädchen",
+          "alternates": [
+            "Mädchen"
+          ]
+        },
+        "es": {
+          "text": "la chica",
+          "alternates": [
+            "chica",
+            "la niña"
+          ]
+        },
+        "fr": {
+          "text": "la fille",
+          "alternates": [
+            "fille"
+          ]
+        },
+        "it": {
+          "text": "la ragazza",
+          "alternates": [
+            "ragazza"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "man",
+          "partOfSpeech": "noun"
+        },
+        "ru": "мужчина",
+        "pl": "mężczyzna",
+        "uk": "чоловік",
+        "de": {
+          "text": "der Mann",
+          "alternates": [
+            "Mann"
+          ]
+        },
+        "es": {
+          "text": "el hombre",
+          "alternates": [
+            "hombre"
+          ]
+        },
+        "fr": {
+          "text": "l'homme",
+          "alternates": [
+            "homme"
+          ]
+        },
+        "it": {
+          "text": "l'uomo",
+          "alternates": [
+            "uomo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "woman",
+          "partOfSpeech": "noun"
+        },
+        "ru": "женщина",
+        "pl": "kobieta",
+        "uk": "жінка",
+        "de": {
+          "text": "die Frau",
+          "alternates": [
+            "Frau"
+          ]
+        },
+        "es": {
+          "text": "la mujer",
+          "alternates": [
+            "mujer"
+          ]
+        },
+        "fr": {
+          "text": "la femme",
+          "alternates": [
+            "femme"
+          ]
+        },
+        "it": {
+          "text": "la donna",
+          "alternates": [
+            "donna"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "grandson",
+          "partOfSpeech": "noun"
+        },
+        "ru": "внук",
+        "pl": "wnuk",
+        "uk": "онук",
+        "de": {
+          "text": "der Enkel",
+          "alternates": [
+            "Enkel"
+          ]
+        },
+        "es": {
+          "text": "el nieto",
+          "alternates": [
+            "nieto"
+          ]
+        },
+        "fr": {
+          "text": "le petit-fils",
+          "alternates": [
+            "petit-fils"
+          ]
+        },
+        "it": {
+          "text": "il nipote",
+          "alternates": [
+            "nipote"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "granddaughter",
+          "partOfSpeech": "noun"
+        },
+        "ru": "внучка",
+        "pl": "wnuczka",
+        "uk": "онука",
+        "de": {
+          "text": "die Enkelin",
+          "alternates": [
+            "Enkelin"
+          ]
+        },
+        "es": {
+          "text": "la nieta",
+          "alternates": [
+            "nieta"
+          ]
+        },
+        "fr": {
+          "text": "la petite-fille",
+          "alternates": [
+            "petite-fille"
+          ]
+        },
+        "it": {
+          "text": "la nipote",
+          "alternates": [
+            "nipote"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "grandparents",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "бабушка и дедушка",
+          "alternates": [
+            "дедушка и бабушка"
+          ]
+        },
+        "pl": "dziadkowie",
+        "uk": {
+          "text": "бабуся й дідусь",
+          "alternates": [
+            "дідусь і бабуся"
+          ]
+        },
+        "de": {
+          "text": "die Großeltern",
+          "alternates": [
+            "Großeltern"
+          ]
+        },
+        "es": {
+          "text": "los abuelos",
+          "alternates": [
+            "abuelos"
+          ]
+        },
+        "fr": {
+          "text": "les grands-parents",
+          "alternates": [
+            "grands-parents"
+          ]
+        },
+        "it": {
+          "text": "i nonni",
+          "alternates": [
+            "nonni"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "siblings",
+          "partOfSpeech": "noun"
+        },
+        "ru": "братья и сёстры",
+        "pl": "rodzeństwo",
+        "uk": "брати й сестри",
+        "de": {
+          "text": "die Geschwister",
+          "alternates": [
+            "Geschwister"
+          ]
+        },
+        "es": {
+          "text": "los hermanos",
+          "alternates": [
+            "hermanos"
+          ]
+        },
+        "fr": {
+          "text": "les frères et sœurs",
+          "alternates": [
+            "frères et sœurs"
+          ]
+        },
+        "it": {
+          "text": "i fratelli",
+          "alternates": [
+            "fratelli"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nephew",
+          "partOfSpeech": "noun"
+        },
+        "ru": "племянник",
+        "pl": {
+          "text": "siostrzeniec",
+          "alternates": [
+            "bratanek"
+          ]
+        },
+        "uk": "племінник",
+        "de": {
+          "text": "der Neffe",
+          "alternates": [
+            "Neffe"
+          ]
+        },
+        "es": {
+          "text": "el sobrino",
+          "alternates": [
+            "sobrino"
+          ]
+        },
+        "fr": {
+          "text": "le neveu",
+          "alternates": [
+            "neveu"
+          ]
+        },
+        "it": {
+          "text": "il nipote",
+          "alternates": [
+            "nipote"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "niece",
+          "partOfSpeech": "noun"
+        },
+        "ru": "племянница",
+        "pl": {
+          "text": "siostrzenica",
+          "alternates": [
+            "bratanica"
+          ]
+        },
+        "uk": "племінниця",
+        "de": {
+          "text": "die Nichte",
+          "alternates": [
+            "Nichte"
+          ]
+        },
+        "es": {
+          "text": "la sobrina",
+          "alternates": [
+            "sobrina"
+          ]
+        },
+        "fr": {
+          "text": "la nièce",
+          "alternates": [
+            "nièce"
+          ]
+        },
+        "it": {
+          "text": "la nipote",
+          "alternates": [
+            "nipote"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "father-in-law",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "тесть",
+          "alternates": [
+            "свёкор"
+          ]
+        },
+        "pl": "teść",
+        "uk": {
+          "text": "тесть",
+          "alternates": [
+            "свекор"
+          ]
+        },
+        "de": {
+          "text": "der Schwiegervater",
+          "alternates": [
+            "Schwiegervater"
+          ]
+        },
+        "es": {
+          "text": "el suegro",
+          "alternates": [
+            "suegro"
+          ]
+        },
+        "fr": {
+          "text": "le beau-père",
+          "alternates": [
+            "beau-père"
+          ]
+        },
+        "it": {
+          "text": "il suocero",
+          "alternates": [
+            "suocero"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mother-in-law",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "тёща",
+          "alternates": [
+            "свекровь"
+          ]
+        },
+        "pl": "teściowa",
+        "uk": {
+          "text": "теща",
+          "alternates": [
+            "свекруха"
+          ]
+        },
+        "de": {
+          "text": "die Schwiegermutter",
+          "alternates": [
+            "Schwiegermutter"
+          ]
+        },
+        "es": {
+          "text": "la suegra",
+          "alternates": [
+            "suegra"
+          ]
+        },
+        "fr": {
+          "text": "la belle-mère",
+          "alternates": [
+            "belle-mère"
+          ]
+        },
+        "it": {
+          "text": "la suocera",
+          "alternates": [
+            "suocera"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "twin",
+          "partOfSpeech": "noun"
+        },
+        "ru": "близнец",
+        "pl": "bliźniak",
+        "uk": "близнюк",
+        "de": {
+          "text": "der Zwilling",
+          "alternates": [
+            "Zwilling"
+          ]
+        },
+        "es": {
+          "text": "el gemelo",
+          "alternates": [
+            "gemelo"
+          ]
+        },
+        "fr": {
+          "text": "le jumeau",
+          "alternates": [
+            "jumeau"
+          ]
+        },
+        "it": {
+          "text": "il gemello",
+          "alternates": [
+            "gemello"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "relative",
+          "partOfSpeech": "noun"
+        },
+        "ru": "родственник",
+        "pl": "krewny",
+        "uk": {
+          "text": "родич",
+          "alternates": [
+            "родичка"
+          ]
+        },
+        "de": {
+          "text": "der Verwandte",
+          "alternates": [
+            "Verwandte"
+          ]
+        },
+        "es": {
+          "text": "el pariente",
+          "alternates": [
+            "pariente"
+          ]
+        },
+        "fr": {
+          "text": "le parent",
+          "alternates": [
+            "parent"
+          ]
+        },
+        "it": {
+          "text": "il parente",
+          "alternates": [
+            "parente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "adult",
+          "partOfSpeech": "noun"
+        },
+        "ru": "взрослый",
+        "pl": "dorosły",
+        "uk": "дорослий",
+        "de": {
+          "text": "der Erwachsene",
+          "alternates": [
+            "Erwachsene"
+          ]
+        },
+        "es": {
+          "text": "el adulto",
+          "alternates": [
+            "adulto"
+          ]
+        },
+        "fr": {
+          "text": "l'adulte",
+          "alternates": [
+            "adulte"
+          ]
+        },
+        "it": {
+          "text": "l'adulto",
+          "alternates": [
+            "adulto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "family",
+          "partOfSpeech": "noun"
+        },
+        "ru": "семья",
+        "pl": "rodzina",
+        "uk": "сім'я",
+        "de": {
+          "text": "die Familie",
+          "alternates": [
+            "Familie"
+          ]
+        },
+        "es": {
+          "text": "la familia",
+          "alternates": [
+            "familia"
+          ]
+        },
+        "fr": {
+          "text": "la famille",
+          "alternates": [
+            "famille"
+          ]
+        },
+        "it": {
+          "text": "la famiglia",
+          "alternates": [
+            "famiglia"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to be born",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "рождаться",
+          "alternates": [
+            "родиться"
+          ],
+          "aspects": {
+            "impf": [
+              "рождаться"
+            ],
+            "pf": [
+              "родиться"
+            ]
+          }
+        },
+        "pl": {
+          "text": "rodzić się",
+          "alternates": [
+            "urodzić się"
+          ],
+          "aspects": {
+            "impf": [
+              "rodzić się"
+            ],
+            "pf": [
+              "urodzić się"
+            ]
+          }
+        },
+        "uk": {
+          "text": "народжуватися",
+          "alternates": [
+            "народитися"
+          ],
+          "aspects": {
+            "impf": [
+              "народжуватися"
+            ],
+            "pf": [
+              "народитися"
+            ]
+          }
+        },
+        "de": "geboren werden",
+        "es": "nacer",
+        "fr": "naître",
+        "it": "nascere"
+      }
     }
   ]
 }

@@ -826,6 +826,871 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "clothes",
+          "partOfSpeech": "noun"
+        },
+        "ru": "одежда",
+        "pl": {
+          "text": "ubrania",
+          "alternates": [
+            "odzież"
+          ]
+        },
+        "uk": "одяг",
+        "de": {
+          "text": "die Kleidung",
+          "alternates": [
+            "Kleidung"
+          ]
+        },
+        "es": {
+          "text": "la ropa",
+          "alternates": [
+            "ropa"
+          ]
+        },
+        "fr": {
+          "text": "les vêtements",
+          "alternates": [
+            "vêtements"
+          ]
+        },
+        "it": {
+          "text": "i vestiti",
+          "alternates": [
+            "vestiti",
+            "l'abbigliamento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "underwear",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "нижнее бельё",
+          "alternates": [
+            "бельё"
+          ]
+        },
+        "pl": "bielizna",
+        "uk": "білизна",
+        "de": {
+          "text": "die Unterwäsche",
+          "alternates": [
+            "Unterwäsche"
+          ]
+        },
+        "es": {
+          "text": "la ropa interior",
+          "alternates": [
+            "ropa interior"
+          ]
+        },
+        "fr": {
+          "text": "les sous-vêtements",
+          "alternates": [
+            "sous-vêtements"
+          ]
+        },
+        "it": {
+          "text": "la biancheria intima",
+          "alternates": [
+            "biancheria intima"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pyjamas",
+          "alternates": [
+            "pajamas"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "пижама",
+        "pl": "piżama",
+        "uk": "піжама",
+        "de": {
+          "text": "der Schlafanzug",
+          "alternates": [
+            "Schlafanzug",
+            "der Pyjama"
+          ]
+        },
+        "es": {
+          "text": "el pijama",
+          "alternates": [
+            "pijama"
+          ]
+        },
+        "fr": {
+          "text": "le pyjama",
+          "alternates": [
+            "pyjama"
+          ]
+        },
+        "it": {
+          "text": "il pigiama",
+          "alternates": [
+            "pigiama"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "shorts",
+          "partOfSpeech": "noun"
+        },
+        "ru": "шорты",
+        "pl": "szorty",
+        "uk": "шорти",
+        "de": {
+          "text": "die Shorts",
+          "alternates": [
+            "Shorts",
+            "die kurze Hose"
+          ]
+        },
+        "es": {
+          "text": "los pantalones cortos",
+          "alternates": [
+            "pantalones cortos",
+            "las bermudas"
+          ]
+        },
+        "fr": {
+          "text": "le short",
+          "alternates": [
+            "short"
+          ]
+        },
+        "it": {
+          "text": "i pantaloncini",
+          "alternates": [
+            "pantaloncini"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "suit",
+          "partOfSpeech": "noun"
+        },
+        "ru": "костюм",
+        "pl": "garnitur",
+        "uk": "костюм",
+        "de": {
+          "text": "der Anzug",
+          "alternates": [
+            "Anzug"
+          ]
+        },
+        "es": {
+          "text": "el traje",
+          "alternates": [
+            "traje"
+          ]
+        },
+        "fr": {
+          "text": "le costume",
+          "alternates": [
+            "costume",
+            "le complet"
+          ]
+        },
+        "it": {
+          "text": "il completo",
+          "alternates": [
+            "completo",
+            "l'abito"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tie",
+          "partOfSpeech": "noun"
+        },
+        "ru": "галстук",
+        "pl": "krawat",
+        "uk": "краватка",
+        "de": {
+          "text": "die Krawatte",
+          "alternates": [
+            "Krawatte"
+          ]
+        },
+        "es": {
+          "text": "la corbata",
+          "alternates": [
+            "corbata"
+          ]
+        },
+        "fr": {
+          "text": "la cravate",
+          "alternates": [
+            "cravate"
+          ]
+        },
+        "it": {
+          "text": "la cravatta",
+          "alternates": [
+            "cravatta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "swimsuit",
+          "alternates": [
+            "swimming costume"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "купальник",
+        "pl": {
+          "text": "strój kąpielowy",
+          "alternates": [
+            "kostium kąpielowy"
+          ]
+        },
+        "uk": "купальник",
+        "de": {
+          "text": "der Badeanzug",
+          "alternates": [
+            "Badeanzug"
+          ]
+        },
+        "es": {
+          "text": "el traje de baño",
+          "alternates": [
+            "traje de baño",
+            "el bañador"
+          ]
+        },
+        "fr": {
+          "text": "le maillot de bain",
+          "alternates": [
+            "maillot de bain"
+          ]
+        },
+        "it": {
+          "text": "il costume da bagno",
+          "alternates": [
+            "costume da bagno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hoodie",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "толстовка",
+          "alternates": [
+            "худи"
+          ]
+        },
+        "pl": {
+          "text": "bluza z kapturem",
+          "alternates": [
+            "bluza"
+          ]
+        },
+        "uk": {
+          "text": "худі",
+          "alternates": [
+            "толстовка"
+          ]
+        },
+        "de": {
+          "text": "der Kapuzenpullover",
+          "alternates": [
+            "Kapuzenpullover",
+            "der Hoodie"
+          ]
+        },
+        "es": {
+          "text": "la sudadera",
+          "alternates": [
+            "sudadera"
+          ]
+        },
+        "fr": {
+          "text": "le sweat à capuche",
+          "alternates": [
+            "sweat à capuche",
+            "le sweat"
+          ]
+        },
+        "it": {
+          "text": "la felpa",
+          "alternates": [
+            "felpa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "blouse",
+          "partOfSpeech": "noun"
+        },
+        "ru": "блузка",
+        "pl": "bluzka",
+        "uk": "блузка",
+        "de": {
+          "text": "die Bluse",
+          "alternates": [
+            "Bluse"
+          ]
+        },
+        "es": {
+          "text": "la blusa",
+          "alternates": [
+            "blusa"
+          ]
+        },
+        "fr": {
+          "text": "le chemisier",
+          "alternates": [
+            "chemisier",
+            "la blouse"
+          ]
+        },
+        "it": {
+          "text": "la camicetta",
+          "alternates": [
+            "camicetta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "raincoat",
+          "partOfSpeech": "noun"
+        },
+        "ru": "плащ",
+        "pl": {
+          "text": "płaszcz przeciwdeszczowy",
+          "alternates": [
+            "peleryna"
+          ]
+        },
+        "uk": "плащ",
+        "de": {
+          "text": "der Regenmantel",
+          "alternates": [
+            "Regenmantel"
+          ]
+        },
+        "es": {
+          "text": "el impermeable",
+          "alternates": [
+            "impermeable"
+          ]
+        },
+        "fr": {
+          "text": "l'imperméable",
+          "alternates": [
+            "imperméable"
+          ]
+        },
+        "it": {
+          "text": "l'impermeabile",
+          "alternates": [
+            "impermeabile"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sandals",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сандалии",
+        "pl": "sandały",
+        "uk": "сандалі",
+        "de": {
+          "text": "die Sandalen",
+          "alternates": [
+            "Sandalen"
+          ]
+        },
+        "es": {
+          "text": "las sandalias",
+          "alternates": [
+            "sandalias"
+          ]
+        },
+        "fr": {
+          "text": "les sandales",
+          "alternates": [
+            "sandales"
+          ]
+        },
+        "it": {
+          "text": "i sandali",
+          "alternates": [
+            "sandali"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "slippers",
+          "partOfSpeech": "noun"
+        },
+        "ru": "тапочки",
+        "pl": "kapcie",
+        "uk": {
+          "text": "капці",
+          "alternates": [
+            "тапочки"
+          ]
+        },
+        "de": {
+          "text": "die Hausschuhe",
+          "alternates": [
+            "Hausschuhe",
+            "die Pantoffeln"
+          ]
+        },
+        "es": {
+          "text": "las zapatillas",
+          "alternates": [
+            "zapatillas"
+          ]
+        },
+        "fr": {
+          "text": "les pantoufles",
+          "alternates": [
+            "pantoufles"
+          ]
+        },
+        "it": {
+          "text": "le pantofole",
+          "alternates": [
+            "pantofole"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "trainers",
+          "alternates": [
+            "sneakers"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "кроссовки",
+        "pl": {
+          "text": "buty sportowe",
+          "alternates": [
+            "tenisówki"
+          ]
+        },
+        "uk": "кросівки",
+        "de": {
+          "text": "die Turnschuhe",
+          "alternates": [
+            "Turnschuhe",
+            "die Sportschuhe"
+          ]
+        },
+        "es": {
+          "text": "las zapatillas deportivas",
+          "alternates": [
+            "zapatillas deportivas"
+          ]
+        },
+        "fr": {
+          "text": "les baskets",
+          "alternates": [
+            "baskets"
+          ]
+        },
+        "it": {
+          "text": "le scarpe da ginnastica",
+          "alternates": [
+            "scarpe da ginnastica"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "cap",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кепка",
+        "pl": "czapka z daszkiem",
+        "uk": "кепка",
+        "de": {
+          "text": "die Kappe",
+          "alternates": [
+            "Kappe",
+            "die Schirmmütze"
+          ]
+        },
+        "es": {
+          "text": "la gorra",
+          "alternates": [
+            "gorra"
+          ]
+        },
+        "fr": {
+          "text": "la casquette",
+          "alternates": [
+            "casquette"
+          ]
+        },
+        "it": {
+          "text": "il berretto",
+          "alternates": [
+            "berretto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "glasses",
+          "alternates": [
+            "spectacles"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "очки",
+        "pl": "okulary",
+        "uk": "окуляри",
+        "de": {
+          "text": "die Brille",
+          "alternates": [
+            "Brille"
+          ]
+        },
+        "es": {
+          "text": "las gafas",
+          "alternates": [
+            "gafas"
+          ]
+        },
+        "fr": {
+          "text": "les lunettes",
+          "alternates": [
+            "lunettes"
+          ]
+        },
+        "it": {
+          "text": "gli occhiali",
+          "alternates": [
+            "occhiali"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sunglasses",
+          "partOfSpeech": "noun"
+        },
+        "ru": "солнцезащитные очки",
+        "pl": "okulary przeciwsłoneczne",
+        "uk": "сонцезахисні окуляри",
+        "de": {
+          "text": "die Sonnenbrille",
+          "alternates": [
+            "Sonnenbrille"
+          ]
+        },
+        "es": {
+          "text": "las gafas de sol",
+          "alternates": [
+            "gafas de sol"
+          ]
+        },
+        "fr": {
+          "text": "les lunettes de soleil",
+          "alternates": [
+            "lunettes de soleil"
+          ]
+        },
+        "it": {
+          "text": "gli occhiali da sole",
+          "alternates": [
+            "occhiali da sole"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "handbag",
+          "partOfSpeech": "noun"
+        },
+        "ru": "сумка",
+        "pl": {
+          "text": "torebka",
+          "alternates": [
+            "torba"
+          ]
+        },
+        "uk": "сумка",
+        "de": {
+          "text": "die Handtasche",
+          "alternates": [
+            "Handtasche",
+            "die Tasche"
+          ]
+        },
+        "es": {
+          "text": "el bolso",
+          "alternates": [
+            "bolso",
+            "la bolsa"
+          ]
+        },
+        "fr": {
+          "text": "le sac à main",
+          "alternates": [
+            "sac à main",
+            "le sac"
+          ]
+        },
+        "it": {
+          "text": "la borsa",
+          "alternates": [
+            "borsa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ring",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кольцо",
+        "pl": {
+          "text": "pierścionek",
+          "alternates": [
+            "obrączka"
+          ]
+        },
+        "uk": {
+          "text": "каблучка",
+          "alternates": [
+            "перстень"
+          ]
+        },
+        "de": {
+          "text": "der Ring",
+          "alternates": [
+            "Ring"
+          ]
+        },
+        "es": {
+          "text": "el anillo",
+          "alternates": [
+            "anillo"
+          ]
+        },
+        "fr": {
+          "text": "la bague",
+          "alternates": [
+            "bague"
+          ]
+        },
+        "it": {
+          "text": "l'anello",
+          "alternates": [
+            "anello"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "watch",
+          "alternates": [
+            "wristwatch"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "часы",
+          "alternates": [
+            "наручные часы"
+          ]
+        },
+        "pl": "zegarek",
+        "uk": {
+          "text": "годинник",
+          "alternates": [
+            "наручний годинник"
+          ]
+        },
+        "de": {
+          "text": "die Armbanduhr",
+          "alternates": [
+            "Armbanduhr"
+          ]
+        },
+        "es": {
+          "text": "el reloj",
+          "alternates": [
+            "reloj"
+          ]
+        },
+        "fr": {
+          "text": "la montre",
+          "alternates": [
+            "montre"
+          ]
+        },
+        "it": {
+          "text": "l'orologio",
+          "alternates": [
+            "orologio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "button",
+          "partOfSpeech": "noun"
+        },
+        "ru": "пуговица",
+        "pl": "guzik",
+        "uk": "ґудзик",
+        "de": {
+          "text": "der Knopf",
+          "alternates": [
+            "Knopf"
+          ]
+        },
+        "es": {
+          "text": "el botón",
+          "alternates": [
+            "botón"
+          ]
+        },
+        "fr": {
+          "text": "le bouton",
+          "alternates": [
+            "bouton"
+          ]
+        },
+        "it": {
+          "text": "il bottone",
+          "alternates": [
+            "bottone"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to take off",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "снимать",
+          "alternates": [
+            "снять"
+          ],
+          "aspects": {
+            "impf": [
+              "снимать"
+            ],
+            "pf": [
+              "снять"
+            ]
+          }
+        },
+        "pl": {
+          "text": "zdejmować",
+          "alternates": [
+            "zdjąć"
+          ],
+          "aspects": {
+            "impf": [
+              "zdejmować"
+            ],
+            "pf": [
+              "zdjąć"
+            ]
+          }
+        },
+        "uk": {
+          "text": "знімати",
+          "alternates": [
+            "зняти"
+          ],
+          "aspects": {
+            "impf": [
+              "знімати"
+            ],
+            "pf": [
+              "зняти"
+            ]
+          }
+        },
+        "de": "ausziehen",
+        "es": "quitarse",
+        "fr": {
+          "text": "enlever",
+          "alternates": [
+            "retirer"
+          ]
+        },
+        "it": {
+          "text": "togliere",
+          "alternates": [
+            "togliersi"
+          ]
+        }
+      }
     }
   ]
 }

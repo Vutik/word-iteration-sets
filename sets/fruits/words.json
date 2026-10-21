@@ -502,6 +502,657 @@
           ]
         }
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tangerine",
+          "alternates": [
+            "mandarin"
+          ],
+          "partOfSpeech": "noun"
+        },
+        "ru": "мандарин",
+        "pl": "mandarynka",
+        "uk": "мандарин",
+        "de": {
+          "text": "die Mandarine",
+          "alternates": [
+            "Mandarine"
+          ]
+        },
+        "es": {
+          "text": "la mandarina",
+          "alternates": [
+            "mandarina"
+          ]
+        },
+        "fr": {
+          "text": "la mandarine",
+          "alternates": [
+            "mandarine"
+          ]
+        },
+        "it": {
+          "text": "il mandarino",
+          "alternates": [
+            "mandarino"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "apricot",
+          "partOfSpeech": "noun"
+        },
+        "ru": "абрикос",
+        "pl": "morela",
+        "uk": "абрикос",
+        "de": {
+          "text": "die Aprikose",
+          "alternates": [
+            "Aprikose"
+          ]
+        },
+        "es": {
+          "text": "el albaricoque",
+          "alternates": [
+            "albaricoque"
+          ]
+        },
+        "fr": {
+          "text": "l'abricot",
+          "alternates": [
+            "abricot"
+          ]
+        },
+        "it": {
+          "text": "l'albicocca",
+          "alternates": [
+            "albicocca"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "raspberry",
+          "partOfSpeech": "noun"
+        },
+        "ru": "малина",
+        "pl": "malina",
+        "uk": "малина",
+        "de": {
+          "text": "die Himbeere",
+          "alternates": [
+            "Himbeere"
+          ]
+        },
+        "es": {
+          "text": "la frambuesa",
+          "alternates": [
+            "frambuesa"
+          ]
+        },
+        "fr": {
+          "text": "la framboise",
+          "alternates": [
+            "framboise"
+          ]
+        },
+        "it": {
+          "text": "il lampone",
+          "alternates": [
+            "lampone"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "blueberry",
+          "partOfSpeech": "noun"
+        },
+        "ru": "черника",
+        "pl": {
+          "text": "borówka",
+          "alternates": [
+            "jagoda"
+          ]
+        },
+        "uk": "чорниця",
+        "de": {
+          "text": "die Blaubeere",
+          "alternates": [
+            "Blaubeere"
+          ]
+        },
+        "es": {
+          "text": "el arándano",
+          "alternates": [
+            "arándano"
+          ]
+        },
+        "fr": {
+          "text": "la myrtille",
+          "alternates": [
+            "myrtille"
+          ]
+        },
+        "it": {
+          "text": "il mirtillo",
+          "alternates": [
+            "mirtillo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "blackberry",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ежевика",
+        "pl": "jeżyna",
+        "uk": "ожина",
+        "de": {
+          "text": "die Brombeere",
+          "alternates": [
+            "Brombeere"
+          ]
+        },
+        "es": {
+          "text": "la mora",
+          "alternates": [
+            "mora"
+          ]
+        },
+        "fr": {
+          "text": "la mûre",
+          "alternates": [
+            "mûre"
+          ]
+        },
+        "it": {
+          "text": "la mora",
+          "alternates": [
+            "mora"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "kiwi",
+          "partOfSpeech": "noun"
+        },
+        "ru": "киви",
+        "pl": "kiwi",
+        "uk": "ківі",
+        "de": {
+          "text": "die Kiwi",
+          "alternates": [
+            "Kiwi"
+          ]
+        },
+        "es": {
+          "text": "el kiwi",
+          "alternates": [
+            "kiwi"
+          ]
+        },
+        "fr": {
+          "text": "le kiwi",
+          "alternates": [
+            "kiwi"
+          ]
+        },
+        "it": {
+          "text": "il kiwi",
+          "alternates": [
+            "kiwi"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mango",
+          "partOfSpeech": "noun"
+        },
+        "ru": "манго",
+        "pl": "mango",
+        "uk": "манго",
+        "de": {
+          "text": "die Mango",
+          "alternates": [
+            "Mango"
+          ]
+        },
+        "es": {
+          "text": "el mango",
+          "alternates": [
+            "mango"
+          ]
+        },
+        "fr": {
+          "text": "la mangue",
+          "alternates": [
+            "mangue"
+          ]
+        },
+        "it": {
+          "text": "il mango",
+          "alternates": [
+            "mango"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "coconut",
+          "partOfSpeech": "noun"
+        },
+        "ru": "кокос",
+        "pl": "kokos",
+        "uk": "кокос",
+        "de": {
+          "text": "die Kokosnuss",
+          "alternates": [
+            "Kokosnuss"
+          ]
+        },
+        "es": {
+          "text": "el coco",
+          "alternates": [
+            "coco"
+          ]
+        },
+        "fr": {
+          "text": "la noix de coco",
+          "alternates": [
+            "noix de coco"
+          ]
+        },
+        "it": {
+          "text": "la noce di cocco",
+          "alternates": [
+            "noce di cocco",
+            "il cocco"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "grapefruit",
+          "partOfSpeech": "noun"
+        },
+        "ru": "грейпфрут",
+        "pl": "grejpfrut",
+        "uk": "грейпфрут",
+        "de": {
+          "text": "die Grapefruit",
+          "alternates": [
+            "Grapefruit"
+          ]
+        },
+        "es": {
+          "text": "el pomelo",
+          "alternates": [
+            "pomelo"
+          ]
+        },
+        "fr": {
+          "text": "le pamplemousse",
+          "alternates": [
+            "pamplemousse"
+          ]
+        },
+        "it": {
+          "text": "il pompelmo",
+          "alternates": [
+            "pompelmo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "pomegranate",
+          "partOfSpeech": "noun"
+        },
+        "ru": "гранат",
+        "pl": "granat",
+        "uk": "гранат",
+        "de": {
+          "text": "der Granatapfel",
+          "alternates": [
+            "Granatapfel"
+          ]
+        },
+        "es": {
+          "text": "la granada",
+          "alternates": [
+            "granada"
+          ]
+        },
+        "fr": {
+          "text": "la grenade",
+          "alternates": [
+            "grenade"
+          ]
+        },
+        "it": {
+          "text": "il melograno",
+          "alternates": [
+            "melograno"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "melon",
+          "partOfSpeech": "noun"
+        },
+        "ru": "дыня",
+        "pl": "melon",
+        "uk": "диня",
+        "de": {
+          "text": "die Melone",
+          "alternates": [
+            "Melone"
+          ]
+        },
+        "es": {
+          "text": "el melón",
+          "alternates": [
+            "melón"
+          ]
+        },
+        "fr": {
+          "text": "le melon",
+          "alternates": [
+            "melon"
+          ]
+        },
+        "it": {
+          "text": "il melone",
+          "alternates": [
+            "melone"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "fig",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "инжир",
+          "alternates": [
+            "фига"
+          ]
+        },
+        "pl": "figa",
+        "uk": {
+          "text": "інжир",
+          "alternates": [
+            "фіга"
+          ]
+        },
+        "de": {
+          "text": "die Feige",
+          "alternates": [
+            "Feige"
+          ]
+        },
+        "es": {
+          "text": "el higo",
+          "alternates": [
+            "higo"
+          ]
+        },
+        "fr": {
+          "text": "la figue",
+          "alternates": [
+            "figue"
+          ]
+        },
+        "it": {
+          "text": "il fico",
+          "alternates": [
+            "fico"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "avocado",
+          "partOfSpeech": "noun"
+        },
+        "ru": "авокадо",
+        "pl": "awokado",
+        "uk": "авокадо",
+        "de": {
+          "text": "die Avocado",
+          "alternates": [
+            "Avocado"
+          ]
+        },
+        "es": {
+          "text": "el aguacate",
+          "alternates": [
+            "aguacate"
+          ]
+        },
+        "fr": {
+          "text": "l'avocat",
+          "alternates": [
+            "avocat"
+          ]
+        },
+        "it": {
+          "text": "l'avocado",
+          "alternates": [
+            "avocado"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "lime",
+          "partOfSpeech": "noun"
+        },
+        "ru": "лайм",
+        "pl": "limonka",
+        "uk": "лайм",
+        "de": {
+          "text": "die Limette",
+          "alternates": [
+            "Limette"
+          ]
+        },
+        "es": {
+          "text": "la lima",
+          "alternates": [
+            "lima"
+          ]
+        },
+        "fr": {
+          "text": "le citron vert",
+          "alternates": [
+            "citron vert",
+            "le lime"
+          ]
+        },
+        "it": {
+          "text": "il lime",
+          "alternates": [
+            "lime"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "currant",
+          "partOfSpeech": "noun"
+        },
+        "ru": "смородина",
+        "pl": "porzeczka",
+        "uk": "смородина",
+        "de": {
+          "text": "die Johannisbeere",
+          "alternates": [
+            "Johannisbeere"
+          ]
+        },
+        "es": {
+          "text": "la grosella",
+          "alternates": [
+            "grosella"
+          ]
+        },
+        "fr": {
+          "text": "la groseille",
+          "alternates": [
+            "groseille"
+          ]
+        },
+        "it": {
+          "text": "il ribes",
+          "alternates": [
+            "ribes"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "nectarine",
+          "partOfSpeech": "noun"
+        },
+        "ru": "нектарин",
+        "pl": "nektarynka",
+        "uk": "нектарин",
+        "de": {
+          "text": "die Nektarine",
+          "alternates": [
+            "Nektarine"
+          ]
+        },
+        "es": {
+          "text": "la nectarina",
+          "alternates": [
+            "nectarina"
+          ]
+        },
+        "fr": {
+          "text": "la nectarine",
+          "alternates": [
+            "nectarine"
+          ]
+        },
+        "it": {
+          "text": "la pesca noce",
+          "alternates": [
+            "pesca noce",
+            "la nettarina"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "date",
+          "partOfSpeech": "noun"
+        },
+        "ru": "финик",
+        "pl": "daktyl",
+        "uk": "фінік",
+        "de": {
+          "text": "die Dattel",
+          "alternates": [
+            "Dattel"
+          ]
+        },
+        "es": {
+          "text": "el dátil",
+          "alternates": [
+            "dátil"
+          ]
+        },
+        "fr": {
+          "text": "la datte",
+          "alternates": [
+            "datte"
+          ]
+        },
+        "it": {
+          "text": "il dattero",
+          "alternates": [
+            "dattero"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "berry",
+          "partOfSpeech": "noun"
+        },
+        "ru": "ягода",
+        "pl": "jagoda",
+        "uk": "ягода",
+        "de": {
+          "text": "die Beere",
+          "alternates": [
+            "Beere"
+          ]
+        },
+        "es": {
+          "text": "la baya",
+          "alternates": [
+            "baya"
+          ]
+        },
+        "fr": {
+          "text": "la baie",
+          "alternates": [
+            "baie"
+          ]
+        },
+        "it": {
+          "text": "la bacca",
+          "alternates": [
+            "bacca"
+          ]
+        }
+      }
     }
   ]
 }

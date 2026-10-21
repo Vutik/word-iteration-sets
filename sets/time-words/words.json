@@ -1,0 +1,1248 @@
+{
+  "format": 1,
+  "words": [
+    {
+      "forms": {
+        "en": {
+          "text": "now",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "сейчас",
+          "alternates": [
+            "теперь"
+          ]
+        },
+        "pl": "teraz",
+        "uk": {
+          "text": "зараз",
+          "alternates": [
+            "тепер"
+          ]
+        },
+        "de": {
+          "text": "jetzt",
+          "alternates": [
+            "nun"
+          ]
+        },
+        "es": "ahora",
+        "fr": "maintenant",
+        "it": {
+          "text": "ora",
+          "alternates": [
+            "adesso"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "today",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "сегодня",
+        "pl": {
+          "text": "dzisiaj",
+          "alternates": [
+            "dziś"
+          ]
+        },
+        "uk": "сьогодні",
+        "de": "heute",
+        "es": "hoy",
+        "fr": "aujourd'hui",
+        "it": "oggi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "tomorrow",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "завтра",
+        "pl": "jutro",
+        "uk": "завтра",
+        "de": "morgen",
+        "es": "mañana",
+        "fr": "demain",
+        "it": "domani"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "yesterday",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "вчера",
+        "pl": "wczoraj",
+        "uk": {
+          "text": "учора",
+          "alternates": [
+            "вчора"
+          ]
+        },
+        "de": "gestern",
+        "es": "ayer",
+        "fr": "hier",
+        "it": "ieri"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "the day after tomorrow",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "послезавтра",
+        "pl": "pojutrze",
+        "uk": "післязавтра",
+        "de": "übermorgen",
+        "es": "pasado mañana",
+        "fr": "après-demain",
+        "it": "dopodomani"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "the day before yesterday",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "позавчера",
+        "pl": "przedwczoraj",
+        "uk": "позавчора",
+        "de": "vorgestern",
+        "es": {
+          "text": "anteayer",
+          "alternates": [
+            "antes de ayer"
+          ]
+        },
+        "fr": "avant-hier",
+        "it": {
+          "text": "l'altro ieri",
+          "alternates": [
+            "ieri l'altro"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "at that time",
+          "alternates": [
+            "then"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "тогда",
+        "pl": {
+          "text": "wtedy",
+          "alternates": [
+            "wówczas"
+          ]
+        },
+        "uk": "тоді",
+        "de": {
+          "text": "damals",
+          "alternates": [
+            "dann"
+          ]
+        },
+        "es": "entonces",
+        "fr": {
+          "text": "alors",
+          "alternates": [
+            "à ce moment-là"
+          ]
+        },
+        "it": "allora"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "then",
+          "alternates": [
+            "after that",
+            "next"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "потом",
+          "alternates": [
+            "затем"
+          ]
+        },
+        "pl": {
+          "text": "potem",
+          "alternates": [
+            "następnie"
+          ]
+        },
+        "uk": {
+          "text": "потім",
+          "alternates": [
+            "згодом"
+          ]
+        },
+        "de": {
+          "text": "dann",
+          "alternates": [
+            "danach"
+          ]
+        },
+        "es": {
+          "text": "luego",
+          "alternates": [
+            "después"
+          ]
+        },
+        "fr": {
+          "text": "puis",
+          "alternates": [
+            "ensuite"
+          ]
+        },
+        "it": {
+          "text": "poi",
+          "alternates": [
+            "dopo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "already",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "уже",
+        "pl": "już",
+        "uk": {
+          "text": "вже",
+          "alternates": [
+            "уже"
+          ]
+        },
+        "de": {
+          "text": "schon",
+          "alternates": [
+            "bereits"
+          ]
+        },
+        "es": "ya",
+        "fr": "déjà",
+        "it": "già"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "still",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "ещё",
+          "alternates": [
+            "всё ещё"
+          ]
+        },
+        "pl": {
+          "text": "jeszcze",
+          "alternates": [
+            "wciąż",
+            "nadal"
+          ]
+        },
+        "uk": {
+          "text": "ще",
+          "alternates": [
+            "досі",
+            "все ще"
+          ]
+        },
+        "de": {
+          "text": "noch",
+          "alternates": [
+            "immer noch"
+          ]
+        },
+        "es": {
+          "text": "todavía",
+          "alternates": [
+            "aún"
+          ]
+        },
+        "fr": {
+          "text": "encore",
+          "alternates": [
+            "toujours"
+          ]
+        },
+        "it": "ancora"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "not yet",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "ещё не",
+        "pl": "jeszcze nie",
+        "uk": "ще не",
+        "de": "noch nicht",
+        "es": {
+          "text": "todavía no",
+          "alternates": [
+            "aún no"
+          ]
+        },
+        "fr": "pas encore",
+        "it": "non ancora"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "soon",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "скоро",
+          "alternates": [
+            "вскоре"
+          ]
+        },
+        "pl": {
+          "text": "wkrótce",
+          "alternates": [
+            "niedługo",
+            "zaraz"
+          ]
+        },
+        "uk": {
+          "text": "скоро",
+          "alternates": [
+            "незабаром"
+          ]
+        },
+        "de": "bald",
+        "es": "pronto",
+        "fr": "bientôt",
+        "it": {
+          "text": "presto",
+          "alternates": [
+            "fra poco"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "later",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "позже",
+          "alternates": [
+            "позднее",
+            "потом"
+          ]
+        },
+        "pl": "później",
+        "uk": {
+          "text": "пізніше",
+          "alternates": [
+            "потім"
+          ]
+        },
+        "de": "später",
+        "es": {
+          "text": "más tarde",
+          "alternates": [
+            "luego"
+          ]
+        },
+        "fr": "plus tard",
+        "it": {
+          "text": "più tardi",
+          "alternates": [
+            "dopo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "early",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "рано",
+        "pl": "wcześnie",
+        "uk": "рано",
+        "de": "früh",
+        "es": "temprano",
+        "fr": "tôt",
+        "it": "presto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "late",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "поздно",
+        "pl": "późno",
+        "uk": "пізно",
+        "de": "spät",
+        "es": "tarde",
+        "fr": "tard",
+        "it": "tardi"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "earlier",
+          "alternates": [
+            "before",
+            "previously"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "раньше",
+          "alternates": [
+            "прежде",
+            "ранее"
+          ]
+        },
+        "pl": {
+          "text": "wcześniej",
+          "alternates": [
+            "przedtem",
+            "dawniej"
+          ]
+        },
+        "uk": "раніше",
+        "de": {
+          "text": "vorher",
+          "alternates": [
+            "früher"
+          ]
+        },
+        "es": "antes",
+        "fr": {
+          "text": "avant",
+          "alternates": [
+            "auparavant"
+          ]
+        },
+        "it": "prima"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "recently",
+          "alternates": [
+            "lately"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "недавно",
+          "alternates": [
+            "в последнее время"
+          ]
+        },
+        "pl": {
+          "text": "niedawno",
+          "alternates": [
+            "ostatnio"
+          ]
+        },
+        "uk": {
+          "text": "нещодавно",
+          "alternates": [
+            "недавно",
+            "останнім часом"
+          ]
+        },
+        "de": {
+          "text": "neulich",
+          "alternates": [
+            "kürzlich",
+            "vor kurzem"
+          ]
+        },
+        "es": {
+          "text": "recientemente",
+          "alternates": [
+            "hace poco"
+          ]
+        },
+        "fr": {
+          "text": "récemment",
+          "alternates": [
+            "dernièrement"
+          ]
+        },
+        "it": {
+          "text": "recentemente",
+          "alternates": [
+            "di recente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "just now",
+          "alternates": [
+            "just"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "только что",
+        "pl": {
+          "text": "przed chwilą",
+          "alternates": [
+            "właśnie"
+          ]
+        },
+        "uk": {
+          "text": "щойно",
+          "alternates": [
+            "тільки-но"
+          ]
+        },
+        "de": {
+          "text": "gerade eben",
+          "alternates": [
+            "gerade"
+          ]
+        },
+        "es": {
+          "text": "hace un momento",
+          "alternates": [
+            "recién"
+          ]
+        },
+        "fr": "à l'instant",
+        "it": {
+          "text": "poco fa",
+          "alternates": [
+            "proprio ora"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "right away",
+          "alternates": [
+            "immediately",
+            "at once"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "сразу",
+          "alternates": [
+            "немедленно"
+          ]
+        },
+        "pl": {
+          "text": "od razu",
+          "alternates": [
+            "natychmiast"
+          ]
+        },
+        "uk": {
+          "text": "одразу",
+          "alternates": [
+            "відразу",
+            "негайно"
+          ]
+        },
+        "de": {
+          "text": "sofort",
+          "alternates": [
+            "gleich"
+          ]
+        },
+        "es": {
+          "text": "enseguida",
+          "alternates": [
+            "inmediatamente",
+            "ahora mismo"
+          ]
+        },
+        "fr": {
+          "text": "tout de suite",
+          "alternates": [
+            "immédiatement"
+          ]
+        },
+        "it": {
+          "text": "subito",
+          "alternates": [
+            "immediatamente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "suddenly",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "вдруг",
+          "alternates": [
+            "внезапно"
+          ]
+        },
+        "pl": "nagle",
+        "uk": {
+          "text": "раптом",
+          "alternates": [
+            "несподівано"
+          ]
+        },
+        "de": "plötzlich",
+        "es": {
+          "text": "de repente",
+          "alternates": [
+            "de pronto"
+          ]
+        },
+        "fr": {
+          "text": "soudain",
+          "alternates": [
+            "tout à coup"
+          ]
+        },
+        "it": {
+          "text": "all'improvviso",
+          "alternates": [
+            "improvvisamente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "at first",
+          "alternates": [
+            "first"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "сначала",
+          "alternates": [
+            "сперва"
+          ]
+        },
+        "pl": {
+          "text": "najpierw",
+          "alternates": [
+            "na początku"
+          ]
+        },
+        "uk": {
+          "text": "спочатку",
+          "alternates": [
+            "спершу"
+          ]
+        },
+        "de": {
+          "text": "zuerst",
+          "alternates": [
+            "zunächst",
+            "anfangs"
+          ]
+        },
+        "es": {
+          "text": "primero",
+          "alternates": [
+            "al principio"
+          ]
+        },
+        "fr": {
+          "text": "d'abord",
+          "alternates": [
+            "au début"
+          ]
+        },
+        "it": {
+          "text": "prima",
+          "alternates": [
+            "all'inizio"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "meanwhile",
+          "alternates": [
+            "in the meantime"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "тем временем",
+          "alternates": [
+            "между тем"
+          ]
+        },
+        "pl": {
+          "text": "tymczasem",
+          "alternates": [
+            "w międzyczasie"
+          ]
+        },
+        "uk": {
+          "text": "тим часом",
+          "alternates": [
+            "водночас"
+          ]
+        },
+        "de": {
+          "text": "inzwischen",
+          "alternates": [
+            "in der Zwischenzeit",
+            "unterdessen"
+          ]
+        },
+        "es": {
+          "text": "mientras tanto",
+          "alternates": [
+            "entretanto"
+          ]
+        },
+        "fr": {
+          "text": "pendant ce temps",
+          "alternates": [
+            "entre-temps"
+          ]
+        },
+        "it": {
+          "text": "nel frattempo",
+          "alternates": [
+            "intanto"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "for now",
+          "alternates": [
+            "so far"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "пока",
+          "alternates": [
+            "пока что"
+          ]
+        },
+        "pl": {
+          "text": "na razie",
+          "alternates": [
+            "póki co"
+          ]
+        },
+        "uk": {
+          "text": "поки що",
+          "alternates": [
+            "поки"
+          ]
+        },
+        "de": {
+          "text": "vorerst",
+          "alternates": [
+            "bis jetzt"
+          ]
+        },
+        "es": {
+          "text": "por ahora",
+          "alternates": [
+            "de momento",
+            "hasta ahora"
+          ]
+        },
+        "fr": {
+          "text": "pour l'instant",
+          "alternates": [
+            "pour le moment"
+          ]
+        },
+        "it": {
+          "text": "per ora",
+          "alternates": [
+            "per adesso",
+            "finora"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "on time",
+          "alternates": [
+            "in time"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "вовремя",
+        "pl": {
+          "text": "na czas",
+          "alternates": [
+            "punktualnie",
+            "w porę"
+          ]
+        },
+        "uk": "вчасно",
+        "de": {
+          "text": "rechtzeitig",
+          "alternates": [
+            "pünktlich"
+          ]
+        },
+        "es": "a tiempo",
+        "fr": {
+          "text": "à l'heure",
+          "alternates": [
+            "à temps"
+          ]
+        },
+        "it": {
+          "text": "in tempo",
+          "alternates": [
+            "puntuale"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "long ago",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "давно",
+        "pl": "dawno",
+        "uk": "давно",
+        "de": {
+          "text": "vor langer Zeit",
+          "alternates": [
+            "längst",
+            "lange her"
+          ]
+        },
+        "es": {
+          "text": "hace mucho tiempo",
+          "alternates": [
+            "hace mucho"
+          ]
+        },
+        "fr": "il y a longtemps",
+        "it": {
+          "text": "molto tempo fa",
+          "alternates": [
+            "tanto tempo fa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "for a long time",
+          "alternates": [
+            "long"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "долго",
+        "pl": "długo",
+        "uk": "довго",
+        "de": "lange",
+        "es": {
+          "text": "mucho tiempo",
+          "alternates": [
+            "durante mucho tiempo"
+          ]
+        },
+        "fr": "longtemps",
+        "it": {
+          "text": "a lungo",
+          "alternates": [
+            "per molto tempo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ago",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "назад",
+          "alternates": [
+            "тому назад"
+          ]
+        },
+        "pl": "temu",
+        "uk": "тому",
+        "de": "vor",
+        "es": "hace",
+        "fr": "il y a",
+        "it": "fa"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "forever",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "навсегда",
+        "pl": "na zawsze",
+        "uk": "назавжди",
+        "de": "für immer",
+        "es": "para siempre",
+        "fr": "pour toujours",
+        "it": "per sempre"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "always",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "всегда",
+        "pl": "zawsze",
+        "uk": "завжди",
+        "de": "immer",
+        "es": "siempre",
+        "fr": "toujours",
+        "it": "sempre"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "usually",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "обычно",
+        "pl": {
+          "text": "zwykle",
+          "alternates": [
+            "zazwyczaj",
+            "przeważnie"
+          ]
+        },
+        "uk": {
+          "text": "зазвичай",
+          "alternates": [
+            "звичайно"
+          ]
+        },
+        "de": {
+          "text": "normalerweise",
+          "alternates": [
+            "gewöhnlich",
+            "meistens"
+          ]
+        },
+        "es": {
+          "text": "normalmente",
+          "alternates": [
+            "por lo general"
+          ]
+        },
+        "fr": {
+          "text": "d'habitude",
+          "alternates": [
+            "habituellement"
+          ]
+        },
+        "it": {
+          "text": "di solito",
+          "alternates": [
+            "solitamente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "often",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "часто",
+        "pl": "często",
+        "uk": "часто",
+        "de": "oft",
+        "es": {
+          "text": "a menudo",
+          "alternates": [
+            "con frecuencia",
+            "muchas veces"
+          ]
+        },
+        "fr": "souvent",
+        "it": "spesso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sometimes",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "иногда",
+        "pl": {
+          "text": "czasem",
+          "alternates": [
+            "czasami",
+            "niekiedy"
+          ]
+        },
+        "uk": {
+          "text": "іноді",
+          "alternates": [
+            "інколи",
+            "часом"
+          ]
+        },
+        "de": "manchmal",
+        "es": "a veces",
+        "fr": {
+          "text": "parfois",
+          "alternates": [
+            "quelquefois"
+          ]
+        },
+        "it": {
+          "text": "a volte",
+          "alternates": [
+            "qualche volta",
+            "talvolta"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "rarely",
+          "alternates": [
+            "seldom"
+          ],
+          "partOfSpeech": "adverb"
+        },
+        "ru": "редко",
+        "pl": "rzadko",
+        "uk": "рідко",
+        "de": "selten",
+        "es": {
+          "text": "raramente",
+          "alternates": [
+            "rara vez",
+            "pocas veces"
+          ]
+        },
+        "fr": "rarement",
+        "it": {
+          "text": "raramente",
+          "alternates": [
+            "di rado"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "never",
+          "partOfSpeech": "adverb"
+        },
+        "ru": "никогда",
+        "pl": "nigdy",
+        "uk": "ніколи",
+        "de": {
+          "text": "nie",
+          "alternates": [
+            "niemals"
+          ]
+        },
+        "es": {
+          "text": "nunca",
+          "alternates": [
+            "jamás"
+          ]
+        },
+        "fr": "jamais",
+        "it": "mai"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ever",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "когда-либо",
+          "alternates": [
+            "когда-нибудь"
+          ]
+        },
+        "pl": {
+          "text": "kiedykolwiek",
+          "alternates": [
+            "kiedyś"
+          ]
+        },
+        "uk": {
+          "text": "коли-небудь",
+          "alternates": [
+            "колись"
+          ]
+        },
+        "de": {
+          "text": "jemals",
+          "alternates": [
+            "je"
+          ]
+        },
+        "es": "alguna vez",
+        "fr": {
+          "text": "déjà",
+          "alternates": [
+            "jamais"
+          ]
+        },
+        "it": "mai"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "again",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "снова",
+          "alternates": [
+            "опять",
+            "ещё раз"
+          ]
+        },
+        "pl": {
+          "text": "znowu",
+          "alternates": [
+            "znów",
+            "ponownie",
+            "jeszcze raz"
+          ]
+        },
+        "uk": {
+          "text": "знову",
+          "alternates": [
+            "ще раз"
+          ]
+        },
+        "de": {
+          "text": "wieder",
+          "alternates": [
+            "noch einmal",
+            "nochmal"
+          ]
+        },
+        "es": {
+          "text": "otra vez",
+          "alternates": [
+            "de nuevo"
+          ]
+        },
+        "fr": {
+          "text": "encore",
+          "alternates": [
+            "de nouveau",
+            "à nouveau"
+          ]
+        },
+        "it": {
+          "text": "di nuovo",
+          "alternates": [
+            "ancora"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "once",
+          "partOfSpeech": "adverb"
+        },
+        "ru": {
+          "text": "один раз",
+          "alternates": [
+            "раз",
+            "однажды"
+          ]
+        },
+        "pl": {
+          "text": "raz",
+          "alternates": [
+            "jeden raz"
+          ]
+        },
+        "uk": {
+          "text": "один раз",
+          "alternates": [
+            "одного разу"
+          ]
+        },
+        "de": "einmal",
+        "es": "una vez",
+        "fr": "une fois",
+        "it": "una volta"
+      }
+    }
+  ]
+}

@@ -534,6 +534,482 @@
         "fr": "s'inquiéter",
         "it": "preoccuparsi"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "disappointed",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "разочарованный",
+        "pl": "rozczarowany",
+        "uk": "розчарований",
+        "de": "enttäuscht",
+        "es": "decepcionado",
+        "fr": "déçu",
+        "it": "deluso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "grateful",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "благодарный",
+        "pl": "wdzięczny",
+        "uk": "вдячний",
+        "de": "dankbar",
+        "es": "agradecido",
+        "fr": "reconnaissant",
+        "it": {
+          "text": "grato",
+          "alternates": [
+            "riconoscente"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "embarrassed",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "смущённый",
+        "pl": "zakłopotany",
+        "uk": "збентежений",
+        "de": "verlegen",
+        "es": "avergonzado",
+        "fr": "gêné",
+        "it": "imbarazzato"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "relaxed",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "расслабленный",
+        "pl": {
+          "text": "zrelaksowany",
+          "alternates": [
+            "rozluźniony"
+          ]
+        },
+        "uk": "розслаблений",
+        "de": "entspannt",
+        "es": "relajado",
+        "fr": "détendu",
+        "it": "rilassato"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "confused",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "растерянный",
+        "pl": "zmieszany",
+        "uk": "розгублений",
+        "de": "verwirrt",
+        "es": "confundido",
+        "fr": "confus",
+        "it": "confuso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "in love",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "влюблённый",
+        "pl": "zakochany",
+        "uk": "закоханий",
+        "de": "verliebt",
+        "es": "enamorado",
+        "fr": "amoureux",
+        "it": "innamorato"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "happiness",
+          "partOfSpeech": "noun"
+        },
+        "ru": "счастье",
+        "pl": "szczęście",
+        "uk": "щастя",
+        "de": {
+          "text": "das Glück",
+          "alternates": [
+            "Glück"
+          ]
+        },
+        "es": {
+          "text": "la felicidad",
+          "alternates": [
+            "felicidad"
+          ]
+        },
+        "fr": {
+          "text": "le bonheur",
+          "alternates": [
+            "bonheur"
+          ]
+        },
+        "it": {
+          "text": "la felicità",
+          "alternates": [
+            "felicità"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "sadness",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "грусть",
+          "alternates": [
+            "печаль"
+          ]
+        },
+        "pl": "smutek",
+        "uk": {
+          "text": "смуток",
+          "alternates": [
+            "сум"
+          ]
+        },
+        "de": {
+          "text": "die Traurigkeit",
+          "alternates": [
+            "Traurigkeit"
+          ]
+        },
+        "es": {
+          "text": "la tristeza",
+          "alternates": [
+            "tristeza"
+          ]
+        },
+        "fr": {
+          "text": "la tristesse",
+          "alternates": [
+            "tristesse"
+          ]
+        },
+        "it": {
+          "text": "la tristezza",
+          "alternates": [
+            "tristezza"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "anger",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "гнев",
+          "alternates": [
+            "злость"
+          ]
+        },
+        "pl": {
+          "text": "gniew",
+          "alternates": [
+            "złość"
+          ]
+        },
+        "uk": {
+          "text": "гнів",
+          "alternates": [
+            "злість"
+          ]
+        },
+        "de": {
+          "text": "die Wut",
+          "alternates": [
+            "Wut",
+            "Zorn",
+            "der Zorn"
+          ]
+        },
+        "es": {
+          "text": "la ira",
+          "alternates": [
+            "ira",
+            "enfado",
+            "el enfado"
+          ]
+        },
+        "fr": {
+          "text": "la colère",
+          "alternates": [
+            "colère"
+          ]
+        },
+        "it": {
+          "text": "la rabbia",
+          "alternates": [
+            "rabbia",
+            "ira",
+            "l'ira"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "hope",
+          "partOfSpeech": "noun"
+        },
+        "ru": "надежда",
+        "pl": "nadzieja",
+        "uk": "надія",
+        "de": {
+          "text": "die Hoffnung",
+          "alternates": [
+            "Hoffnung"
+          ]
+        },
+        "es": {
+          "text": "la esperanza",
+          "alternates": [
+            "esperanza"
+          ]
+        },
+        "fr": {
+          "text": "l'espoir",
+          "alternates": [
+            "espoir"
+          ]
+        },
+        "it": {
+          "text": "la speranza",
+          "alternates": [
+            "speranza"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "surprise",
+          "partOfSpeech": "noun"
+        },
+        "ru": {
+          "text": "удивление",
+          "alternates": [
+            "сюрприз"
+          ]
+        },
+        "pl": {
+          "text": "zdziwienie",
+          "alternates": [
+            "niespodzianka"
+          ]
+        },
+        "uk": {
+          "text": "здивування",
+          "alternates": [
+            "сюрприз"
+          ]
+        },
+        "de": {
+          "text": "die Überraschung",
+          "alternates": [
+            "Überraschung"
+          ]
+        },
+        "es": {
+          "text": "la sorpresa",
+          "alternates": [
+            "sorpresa"
+          ]
+        },
+        "fr": {
+          "text": "la surprise",
+          "alternates": [
+            "surprise"
+          ]
+        },
+        "it": {
+          "text": "la sorpresa",
+          "alternates": [
+            "sorpresa"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "mood",
+          "partOfSpeech": "noun"
+        },
+        "ru": "настроение",
+        "pl": "nastrój",
+        "uk": "настрій",
+        "de": {
+          "text": "die Stimmung",
+          "alternates": [
+            "Stimmung",
+            "Laune",
+            "die Laune"
+          ]
+        },
+        "es": {
+          "text": "el humor",
+          "alternates": [
+            "humor",
+            "estado de ánimo",
+            "el estado de ánimo"
+          ]
+        },
+        "fr": {
+          "text": "l'humeur",
+          "alternates": [
+            "humeur"
+          ]
+        },
+        "it": {
+          "text": "l'umore",
+          "alternates": [
+            "umore"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "feeling",
+          "partOfSpeech": "noun"
+        },
+        "ru": "чувство",
+        "pl": "uczucie",
+        "uk": "почуття",
+        "de": {
+          "text": "das Gefühl",
+          "alternates": [
+            "Gefühl"
+          ]
+        },
+        "es": {
+          "text": "el sentimiento",
+          "alternates": [
+            "sentimiento"
+          ]
+        },
+        "fr": {
+          "text": "le sentiment",
+          "alternates": [
+            "sentiment"
+          ]
+        },
+        "it": {
+          "text": "il sentimento",
+          "alternates": [
+            "sentimento"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to hate",
+          "partOfSpeech": "verb"
+        },
+        "ru": "ненавидеть",
+        "pl": "nienawidzić",
+        "uk": "ненавидіти",
+        "de": "hassen",
+        "es": "odiar",
+        "fr": {
+          "text": "détester",
+          "alternates": [
+            "haïr"
+          ]
+        },
+        "it": "odiare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to hope",
+          "partOfSpeech": "verb"
+        },
+        "ru": "надеяться",
+        "pl": "mieć nadzieję",
+        "uk": "сподіватися",
+        "de": "hoffen",
+        "es": "esperar",
+        "fr": "espérer",
+        "it": "sperare"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "to enjoy",
+          "partOfSpeech": "verb"
+        },
+        "ru": {
+          "text": "наслаждаться",
+          "alternates": [
+            "насладиться"
+          ],
+          "aspects": {
+            "impf": [
+              "наслаждаться"
+            ],
+            "pf": [
+              "насладиться"
+            ]
+          }
+        },
+        "pl": "cieszyć się",
+        "uk": {
+          "text": "насолоджуватися",
+          "alternates": [
+            "насолодитися"
+          ],
+          "aspects": {
+            "impf": [
+              "насолоджуватися"
+            ],
+            "pf": [
+              "насолодитися"
+            ]
+          }
+        },
+        "de": "genießen",
+        "es": "disfrutar",
+        "fr": {
+          "text": "profiter",
+          "alternates": [
+            "apprécier"
+          ]
+        },
+        "it": "godersi"
+      }
     }
   ]
 }

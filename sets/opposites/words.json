@@ -470,6 +470,381 @@
         "fr": "fermé",
         "it": "chiuso"
       }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wide",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "широкий",
+        "pl": "szeroki",
+        "uk": "широкий",
+        "de": "breit",
+        "es": "ancho",
+        "fr": "large",
+        "it": "largo"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "narrow",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "узкий",
+        "pl": "wąski",
+        "uk": "вузький",
+        "de": {
+          "text": "schmal",
+          "alternates": [
+            "eng"
+          ]
+        },
+        "es": "estrecho",
+        "fr": "étroit",
+        "it": "stretto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "strong",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "сильный",
+        "pl": {
+          "text": "silny",
+          "alternates": [
+            "mocny"
+          ]
+        },
+        "uk": {
+          "text": "сильний",
+          "alternates": [
+            "міцний"
+          ]
+        },
+        "de": "stark",
+        "es": "fuerte",
+        "fr": "fort",
+        "it": "forte"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "weak",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "слабый",
+        "pl": "słaby",
+        "uk": "слабкий",
+        "de": "schwach",
+        "es": "débil",
+        "fr": "faible",
+        "it": "debole"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "beautiful",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "красивый",
+        "pl": {
+          "text": "piękny",
+          "alternates": [
+            "ładny"
+          ]
+        },
+        "uk": {
+          "text": "гарний",
+          "alternates": [
+            "красивий"
+          ]
+        },
+        "de": "schön",
+        "es": {
+          "text": "bonito",
+          "alternates": [
+            "hermoso"
+          ]
+        },
+        "fr": {
+          "text": "beau",
+          "alternates": [
+            "joli"
+          ]
+        },
+        "it": "bello"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "ugly",
+          "partOfSpeech": "adjective"
+        },
+        "ru": {
+          "text": "некрасивый",
+          "alternates": [
+            "уродливый"
+          ]
+        },
+        "pl": "brzydki",
+        "uk": {
+          "text": "негарний",
+          "alternates": [
+            "бридкий"
+          ]
+        },
+        "de": "hässlich",
+        "es": "feo",
+        "fr": "laid",
+        "it": "brutto"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "wet",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "мокрый",
+        "pl": "mokry",
+        "uk": "мокрий",
+        "de": "nass",
+        "es": "mojado",
+        "fr": "mouillé",
+        "it": "bagnato"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dry",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "сухой",
+        "pl": "suchy",
+        "uk": "сухий",
+        "de": "trocken",
+        "es": "seco",
+        "fr": "sec",
+        "it": {
+          "text": "asciutto",
+          "alternates": [
+            "secco"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "quiet",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "тихий",
+        "pl": "cichy",
+        "uk": "тихий",
+        "de": {
+          "text": "leise",
+          "alternates": [
+            "ruhig"
+          ]
+        },
+        "es": {
+          "text": "silencioso",
+          "alternates": [
+            "tranquilo"
+          ]
+        },
+        "fr": {
+          "text": "silencieux",
+          "alternates": [
+            "calme"
+          ]
+        },
+        "it": {
+          "text": "silenzioso",
+          "alternates": [
+            "tranquillo"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "loud",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "громкий",
+        "pl": "głośny",
+        "uk": {
+          "text": "гучний",
+          "alternates": [
+            "голосний"
+          ]
+        },
+        "de": "laut",
+        "es": "ruidoso",
+        "fr": "bruyant",
+        "it": {
+          "text": "rumoroso",
+          "alternates": [
+            "chiassoso"
+          ]
+        }
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "safe",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "безопасный",
+        "pl": "bezpieczny",
+        "uk": "безпечний",
+        "de": "sicher",
+        "es": "seguro",
+        "fr": "sûr",
+        "it": "sicuro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dangerous",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "опасный",
+        "pl": "niebezpieczny",
+        "uk": "небезпечний",
+        "de": "gefährlich",
+        "es": "peligroso",
+        "fr": "dangereux",
+        "it": "pericoloso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "interesting",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "интересный",
+        "pl": {
+          "text": "interesujący",
+          "alternates": [
+            "ciekawy"
+          ]
+        },
+        "uk": "цікавий",
+        "de": "interessant",
+        "es": "interesante",
+        "fr": "intéressant",
+        "it": "interessante"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "boring",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "скучный",
+        "pl": "nudny",
+        "uk": "нудний",
+        "de": "langweilig",
+        "es": "aburrido",
+        "fr": "ennuyeux",
+        "it": "noioso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "dark",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "тёмный",
+        "pl": "ciemny",
+        "uk": "темний",
+        "de": "dunkel",
+        "es": "oscuro",
+        "fr": {
+          "text": "sombre",
+          "alternates": [
+            "foncé"
+          ]
+        },
+        "it": "scuro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "bright",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "светлый",
+        "pl": "jasny",
+        "uk": {
+          "text": "світлий",
+          "alternates": [
+            "яскравий"
+          ]
+        },
+        "de": "hell",
+        "es": "claro",
+        "fr": {
+          "text": "clair",
+          "alternates": [
+            "lumineux"
+          ]
+        },
+        "it": "chiaro"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "thick",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "толстый",
+        "pl": "gruby",
+        "uk": "товстий",
+        "de": "dick",
+        "es": "grueso",
+        "fr": "épais",
+        "it": "spesso"
+      }
+    },
+    {
+      "forms": {
+        "en": {
+          "text": "thin",
+          "partOfSpeech": "adjective"
+        },
+        "ru": "тонкий",
+        "pl": "cienki",
+        "uk": "тонкий",
+        "de": "dünn",
+        "es": {
+          "text": "fino",
+          "alternates": [
+            "delgado"
+          ]
+        },
+        "fr": "mince",
+        "it": "sottile"
+      }
     }
   ]
 }
