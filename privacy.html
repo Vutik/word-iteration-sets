@@ -19,7 +19,7 @@
 
 <section id="en" lang="en">
 <h1>WordsIteration — Privacy policy</h1>
-<p><small>Last updated: 26 October 2026</small></p>
+<p><small>Last updated: 7 November 2026</small></p>
 
 <p>WordsIteration has no accounts, no analytics, no advertising, no crash reporting and no tracking.
 The developer runs no server and receives none of your data. The app contains no third-party SDKs
@@ -102,6 +102,29 @@ them.</p>
 To remove the synced copy from iCloud, open the iOS Settings → your name → iCloud → Manage Account
 Storage → WordsIteration. Remove AI keys and the email address in the app's Settings.</p>
 
+<h2>On Android</h2>
+<p>Everything above applies to the Android app too, with these differences:</p>
+<ul>
+  <li><b>No sync.</b> There is no iCloud on Android, and the app has no sync of its own. Your data
+  stays on the phone. Android's own backup to your Google Account may include the app's data, if it
+  is on in your phone's settings; AI keys are always left out of it.</li>
+  <li><b>Google ML Kit.</b> Translation on the device, language detection, text recognition in photos
+  and the on-device model (Gemini Nano, on phones that have it, in place of Apple's model) use Google
+  ML Kit. Translation models are downloaded from Google. Your words, texts and photos stay on the
+  phone, but ML Kit itself sends Google diagnostic and usage data: the device model and Android
+  version, the app's name and version, a per-installation identifier not meant to identify you or
+  your device, performance figures, error codes and the languages set up. It goes over HTTPS; Google
+  uses it for diagnostics and usage analytics and does not pass it on
+  (<a href="https://developers.google.com/ml-kit/android-data-disclosure">ML Kit data disclosure</a>).
+  This is the one third-party SDK in the Android app that sends data.</li>
+  <li><b>Cyrillic text in photos</b> is read on the device by Tesseract; its language files for
+  Russian and Ukrainian are downloaded once from the tesseract-ocr project on GitHub.</li>
+  <li><b>Your AI key</b> is encrypted with a key in the phone's Android Keystore; it is not backed up
+  and does not move to another phone.</li>
+  <li><b>Deleting:</b> delete the app, or clear its storage in Android Settings → Apps → Words
+  Iteration → Storage.</li>
+</ul>
+
 <h2>Contact</h2>
 <p>See the <a href="support.html#en">support page</a>. Changes to this policy are published on
 this page.</p>
@@ -109,7 +132,7 @@ this page.</p>
 
 <section id="ru" lang="ru">
 <h1>WordsIteration — политика конфиденциальности</h1>
-<p><small>Обновлено: 26 октября 2026 г.</small></p>
+<p><small>Обновлено: 7 ноября 2026 г.</small></p>
 
 <p>В WordsIteration нет учётных записей, аналитики, рекламы, отчётов о сбоях и слежения. У
 разработчика нет сервера, и ваши данные к нему не попадают. В приложении нет сторонних SDK, которые
@@ -198,6 +221,29 @@ this page.</p>
 → iCloud → «Управление хранилищем» → WordsIteration. Ключи ИИ и адрес почты удаляются в настройках
 приложения.</p>
 
+<h2>На Android</h2>
+<p>Всё сказанное выше относится и к приложению для Android, со следующими отличиями:</p>
+<ul>
+  <li><b>Синхронизации нет.</b> На Android нет iCloud, а своей синхронизации у приложения нет. Данные
+  остаются на телефоне. Резервная копия Android в аккаунт Google может включать данные приложения,
+  если она включена в настройках телефона; ключи ИИ в неё никогда не попадают.</li>
+  <li><b>Google ML Kit.</b> Перевод на устройстве, определение языка, распознавание текста на фото и
+  модель на устройстве (Gemini Nano на телефонах, где она есть, вместо модели Apple) работают через
+  Google ML Kit. Модели перевода загружаются с серверов Google. Ваши слова, тексты и фото остаются на
+  телефоне, но сам ML Kit отправляет Google диагностические данные и данные об использовании: модель
+  устройства и версию Android, название и версию приложения, идентификатор установки, который не
+  предназначен для того, чтобы узнать вас или ваше устройство, показатели скорости, коды ошибок и
+  выбранные языки. Google получает их по HTTPS, использует для диагностики и статистики использования
+  и никому не передаёт (<a href="https://developers.google.com/ml-kit/android-data-disclosure">раскрытие
+  данных ML Kit</a>). Это единственный сторонний SDK в приложении для Android, который отправляет данные.</li>
+  <li><b>Кириллический текст на фото</b> распознаёт на устройстве Tesseract; его языковые файлы для
+  русского и украинского один раз загружаются из проекта tesseract-ocr на GitHub.</li>
+  <li><b>Ключ ИИ</b> зашифрован ключом из хранилища Android Keystore телефона; он не попадает в резервную
+  копию и не переносится на другой телефон.</li>
+  <li><b>Удаление:</b> удалите приложение или очистите его хранилище в настройках Android → Приложения →
+  Words Iteration → Хранилище.</li>
+</ul>
+
 <h2>Связь</h2>
 <p>См. <a href="support.html#ru">страницу поддержки</a>. Изменения политики публикуются на этой
 странице.</p>
@@ -205,7 +251,7 @@ this page.</p>
 
 <section id="pl" lang="pl">
 <h1>WordsIteration — polityka prywatności</h1>
-<p><small>Ostatnia aktualizacja: 26 października 2026 r.</small></p>
+<p><small>Ostatnia aktualizacja: 7 listopada 2026 r.</small></p>
 
 <p>WordsIteration nie ma kont, analityki, reklam, raportów o awariach ani śledzenia. Twórca nie
 prowadzi żadnego serwera i nie otrzymuje Twoich danych. Aplikacja nie zawiera zewnętrznych SDK, które
@@ -293,6 +339,29 @@ urządzenia. Aby usunąć zsynchronizowaną kopię z iCloud, otwórz Ustawienia 
 → Zarządzaj miejscem → WordsIteration. Klucze AI i adres e-mail usuniesz w ustawieniach
 aplikacji.</p>
 
+<h2>Na Androidzie</h2>
+<p>Wszystko powyżej dotyczy też aplikacji na Androida, z tymi różnicami:</p>
+<ul>
+  <li><b>Bez synchronizacji.</b> Na Androidzie nie ma iCloud, a aplikacja nie ma własnej synchronizacji.
+  Dane zostają na telefonie. Kopia zapasowa Androida na koncie Google może obejmować dane aplikacji, jeśli
+  jest włączona w ustawieniach telefonu; klucze AI nigdy do niej nie trafiają.</li>
+  <li><b>Google ML Kit.</b> Tłumaczenie na urządzeniu, rozpoznawanie języka, rozpoznawanie tekstu na
+  zdjęciach i model na urządzeniu (Gemini Nano na telefonach, które go mają, zamiast modelu Apple)
+  korzystają z Google ML Kit. Modele tłumaczenia są pobierane z serwerów Google. Twoje słowa, teksty i
+  zdjęcia zostają na telefonie, ale sam ML Kit wysyła do Google dane diagnostyczne i dane o użyciu: model
+  urządzenia i wersję Androida, nazwę i wersję aplikacji, identyfikator instalacji, który nie służy do
+  rozpoznania Ciebie ani Twojego urządzenia, wskaźniki wydajności, kody błędów i ustawione języki. Google
+  otrzymuje je przez HTTPS, używa ich do diagnostyki i statystyk użycia i nikomu ich nie przekazuje
+  (<a href="https://developers.google.com/ml-kit/android-data-disclosure">ujawnianie danych ML Kit</a>).
+  To jedyny zewnętrzny SDK w aplikacji na Androida, który wysyła dane.</li>
+  <li><b>Tekst cyrylicą na zdjęciach</b> odczytuje na urządzeniu Tesseract; jego pliki językowe dla
+  rosyjskiego i ukraińskiego są jednorazowo pobierane z projektu tesseract-ocr na GitHubie.</li>
+  <li><b>Klucz AI</b> jest szyfrowany kluczem z Android Keystore telefonu; nie trafia do kopii zapasowej
+  i nie przenosi się na inny telefon.</li>
+  <li><b>Usuwanie:</b> usuń aplikację lub wyczyść jej pamięć w Ustawieniach Androida → Aplikacje → Words
+  Iteration → Pamięć.</li>
+</ul>
+
 <h2>Kontakt</h2>
 <p>Zobacz <a href="support.html#pl">stronę pomocy</a>. Zmiany tej polityki są publikowane na tej
 stronie.</p>
@@ -300,7 +369,7 @@ stronie.</p>
 
 <section id="uk" lang="uk">
 <h1>WordsIteration — політика конфіденційності</h1>
-<p><small>Оновлено: 26 жовтня 2026 р.</small></p>
+<p><small>Оновлено: 7 листопада 2026 р.</small></p>
 
 <p>У WordsIteration немає облікових записів, аналітики, реклами, звітів про збої та стеження. У
 розробника немає сервера, і ваші дані до нього не потрапляють. У застосунку немає сторонніх SDK, які
@@ -390,6 +459,29 @@ Pages і релізи репозиторію); туди нічого не над
 → «Керувати сховищем» → WordsIteration. Ключі ШІ та адреса пошти видаляються в налаштуваннях
 застосунку.</p>
 
+<h2>На Android</h2>
+<p>Усе сказане вище стосується й застосунку для Android, з такими відмінностями:</p>
+<ul>
+  <li><b>Синхронізації немає.</b> На Android немає iCloud, а власної синхронізації застосунок не має.
+  Дані залишаються на телефоні. Резервна копія Android в обліковий запис Google може містити дані
+  застосунку, якщо її ввімкнено в налаштуваннях телефона; ключі ШІ до неї ніколи не потрапляють.</li>
+  <li><b>Google ML Kit.</b> Переклад на пристрої, визначення мови, розпізнавання тексту на фото й модель
+  на пристрої (Gemini Nano на телефонах, де вона є, замість моделі Apple) працюють через Google ML Kit.
+  Моделі перекладу завантажуються із серверів Google. Ваші слова, тексти й фото залишаються на телефоні,
+  але сам ML Kit надсилає Google діагностичні дані й дані про використання: модель пристрою та версію
+  Android, назву й версію застосунку, ідентифікатор встановлення, який не призначений для того, щоб
+  упізнати вас чи ваш пристрій, показники швидкодії, коди помилок і вибрані мови. Google отримує їх через
+  HTTPS, використовує для діагностики й статистики використання і нікому не передає
+  (<a href="https://developers.google.com/ml-kit/android-data-disclosure">розкриття даних ML Kit</a>).
+  Це єдиний сторонній SDK у застосунку для Android, який надсилає дані.</li>
+  <li><b>Кириличний текст на фото</b> розпізнає на пристрої Tesseract; його мовні файли для російської та
+  української один раз завантажуються з проєкту tesseract-ocr на GitHub.</li>
+  <li><b>Ключ ШІ</b> зашифровано ключем зі сховища Android Keystore телефона; він не потрапляє до
+  резервної копії й не переноситься на інший телефон.</li>
+  <li><b>Видалення:</b> видаліть застосунок або очистьте його сховище в налаштуваннях Android → Додатки →
+  Words Iteration → Пам'ять.</li>
+</ul>
+
 <h2>Зв'язок</h2>
 <p>Див. <a href="support.html#uk">сторінку підтримки</a>. Зміни політики публікуються на цій
 сторінці.</p>
@@ -397,7 +489,7 @@ Pages і релізи репозиторію); туди нічого не над
 
 <section id="de" lang="de">
 <h1>WordsIteration — Datenschutzerklärung</h1>
-<p><small>Zuletzt aktualisiert: 26. Oktober 2026</small></p>
+<p><small>Zuletzt aktualisiert: 7. November 2026</small></p>
 
 <p>WordsIteration hat keine Konten, keine Analyse, keine Werbung, keine Absturzberichte und kein
 Tracking. Der Entwickler betreibt keinen Server und erhält keine deiner Daten. Die App enthält keine
@@ -490,6 +582,30 @@ entfernen. Um die synchronisierte Kopie aus iCloud zu löschen, öffne die iOS-E
 Name → iCloud → Accountspeicher verwalten → WordsIteration. KI-Schlüssel und E-Mail-Adresse
 entfernst du in den Einstellungen der App.</p>
 
+<h2>Unter Android</h2>
+<p>Alles oben Gesagte gilt auch für die Android-App, mit diesen Unterschieden:</p>
+<ul>
+  <li><b>Keine Synchronisierung.</b> Unter Android gibt es kein iCloud, und die App hat keine eigene
+  Synchronisierung. Deine Daten bleiben auf dem Handy. Die Android-Sicherung in dein Google-Konto kann die
+  Daten der App enthalten, wenn sie in den Einstellungen des Handys aktiviert ist; KI-Schlüssel sind nie
+  darin enthalten.</li>
+  <li><b>Google ML Kit.</b> Übersetzung auf dem Gerät, Spracherkennung, Texterkennung in Fotos und das
+  Modell auf dem Gerät (Gemini Nano auf Handys, die es haben, anstelle von Apples Modell) nutzen Google ML
+  Kit. Übersetzungsmodelle werden von Google heruntergeladen. Deine Wörter, Texte und Fotos bleiben auf
+  dem Handy, aber ML Kit selbst sendet Google Diagnose- und Nutzungsdaten: Gerätemodell und
+  Android-Version, Name und Version der App, eine Kennung der Installation, die nicht dazu dient, dich
+  oder dein Gerät zu identifizieren, Leistungswerte, Fehlercodes und die eingestellten Sprachen. Google
+  erhält sie über HTTPS, nutzt sie für Diagnose und Nutzungsanalyse und gibt sie nicht weiter
+  (<a href="https://developers.google.com/ml-kit/android-data-disclosure">Datenoffenlegung von ML Kit</a>).
+  Das ist das einzige Drittanbieter-SDK der Android-App, das Daten sendet.</li>
+  <li><b>Kyrillischer Text in Fotos</b> wird auf dem Gerät von Tesseract gelesen; seine Sprachdateien für
+  Russisch und Ukrainisch werden einmalig vom Projekt tesseract-ocr auf GitHub geladen.</li>
+  <li><b>Dein KI-Schlüssel</b> wird mit einem Schlüssel im Android Keystore des Handys verschlüsselt; er
+  wird nicht gesichert und nicht auf ein anderes Handy übertragen.</li>
+  <li><b>Löschen:</b> Lösche die App oder leere ihren Speicher unter Android-Einstellungen → Apps → Words
+  Iteration → Speicher.</li>
+</ul>
+
 <h2>Kontakt</h2>
 <p>Siehe die <a href="support.html#de">Support-Seite</a>. Änderungen dieser Erklärung werden auf
 dieser Seite veröffentlicht.</p>
@@ -497,7 +613,7 @@ dieser Seite veröffentlicht.</p>
 
 <section id="es" lang="es">
 <h1>WordsIteration — Política de privacidad</h1>
-<p><small>Última actualización: 26 de octubre de 2026</small></p>
+<p><small>Última actualización: 7 de noviembre de 2026</small></p>
 
 <p>WordsIteration no tiene cuentas, analíticas, publicidad, informes de errores ni seguimiento. El
 desarrollador no tiene ningún servidor y no recibe ninguno de tus datos. La app no incluye SDK de
@@ -589,6 +705,30 @@ dispositivo. Para eliminar la copia sincronizada de iCloud, abre Ajustes de iOS 
 → Gestionar almacenamiento → WordsIteration. Las claves de IA y la dirección de correo se eliminan en
 los Ajustes de la app.</p>
 
+<h2>En Android</h2>
+<p>Todo lo anterior se aplica también a la app para Android, con estas diferencias:</p>
+<ul>
+  <li><b>Sin sincronización.</b> En Android no hay iCloud y la app no tiene sincronización propia. Tus
+  datos se quedan en el móvil. La copia de seguridad de Android en tu cuenta de Google puede incluir los
+  datos de la app si está activada en los ajustes del móvil; las claves de IA nunca se incluyen.</li>
+  <li><b>Google ML Kit.</b> La traducción en el dispositivo, la detección del idioma, el reconocimiento de
+  texto en fotos y el modelo en el dispositivo (Gemini Nano en los móviles que lo tienen, en lugar del
+  modelo de Apple) usan Google ML Kit. Los modelos de traducción se descargan de Google. Tus palabras,
+  textos y fotos se quedan en el móvil, pero ML Kit envía a Google datos de diagnóstico y de uso: el
+  modelo del dispositivo y la versión de Android, el nombre y la versión de la app, un identificador de
+  instalación que no sirve para identificarte a ti ni a tu dispositivo, cifras de rendimiento, códigos de
+  error y los idiomas configurados. Google los recibe por HTTPS, los usa para diagnóstico y estadísticas
+  de uso y no los cede a nadie
+  (<a href="https://developers.google.com/ml-kit/android-data-disclosure">divulgación de datos de ML Kit</a>).
+  Es el único SDK de terceros de la app para Android que envía datos.</li>
+  <li><b>El texto en cirílico de las fotos</b> lo lee Tesseract en el dispositivo; sus archivos de idioma
+  para ruso y ucraniano se descargan una vez del proyecto tesseract-ocr en GitHub.</li>
+  <li><b>Tu clave de IA</b> se cifra con una clave del Android Keystore del móvil; no entra en la copia de
+  seguridad ni pasa a otro móvil.</li>
+  <li><b>Eliminar:</b> elimina la app o borra su almacenamiento en Ajustes de Android → Aplicaciones →
+  Words Iteration → Almacenamiento.</li>
+</ul>
+
 <h2>Contacto</h2>
 <p>Consulta la <a href="support.html#es">página de soporte</a>. Los cambios de esta política se
 publican en esta página.</p>
@@ -596,7 +736,7 @@ publican en esta página.</p>
 
 <section id="fr" lang="fr">
 <h1>WordsIteration — Politique de confidentialité</h1>
-<p><small>Dernière mise à jour : 26 octobre 2026</small></p>
+<p><small>Dernière mise à jour : 7 novembre 2026</small></p>
 
 <p>WordsIteration n'a ni comptes, ni statistiques d'utilisation, ni publicité, ni rapports de
 plantage, ni pistage. Le développeur n'exploite aucun serveur et ne reçoit aucune de vos données.
@@ -687,6 +827,31 @@ de l'appareil. Pour supprimer la copie synchronisée dans iCloud, ouvrez Réglag
 iCloud → Gérer le stockage → WordsIteration. Les clés d'IA et l'adresse e-mail se suppriment dans les
 Réglages de l'app.</p>
 
+<h2>Sur Android</h2>
+<p>Tout ce qui précède s'applique aussi à l'app Android, avec ces différences :</p>
+<ul>
+  <li><b>Pas de synchronisation.</b> Android n'a pas iCloud et l'app n'a pas de synchronisation à elle.
+  Vos données restent sur le téléphone. La sauvegarde Android dans votre compte Google peut inclure les
+  données de l'app si elle est activée dans les réglages du téléphone ; les clés d'IA n'y sont jamais
+  incluses.</li>
+  <li><b>Google ML Kit.</b> La traduction sur l'appareil, la détection de la langue, la reconnaissance du
+  texte des photos et le modèle sur l'appareil (Gemini Nano sur les téléphones qui l'ont, à la place du
+  modèle d'Apple) utilisent Google ML Kit. Les modèles de traduction sont téléchargés depuis Google. Vos
+  mots, textes et photos restent sur le téléphone, mais ML Kit envoie lui-même à Google des données de
+  diagnostic et d'utilisation : le modèle de l'appareil et la version d'Android, le nom et la version de
+  l'app, un identifiant d'installation qui ne sert pas à vous identifier ni à identifier votre appareil,
+  des mesures de performance, des codes d'erreur et les langues choisies. Google les reçoit en HTTPS, les
+  utilise pour le diagnostic et les statistiques d'utilisation et ne les transmet à personne
+  (<a href="https://developers.google.com/ml-kit/android-data-disclosure">divulgation des données de ML Kit</a>).
+  C'est le seul SDK tiers de l'app Android qui envoie des données.</li>
+  <li><b>Le texte cyrillique des photos</b> est lu sur l'appareil par Tesseract ; ses fichiers de langue
+  pour le russe et l'ukrainien sont téléchargés une fois depuis le projet tesseract-ocr sur GitHub.</li>
+  <li><b>Votre clé d'IA</b> est chiffrée avec une clé de l'Android Keystore du téléphone ; elle n'est pas
+  sauvegardée et ne passe pas sur un autre téléphone.</li>
+  <li><b>Supprimer :</b> supprimez l'app ou videz son stockage dans Paramètres Android → Applications →
+  Words Iteration → Stockage.</li>
+</ul>
+
 <h2>Contact</h2>
 <p>Voir la <a href="support.html#fr">page d'assistance</a>. Les modifications de cette politique
 sont publiées sur cette page.</p>
@@ -694,7 +859,7 @@ sont publiées sur cette page.</p>
 
 <section id="it" lang="it">
 <h1>WordsIteration — Informativa sulla privacy</h1>
-<p><small>Ultimo aggiornamento: 26 ottobre 2026</small></p>
+<p><small>Ultimo aggiornamento: 7 novembre 2026</small></p>
 
 <p>WordsIteration non ha account, analisi, pubblicità, segnalazioni di arresti anomali né
 tracciamento. Lo sviluppatore non gestisce alcun server e non riceve nessuno dei tuoi dati. L'app non
@@ -784,6 +949,30 @@ WordsIteration non condivide con loro nient'altro.</p>
 dispositivo. Per eliminare la copia sincronizzata da iCloud, apri Impostazioni di iOS → il tuo nome
 → iCloud → Gestisci spazio → WordsIteration. Le chiavi IA e l'indirizzo email si rimuovono nelle
 Impostazioni dell'app.</p>
+
+<h2>Su Android</h2>
+<p>Tutto quanto sopra vale anche per l'app Android, con queste differenze:</p>
+<ul>
+  <li><b>Nessuna sincronizzazione.</b> Su Android non c'è iCloud e l'app non ha una sincronizzazione
+  propria. I tuoi dati restano sul telefono. Il backup di Android sul tuo account Google può includere i
+  dati dell'app, se è attivo nelle impostazioni del telefono; le chiavi IA non vi sono mai incluse.</li>
+  <li><b>Google ML Kit.</b> La traduzione sul dispositivo, il riconoscimento della lingua, il
+  riconoscimento del testo nelle foto e il modello sul dispositivo (Gemini Nano sui telefoni che lo
+  hanno, al posto del modello di Apple) usano Google ML Kit. I modelli di traduzione vengono scaricati da
+  Google. Le tue parole, i testi e le foto restano sul telefono, ma ML Kit invia a Google dati di
+  diagnostica e di utilizzo: il modello del dispositivo e la versione di Android, il nome e la versione
+  dell'app, un identificativo dell'installazione che non serve a identificare te o il tuo dispositivo,
+  dati sulle prestazioni, codici di errore e le lingue impostate. Google li riceve via HTTPS, li usa per
+  la diagnostica e le statistiche di utilizzo e non li cede a nessuno
+  (<a href="https://developers.google.com/ml-kit/android-data-disclosure">informativa sui dati di ML Kit</a>).
+  È l'unico SDK di terze parti dell'app Android che invia dati.</li>
+  <li><b>Il testo in cirillico nelle foto</b> viene letto sul dispositivo da Tesseract; i suoi file di
+  lingua per russo e ucraino vengono scaricati una volta dal progetto tesseract-ocr su GitHub.</li>
+  <li><b>La tua chiave IA</b> è cifrata con una chiave dell'Android Keystore del telefono; non finisce nel
+  backup e non passa a un altro telefono.</li>
+  <li><b>Eliminare:</b> elimina l'app o cancella la sua memoria in Impostazioni Android → App → Words
+  Iteration → Memoria.</li>
+</ul>
 
 <h2>Contatti</h2>
 <p>Consulta la <a href="support.html#it">pagina di assistenza</a>. Le modifiche a questa
