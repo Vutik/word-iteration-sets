@@ -73,6 +73,30 @@ def check_image(value, folder: Path, where: str) -> None:
         error(where, f"image must be one of {sorted(IMAGE_SUFFIXES)} (iOS cannot show SVG): {value}")
 
 
+def check_library_image(value: dict, where: str) -> None:
+    """A word's picture from the library (tools/images/library.py): a file under images/ with
+    its attribution, or {"none": true} for a word that is better without a picture."""
+    if value.get("none") is True:
+        if len(value) != 1:
+            error(where, "image {\"none\": true} takes no other fields")
+        return
+    unknown = set(value) - {"path", "source", "attribution"}
+    if unknown:
+        error(where, f"image has unknown fields {sorted(unknown)}")
+    rel = value.get("path")
+    if not isinstance(rel, str) or not rel.startswith("images/") or Path(rel).suffix.lower() not in IMAGE_SUFFIXES:
+        error(where, f"image.path must be images/<name> with one of {sorted(IMAGE_SUFFIXES)}: {rel!r}")
+    elif not (ROOT / rel).resolve().is_file() or ROOT.resolve() not in (ROOT / rel).resolve().parents:
+        error(where, f"image file not found: {rel}")
+    attribution = value.get("attribution")
+    if not isinstance(attribution, dict) or not any(attribution.get(k) for k in ("author", "license", "page")):
+        error(where, "image.attribution needs at least one of author, license, page")
+    elif not isinstance(attribution.get("license") or "", str):
+        error(where, "image.attribution.license must be a string")
+    if "source" in value and not (isinstance(value["source"], str) and value["source"].startswith("https://")):
+        error(where, "image.source must be an https URL")
+
+
 def check_localized(value, where: str, required: bool) -> None:
     if value is None and not required:
         return
@@ -176,7 +200,10 @@ def check_words_json(path: Path, languages: list[str]) -> int:
             if not isinstance(translations, dict) or any(code not in languages for code in translations):
                 error(at, "example translations must be keyed by set languages")
         if "image" in word:
-            check_image(word["image"], path.parent, at)
+            if isinstance(word["image"], dict):
+                check_library_image(word["image"], at)
+            else:
+                check_image(word["image"], path.parent, at)
     return len(words)
 
 
