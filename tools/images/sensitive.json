@@ -1,0 +1,18 @@
+{
+ "note": "Pictures for sensitive words. `words`: English forms (lowercase, without a leading 'to ', 'a ', 'an ', 'the ') whose pictures come only from drawings (emoji sets, Mulberry, our library) — a photo search for them finds nudity or gore. `blocked`: regular expressions (case-insensitive, matched on whole words) on a Commons file's title and categories; a match drops the file for every word. The same file is bundled in the app as WordsIteration/Providers/Images/SensitivePictures.json: keep the two identical.",
+ "words": [
+  "back", "belly", "bikini", "birth", "blood", "body", "bottom", "bra", "breast", "breastfeed", "butt", "buttocks",
+  "chest", "corpse", "dead", "death", "give birth", "gunshot", "hip", "hips", "injure", "injured", "injury",
+  "kill", "killed", "be killed", "killer", "kiss", "lover", "muscle", "naked", "navel", "nipple", "nude",
+  "pregnancy", "pregnant", "sex", "sexual", "sexy", "shoot dead", "shoulder", "skin", "stomach", "swimsuit",
+  "bathe", "bath", "shower", "take a shower", "take a bath", "thigh", "torso", "underwear", "undress",
+  "waist", "wound", "wounded", "lingerie", "panties", "bathing suit", "toilet"
+ ],
+ "blocked": [
+  "nud(e|es|ity|ism|ist|ists|ists')", "naked", "topless", "bottomless", "nipples?", "bare (breasts?|chest|buttocks|bottom)",
+  "genital(s|ia)?", "penis(es)?", "vagina", "vulva", "pubic", "buttocks", "erotic(a|ism)?", "porn\\w*",
+  "sexual (intercourse|activity|acts?|organs?)", "sex (acts?|positions?|toys?|workers?)", "lingerie", "underwear",
+  "thongs?", "bdsm", "fetish\\w*", "striptease", "strippers?", "prostitut\\w*", "corpses?", "cadavers?",
+  "dead bodies", "gore", "autops(y|ies)", "gunshot wounds?", "wounds?", "injuries", "executions?", "suicide"
+ ]
+}
