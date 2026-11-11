@@ -40,6 +40,16 @@
             "canzone"
           ]
         }
+      },
+      "image": {
+        "path": "images/song.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Billie_Holiday%2C_Downbeat%2C_New_York%2C_N.Y.%2C_ca._Feb._1947_%28William_P._Gottlieb_04251%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "William P. Gottlieb",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Billie_Holiday,_Downbeat,_New_York,_N.Y.,_ca._Feb._1947_(William_P._Gottlieb_04251).jpg"
+        }
       }
     },
     {
@@ -109,6 +119,16 @@
             "picchiare"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-hit.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F3AF.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F3AF/"
+        }
       }
     },
     {
@@ -124,6 +144,16 @@
         "es": "importante",
         "fr": "important",
         "it": "importante"
+      },
+      "image": {
+        "path": "images/important.webp",
+        "source": "https://live.staticflickr.com/2941/15186251799_f6f62b6717_b.jpg",
+        "attribution": {
+          "author": "archer10 (Dennis)",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/22490717@N02/15186251799"
+        }
       }
     },
     {
@@ -160,6 +190,16 @@
           ]
         },
         "it": "abbastanza"
+      },
+      "image": {
+        "path": "images/enough-adverb.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/enough.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -195,6 +235,16 @@
             "pianeta"
           ]
         }
+      },
+      "image": {
+        "path": "images/planet.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FA90.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FA90/"
+        }
       }
     },
     {
@@ -229,6 +279,16 @@
           "alternates": [
             "birra"
           ]
+        }
+      },
+      "image": {
+        "path": "images/beer.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F37A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F37A/"
         }
       }
     },
@@ -309,6 +369,16 @@
             "fuggire"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-escape.webp",
+        "source": "https://live.staticflickr.com/65535/51348190985_4fabb716c4_b.jpg",
+        "attribution": {
+          "author": "fusion-of-horizons",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/9019841@N08/51348190985"
+        }
       }
     },
     {
@@ -378,6 +448,9 @@
           ]
         },
         "it": "morire"
+      },
+      "image": {
+        "none": true
       }
     },
     {
@@ -403,6 +476,16 @@
         "es": "culpable",
         "fr": "coupable",
         "it": "colpevole"
+      },
+      "image": {
+        "path": "images/guilty.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/78/Singer_Sargent%2C_John_-_Orestes_Pursued_by_the_Furies_-_1921.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "John Singer Sargent",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Singer_Sargent,_John_-_Orestes_Pursued_by_the_Furies_-_1921.jpg"
+        }
       }
     },
     {
@@ -464,6 +547,16 @@
             "combattere"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-fight.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F977.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F977/"
+        }
       }
     },
     {
@@ -522,6 +615,16 @@
         "es": "ganar",
         "fr": "gagner",
         "it": "vincere"
+      },
+      "image": {
+        "path": "images/to-win.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F60E.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F60E/"
+        }
       }
     },
     {
@@ -568,6 +671,16 @@
             "il metodo"
           ]
         }
+      },
+      "image": {
+        "path": "images/way.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F92F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F92F/"
+        }
       }
     },
     {
@@ -583,6 +696,16 @@
         "es": "rojo",
         "fr": "rouge",
         "it": "rosso"
+      },
+      "image": {
+        "path": "images/red.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Color_icon_red.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Badseed",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Color_icon_red.svg"
+        }
       }
     },
     {
@@ -622,6 +745,16 @@
           "alternates": [
             "all'inizio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/at-first.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F313.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F313/"
         }
       }
     },
@@ -668,6 +801,16 @@
             "lista",
             "l'elenco"
           ]
+        }
+      },
+      "image": {
+        "path": "images/list.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4CB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4CB/"
         }
       }
     },
@@ -728,6 +871,16 @@
         "es": "aceptar",
         "fr": "accepter",
         "it": "accettare"
+      },
+      "image": {
+        "path": "images/to-accept.webp",
+        "source": "https://live.staticflickr.com/65535/51923829596_9a51f0917c_b.jpg",
+        "attribution": {
+          "author": "Matt From London",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/57868312@N00/51923829596"
+        }
       }
     },
     {
@@ -761,6 +914,16 @@
         },
         "fr": "intelligent",
         "it": "intelligente"
+      },
+      "image": {
+        "path": "images/clever.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F913.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F913/"
+        }
       }
     },
     {
@@ -801,6 +964,16 @@
             "sinceramente"
           ]
         }
+      },
+      "image": {
+        "path": "images/honestly.webp",
+        "source": "https://live.staticflickr.com/65535/51597327340_3271194c99_b.jpg",
+        "attribution": {
+          "author": "Ian Livesey",
+          "license": "CC0 1.0",
+          "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "page": "https://www.flickr.com/photos/29488979@N06/51597327340"
+        }
       }
     },
     {
@@ -840,6 +1013,16 @@
             "il principio"
           ]
         }
+      },
+      "image": {
+        "path": "images/beginning.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Groove_and_needle_in_close_embrace_from_beginning_to_end.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Franz van Duns",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Groove_and_needle_in_close_embrace_from_beginning_to_end.jpg"
+        }
       }
     },
     {
@@ -875,6 +1058,16 @@
             "mare"
           ]
         }
+      },
+      "image": {
+        "path": "images/sea.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9DC.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9DC/"
+        }
       }
     },
     {
@@ -909,6 +1102,16 @@
           "alternates": [
             "classe"
           ]
+        }
+      },
+      "image": {
+        "path": "images/class.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6B2.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6B2/"
         }
       }
     },
@@ -951,6 +1154,16 @@
           "alternates": [
             "festa"
           ]
+        }
+      },
+      "image": {
+        "path": "images/party.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F61B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F61B/"
         }
       }
     },
@@ -1021,6 +1234,16 @@
             "mollare"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-let-go.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Ball-free-fall-drop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "MikeRun",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Ball-free-fall-drop.jpg"
+        }
       }
     },
     {
@@ -1060,6 +1283,16 @@
           "alternates": [
             "destino"
           ]
+        }
+      },
+      "image": {
+        "path": "images/fate.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Strudwick-_A_Golden_Thread.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "John Melhuish Strudwick",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Strudwick-_A_Golden_Thread.JPG"
         }
       }
     },
@@ -1102,6 +1335,16 @@
             "esercito"
           ]
         }
+      },
+      "image": {
+        "path": "images/army.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FA96.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FA96/"
+        }
       }
     },
     {
@@ -1136,6 +1379,16 @@
           "alternates": [
             "caffè"
           ]
+        }
+      },
+      "image": {
+        "path": "images/coffee.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2615.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2615/"
         }
       }
     },
@@ -1176,6 +1429,16 @@
           "alternates": [
             "zio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/uncle.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Uncle_and_nephew_both_members_of_Congress._Uncle_and_nephew_combination_in_Congress%2C_Rep._Charles_A._Eaton_of_New_Jersey%2C_%28right%29_and_his_nephew_Rep._William_R._Eaton_of_Colorado%2C_are_both_LCCN2016889271_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Harris & Ewing, photographer",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Uncle_and_nephew_both_members_of_Congress._Uncle_and_nephew_combination_in_Congress,_Rep._Charles_A._Eaton_of_New_Jersey,_(right)_and_his_nephew_Rep._William_R._Eaton_of_Colorado,_are_both_LCCN2016889271_(cropped).jpg"
         }
       }
     },
@@ -1246,6 +1509,16 @@
             "fare battute"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-joke.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F61C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F61C/"
+        }
       }
     },
     {
@@ -1300,6 +1573,16 @@
         "es": "vender",
         "fr": "vendre",
         "it": "vendere"
+      },
+      "image": {
+        "path": "images/to-sell.webp",
+        "source": "https://live.staticflickr.com/65535/52023621034_5c4f8a2bd6_b.jpg",
+        "attribution": {
+          "author": "pom'.",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/146832554@N06/52023621034"
+        }
       }
     },
     {
@@ -1320,6 +1603,16 @@
         "es": "derecho",
         "fr": "droit",
         "it": "destro"
+      },
+      "image": {
+        "path": "images/right-adjective.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F5EF.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F5EF/"
+        }
       }
     },
     {
@@ -1359,6 +1652,16 @@
           "alternates": [
             "discreto"
           ]
+        }
+      },
+      "image": {
+        "path": "images/not-bad.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F44E.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F44E/"
         }
       }
     },
@@ -1400,6 +1703,16 @@
           "alternates": [
             "passato"
           ]
+        }
+      },
+      "image": {
+        "path": "images/past.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/past.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -1448,6 +1761,16 @@
             "conversazione"
           ]
         }
+      },
+      "image": {
+        "path": "images/conversation.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/5b/PManeg_0720-10_B_Oudenaarde.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "PMRMaeyaert",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:PManeg_0720-10_B_Oudenaarde.jpg"
+        }
       }
     },
     {
@@ -1494,6 +1817,16 @@
             "combattimento",
             "battaglia"
           ]
+        }
+      },
+      "image": {
+        "path": "images/battle.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/Butler_Lady_Quatre_Bras_1815.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Elizabeth Thompson",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Butler_Lady_Quatre_Bras_1815.jpg"
         }
       }
     },
@@ -1545,6 +1878,16 @@
             "buffo"
           ]
         }
+      },
+      "image": {
+        "path": "images/funny.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F923.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F923/"
+        }
       }
     },
     {
@@ -1591,6 +1934,16 @@
             "notizia"
           ]
         }
+      },
+      "image": {
+        "path": "images/news.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4F0.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4F0/"
+        }
       }
     },
     {
@@ -1625,6 +1978,16 @@
           "alternates": [
             "situazione"
           ]
+        }
+      },
+      "image": {
+        "path": "images/situation.webp",
+        "source": "https://live.staticflickr.com/65535/51927941581_170358f53b_b.jpg",
+        "attribution": {
+          "author": "conall..",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/16176711@N02/51927941581"
         }
       }
     },
@@ -1680,6 +2043,16 @@
         "es": "acercarse",
         "fr": "s'approcher",
         "it": "avvicinarsi"
+      },
+      "image": {
+        "path": "images/to-approach.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Iching-hexagram-19.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Ben Finney",
+          "license": "Attribution",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Iching-hexagram-19.svg"
+        }
       }
     },
     {
@@ -1739,6 +2112,16 @@
             "donare"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-give-as-a-gift.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9E7.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9E7/"
+        }
       }
     },
     {
@@ -1774,6 +2157,16 @@
             "oro"
           ]
         }
+      },
+      "image": {
+        "path": "images/gold-noun.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F3C5.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F3C5/"
+        }
       }
     },
     {
@@ -1808,6 +2201,16 @@
           "alternates": [
             "talvolta"
           ]
+        }
+      },
+      "image": {
+        "path": "images/sometimes.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Never_Rarely_Sometimes_Always-0502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Harald Krichel",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Never_Rarely_Sometimes_Always-0502.jpg"
         }
       }
     },
@@ -1883,6 +2286,16 @@
             "ideare"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-come-up-with.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAF4.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAF4/"
+        }
       }
     },
     {
@@ -1947,6 +2360,16 @@
             "fare conoscenza"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-get-to-know.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAF4.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAF4/"
+        }
       }
     },
     {
@@ -1983,6 +2406,16 @@
             "abito",
             "il completo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/suit.webp",
+        "source": "https://github.com/microsoft/fluentui-emoji/blob/main/assets/Person%20in%20suit%20levitating/Default/3D/person_in_suit_levitating_3d_default.png",
+        "attribution": {
+          "author": "Microsoft",
+          "license": "MIT",
+          "licenseURL": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+          "page": "https://github.com/microsoft/fluentui-emoji/tree/main/assets/Person%20in%20suit%20levitating"
         }
       }
     },
@@ -2024,6 +2457,16 @@
             "senso"
           ]
         }
+      },
+      "image": {
+        "path": "images/sense.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/b5/XBio_illustration_%E2%80%93_The_Five_Senses.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "explorebiology",
+          "license": "CC BY 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:XBio_illustration_%E2%80%93_The_Five_Senses.png"
+        }
       }
     },
     {
@@ -2039,6 +2482,16 @@
         "es": "llorar",
         "fr": "pleurer",
         "it": "piangere"
+      },
+      "image": {
+        "path": "images/to-cry.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F622.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F622/"
+        }
       }
     },
     {
@@ -2076,6 +2529,16 @@
             "errore",
             "lo sbaglio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/mistake.webp",
+        "source": "https://live.staticflickr.com/65535/52619716727_c4fbecb876_b.jpg",
+        "attribution": {
+          "author": "Bernard Spragg",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/88123769@N02/52619716727"
         }
       }
     },
@@ -2131,6 +2594,16 @@
         "es": "liberar",
         "fr": "libérer",
         "it": "liberare"
+      },
+      "image": {
+        "path": "images/to-free.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F193.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F193/"
+        }
       }
     },
     {
@@ -2190,6 +2663,16 @@
         "es": "pasar",
         "fr": "passer",
         "it": "passare"
+      },
+      "image": {
+        "path": "images/to-pass.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/26D4.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-26D4/"
+        }
       }
     },
     {
@@ -2224,6 +2707,16 @@
           "alternates": [
             "walkie-talkie"
           ]
+        }
+      },
+      "image": {
+        "path": "images/walkie-talkie.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/09/USDA_Grain_Inspection_New_Orleans_1976.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "U.S. Department of Agriculture",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:USDA_Grain_Inspection_New_Orleans_1976.jpg"
         }
       }
     },
@@ -2265,6 +2758,16 @@
             "colpo"
           ]
         }
+      },
+      "image": {
+        "path": "images/blow.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F62E-200D-1F4A8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F62E-200D-1F4A8/"
+        }
       }
     },
     {
@@ -2300,6 +2803,16 @@
           "alternates": [
             "ruolo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/role.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e9/R%C3%B4les_de_r%C3%A9unions_%28png%29.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Graineahumus",
+          "license": "CC0",
+          "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "page": "https://commons.wikimedia.org/wiki/File:R%C3%B4les_de_r%C3%A9unions_(png).png"
         }
       }
     },
@@ -2337,6 +2850,16 @@
           "alternates": [
             "suono"
           ]
+        }
+      },
+      "image": {
+        "path": "images/sound.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F442.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F442/"
         }
       }
     },
@@ -2378,6 +2901,16 @@
             "mente"
           ]
         }
+      },
+      "image": {
+        "path": "images/mind.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F92F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F92F/"
+        }
       }
     },
     {
@@ -2412,6 +2945,16 @@
           "alternates": [
             "doccia"
           ]
+        }
+      },
+      "image": {
+        "path": "images/shower.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6BF.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6BF/"
         }
       }
     },
@@ -2472,6 +3015,16 @@
         "es": "abandonar",
         "fr": "abandonner",
         "it": "abbandonare"
+      },
+      "image": {
+        "path": "images/to-abandon.webp",
+        "source": "https://live.staticflickr.com/65535/52373470726_cb3f78882f_b.jpg",
+        "attribution": {
+          "author": "Kristoffer Trolle",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/126744325@N07/52373470726"
+        }
       }
     },
     {
@@ -2507,6 +3060,16 @@
             "segnale"
           ]
         }
+      },
+      "image": {
+        "path": "images/signal.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6A5.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6A5/"
+        }
       }
     },
     {
@@ -2541,6 +3104,16 @@
           "alternates": [
             "droga"
           ]
+        }
+      },
+      "image": {
+        "path": "images/drug.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/55/VariousPills.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:VariousPills.jpg"
         }
       }
     },
@@ -2579,6 +3152,16 @@
             "club"
           ]
         }
+      },
+      "image": {
+        "path": "images/club.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F377.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F377/"
+        }
       }
     },
     {
@@ -2614,6 +3197,16 @@
             "anima"
           ]
         }
+      },
+      "image": {
+        "path": "images/soul.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Jamesbrown4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Dbking @ Flickr",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Jamesbrown4.jpg"
+        }
       }
     },
     {
@@ -2639,6 +3232,16 @@
             "matto"
           ]
         }
+      },
+      "image": {
+        "path": "images/crazy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F61C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F61C/"
+        }
       }
     },
     {
@@ -2659,6 +3262,16 @@
         "es": "futuro",
         "fr": "futur",
         "it": "futuro"
+      },
+      "image": {
+        "path": "images/future-adjective.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F52E.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F52E/"
+        }
       }
     },
     {
@@ -2698,6 +3311,16 @@
           "alternates": [
             "conto"
           ]
+        }
+      },
+      "image": {
+        "path": "images/account.webp",
+        "source": "https://live.staticflickr.com/65535/52215852589_472e93588a_b.jpg",
+        "attribution": {
+          "author": "Ministerie van Buitenlandse Zaken",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/78392295@N06/52215852589"
         }
       }
     },
@@ -2744,6 +3367,16 @@
           "alternates": [
             "forma"
           ]
+        }
+      },
+      "image": {
+        "path": "images/shape.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9F2.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9F2/"
         }
       }
     },
@@ -2821,6 +3454,16 @@
             "verificare"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-check.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2705.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2705/"
+        }
       }
     },
     {
@@ -2856,6 +3499,16 @@
             "hotel",
             "l'albergo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/hotel.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F3E8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F3E8/"
         }
       }
     },
@@ -2894,6 +3547,16 @@
             "quiete",
             "la calma"
           ]
+        }
+      },
+      "image": {
+        "path": "images/peace.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F60C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F60C/"
         }
       }
     },
@@ -2959,6 +3622,16 @@
             "ritirare"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-withdraw.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/6a/VUPP_withdraw_support_2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Djalarie",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:VUPP_withdraw_support_2.png"
+        }
       }
     },
     {
@@ -2974,6 +3647,16 @@
         "es": "sonar",
         "fr": "sonner",
         "it": "suonare"
+      },
+      "image": {
+        "path": "images/to-sound.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F442.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F442/"
+        }
       }
     },
     {
@@ -2994,6 +3677,16 @@
         "es": "actuar",
         "fr": "agir",
         "it": "agire"
+      },
+      "image": {
+        "path": "images/to-act.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F939.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F939/"
+        }
       }
     },
     {
@@ -3037,6 +3730,16 @@
             "la meta"
           ]
         }
+      },
+      "image": {
+        "path": "images/goal.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F94D.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F94D/"
+        }
       }
     },
     {
@@ -3078,6 +3781,16 @@
             "toilette"
           ]
         }
+      },
+      "image": {
+        "path": "images/toilet.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6BD.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6BD/"
+        }
       }
     },
     {
@@ -3118,6 +3831,16 @@
             "nome di battesimo"
           ]
         }
+      },
+      "image": {
+        "path": "images/first-name.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4DB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4DB/"
+        }
       }
     },
     {
@@ -3155,6 +3878,16 @@
             "ospite",
             "l'invitato"
           ]
+        }
+      },
+      "image": {
+        "path": "images/guest.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/29/Guest_crater_AS15-P-9625.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "James Stuby based on NASA image",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Guest_crater_AS15-P-9625.jpg"
         }
       }
     },
@@ -3197,6 +3930,16 @@
             "decisione"
           ]
         }
+      },
+      "image": {
+        "path": "images/decision.webp",
+        "source": "https://live.staticflickr.com/65535/52377495913_f4802b823c_b.jpg",
+        "attribution": {
+          "author": "President Of Ukraine",
+          "license": "CC0 1.0",
+          "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "page": "https://www.flickr.com/photos/165930373@N06/52377495913"
+        }
       }
     },
     {
@@ -3232,6 +3975,16 @@
             "informazione"
           ]
         }
+      },
+      "image": {
+        "path": "images/information.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2139.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2139/"
+        }
       }
     },
     {
@@ -3266,6 +4019,16 @@
           "alternates": [
             "famiglia"
           ]
+        }
+      },
+      "image": {
+        "path": "images/family.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F46A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F46A/"
         }
       }
     },
@@ -3326,6 +4089,16 @@
             "urlare"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-shout.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/59/Drill_instructor_at_the_Officer_Candidate_School.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "John Kennicutt, U.S. Marine Corps",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Drill_instructor_at_the_Officer_Candidate_School.jpg"
+        }
       }
     },
     {
@@ -3361,6 +4134,16 @@
             "messaggio"
           ]
         }
+      },
+      "image": {
+        "path": "images/message.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4AC.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4AC/"
+        }
       }
     },
     {
@@ -3381,6 +4164,16 @@
         "es": "obviamente",
         "fr": "évidemment",
         "it": "ovviamente"
+      },
+      "image": {
+        "path": "images/obviously.webp",
+        "source": "https://live.staticflickr.com/65535/49845692498_81ca261c25_b.jpg",
+        "attribution": {
+          "author": "island deborah-",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/60612262@N08/49845692498"
+        }
       }
     },
     {
@@ -3435,6 +4228,16 @@
         "es": "lograr",
         "fr": "réussir",
         "it": "riuscire"
+      },
+      "image": {
+        "path": "images/to-succeed.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Fighting_smallpox_in_Niger%2C_1969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Photo Credit: Content Providers(s): CDC/ Dr. J. D. Millar",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Fighting_smallpox_in_Niger,_1969.jpg"
+        }
       }
     },
     {
@@ -3470,6 +4273,16 @@
             "dollaro"
           ]
         }
+      },
+      "image": {
+        "path": "images/dollar.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FA99.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FA99/"
+        }
       }
     },
     {
@@ -3485,6 +4298,16 @@
         "es": "frío",
         "fr": "froid",
         "it": "freddo"
+      },
+      "image": {
+        "path": "images/cold-adjective.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F605.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F605/"
+        }
       }
     },
     {
@@ -3520,6 +4343,16 @@
           "alternates": [
             "castello"
           ]
+        }
+      },
+      "image": {
+        "path": "images/castle.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F3F0.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F3F0/"
         }
       }
     },
@@ -3563,6 +4396,16 @@
             "foresta"
           ]
         }
+      },
+      "image": {
+        "path": "images/forest.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F332.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F332/"
+        }
       }
     },
     {
@@ -3598,6 +4441,16 @@
             "spirito"
           ]
         }
+      },
+      "image": {
+        "path": "images/spirit.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F607.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F607/"
+        }
       }
     },
     {
@@ -3632,6 +4485,16 @@
           "alternates": [
             "direttore"
           ]
+        }
+      },
+      "image": {
+        "path": "images/director.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/54/Mahmoud_Zulfikar%2C_1968.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Crimson2022 Alfred",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Mahmoud_Zulfikar,_1968.jpg"
         }
       }
     },
@@ -3684,6 +4547,16 @@
             "la fotografia"
           ]
         }
+      },
+      "image": {
+        "path": "images/photo.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4F7.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4F7/"
+        }
       }
     },
     {
@@ -3719,6 +4592,16 @@
           "alternates": [
             "lingua"
           ]
+        }
+      },
+      "image": {
+        "path": "images/language.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Human_Language_Families.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "JFDP13",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Human_Language_Families.png"
         }
       }
     },
@@ -3756,6 +4639,16 @@
             "cervello"
           ]
         }
+      },
+      "image": {
+        "path": "images/brain.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9E0.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9E0/"
+        }
       }
     },
     {
@@ -3790,6 +4683,16 @@
           "alternates": [
             "dito"
           ]
+        }
+      },
+      "image": {
+        "path": "images/finger.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/finger.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -3839,6 +4742,16 @@
             "ordinario"
           ]
         }
+      },
+      "image": {
+        "path": "images/ordinary.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Ordinary_bicycle01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Agnieszka Kwiecień (Nova)",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Ordinary_bicycle01.jpg"
+        }
       }
     },
     {
@@ -3873,6 +4786,16 @@
           "alternates": [
             "uscita"
           ]
+        }
+      },
+      "image": {
+        "path": "images/exit.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/28/Dead_soldier_%28American_Civil_War_-_Siege_of_Petersburg%2C_April_1_1865%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Thomas C Roche 1826-1895",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Dead_soldier_(American_Civil_War_-_Siege_of_Petersburg,_April_1_1865).jpg"
         }
       }
     },
@@ -3927,6 +4850,16 @@
             "occasione"
           ]
         }
+      },
+      "image": {
+        "path": "images/opportunity.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/d8/NASA_Mars_Rover.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "NASA/JPL/Cornell University, Maas Digital LLC",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:NASA_Mars_Rover.jpg"
+        }
       }
     },
     {
@@ -3963,6 +4896,16 @@
             "autobus",
             "il bus"
           ]
+        }
+      },
+      "image": {
+        "path": "images/bus.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F68C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F68C/"
         }
       }
     },
@@ -4004,6 +4947,16 @@
             "resto"
           ]
         }
+      },
+      "image": {
+        "path": "images/rest.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Lion_and_lioness_sleeping.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Vincenzo Gianferrari Pini",
+          "license": "CC BY-SA 2.5 it",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5/it/deed.en",
+          "page": "https://commons.wikimedia.org/wiki/File:Lion_and_lioness_sleeping.JPG"
+        }
       }
     },
     {
@@ -4040,6 +4993,16 @@
           "alternates": [
             "universo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/universe.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/69/NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "NASA, ESA, H. Teplitz and M. Rafelski (IPAC/Caltech), A. Koekemoer (STScI), R. Windhorst (Arizona State University), and Z. Levay (STScI)",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:NASA-HS201427a-HubbleUltraDeepField2014-20140603.jpg"
         }
       }
     },
@@ -4105,6 +5068,16 @@
         },
         "fr": "remercier",
         "it": "ringraziare"
+      },
+      "image": {
+        "path": "images/to-thank.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Protein_TNFSF13B_PDB_1jh5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Emw",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Protein_TNFSF13B_PDB_1jh5.png"
+        }
       }
     },
     {
@@ -4120,6 +5093,16 @@
         "es": "tercero",
         "fr": "troisième",
         "it": "terzo"
+      },
+      "image": {
+        "path": "images/third-adjective.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F949.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F949/"
+        }
       }
     },
     {
@@ -4154,6 +5137,16 @@
           "alternates": [
             "aereo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/airplane.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2708.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2708/"
         }
       }
     }

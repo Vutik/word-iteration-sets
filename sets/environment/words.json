@@ -34,6 +34,16 @@
             "ambiente"
           ]
         }
+      },
+      "image": {
+        "path": "images/environment.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Kompalniaielektrownia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Stasisław at Polish Wikipedia",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Kompalniaielektrownia.jpg"
+        }
       }
     },
     {
@@ -68,6 +78,16 @@
           "alternates": [
             "clima"
           ]
+        }
+      },
+      "image": {
+        "path": "images/climate.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAB8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAB8/"
         }
       }
     },
@@ -113,6 +133,16 @@
           "alternates": [
             "cambiamento climatico"
           ]
+        }
+      },
+      "image": {
+        "path": "images/climate-change.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAB8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAB8/"
         }
       }
     },
@@ -166,7 +196,17 @@
             "it": "L'inquinamento atmosferico è un grosso problema in molte città."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/pollution.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Air_pollution3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Janak Bhatta",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Air_pollution3.jpg"
+        }
+      }
     },
     {
       "forms": {
@@ -225,6 +265,16 @@
             "spazzatura"
           ]
         }
+      },
+      "image": {
+        "path": "images/waste.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F5D1.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F5D1/"
+        }
       }
     },
     {
@@ -267,6 +317,16 @@
             "riciclo"
           ]
         }
+      },
+      "image": {
+        "path": "images/recycling.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/267B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-267B/"
+        }
       }
     },
     {
@@ -301,6 +361,16 @@
           "alternates": [
             "energia"
           ]
+        }
+      },
+      "image": {
+        "path": "images/energy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAAB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAAB/"
         }
       }
     },
@@ -338,6 +408,16 @@
           "alternates": [
             "energia solare"
           ]
+        }
+      },
+      "image": {
+        "path": "images/solar-energy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAAB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAAB/"
         }
       }
     },
@@ -380,6 +460,16 @@
             "combustibile"
           ]
         }
+      },
+      "image": {
+        "path": "images/fuel.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/26FD.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-26FD/"
+        }
       }
     },
     {
@@ -414,6 +504,16 @@
           "alternates": [
             "risorse"
           ]
+        }
+      },
+      "image": {
+        "path": "images/resources.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Singapore_Ship_Docks_%28PSA%29_%286464681311%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "ShnapThat!",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Singapore_Ship_Docks_(PSA)_(6464681311).jpg"
         }
       }
     },
@@ -450,6 +550,16 @@
             "specie"
           ]
         }
+      },
+      "image": {
+        "path": "images/species.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Heliconius_mimicry.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "see Source",
+          "license": "CC BY 2.5",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.5",
+          "page": "https://commons.wikimedia.org/wiki/File:Heliconius_mimicry.png"
+        }
       }
     },
     {
@@ -484,6 +594,16 @@
           "alternates": [
             "siccità"
           ]
+        }
+      },
+      "image": {
+        "path": "images/drought.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F335.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F335/"
         }
       }
     },
@@ -529,6 +649,16 @@
             "alluvione"
           ]
         }
+      },
+      "image": {
+        "path": "images/flood.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/3/3d/KatrinaNewOrleansFlooded_edit2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "AP Photo/U.S. Coast Guard, Petty Officer 2nd Class Kyle Niemi",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:KatrinaNewOrleansFlooded_edit2.jpg"
+        }
       }
     },
     {
@@ -568,6 +698,16 @@
             "riscaldamento globale"
           ]
         }
+      },
+      "image": {
+        "path": "images/global-warming.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/11/Carbon_Dioxide_800kyr.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Femke Nijsse",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Carbon_Dioxide_800kyr.svg"
+        }
       }
     },
     {
@@ -603,6 +743,16 @@
             "plastica"
           ]
         }
+      },
+      "image": {
+        "path": "images/plastic.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/plastic.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -628,6 +778,16 @@
         "es": "proteger",
         "fr": "protéger",
         "it": "proteggere"
+      },
+      "image": {
+        "path": "images/to-protect.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAAC.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAAC/"
+        }
       }
     },
     {
@@ -643,6 +803,16 @@
         "es": "contaminar",
         "fr": "polluer",
         "it": "inquinare"
+      },
+      "image": {
+        "path": "images/to-pollute.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Air_pollution3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Janak Bhatta",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Air_pollution3.jpg"
+        }
       }
     },
     {
@@ -673,6 +843,16 @@
         "es": "reciclar",
         "fr": "recycler",
         "it": "riciclare"
+      },
+      "image": {
+        "path": "images/to-recycle.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/267B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-267B/"
+        }
       }
     },
     {
@@ -713,6 +893,16 @@
             "diminuire"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-reduce.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/8/8e/REDUCE_Screenshot_1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "F J Wright",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:REDUCE_Screenshot_1.png"
+        }
       }
     },
     {
@@ -743,6 +933,16 @@
         },
         "fr": "gaspiller",
         "it": "sprecare"
+      },
+      "image": {
+        "path": "images/to-waste.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F5D1.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F5D1/"
+        }
       }
     },
     {
@@ -789,6 +989,16 @@
             "in via d'estinzione"
           ]
         }
+      },
+      "image": {
+        "path": "images/endangered.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/22/Status_iucn3.1_EN-ca.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Quico Llach",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Status_iucn3.1_EN-ca.svg"
+        }
       }
     },
     {
@@ -804,6 +1014,16 @@
         "es": "renovable",
         "fr": "renouvelable",
         "it": "rinnovabile"
+      },
+      "image": {
+        "path": "images/renewable.webp",
+        "source": "https://live.staticflickr.com/8452/29812927675_e2aab01863_b.jpg",
+        "attribution": {
+          "author": "mypubliclands",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/91981596@N06/29812927675"
+        }
       }
     },
     {
@@ -840,6 +1060,16 @@
           "alternates": [
             "emissioni"
           ]
+        }
+      },
+      "image": {
+        "path": "images/emissions.webp",
+        "source": "https://live.staticflickr.com/65535/52210554682_5dd5282153_b.jpg",
+        "attribution": {
+          "author": "James Webb Space Telescope",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/50785054@N03/52210554682"
         }
       }
     },
@@ -890,6 +1120,16 @@
             "anidride carbonica",
             "biossido di carbonio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/carbon-dioxide.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Carbon-dioxide-2D-dimensions.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Alessio Damato",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Carbon-dioxide-2D-dimensions.svg"
         }
       }
     },
@@ -943,6 +1183,16 @@
             "deforestazione"
           ]
         }
+      },
+      "image": {
+        "path": "images/deforestation.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Opera%C3%A7%C3%A3o_Hymenaea%2C_Julho-2016_%2829399454651%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Ibama from Brasil",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Opera%C3%A7%C3%A3o_Hymenaea,_Julho-2016_(29399454651).jpg"
+        }
       }
     },
     {
@@ -977,6 +1227,16 @@
           "alternates": [
             "habitat"
           ]
+        }
+      },
+      "image": {
+        "path": "images/habitat.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F333.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F333/"
         }
       }
     },
@@ -1023,6 +1283,16 @@
           "alternates": [
             "fauna selvatica"
           ]
+        }
+      },
+      "image": {
+        "path": "images/wildlife.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Nictea_July_2015-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Alvesgaspar",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Nictea_July_2015-2.jpg"
         }
       }
     },
@@ -1078,6 +1348,16 @@
             "calamità naturale"
           ]
         }
+      },
+      "image": {
+        "path": "images/natural-disaster.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FADA.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FADA/"
+        }
       }
     },
     {
@@ -1130,6 +1410,16 @@
             "discarica"
           ]
         }
+      },
+      "image": {
+        "path": "images/landfill.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/52/%CE%A7%CF%89%CE%BC%CE%B1%CF%84%CE%B5%CF%81%CE%AE_%CE%9C%CE%B1%CF%85%CF%81%CE%BF%CF%81%CE%AC%CF%87%CE%B7%CF%82_%28%CE%A7%CE%A5%CE%A4%CE%91_%CE%9C%CE%B1%CE%BA%CE%B5%CE%B4%CE%BF%CE%BD%CE%AF%CE%B1%CF%82%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Truckdriver53",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:%CE%A7%CF%89%CE%BC%CE%B1%CF%84%CE%B5%CF%81%CE%AE_%CE%9C%CE%B1%CF%85%CF%81%CE%BF%CF%81%CE%AC%CF%87%CE%B7%CF%82_(%CE%A7%CE%A5%CE%A4%CE%91_%CE%9C%CE%B1%CE%BA%CE%B5%CE%B4%CE%BF%CE%BD%CE%AF%CE%B1%CF%82).jpg"
+        }
       }
     },
     {
@@ -1166,6 +1456,16 @@
           "alternates": [
             "smog"
           ]
+        }
+      },
+      "image": {
+        "path": "images/smog.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Fanhe_Town_10_day_interval_contrast.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Tomskyhaha",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Fanhe_Town_10_day_interval_contrast.png"
         }
       }
     },
@@ -1219,6 +1519,16 @@
             "energia eolica"
           ]
         }
+      },
+      "image": {
+        "path": "images/wind-power.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAAB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAAB/"
+        }
       }
     },
     {
@@ -1271,6 +1581,16 @@
             "energia nucleare"
           ]
         }
+      },
+      "image": {
+        "path": "images/nuclear-energy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAAB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAAB/"
+        }
       }
     },
     {
@@ -1306,6 +1626,16 @@
             "combustibili fossili"
           ]
         }
+      },
+      "image": {
+        "path": "images/fossil-fuels.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/66/Combustibles_fossiles.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Pixeltoo",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Combustibles_fossiles.png"
+        }
       }
     },
     {
@@ -1331,6 +1661,16 @@
         },
         "fr": "durable",
         "it": "sostenibile"
+      },
+      "image": {
+        "path": "images/sustainable.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Beech_Forest_%28AU%29%2C_Great_Otway_National_Park%2C_Beauchamp_Falls_--_2019_--_1271.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Dietmar Rabich",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Beech_Forest_(AU),_Great_Otway_National_Park,_Beauchamp_Falls_--_2019_--_1271.jpg"
+        }
       }
     },
     {
@@ -1360,6 +1700,16 @@
           "alternates": [
             "nocivo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/harmful.webp",
+        "source": "https://live.staticflickr.com/65535/51835602482_327b0c998d_b.jpg",
+        "attribution": {
+          "author": "7C0",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/39453974@N04/51835602482"
         }
       }
     },
@@ -1405,6 +1755,16 @@
           "alternates": [
             "ecosostenibile"
           ]
+        }
+      },
+      "image": {
+        "path": "images/eco-friendly.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Depuradora_de_Lluc.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Chixoy",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "page": "https://commons.wikimedia.org/wiki/File:Depuradora_de_Lluc.JPG"
         }
       }
     },
@@ -1455,6 +1815,16 @@
           "alternates": [
             "organico"
           ]
+        }
+      },
+      "image": {
+        "path": "images/organic.webp",
+        "source": "https://live.staticflickr.com/487/30863188584_99f9649414_b.jpg",
+        "attribution": {
+          "author": "archer10 (Dennis)",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/22490717@N02/30863188584"
         }
       }
     },
@@ -1525,6 +1895,16 @@
           ]
         },
         "it": "danneggiare"
+      },
+      "image": {
+        "path": "images/to-damage.webp",
+        "source": "https://live.staticflickr.com/65535/51940178701_a5f7312f7b_b.jpg",
+        "attribution": {
+          "author": "Axel Bührmann",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/9852972@N03/51940178701"
+        }
       }
     },
     {
@@ -1589,6 +1969,16 @@
           ]
         },
         "it": "vietare"
+      },
+      "image": {
+        "path": "images/to-ban.webp",
+        "source": "https://live.staticflickr.com/65535/52448838157_3dea4c9eb4_b.jpg",
+        "attribution": {
+          "author": "PatrickRich",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/91689877@N03/52448838157"
+        }
       }
     },
     {
@@ -1621,6 +2011,16 @@
           "alternates": [
             "riusare"
           ]
+        }
+      },
+      "image": {
+        "path": "images/to-reuse.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/65/Verbeke_foundation_-_The_Miele_Space_Station.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "DeSchepperG",
+          "license": "CC BY 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Verbeke_foundation_-_The_Miele_Space_Station.jpg"
         }
       }
     },
@@ -1685,6 +2085,16 @@
           "alternates": [
             "tagliare"
           ]
+        }
+      },
+      "image": {
+        "path": "images/to-cut-down.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAF3.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAF3/"
         }
       }
     },
@@ -1754,6 +2164,16 @@
           "alternates": [
             "buttare via"
           ]
+        }
+      },
+      "image": {
+        "path": "images/to-throw-away.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4A8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4A8/"
         }
       }
     }

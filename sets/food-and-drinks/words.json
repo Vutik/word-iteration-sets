@@ -34,6 +34,16 @@
             "pane"
           ]
         }
+      },
+      "image": {
+        "path": "images/bread.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/bread.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -79,6 +89,16 @@
             "burro"
           ]
         }
+      },
+      "image": {
+        "path": "images/butter.webp",
+        "source": "https://github.com/microsoft/fluentui-emoji/blob/main/assets/Butter/3D/butter_3d.png",
+        "attribution": {
+          "author": "Microsoft",
+          "license": "MIT",
+          "licenseURL": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+          "page": "https://github.com/microsoft/fluentui-emoji/tree/main/assets/Butter"
+        }
       }
     },
     {
@@ -113,6 +133,16 @@
           "alternates": [
             "formaggio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/cheese.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9C0.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9C0/"
         }
       }
     },
@@ -149,6 +179,16 @@
             "uovo"
           ]
         }
+      },
+      "image": {
+        "path": "images/egg.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F95A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F95A/"
+        }
       }
     },
     {
@@ -183,6 +223,16 @@
           "alternates": [
             "carne"
           ]
+        }
+      },
+      "image": {
+        "path": "images/meat.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F356.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F356/"
         }
       }
     },
@@ -226,6 +276,16 @@
             "pollo"
           ]
         }
+      },
+      "image": {
+        "path": "images/chicken.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F414.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F414/"
+        }
       }
     },
     {
@@ -261,6 +321,16 @@
             "pesce"
           ]
         }
+      },
+      "image": {
+        "path": "images/fish.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F41F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F41F/"
+        }
       }
     },
     {
@@ -295,6 +365,16 @@
           "alternates": [
             "riso"
           ]
+        }
+      },
+      "image": {
+        "path": "images/rice.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F33E.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F33E/"
         }
       }
     },
@@ -337,6 +417,16 @@
           "alternates": [
             "patata"
           ]
+        }
+      },
+      "image": {
+        "path": "images/potato.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F954.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F954/"
         }
       }
     },
@@ -390,7 +480,17 @@
             "it": "La zuppa è troppo calda."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/soup.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F372.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F372/"
+        }
+      }
     },
     {
       "forms": {
@@ -424,6 +524,16 @@
           "alternates": [
             "insalata"
           ]
+        }
+      },
+      "image": {
+        "path": "images/salad.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F96C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F96C/"
         }
       }
     },
@@ -460,6 +570,16 @@
             "zucchero"
           ]
         }
+      },
+      "image": {
+        "path": "images/sugar.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sugar_2xmacro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Lauri Andler (Phantom)",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "page": "https://commons.wikimedia.org/wiki/File:Sugar_2xmacro.jpg"
+        }
       }
     },
     {
@@ -494,6 +614,16 @@
           "alternates": [
             "sale"
           ]
+        }
+      },
+      "image": {
+        "path": "images/salt.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9C2.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9C2/"
         }
       }
     },
@@ -530,6 +660,16 @@
             "acqua"
           ]
         }
+      },
+      "image": {
+        "path": "images/water.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4A6.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4A6/"
+        }
       }
     },
     {
@@ -564,6 +704,16 @@
           "alternates": [
             "latte"
           ]
+        }
+      },
+      "image": {
+        "path": "images/milk.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/milk.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -600,6 +750,16 @@
             "caffè"
           ]
         }
+      },
+      "image": {
+        "path": "images/coffee.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2615.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2615/"
+        }
       }
     },
     {
@@ -634,6 +794,16 @@
           "alternates": [
             "tè"
           ]
+        }
+      },
+      "image": {
+        "path": "images/tea.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/tea.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -672,6 +842,16 @@
             "succo"
           ]
         }
+      },
+      "image": {
+        "path": "images/juice.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/67/Orange_juice_1_edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Agency of the United States Department of Agriculture Edited Version by: Arad",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Orange_juice_1_edit1.jpg"
+        }
       }
     },
     {
@@ -706,6 +886,16 @@
           "alternates": [
             "birra"
           ]
+        }
+      },
+      "image": {
+        "path": "images/beer.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F37A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F37A/"
         }
       }
     },
@@ -742,6 +932,16 @@
             "vino"
           ]
         }
+      },
+      "image": {
+        "path": "images/wine.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/wine.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -776,6 +976,16 @@
           "alternates": [
             "colazione"
           ]
+        }
+      },
+      "image": {
+        "path": "images/breakfast.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Petit_d%C3%A9jeuner_fran%C3%A7ais.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Nat",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Petit_d%C3%A9jeuner_fran%C3%A7ais.jpg"
         }
       }
     },
@@ -818,6 +1028,16 @@
           "alternates": [
             "pranzo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/lunch.webp",
+        "source": "https://github.com/microsoft/fluentui-emoji/blob/main/assets/Fork%20and%20knife/3D/fork_and_knife_3d.png",
+        "attribution": {
+          "author": "Microsoft",
+          "license": "MIT",
+          "licenseURL": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+          "page": "https://github.com/microsoft/fluentui-emoji/tree/main/assets/Fork%20and%20knife"
         }
       }
     },
@@ -872,7 +1092,17 @@
             "it": "Ceniamo alle sette."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/dinner.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F37D.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F37D/"
+        }
+      }
     },
     {
       "forms": {
@@ -908,6 +1138,16 @@
             "verdura",
             "ortaggio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/vegetable.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Kleinmarkthalle_Frankfurt_Gem%C3%BCsestand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "EvaK",
+          "license": "CC BY-SA 2.5",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5",
+          "page": "https://commons.wikimedia.org/wiki/File:Kleinmarkthalle_Frankfurt_Gem%C3%BCsestand.jpg"
         }
       }
     },
@@ -945,6 +1185,16 @@
           "alternates": [
             "frutta"
           ]
+        }
+      },
+      "image": {
+        "path": "images/fruit.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/fruit.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -991,6 +1241,16 @@
             "pomodoro"
           ]
         }
+      },
+      "image": {
+        "path": "images/tomato.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/tomato.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -1025,6 +1285,16 @@
           "alternates": [
             "cipolla"
           ]
+        }
+      },
+      "image": {
+        "path": "images/onion.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9C5.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9C5/"
         }
       }
     },
@@ -1063,6 +1333,16 @@
             "carota"
           ]
         }
+      },
+      "image": {
+        "path": "images/carrot.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F955.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F955/"
+        }
       }
     },
     {
@@ -1097,6 +1377,16 @@
           "alternates": [
             "cetriolo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/cucumber.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F952.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F952/"
         }
       }
     },
@@ -1145,6 +1435,16 @@
             "pasta"
           ]
         }
+      },
+      "image": {
+        "path": "images/pasta.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/3/3f/%28Pasta%29_by_David_Adam_Kess_%28pic.2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "David Adam Kess",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:(Pasta)_by_David_Adam_Kess_(pic.2).jpg"
+        }
       }
     },
     {
@@ -1190,6 +1490,16 @@
             "salsiccia"
           ]
         }
+      },
+      "image": {
+        "path": "images/sausage.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F32D.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F32D/"
+        }
       }
     },
     {
@@ -1224,6 +1534,16 @@
           "alternates": [
             "prosciutto"
           ]
+        }
+      },
+      "image": {
+        "path": "images/ham.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ham_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Renee Comet (Photographer)",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Ham_(4).jpg"
         }
       }
     },
@@ -1276,6 +1596,16 @@
             "sandwich"
           ]
         }
+      },
+      "image": {
+        "path": "images/sandwich.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/sandwich.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -1310,6 +1640,16 @@
           "alternates": [
             "pizza"
           ]
+        }
+      },
+      "image": {
+        "path": "images/pizza.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F355.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F355/"
         }
       }
     },
@@ -1355,6 +1695,16 @@
             "torta"
           ]
         }
+      },
+      "image": {
+        "path": "images/cake.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/cake.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -1389,6 +1739,16 @@
           "alternates": [
             "cioccolato"
           ]
+        }
+      },
+      "image": {
+        "path": "images/chocolate.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/chocolate.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -1425,6 +1785,16 @@
             "gelato"
           ]
         }
+      },
+      "image": {
+        "path": "images/ice-cream.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F368.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F368/"
+        }
       }
     },
     {
@@ -1459,6 +1829,16 @@
           "alternates": [
             "miele"
           ]
+        }
+      },
+      "image": {
+        "path": "images/honey.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/honey.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -1500,6 +1880,16 @@
             "olio"
           ]
         }
+      },
+      "image": {
+        "path": "images/oil.webp",
+        "source": "https://github.com/microsoft/fluentui-emoji/blob/main/assets/Oil%20drum/3D/oil_drum_3d.png",
+        "attribution": {
+          "author": "Microsoft",
+          "license": "MIT",
+          "licenseURL": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+          "page": "https://github.com/microsoft/fluentui-emoji/tree/main/assets/Oil%20drum"
+        }
       }
     },
     {
@@ -1534,6 +1924,16 @@
           "alternates": [
             "pepe"
           ]
+        }
+      },
+      "image": {
+        "path": "images/pepper.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F336.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F336/"
         }
       }
     },
@@ -1571,6 +1971,16 @@
           "alternates": [
             "yogurt"
           ]
+        }
+      },
+      "image": {
+        "path": "images/yoghurt.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Strawberry_yoghurt_clip_art.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Smart Servier",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Strawberry_yoghurt_clip_art.png"
         }
       }
     },
@@ -1620,6 +2030,16 @@
             "marmellata",
             "confettura"
           ]
+        }
+      },
+      "image": {
+        "path": "images/jam.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/jam.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     }

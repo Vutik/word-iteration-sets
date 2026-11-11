@@ -14,6 +14,16 @@
         "es": "feliz",
         "fr": "heureux",
         "it": "felice"
+      },
+      "image": {
+        "path": "images/happy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F600.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F600/"
+        }
       }
     },
     {
@@ -34,6 +44,16 @@
         "es": "triste",
         "fr": "triste",
         "it": "triste"
+      },
+      "image": {
+        "path": "images/sad.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F614.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F614/"
+        }
       }
     },
     {
@@ -79,6 +99,16 @@
           ]
         },
         "it": "arrabbiato"
+      },
+      "image": {
+        "path": "images/angry.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F624.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F624/"
+        }
       }
     },
     {
@@ -119,7 +149,17 @@
             "it": "Sono troppo stanco per uscire stasera."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/tired.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F62A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F62A/"
+        }
+      }
     },
     {
       "forms": {
@@ -139,6 +179,16 @@
         "es": "aburrido",
         "fr": "ennuyé",
         "it": "annoiato"
+      },
+      "image": {
+        "path": "images/bored.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F612.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F612/"
+        }
       }
     },
     {
@@ -172,6 +222,16 @@
           ]
         },
         "it": "spaventato"
+      },
+      "image": {
+        "path": "images/scared.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAE2.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAE2/"
+        }
       }
     },
     {
@@ -192,6 +252,16 @@
         "es": "sorprendido",
         "fr": "surpris",
         "it": "sorpreso"
+      },
+      "image": {
+        "path": "images/surprised.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F62E.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F62E/"
+        }
       }
     },
     {
@@ -227,6 +297,16 @@
             "agitato"
           ]
         }
+      },
+      "image": {
+        "path": "images/nervous.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F605.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F605/"
+        }
       }
     },
     {
@@ -247,6 +327,16 @@
         "es": "preocupado",
         "fr": "inquiet",
         "it": "preoccupato"
+      },
+      "image": {
+        "path": "images/worried.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F61F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F61F/"
+        }
       }
     },
     {
@@ -271,6 +361,16 @@
           "alternates": [
             "tranquillo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/calm.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F60C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F60C/"
         }
       }
     },
@@ -297,6 +397,16 @@
             "solitario"
           ]
         }
+      },
+      "image": {
+        "path": "images/lonely.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F494.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F494/"
+        }
       }
     },
     {
@@ -316,6 +426,16 @@
           "alternates": [
             "fiero"
           ]
+        }
+      },
+      "image": {
+        "path": "images/proud.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F972.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F972/"
         }
       }
     },
@@ -346,6 +466,16 @@
           "alternates": [
             "lieto"
           ]
+        }
+      },
+      "image": {
+        "path": "images/glad.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F60A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F60A/"
         }
       }
     },
@@ -381,6 +511,16 @@
           "alternates": [
             "amore"
           ]
+        }
+      },
+      "image": {
+        "path": "images/love.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F970.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F970/"
         }
       }
     },
@@ -418,6 +558,16 @@
             "paura"
           ]
         }
+      },
+      "image": {
+        "path": "images/fear.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F631.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F631/"
+        }
       }
     },
     {
@@ -453,6 +603,16 @@
             "gioia"
           ]
         }
+      },
+      "image": {
+        "path": "images/joy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F923.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F923/"
+        }
       }
     },
     {
@@ -473,6 +633,16 @@
         },
         "fr": "rire",
         "it": "ridere"
+      },
+      "image": {
+        "path": "images/to-laugh.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F600.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F600/"
+        }
       }
     },
     {
@@ -488,6 +658,16 @@
         "es": "llorar",
         "fr": "pleurer",
         "it": "piangere"
+      },
+      "image": {
+        "path": "images/to-cry.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F622.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F622/"
+        }
       }
     },
     {
@@ -508,6 +688,16 @@
         "es": "sonreír",
         "fr": "sourire",
         "it": "sorridere"
+      },
+      "image": {
+        "path": "images/to-smile.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F600.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F600/"
+        }
       }
     },
     {
@@ -533,6 +723,16 @@
         "es": "preocuparse",
         "fr": "s'inquiéter",
         "it": "preoccuparsi"
+      },
+      "image": {
+        "path": "images/to-worry.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F61F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F61F/"
+        }
       }
     },
     {
@@ -548,6 +748,16 @@
         "es": "decepcionado",
         "fr": "déçu",
         "it": "deluso"
+      },
+      "image": {
+        "path": "images/disappointed.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAE4.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAE4/"
+        }
       }
     },
     {
@@ -568,6 +778,16 @@
             "riconoscente"
           ]
         }
+      },
+      "image": {
+        "path": "images/grateful.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F972.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F972/"
+        }
       }
     },
     {
@@ -583,6 +803,16 @@
         "es": "avergonzado",
         "fr": "gêné",
         "it": "imbarazzato"
+      },
+      "image": {
+        "path": "images/embarrassed.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F633.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F633/"
+        }
       }
     },
     {
@@ -603,6 +833,16 @@
         "es": "relajado",
         "fr": "détendu",
         "it": "rilassato"
+      },
+      "image": {
+        "path": "images/relaxed.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F60E.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F60E/"
+        }
       }
     },
     {
@@ -618,6 +858,16 @@
         "es": "confundido",
         "fr": "confus",
         "it": "confuso"
+      },
+      "image": {
+        "path": "images/confused.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F635-200D-1F4AB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F635-200D-1F4AB/"
+        }
       }
     },
     {
@@ -633,6 +883,16 @@
         "es": "enamorado",
         "fr": "amoureux",
         "it": "innamorato"
+      },
+      "image": {
+        "path": "images/in-love.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F970.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F970/"
+        }
       }
     },
     {
@@ -667,6 +927,16 @@
           "alternates": [
             "felicità"
           ]
+        }
+      },
+      "image": {
+        "path": "images/happiness.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Sweet_Baby_Kisses_Family_Love.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "D. Sharon Pruitt from Hill Air Force Base, Utah, USA",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Sweet_Baby_Kisses_Family_Love.jpg"
         }
       }
     },
@@ -712,6 +982,16 @@
           "alternates": [
             "tristezza"
           ]
+        }
+      },
+      "image": {
+        "path": "images/sadness.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Evstafiev-bosnia-sarajevo-funeral-reaction.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Photo: Mikhail Evstafiev",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "page": "https://commons.wikimedia.org/wiki/File:Evstafiev-bosnia-sarajevo-funeral-reaction.jpg"
         }
       }
     },
@@ -769,6 +1049,16 @@
             "l'ira"
           ]
         }
+      },
+      "image": {
+        "path": "images/anger.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F624.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F624/"
+        }
       }
     },
     {
@@ -803,6 +1093,16 @@
           "alternates": [
             "speranza"
           ]
+        }
+      },
+      "image": {
+        "path": "images/hope.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hopeful.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Ahill34",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Hopeful.jpg"
         }
       }
     },
@@ -854,6 +1154,16 @@
             "sorpresa"
           ]
         }
+      },
+      "image": {
+        "path": "images/surprise.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F92D.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F92D/"
+        }
       }
     },
     {
@@ -893,6 +1203,16 @@
             "umore"
           ]
         }
+      },
+      "image": {
+        "path": "images/mood.webp",
+        "source": "https://live.staticflickr.com/65535/51707637171_7b100f9b16_b.jpg",
+        "attribution": {
+          "author": "enneafive",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/75612671@N03/51707637171"
+        }
       }
     },
     {
@@ -928,6 +1248,16 @@
             "sentimento"
           ]
         }
+      },
+      "image": {
+        "path": "images/feeling.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Sensitiva_%28Miquel_Blay%2C_MRABASF_E-76%29_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Miquel Blay i Fàbregas",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Sensitiva_(Miquel_Blay,_MRABASF_E-76)_01.jpg"
+        }
       }
     },
     {
@@ -948,6 +1278,16 @@
           ]
         },
         "it": "odiare"
+      },
+      "image": {
+        "path": "images/to-hate.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/08/Haters.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Bifalcucci",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Haters.jpg"
+        }
       }
     },
     {
@@ -963,6 +1303,16 @@
         "es": "esperar",
         "fr": "espérer",
         "it": "sperare"
+      },
+      "image": {
+        "path": "images/to-hope.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hopeful.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Ahill34",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Hopeful.jpg"
+        }
       }
     },
     {
@@ -1009,6 +1359,16 @@
           ]
         },
         "it": "godersi"
+      },
+      "image": {
+        "path": "images/to-enjoy.webp",
+        "source": "https://live.staticflickr.com/65535/51804360565_c16b4c5bf2_b.jpg",
+        "attribution": {
+          "author": "Rikky_Satin",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/95163690@N07/51804360565"
+        }
       }
     }
   ]

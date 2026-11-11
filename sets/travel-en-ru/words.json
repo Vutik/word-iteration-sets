@@ -9,6 +9,16 @@
           "partOfSpeech": "noun"
         },
         "ru": "аэропорт"
+      },
+      "image": {
+        "path": "images/airport.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Heathrow_Airport_010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Panhard",
+          "license": "CC BY 2.5",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.5",
+          "page": "https://commons.wikimedia.org/wiki/File:Heathrow_Airport_010.jpg"
+        }
       }
     },
     {
@@ -28,7 +38,17 @@
             "ru": "Я купил билет в Лондон."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/ticket.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F3AB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F3AB/"
+        }
+      }
     },
     {
       "forms": {
@@ -38,6 +58,16 @@
           "partOfSpeech": "noun"
         },
         "ru": "паспорт"
+      },
+      "image": {
+        "path": "images/passport.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6C2.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6C2/"
+        }
       }
     },
     {
@@ -48,6 +78,16 @@
           "partOfSpeech": "noun"
         },
         "ru": "багаж"
+      },
+      "image": {
+        "path": "images/luggage.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9F3.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9F3/"
+        }
       }
     },
     {
@@ -58,6 +98,16 @@
           "partOfSpeech": "noun"
         },
         "ru": "чемодан"
+      },
+      "image": {
+        "path": "images/suitcase.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9F3.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9F3/"
+        }
       }
     },
     {
@@ -68,6 +118,16 @@
           "partOfSpeech": "noun"
         },
         "ru": "поезд"
+      },
+      "image": {
+        "path": "images/train.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F686.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F686/"
+        }
       }
     },
     {
@@ -83,6 +143,16 @@
             "станция"
           ]
         }
+      },
+      "image": {
+        "path": "images/station.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F689.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F689/"
+        }
       }
     },
     {
@@ -97,6 +167,16 @@
           "alternates": [
             "перрон"
           ]
+        }
+      },
+      "image": {
+        "path": "images/platform.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Train_station_platform_shelter_at_Corinda_railway_station%2C_Queensland%2C_Australia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Kgbo",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Train_station_platform_shelter_at_Corinda_railway_station,_Queensland,_Australia.jpg"
         }
       }
     },
@@ -122,7 +202,17 @@
             "ru": "Наш рейс задерживается на два часа."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/flight.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAB6.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAB6/"
+        }
+      }
     },
     {
       "forms": {
@@ -136,6 +226,16 @@
           "alternates": [
             "отель"
           ]
+        }
+      },
+      "image": {
+        "path": "images/hotel.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F3E8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F3E8/"
         }
       }
     },
@@ -152,6 +252,16 @@
             "бронь"
           ]
         }
+      },
+      "image": {
+        "path": "images/reservation.webp",
+        "source": "https://live.staticflickr.com/65535/51671914887_7edb4ac5e2_b.jpg",
+        "attribution": {
+          "author": "cattan2011",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/68166820@N08/51671914887"
+        }
       }
     },
     {
@@ -162,6 +272,16 @@
           "partOfSpeech": "noun"
         },
         "ru": "карта"
+      },
+      "image": {
+        "path": "images/map.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F5FA.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F5FA/"
+        }
       }
     },
     {
@@ -177,6 +297,16 @@
             "вылет"
           ]
         }
+      },
+      "image": {
+        "path": "images/departure.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6EB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6EB/"
+        }
       }
     },
     {
@@ -191,6 +321,16 @@
           "alternates": [
             "прилёт"
           ]
+        }
+      },
+      "image": {
+        "path": "images/arrival.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6EC.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6EC/"
         }
       }
     },
@@ -211,7 +351,17 @@
             "ru": "Мы быстро прошли таможню."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/customs.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6C3.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6C3/"
+        }
+      }
     },
     {
       "forms": {
@@ -221,6 +371,16 @@
           "partOfSpeech": "noun"
         },
         "ru": "задержка"
+      },
+      "image": {
+        "path": "images/delay.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/16/Ibanez_de7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Chris Roddy",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Ibanez_de7.jpg"
+        }
       }
     },
     {
@@ -231,6 +391,16 @@
           "partOfSpeech": "noun"
         },
         "ru": "посадочный талон"
+      },
+      "image": {
+        "path": "images/boarding-pass.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/26D4.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-26D4/"
+        }
       }
     },
     {
@@ -241,6 +411,16 @@
           "partOfSpeech": "verb"
         },
         "ru": "путешествовать"
+      },
+      "image": {
+        "path": "images/to-travel.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F682.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F682/"
+        }
       }
     }
   ]

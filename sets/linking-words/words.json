@@ -24,6 +24,16 @@
         },
         "fr": "et",
         "it": "e"
+      },
+      "image": {
+        "path": "images/and.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/65/Sidney_Hall_-_Urania%27s_Mirror_-_Gloria_Frederici%2C_Andromeda%2C_and_Triangula.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Sidney Hall / Adam Cuerden",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Sidney_Hall_-_Urania%27s_Mirror_-_Gloria_Frederici,_Andromeda,_and_Triangula.jpg"
+        }
       }
     },
     {
@@ -44,6 +54,16 @@
         "es": "pero",
         "fr": "mais",
         "it": "ma"
+      },
+      "image": {
+        "path": "images/but.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/6b/FIT_VUT_v_Brn%C4%9B_%28n%C3%A1dvo%C5%99%C3%AD%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "cs:User:DaBler",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:FIT_VUT_v_Brn%C4%9B_(n%C3%A1dvo%C5%99%C3%AD).jpeg"
+        }
       }
     },
     {
@@ -69,6 +89,16 @@
         "es": "o",
         "fr": "ou",
         "it": "o"
+      },
+      "image": {
+        "path": "images/or.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/John_Day_River_mouth.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Sam Beebe",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:John_Day_River_mouth.jpg"
+        }
       }
     },
     {
@@ -103,6 +133,16 @@
           "alternates": [
             "poiché"
           ]
+        }
+      },
+      "image": {
+        "path": "images/because.webp",
+        "source": "https://live.staticflickr.com/4218/35499934655_80e22d9429_b.jpg",
+        "attribution": {
+          "author": "bernawy hugues kossi huo",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/90250231@N05/35499934655"
         }
       }
     },
@@ -149,6 +189,16 @@
             "allora"
           ]
         }
+      },
+      "image": {
+        "path": "images/so-conjunction.webp",
+        "source": "https://live.staticflickr.com/65535/49843224338_1b669e1e23_b.jpg",
+        "attribution": {
+          "author": "island deborah-",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/60612262@N08/49843224338"
+        }
       }
     },
     {
@@ -174,6 +224,16 @@
         "es": "si",
         "fr": "si",
         "it": "se"
+      },
+      "image": {
+        "path": "images/if.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/26/If_cover_May_1955.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Drawn by Kenneth Fagg",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:If_cover_May_1955.jpg"
+        }
       }
     },
     {
@@ -228,7 +288,17 @@
             "it": "Sebbene piovesse, siamo andati a fare una passeggiata."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/although.webp",
+        "source": "https://live.staticflickr.com/1686/25933126531_04e3b310bb_b.jpg",
+        "attribution": {
+          "author": "anokarina",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/30760976@N04/25933126531"
+        }
+      }
     },
     {
       "forms": {
@@ -268,6 +338,16 @@
           ]
         },
         "it": "mentre"
+      },
+      "image": {
+        "path": "images/while-conjunction.webp",
+        "source": "https://live.staticflickr.com/65535/52738890151_5d9fabe85c_b.jpg",
+        "attribution": {
+          "author": "Jeanne Menjoulet",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/96925387@N00/52738890151"
+        }
       }
     },
     {
@@ -308,6 +388,16 @@
             "salvo che"
           ]
         }
+      },
+      "image": {
+        "path": "images/unless.webp",
+        "source": "https://live.staticflickr.com/65535/52120460689_0cbe9934cd_b.jpg",
+        "attribution": {
+          "author": "Marcus Grbac",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/7876549@N07/52120460689"
+        }
       }
     },
     {
@@ -342,6 +432,16 @@
           "alternates": [
             "fino a quando"
           ]
+        }
+      },
+      "image": {
+        "path": "images/until.webp",
+        "source": "https://live.staticflickr.com/65535/52538078077_cbe8c53ca9_b.jpg",
+        "attribution": {
+          "author": "VinceTraveller",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/107938954@N05/52538078077"
         }
       }
     },
@@ -398,7 +498,17 @@
             "it": "Il piano è buono. Tuttavia, è troppo costoso."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/however.webp",
+        "source": "https://live.staticflickr.com/65535/52192086985_440b753317_b.jpg",
+        "attribution": {
+          "author": "Olin Gilbert",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/75341352@N08/52192086985"
+        }
+      }
     },
     {
       "forms": {
@@ -448,6 +558,16 @@
             "di conseguenza"
           ]
         }
+      },
+      "image": {
+        "path": "images/therefore.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/27/Unicode_0x2234.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Kwamikagami",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Unicode_0x2234.svg"
+        }
       }
     },
     {
@@ -478,6 +598,16 @@
         "es": "también",
         "fr": "aussi",
         "it": "anche"
+      },
+      "image": {
+        "path": "images/also.webp",
+        "source": "https://live.staticflickr.com/65535/51563525933_1b9d219c43_b.jpg",
+        "attribution": {
+          "author": "Onasill - Bill Badzo - 149 Million Views - Thank Y",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/7156765@N05/51563525933"
+        }
       }
     },
     {
@@ -512,6 +642,16 @@
           "alternates": [
             "al suo posto"
           ]
+        }
+      },
+      "image": {
+        "path": "images/instead.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Instead_Manor%2C_Weybread%2C_Suffolk_-_geograph.org.uk_-_2033212.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Adrian S Pye",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Instead_Manor,_Weybread,_Suffolk_-_geograph.org.uk_-_2033212.jpg"
         }
       }
     },
@@ -558,6 +698,16 @@
             "per di più"
           ]
         }
+      },
+      "image": {
+        "path": "images/besides.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/51/Bergmal_2016-10-22_Besides_02.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Ernst Schreier",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Bergmal_2016-10-22_Besides_02.JPG"
+        }
       }
     },
     {
@@ -602,6 +752,16 @@
           "alternates": [
             "alla fine"
           ]
+        }
+      },
+      "image": {
+        "path": "images/finally.webp",
+        "source": "https://live.staticflickr.com/65535/51540370909_b11aede82f_b.jpg",
+        "attribution": {
+          "author": "James Webb Space Telescope",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/50785054@N03/51540370909"
         }
       }
     },
@@ -653,6 +813,16 @@
             "in effetti"
           ]
         }
+      },
+      "image": {
+        "path": "images/actually.webp",
+        "source": "https://live.staticflickr.com/4229/34512347484_306fd0fcd4_b.jpg",
+        "attribution": {
+          "author": "Carlo Raso",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/70125105@N06/34512347484"
+        }
       }
     },
     {
@@ -689,6 +859,16 @@
         "es": "probablemente",
         "fr": "probablement",
         "it": "probabilmente"
+      },
+      "image": {
+        "path": "images/probably.webp",
+        "source": "https://live.staticflickr.com/65535/51911621149_bfe10078c1_b.jpg",
+        "attribution": {
+          "author": "gailhampshire",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/43272765@N04/51911621149"
+        }
       }
     },
     {
@@ -731,6 +911,16 @@
             "naturalmente"
           ]
         }
+      },
+      "image": {
+        "path": "images/of-course.webp",
+        "source": "https://live.staticflickr.com/65535/51304570732_3ee4f0cb23_b.jpg",
+        "attribution": {
+          "author": "U.S. Army ROTC",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/136737541@N05/51304570732"
+        }
       }
     },
     {
@@ -769,6 +959,16 @@
             "malgrado"
           ]
         }
+      },
+      "image": {
+        "path": "images/despite.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Despite_Automobile_Museum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Juapa Home",
+          "license": "CC0",
+          "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "page": "https://commons.wikimedia.org/wiki/File:Despite_Automobile_Museum.jpg"
+        }
       }
     },
     {
@@ -784,6 +984,16 @@
         "es": "que",
         "fr": "que",
         "it": "che"
+      },
+      "image": {
+        "path": "images/that-conjunction.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/62/Thomas_C._Lea_III_-_That_Two-Thousand_Yard_Stare_-_Original.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Thomas C. Lea III",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Thomas_C._Lea_III_-_That_Two-Thousand_Yard_Stare_-_Original.jpg"
+        }
       }
     },
     {
@@ -818,6 +1028,16 @@
           "alternates": [
             "che"
           ]
+        }
+      },
+      "image": {
+        "path": "images/than.webp",
+        "source": "https://live.staticflickr.com/65535/51539600545_5bb02cd943_b.jpg",
+        "attribution": {
+          "author": "NASA Hubble",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/144614754@N02/51539600545"
         }
       }
     },
@@ -871,6 +1091,16 @@
             "dato che"
           ]
         }
+      },
+      "image": {
+        "path": "images/as.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e7/AmericanSamoa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "NOAA",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:AmericanSamoa.jpg"
+        }
       }
     },
     {
@@ -922,6 +1152,16 @@
             "per"
           ]
         }
+      },
+      "image": {
+        "path": "images/so-that.webp",
+        "source": "https://live.staticflickr.com/65535/49843224338_1b669e1e23_b.jpg",
+        "attribution": {
+          "author": "island deborah-",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/60612262@N08/49843224338"
+        }
       }
     },
     {
@@ -962,6 +1202,16 @@
             "non appena"
           ]
         }
+      },
+      "image": {
+        "path": "images/as-soon-as.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F51C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F51C/"
+        }
       }
     },
     {
@@ -977,6 +1227,16 @@
         "es": "si",
         "fr": "si",
         "it": "se"
+      },
+      "image": {
+        "path": "images/whether.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/71/Bookman_Ornament_9617_%28bookshelf%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "AnonymousUnknown author",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Bookman_Ornament_9617_(bookshelf).svg"
+        }
       }
     },
     {
@@ -1012,6 +1272,16 @@
           ]
         },
         "it": "o ... o"
+      },
+      "image": {
+        "path": "images/either-or.webp",
+        "source": "https://live.staticflickr.com/65535/51891142762_fbc9771dd5_b.jpg",
+        "attribution": {
+          "author": "7C0",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/39453974@N04/51891142762"
+        }
       }
     },
     {
@@ -1027,6 +1297,16 @@
         "es": "ni ... ni",
         "fr": "ni ... ni",
         "it": "né ... né"
+      },
+      "image": {
+        "path": "images/neither-nor.webp",
+        "source": "https://live.staticflickr.com/115/295381393_f231a529ff_b.jpg",
+        "attribution": {
+          "author": "pingnews.com",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/39735679@N00/295381393"
+        }
       }
     },
     {
@@ -1057,6 +1337,16 @@
         },
         "fr": "non seulement ... mais aussi",
         "it": "non solo ... ma anche"
+      },
+      "image": {
+        "path": "images/not-only-but-also.webp",
+        "source": "https://live.staticflickr.com/65535/51563525933_1b9d219c43_b.jpg",
+        "attribution": {
+          "author": "Onasill - Bill Badzo - 149 Million Views - Thank Y",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/7156765@N05/51563525933"
+        }
       }
     },
     {
@@ -1096,6 +1386,16 @@
           "alternates": [
             "sia ... che"
           ]
+        }
+      },
+      "image": {
+        "path": "images/both-and.webp",
+        "source": "https://live.staticflickr.com/65535/52426846021_5f72a5920c_b.jpg",
+        "attribution": {
+          "author": "Maine School of Science and Mathematics",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/78729420@N07/52426846021"
         }
       }
     },
@@ -1138,6 +1438,16 @@
         "es": "como si",
         "fr": "comme si",
         "it": "come se"
+      },
+      "image": {
+        "path": "images/as-if.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/D%C3%BClmen%2C_Kirchspiel%2C_ehem._Sondermunitionslager_Visbeck%2C_%22What_if%22_--_2023_--_6686_%28kreativ_2%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Dietmar Rabich",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_ehem._Sondermunitionslager_Visbeck,_%22What_if%22_--_2023_--_6686_(kreativ_2).jpg"
+        }
       }
     },
     {
@@ -1171,6 +1481,16 @@
         },
         "fr": "même si",
         "it": "anche se"
+      },
+      "image": {
+        "path": "images/even-if.webp",
+        "source": "https://live.staticflickr.com/65535/51303612626_37e3706322_b.jpg",
+        "attribution": {
+          "author": "Hervé S, France",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/125601701@N03/51303612626"
+        }
       }
     },
     {
@@ -1216,6 +1536,16 @@
             "in caso",
             "casomai"
           ]
+        }
+      },
+      "image": {
+        "path": "images/in-case.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6C4.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6C4/"
         }
       }
     },
@@ -1274,6 +1604,16 @@
             "a patto che"
           ]
         }
+      },
+      "image": {
+        "path": "images/as-long-as.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FA98.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FA98/"
+        }
       }
     },
     {
@@ -1319,6 +1659,16 @@
           "alternates": [
             "invece"
           ]
+        }
+      },
+      "image": {
+        "path": "images/whereas.webp",
+        "source": "https://live.staticflickr.com/65535/52051089628_ed023fe11f_b.jpg",
+        "attribution": {
+          "author": "PatrickRich",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/91689877@N03/52051089628"
         }
       }
     },
@@ -1370,6 +1720,16 @@
           ]
         },
         "it": "altrimenti"
+      },
+      "image": {
+        "path": "images/otherwise.webp",
+        "source": "https://live.staticflickr.com/65535/52429009527_3e6cee3a24_b.jpg",
+        "attribution": {
+          "author": "kevin dooley",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/12836528@N00/52429009527"
+        }
       }
     },
     {
@@ -1426,6 +1786,16 @@
             "eppure"
           ]
         }
+      },
+      "image": {
+        "path": "images/nevertheless.webp",
+        "source": "https://live.staticflickr.com/4229/34964689480_021185bab3_b.jpg",
+        "attribution": {
+          "author": "Brendan J.",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/32303563@N00/34964689480"
+        }
       }
     },
     {
@@ -1448,6 +1818,16 @@
           "alternates": [
             "ad esempio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/for-example.webp",
+        "source": "https://live.staticflickr.com/1868/43691913955_c983edb81a_b.jpg",
+        "attribution": {
+          "author": "Dave Hamster",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/14265068@N00/43691913955"
         }
       }
     },
@@ -1507,6 +1887,16 @@
             "ossia"
           ]
         }
+      },
+      "image": {
+        "path": "images/that-is.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/8/84/Cholecystitis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Sameem Arif",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Cholecystitis.jpg"
+        }
       }
     },
     {
@@ -1542,6 +1932,16 @@
             "d'altro canto"
           ]
         }
+      },
+      "image": {
+        "path": "images/on-the-other-hand.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F92D.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F92D/"
+        }
       }
     },
     {
@@ -1571,6 +1971,16 @@
             "primo"
           ]
         }
+      },
+      "image": {
+        "path": "images/firstly.webp",
+        "source": "https://live.staticflickr.com/65535/54816098617_c17672bfbb_b.jpg",
+        "attribution": {
+          "author": "The amazing / amazed elderly",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/199243360@N02/54816098617"
+        }
       }
     },
     {
@@ -1590,6 +2000,16 @@
           "alternates": [
             "secondo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/secondly.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Second_Severn_Crossing_pano_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Yummifruitbat",
+          "license": "CC BY-SA 2.5",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.5",
+          "page": "https://commons.wikimedia.org/wiki/File:Second_Severn_Crossing_pano_1.jpg"
         }
       }
     },
@@ -1638,6 +2058,16 @@
           "alternates": [
             "infine"
           ]
+        }
+      },
+      "image": {
+        "path": "images/in-the-end.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F51A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F51A/"
         }
       }
     },
@@ -1697,6 +2127,16 @@
             "in ogni caso"
           ]
         }
+      },
+      "image": {
+        "path": "images/anyway.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/95/ColognePride_2021%2C_Parade-4289.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Raimond Spekking",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:ColognePride_2021,_Parade-4289.jpg"
+        }
       }
     },
     {
@@ -1745,6 +2185,16 @@
           ]
         },
         "it": "almeno"
+      },
+      "image": {
+        "path": "images/at-least.webp",
+        "source": "https://live.staticflickr.com/65535/52045592084_75fedc355f_b.jpg",
+        "attribution": {
+          "author": "CapeHatterasNPS",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/106602675@N05/52045592084"
+        }
       }
     },
     {
@@ -1801,6 +2251,16 @@
             "in particolare"
           ]
         }
+      },
+      "image": {
+        "path": "images/especially.webp",
+        "source": "https://live.staticflickr.com/65535/52533851845_31202ebae2_b.jpg",
+        "attribution": {
+          "author": "Junta de Comunidades de Castilla-La Mancha",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/71161813@N05/52533851845"
+        }
       }
     },
     {
@@ -1842,6 +2302,16 @@
         "es": "en general",
         "fr": "en général",
         "it": "in generale"
+      },
+      "image": {
+        "path": "images/in-general.webp",
+        "source": "https://live.staticflickr.com/65535/52483347229_9b59eba7a3_b.jpg",
+        "attribution": {
+          "author": "CPMR - Conference of Peripheral Maritime Regions",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/142295943@N05/52483347229"
+        }
       }
     },
     {
@@ -1895,6 +2365,16 @@
           "alternates": [
             "per questo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/that-s-why.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F97A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F97A/"
         }
       }
     }

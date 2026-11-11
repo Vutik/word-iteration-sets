@@ -49,7 +49,17 @@
             "it": "Il nostro cane adora le lunghe passeggiate."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/dog.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F415.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F415/"
+        }
+      }
     },
     {
       "forms": {
@@ -94,6 +104,16 @@
             "gatto"
           ]
         }
+      },
+      "image": {
+        "path": "images/cat.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F408.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F408/"
+        }
       }
     },
     {
@@ -134,6 +154,16 @@
             "uccello"
           ]
         }
+      },
+      "image": {
+        "path": "images/bird.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F426.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F426/"
+        }
       }
     },
     {
@@ -168,6 +198,16 @@
           "alternates": [
             "pesce"
           ]
+        }
+      },
+      "image": {
+        "path": "images/fish.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F41F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F41F/"
         }
       }
     },
@@ -209,6 +249,16 @@
             "cavallo"
           ]
         }
+      },
+      "image": {
+        "path": "images/horse.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F40E.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F40E/"
+        }
       }
     },
     {
@@ -243,6 +293,16 @@
           "alternates": [
             "mucca"
           ]
+        }
+      },
+      "image": {
+        "path": "images/cow.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F404.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F404/"
         }
       }
     },
@@ -279,6 +339,16 @@
             "maiale"
           ]
         }
+      },
+      "image": {
+        "path": "images/pig.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F416.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F416/"
+        }
       }
     },
     {
@@ -313,6 +383,16 @@
           "alternates": [
             "pecora"
           ]
+        }
+      },
+      "image": {
+        "path": "images/sheep.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F40F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F40F/"
         }
       }
     },
@@ -352,6 +432,16 @@
             "gallina"
           ]
         }
+      },
+      "image": {
+        "path": "images/chicken.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F414.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F414/"
+        }
       }
     },
     {
@@ -386,6 +476,16 @@
           "alternates": [
             "topo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/mouse.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F401.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F401/"
         }
       }
     },
@@ -422,6 +522,16 @@
             "coniglio"
           ]
         }
+      },
+      "image": {
+        "path": "images/rabbit.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F407.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F407/"
+        }
       }
     },
     {
@@ -456,6 +566,16 @@
           "alternates": [
             "anatra"
           ]
+        }
+      },
+      "image": {
+        "path": "images/duck.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F986.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F986/"
         }
       }
     },
@@ -492,6 +612,16 @@
             "orso"
           ]
         }
+      },
+      "image": {
+        "path": "images/bear.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F43B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F43B/"
+        }
       }
     },
     {
@@ -526,6 +656,16 @@
           "alternates": [
             "lupo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/wolf.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F43A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F43A/"
         }
       }
     },
@@ -567,6 +707,16 @@
             "volpe"
           ]
         }
+      },
+      "image": {
+        "path": "images/fox.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F98A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F98A/"
+        }
       }
     },
     {
@@ -601,6 +751,16 @@
           "alternates": [
             "leone"
           ]
+        }
+      },
+      "image": {
+        "path": "images/lion.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F981.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F981/"
         }
       }
     },
@@ -637,6 +797,16 @@
             "elefante"
           ]
         }
+      },
+      "image": {
+        "path": "images/elephant.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F418.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F418/"
+        }
       }
     },
     {
@@ -672,6 +842,16 @@
             "scimmia"
           ]
         }
+      },
+      "image": {
+        "path": "images/monkey.webp",
+        "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f412.png",
+        "attribution": {
+          "author": "Google",
+          "license": "Apache 2.0",
+          "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0",
+          "page": "https://github.com/googlefonts/noto-emoji"
+        }
       }
     },
     {
@@ -706,6 +886,16 @@
           "alternates": [
             "serpente"
           ]
+        }
+      },
+      "image": {
+        "path": "images/snake.webp",
+        "source": "https://github.com/microsoft/fluentui-emoji/blob/main/assets/Snake/Flat/snake_flat.svg",
+        "attribution": {
+          "author": "Microsoft",
+          "license": "MIT",
+          "licenseURL": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+          "page": "https://github.com/microsoft/fluentui-emoji/tree/main/assets/Snake"
         }
       }
     },
@@ -747,6 +937,16 @@
             "rana"
           ]
         }
+      },
+      "image": {
+        "path": "images/frog.webp",
+        "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f438.png",
+        "attribution": {
+          "author": "Google",
+          "license": "Apache 2.0",
+          "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0",
+          "page": "https://github.com/googlefonts/noto-emoji"
+        }
       }
     },
     {
@@ -781,6 +981,16 @@
           "alternates": [
             "animale"
           ]
+        }
+      },
+      "image": {
+        "path": "images/animal.webp",
+        "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f63a.png",
+        "attribution": {
+          "author": "Google",
+          "license": "Apache 2.0",
+          "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0",
+          "page": "https://github.com/googlefonts/noto-emoji"
         }
       }
     },
@@ -827,6 +1037,16 @@
             "animale domestico"
           ]
         }
+      },
+      "image": {
+        "path": "images/pet.webp",
+        "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f436.png",
+        "attribution": {
+          "author": "Google",
+          "license": "Apache 2.0",
+          "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0",
+          "page": "https://github.com/googlefonts/noto-emoji"
+        }
       }
     },
     {
@@ -867,6 +1087,16 @@
             "cucciolo",
             "il cagnolino"
           ]
+        }
+      },
+      "image": {
+        "path": "images/puppy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F436.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F436/"
         }
       }
     },
@@ -913,6 +1143,16 @@
             "gattino"
           ]
         }
+      },
+      "image": {
+        "path": "images/kitten.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F431.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F431/"
+        }
       }
     },
     {
@@ -948,6 +1188,16 @@
             "capra"
           ]
         }
+      },
+      "image": {
+        "path": "images/goat.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F410.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F410/"
+        }
       }
     },
     {
@@ -982,6 +1232,16 @@
           "alternates": [
             "gallo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/rooster.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F413.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F413/"
         }
       }
     },
@@ -1023,6 +1283,16 @@
             "oca"
           ]
         }
+      },
+      "image": {
+        "path": "images/goose.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FABF.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FABF/"
+        }
       }
     },
     {
@@ -1059,6 +1329,16 @@
             "asino"
           ]
         }
+      },
+      "image": {
+        "path": "images/donkey.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FACF.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FACF/"
+        }
       }
     },
     {
@@ -1093,6 +1373,16 @@
           "alternates": [
             "tigre"
           ]
+        }
+      },
+      "image": {
+        "path": "images/tiger.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F405.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F405/"
         }
       }
     },
@@ -1129,6 +1419,16 @@
             "giraffa"
           ]
         }
+      },
+      "image": {
+        "path": "images/giraffe.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F992.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F992/"
+        }
       }
     },
     {
@@ -1163,6 +1463,16 @@
           "alternates": [
             "cammello"
           ]
+        }
+      },
+      "image": {
+        "path": "images/camel.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F42A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F42A/"
         }
       }
     },
@@ -1199,6 +1509,16 @@
             "cervo"
           ]
         }
+      },
+      "image": {
+        "path": "images/deer.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F98C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F98C/"
+        }
       }
     },
     {
@@ -1233,6 +1553,16 @@
           "alternates": [
             "scoiattolo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/squirrel.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F43F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F43F/"
         }
       }
     },
@@ -1271,6 +1601,16 @@
             "gufo"
           ]
         }
+      },
+      "image": {
+        "path": "images/owl.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F989.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F989/"
+        }
       }
     },
     {
@@ -1305,6 +1645,16 @@
           "alternates": [
             "aquila"
           ]
+        }
+      },
+      "image": {
+        "path": "images/eagle.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F985.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F985/"
         }
       }
     },
@@ -1342,6 +1692,16 @@
             "delfino"
           ]
         }
+      },
+      "image": {
+        "path": "images/dolphin.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F42C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F42C/"
+        }
       }
     },
     {
@@ -1376,6 +1736,16 @@
           "alternates": [
             "balena"
           ]
+        }
+      },
+      "image": {
+        "path": "images/whale.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F40B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F40B/"
         }
       }
     },
@@ -1412,6 +1782,16 @@
             "tartaruga"
           ]
         }
+      },
+      "image": {
+        "path": "images/turtle.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F422.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F422/"
+        }
       }
     },
     {
@@ -1446,6 +1826,16 @@
           "alternates": [
             "ape"
           ]
+        }
+      },
+      "image": {
+        "path": "images/bee.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F41D.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F41D/"
         }
       }
     },
@@ -1482,6 +1872,16 @@
             "farfalla"
           ]
         }
+      },
+      "image": {
+        "path": "images/butterfly.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F98B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F98B/"
+        }
       }
     },
     {
@@ -1517,6 +1917,16 @@
             "ragno"
           ]
         }
+      },
+      "image": {
+        "path": "images/spider.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F577.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F577/"
+        }
       }
     },
     {
@@ -1551,6 +1961,16 @@
           "alternates": [
             "mosca"
           ]
+        }
+      },
+      "image": {
+        "path": "images/fly.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAB0.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAB0/"
         }
       }
     }

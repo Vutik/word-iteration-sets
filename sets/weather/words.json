@@ -50,7 +50,17 @@
             "it": "Che tempo fa oggi?"
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/weather.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F321.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F321/"
+        }
+      }
     },
     {
       "forms": {
@@ -84,6 +94,16 @@
           "alternates": [
             "sole"
           ]
+        }
+      },
+      "image": {
+        "path": "images/sun.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2600.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2600/"
         }
       }
     },
@@ -120,6 +140,16 @@
             "pioggia"
           ]
         }
+      },
+      "image": {
+        "path": "images/rain.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/26C8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-26C8/"
+        }
       }
     },
     {
@@ -155,6 +185,16 @@
             "neve"
           ]
         }
+      },
+      "image": {
+        "path": "images/snow.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/26F7.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-26F7/"
+        }
       }
     },
     {
@@ -189,6 +229,16 @@
           "alternates": [
             "vento"
           ]
+        }
+      },
+      "image": {
+        "path": "images/wind.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F343.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F343/"
         }
       }
     },
@@ -230,6 +280,16 @@
             "nuvola"
           ]
         }
+      },
+      "image": {
+        "path": "images/cloud.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2601.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2601/"
+        }
       }
     },
     {
@@ -264,6 +324,16 @@
           "alternates": [
             "nebbia"
           ]
+        }
+      },
+      "image": {
+        "path": "images/fog.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F32B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F32B/"
         }
       }
     },
@@ -313,6 +383,16 @@
             "la tempesta"
           ]
         }
+      },
+      "image": {
+        "path": "images/storm.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/07/Don_Lawrence_signing_an_album_of_Storm%2C1990.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Fotopersbureau de Boer",
+          "license": "CC0",
+          "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "page": "https://commons.wikimedia.org/wiki/File:Don_Lawrence_signing_an_album_of_Storm,1990.jpg"
+        }
       }
     },
     {
@@ -348,6 +428,16 @@
             "ghiaccio"
           ]
         }
+      },
+      "image": {
+        "path": "images/ice.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9CA.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9CA/"
+        }
       }
     },
     {
@@ -363,6 +453,16 @@
         "es": "soleado",
         "fr": "ensoleillé",
         "it": "soleggiato"
+      },
+      "image": {
+        "path": "images/sunny.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F373.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F373/"
+        }
       }
     },
     {
@@ -378,6 +478,16 @@
         "es": "lluvioso",
         "fr": "pluvieux",
         "it": "piovoso"
+      },
+      "image": {
+        "path": "images/rainy.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/65/Hard_rain_on_a_roof.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "W.carter",
+          "license": "CC0",
+          "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "page": "https://commons.wikimedia.org/wiki/File:Hard_rain_on_a_roof.jpg"
+        }
       }
     },
     {
@@ -403,6 +513,16 @@
         "es": "nublado",
         "fr": "nuageux",
         "it": "nuvoloso"
+      },
+      "image": {
+        "path": "images/cloudy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/26C5.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-26C5/"
+        }
       }
     },
     {
@@ -418,6 +538,16 @@
         "es": "ventoso",
         "fr": "venteux",
         "it": "ventoso"
+      },
+      "image": {
+        "path": "images/windy.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Windy_Bad_Zwischenahn_1978.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "user:Port(u*o)s",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Windy_Bad_Zwischenahn_1978.jpg"
+        }
       }
     },
     {
@@ -448,6 +578,16 @@
         },
         "fr": "chaud",
         "it": "caldo"
+      },
+      "image": {
+        "path": "images/hot.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAE0.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAE0/"
+        }
       }
     },
     {
@@ -473,6 +613,16 @@
           ]
         },
         "it": "tiepido"
+      },
+      "image": {
+        "path": "images/warm.webp",
+        "source": "https://live.staticflickr.com/65535/52532485505_c2103e4b8a_b.jpg",
+        "attribution": {
+          "author": "Graham Ó Síodhacháin",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/65882683@N03/52532485505"
+        }
       }
     },
     {
@@ -488,6 +638,16 @@
         "es": "frío",
         "fr": "froid",
         "it": "freddo"
+      },
+      "image": {
+        "path": "images/cold-adjective.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F605.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F605/"
+        }
       }
     },
     {
@@ -523,6 +683,16 @@
             "primavera"
           ]
         }
+      },
+      "image": {
+        "path": "images/spring.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F41D.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F41D/"
+        }
       }
     },
     {
@@ -557,6 +727,16 @@
           "alternates": [
             "estate"
           ]
+        }
+      },
+      "image": {
+        "path": "images/summer.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F37A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F37A/"
         }
       }
     },
@@ -596,6 +776,16 @@
             "autunno"
           ]
         }
+      },
+      "image": {
+        "path": "images/autumn.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F342.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F342/"
+        }
       }
     },
     {
@@ -630,6 +820,16 @@
           "alternates": [
             "inverno"
           ]
+        }
+      },
+      "image": {
+        "path": "images/winter.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/winter.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -666,6 +866,16 @@
             "temperatura"
           ]
         }
+      },
+      "image": {
+        "path": "images/temperature.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Pakkanen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "User:Mysid",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Pakkanen.jpg"
+        }
       }
     },
     {
@@ -700,6 +910,16 @@
           "alternates": [
             "grado"
           ]
+        }
+      },
+      "image": {
+        "path": "images/degree.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/f2/%C4%90%E1%BB%99_%28g%C3%B3c%29-Degree_%28angle%29.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Original: Newone Vector: McSush",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "page": "https://commons.wikimedia.org/wiki/File:%C4%90%E1%BB%99_(g%C3%B3c)-Degree_(angle).svg"
         }
       }
     },
@@ -759,6 +979,16 @@
             "previsioni meteo"
           ]
         }
+      },
+      "image": {
+        "path": "images/weather-forecast.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F321.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F321/"
+        }
       }
     },
     {
@@ -793,6 +1023,16 @@
           "alternates": [
             "tuono"
           ]
+        }
+      },
+      "image": {
+        "path": "images/thunder.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/26C8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-26C8/"
         }
       }
     },
@@ -840,6 +1080,16 @@
             "lampo"
           ]
         }
+      },
+      "image": {
+        "path": "images/lightning.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/26C8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-26C8/"
+        }
       }
     },
     {
@@ -876,6 +1126,16 @@
           "alternates": [
             "arcobaleno"
           ]
+        }
+      },
+      "image": {
+        "path": "images/rainbow.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F308.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F308/"
         }
       }
     },
@@ -922,6 +1182,16 @@
             "gelo"
           ]
         }
+      },
+      "image": {
+        "path": "images/frost.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Saint-Amant_16_Gel%C3%A9e_blanche_2008.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "JLPC",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Saint-Amant_16_Gel%C3%A9e_blanche_2008.jpg"
+        }
       }
     },
     {
@@ -962,6 +1232,16 @@
             "brezza"
           ]
         }
+      },
+      "image": {
+        "path": "images/breeze.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Team_Breeze_-_2019_Tour_Series%2C_Aberdeen_%28Women%27s_race_-_team_win%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Cs-wolves",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Team_Breeze_-_2019_Tour_Series,_Aberdeen_(Women%27s_race_-_team_win).jpg"
+        }
       }
     },
     {
@@ -996,6 +1276,16 @@
           "alternates": [
             "caldo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/heat.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAE0.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAE0/"
         }
       }
     },
@@ -1049,6 +1339,16 @@
             "ombrello"
           ]
         }
+      },
+      "image": {
+        "path": "images/umbrella.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2602.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2602/"
+        }
       }
     },
     {
@@ -1084,6 +1384,16 @@
             "pozzanghera"
           ]
         }
+      },
+      "image": {
+        "path": "images/puddle.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Un_charco%2C_un_reflejo%2C_un_castillo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Miguel Ángel García. from Ólvega., España",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Un_charco,_un_reflejo,_un_castillo.jpg"
+        }
       }
     },
     {
@@ -1099,6 +1409,16 @@
         "es": "fresco",
         "fr": "frais",
         "it": "fresco"
+      },
+      "image": {
+        "path": "images/cool.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F61B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F61B/"
+        }
       }
     },
     {
@@ -1129,6 +1449,16 @@
         "es": "helado",
         "fr": "glacial",
         "it": "gelido"
+      },
+      "image": {
+        "path": "images/freezing.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F976.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F976/"
+        }
       }
     },
     {
@@ -1144,6 +1474,16 @@
         "es": "neblinoso",
         "fr": "brumeux",
         "it": "nebbioso"
+      },
+      "image": {
+        "path": "images/foggy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F301.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F301/"
+        }
       }
     },
     {
@@ -1179,6 +1519,16 @@
             "stagione"
           ]
         }
+      },
+      "image": {
+        "path": "images/season.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Jahreszeiten_Jahresringe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Meinolf Wewel",
+          "license": "CC BY 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Jahreszeiten_Jahresringe.jpg"
+        }
       }
     },
     {
@@ -1213,6 +1563,16 @@
           "alternates": [
             "grandine"
           ]
+        }
+      },
+      "image": {
+        "path": "images/hail.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F696.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F696/"
         }
       }
     }

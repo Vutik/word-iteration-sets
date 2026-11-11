@@ -15,6 +15,16 @@
         "es": "rojo",
         "fr": "rouge",
         "it": "rosso"
+      },
+      "image": {
+        "path": "images/red.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Color_icon_red.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Badseed",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Color_icon_red.svg"
+        }
       }
     },
     {
@@ -31,6 +41,16 @@
         "es": "naranja",
         "fr": "orange",
         "it": "arancione"
+      },
+      "image": {
+        "path": "images/orange-adjective.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F34A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F34A/"
+        }
       }
     },
     {
@@ -47,6 +67,16 @@
         "es": "amarillo",
         "fr": "jaune",
         "it": "giallo"
+      },
+      "image": {
+        "path": "images/yellow.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Color_icon_yellow.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Badseed",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Color_icon_yellow.svg"
+        }
       }
     },
     {
@@ -63,6 +93,16 @@
         "es": "verde",
         "fr": "vert",
         "it": "verde"
+      },
+      "image": {
+        "path": "images/green.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Color_icon_green.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Color_icon_green.svg"
+        }
       }
     },
     {
@@ -109,7 +149,17 @@
             "it": "Oggi il cielo è azzurro."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/blue.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Color_icon_blue.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Booyabazooka",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Color_icon_blue.svg"
+        }
+      }
     },
     {
       "forms": {
@@ -135,6 +185,16 @@
         },
         "fr": "violet",
         "it": "viola"
+      },
+      "image": {
+        "path": "images/purple.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Color_icon_purple_v2.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Mizunoryu, Badseed, Jacobolus",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Color_icon_purple_v2.svg"
+        }
       }
     },
     {
@@ -156,6 +216,16 @@
         },
         "fr": "rose",
         "it": "rosa"
+      },
+      "image": {
+        "path": "images/pink.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/20/Shades_of_pink.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Gabriela Ruellan",
+          "license": "CC0",
+          "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "page": "https://commons.wikimedia.org/wiki/File:Shades_of_pink.png"
+        }
       }
     },
     {
@@ -172,6 +242,16 @@
         "es": "marrón",
         "fr": "marron",
         "it": "marrone"
+      },
+      "image": {
+        "path": "images/brown.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Brown-994c00.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Vcvfou698069",
+          "license": "CC0",
+          "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "page": "https://commons.wikimedia.org/wiki/File:Brown-994c00.png"
+        }
       }
     },
     {
@@ -188,6 +268,16 @@
         "es": "negro",
         "fr": "noir",
         "it": "nero"
+      },
+      "image": {
+        "path": "images/black.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Color_icon_black.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Ricordisamoa",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Color_icon_black.svg"
+        }
       }
     },
     {
@@ -204,6 +294,16 @@
         "es": "blanco",
         "fr": "blanc",
         "it": "bianco"
+      },
+      "image": {
+        "path": "images/white.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/57/Color_icon_white.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Badseed",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Color_icon_white.svg"
+        }
       }
     },
     {
@@ -223,6 +323,16 @@
         "es": "gris",
         "fr": "gris",
         "it": "grigio"
+      },
+      "image": {
+        "path": "images/grey.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Color_icon_gray.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Badseed",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Color_icon_gray.svg"
+        }
       }
     },
     {
@@ -257,6 +367,16 @@
           "alternates": [
             "d'oro"
           ]
+        }
+      },
+      "image": {
+        "path": "images/gold-adjective.webp",
+        "source": "https://github.com/googlefonts/noto-emoji/blob/main/2D/png/512/emoji_u1f3c5.png",
+        "attribution": {
+          "author": "Google",
+          "license": "Apache 2.0",
+          "licenseURL": "https://www.apache.org/licenses/LICENSE-2.0",
+          "page": "https://github.com/googlefonts/noto-emoji"
         }
       }
     },
@@ -293,6 +413,16 @@
             "d'argento"
           ]
         }
+      },
+      "image": {
+        "path": "images/silver.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F948.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F948/"
+        }
       }
     },
     {
@@ -308,6 +438,16 @@
         "es": "beige",
         "fr": "beige",
         "it": "beige"
+      },
+      "image": {
+        "path": "images/beige.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/3/38/Beige_Chromography.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Bruno Marcos Pio dos Reis",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Beige_Chromography.jpg"
+        }
       }
     },
     {
@@ -323,6 +463,16 @@
         "es": "turquesa",
         "fr": "turquoise",
         "it": "turchese"
+      },
+      "image": {
+        "path": "images/turquoise.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Turquoise-40031.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Robert M. Lavinsky",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Turquoise-40031.jpg"
+        }
       }
     },
     {
@@ -356,6 +506,16 @@
             "blu navy"
           ]
         }
+      },
+      "image": {
+        "path": "images/navy-blue.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/fd/000080_Navy_Blue_Square.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Vectorization: ScottSteiner Optimization: Iketsi",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:000080_Navy_Blue_Square.svg"
+        }
       }
     },
     {
@@ -384,6 +544,16 @@
         },
         "fr": "bordeaux",
         "it": "bordeaux"
+      },
+      "image": {
+        "path": "images/burgundy.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Beetle_%283408268715%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "allen watkin from London, UK",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Beetle_(3408268715).jpg"
+        }
       }
     },
     {
@@ -404,6 +574,16 @@
         "es": "crema",
         "fr": "crème",
         "it": "crema"
+      },
+      "image": {
+        "path": "images/cream-adjective.webp",
+        "source": "https://github.com/microsoft/fluentui-emoji/blob/main/assets/Soft%20ice%20cream/3D/soft_ice_cream_3d.png",
+        "attribution": {
+          "author": "Microsoft",
+          "license": "MIT",
+          "licenseURL": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+          "page": "https://github.com/microsoft/fluentui-emoji/tree/main/assets/Soft%20ice%20cream"
+        }
       }
     },
     {
@@ -452,6 +632,16 @@
             "multicolore"
           ]
         }
+      },
+      "image": {
+        "path": "images/colourful.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Inside_of_a_hot_air_balloon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Hu Nhu",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Inside_of_a_hot_air_balloon.jpg"
+        }
       }
     },
     {
@@ -489,6 +679,16 @@
           "alternates": [
             "colore"
           ]
+        }
+      },
+      "image": {
+        "path": "images/colour.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/colour.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     }

@@ -72,7 +72,17 @@
             "it": "Mia madre è insegnante."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/mother.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F931.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F931/"
+        }
+      }
     },
     {
       "forms": {
@@ -130,6 +140,16 @@
             "papà"
           ]
         }
+      },
+      "image": {
+        "path": "images/father.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F468-200D-1F37C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F468-200D-1F37C/"
+        }
       }
     },
     {
@@ -165,6 +185,16 @@
           "alternates": [
             "sorella"
           ]
+        }
+      },
+      "image": {
+        "path": "images/sister.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/sister.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -202,6 +232,16 @@
             "fratello"
           ]
         }
+      },
+      "image": {
+        "path": "images/brother.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/brother.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -237,6 +277,16 @@
           "alternates": [
             "figlio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/son.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F466.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F466/"
         }
       }
     },
@@ -278,6 +328,16 @@
           "alternates": [
             "figlia"
           ]
+        }
+      },
+      "image": {
+        "path": "images/daughter.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F467.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F467/"
         }
       }
     },
@@ -325,6 +385,16 @@
             "nonna"
           ]
         }
+      },
+      "image": {
+        "path": "images/grandmother.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F475.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F475/"
+        }
       }
     },
     {
@@ -371,6 +441,16 @@
             "nonno"
           ]
         }
+      },
+      "image": {
+        "path": "images/grandfather.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F474.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F474/"
+        }
       }
     },
     {
@@ -409,6 +489,16 @@
             "marito"
           ]
         }
+      },
+      "image": {
+        "path": "images/husband.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/husband.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -446,6 +536,16 @@
           "alternates": [
             "moglie"
           ]
+        }
+      },
+      "image": {
+        "path": "images/wife.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/wife.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -488,6 +588,16 @@
             "zia"
           ]
         }
+      },
+      "image": {
+        "path": "images/aunt.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/8/86/Aunt_%26_Niece_%287936230820%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Rod Waddington from Kergunyah, Australia",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Aunt_%26_Niece_(7936230820).jpg"
+        }
       }
     },
     {
@@ -528,6 +638,16 @@
           "alternates": [
             "zio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/uncle.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/db/Uncle_and_nephew_both_members_of_Congress._Uncle_and_nephew_combination_in_Congress%2C_Rep._Charles_A._Eaton_of_New_Jersey%2C_%28right%29_and_his_nephew_Rep._William_R._Eaton_of_Colorado%2C_are_both_LCCN2016889271_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Harris & Ewing, photographer",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Uncle_and_nephew_both_members_of_Congress._Uncle_and_nephew_combination_in_Congress,_Rep._Charles_A._Eaton_of_New_Jersey,_(right)_and_his_nephew_Rep._William_R._Eaton_of_Colorado,_are_both_LCCN2016889271_(cropped).jpg"
         }
       }
     },
@@ -588,6 +708,16 @@
             "la cugina"
           ]
         }
+      },
+      "image": {
+        "path": "images/cousin.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/79/Victoria_and_her_cousin%2C_1852.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Franz Xaver Winterhalter",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Victoria_and_her_cousin,_1852.jpg"
+        }
       }
     },
     {
@@ -639,7 +769,17 @@
             "it": "I miei genitori vivono a Cracovia."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/parents.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/parents.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
+      }
     },
     {
       "forms": {
@@ -678,6 +818,16 @@
             "figli",
             "i figli"
           ]
+        }
+      },
+      "image": {
+        "path": "images/children.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F476.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F476/"
         }
       }
     },
@@ -730,6 +880,16 @@
             "il bebè"
           ]
         }
+      },
+      "image": {
+        "path": "images/baby.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F476.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F476/"
+        }
       }
     },
     {
@@ -766,6 +926,16 @@
             "bambino",
             "il figlio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/child.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9D2.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9D2/"
         }
       }
     },
@@ -813,6 +983,16 @@
             "ragazzo"
           ]
         }
+      },
+      "image": {
+        "path": "images/boy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F466.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F466/"
+        }
       }
     },
     {
@@ -859,6 +1039,16 @@
             "ragazza"
           ]
         }
+      },
+      "image": {
+        "path": "images/girl.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F467.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F467/"
+        }
       }
     },
     {
@@ -893,6 +1083,16 @@
           "alternates": [
             "uomo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/man.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F468.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F468/"
         }
       }
     },
@@ -929,6 +1129,16 @@
             "donna"
           ]
         }
+      },
+      "image": {
+        "path": "images/woman.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F469.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F469/"
+        }
       }
     },
     {
@@ -964,6 +1174,16 @@
             "nipote"
           ]
         }
+      },
+      "image": {
+        "path": "images/grandson.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F466.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F466/"
+        }
       }
     },
     {
@@ -998,6 +1218,16 @@
           "alternates": [
             "nipote"
           ]
+        }
+      },
+      "image": {
+        "path": "images/granddaughter.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F467.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F467/"
         }
       }
     },
@@ -1044,6 +1274,16 @@
             "nonni"
           ]
         }
+      },
+      "image": {
+        "path": "images/grandparents.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/grandparents.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -1078,6 +1318,16 @@
           "alternates": [
             "fratelli"
           ]
+        }
+      },
+      "image": {
+        "path": "images/siblings.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/02/Los_hijos_de_Iv%C3%A1n_Frank%C3%B3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Edward Trzemeski",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Los_hijos_de_Iv%C3%A1n_Frank%C3%B3.jpg"
         }
       }
     },
@@ -1119,6 +1369,16 @@
             "nipote"
           ]
         }
+      },
+      "image": {
+        "path": "images/nephew.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/10/Ludovico_Ludovisi_with_Gregory_XV.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Domenichino",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Ludovico_Ludovisi_with_Gregory_XV.jpg"
+        }
       }
     },
     {
@@ -1158,6 +1418,16 @@
           "alternates": [
             "nipote"
           ]
+        }
+      },
+      "image": {
+        "path": "images/niece.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/94/Hints_on_horsemanship%2C_to_a_nephew_and_niece_BHL20513175.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Greenwood, George",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Hints_on_horsemanship,_to_a_nephew_and_niece_BHL20513175.jpg"
         }
       }
     },
@@ -1204,6 +1474,16 @@
             "suocero"
           ]
         }
+      },
+      "image": {
+        "path": "images/father-in-law.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/12/Guerre_contre_le_Paraguay_-_L%27Emperur_de_Br%C3%A9sil_et_seus_deux_gendres%2C_le_Duc_de_Saxe-Cobourg-Gotha_et_le_Comte_D%27Eu%2C_au_camp_D%27Alegrete_%28D%27apr%C3%A8s_un_dessin_de_M._Maximo_Alv%C3%A8s%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Ange Louis Janet",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Guerre_contre_le_Paraguay_-_L%27Emperur_de_Br%C3%A9sil_et_seus_deux_gendres,_le_Duc_de_Saxe-Cobourg-Gotha_et_le_Comte_D%27Eu,_au_camp_D%27Alegrete_(D%27apr%C3%A8s_un_dessin_de_M._Maximo_Alv%C3%A8s).jpg"
+        }
       }
     },
     {
@@ -1249,6 +1529,16 @@
             "suocera"
           ]
         }
+      },
+      "image": {
+        "path": "images/mother-in-law.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/8/88/T%C3%A9rence_des_ducs_-_H%C3%A9cyre_-_Arsenal664_f209v.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Orosius Master",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:T%C3%A9rence_des_ducs_-_H%C3%A9cyre_-_Arsenal664_f209v.jpeg"
+        }
       }
     },
     {
@@ -1283,6 +1573,16 @@
           "alternates": [
             "gemello"
           ]
+        }
+      },
+      "image": {
+        "path": "images/twin.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F46F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F46F/"
         }
       }
     },
@@ -1324,6 +1624,16 @@
             "parente"
           ]
         }
+      },
+      "image": {
+        "path": "images/relative.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Relativit%C3%A4t_Relativity_train_ball_e%3Dmc2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Sergio Fabris",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Relativit%C3%A4t_Relativity_train_ball_e%3Dmc2.jpg"
+        }
       }
     },
     {
@@ -1359,6 +1669,16 @@
             "adulto"
           ]
         }
+      },
+      "image": {
+        "path": "images/adult.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9D1.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9D1/"
+        }
       }
     },
     {
@@ -1393,6 +1713,16 @@
           "alternates": [
             "famiglia"
           ]
+        }
+      },
+      "image": {
+        "path": "images/family.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F46A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F46A/"
         }
       }
     },
@@ -1448,6 +1778,16 @@
         "es": "nacer",
         "fr": "naître",
         "it": "nascere"
+      },
+      "image": {
+        "path": "images/to-be-born.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F37C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F37C/"
+        }
       }
     }
   ]

@@ -34,6 +34,16 @@
             "adesso"
           ]
         }
+      },
+      "image": {
+        "path": "images/now.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/now.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -54,6 +64,16 @@
         "es": "hoy",
         "fr": "aujourd'hui",
         "it": "oggi"
+      },
+      "image": {
+        "path": "images/today.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/today.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -69,6 +89,16 @@
         "es": "mañana",
         "fr": "demain",
         "it": "domani"
+      },
+      "image": {
+        "path": "images/tomorrow.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/tomorrow.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -89,6 +119,16 @@
         "es": "ayer",
         "fr": "hier",
         "it": "ieri"
+      },
+      "image": {
+        "path": "images/yesterday.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/yesterday.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -104,6 +144,16 @@
         "es": "pasado mañana",
         "fr": "après-demain",
         "it": "dopodomani"
+      },
+      "image": {
+        "path": "images/the-day-after-tomorrow.webp",
+        "source": "https://live.staticflickr.com/65535/49845848171_83fa11aff7_b.jpg",
+        "attribution": {
+          "author": "Jim Linwood",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/54238124@N00/49845848171"
+        }
       }
     },
     {
@@ -128,6 +178,16 @@
           "alternates": [
             "ieri l'altro"
           ]
+        }
+      },
+      "image": {
+        "path": "images/the-day-before-yesterday.webp",
+        "source": "https://live.staticflickr.com/65535/52247281272_3b00bd6105_b.jpg",
+        "attribution": {
+          "author": "Dave Bonta",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/89056025@N00/52247281272"
         }
       }
     },
@@ -162,6 +222,16 @@
           ]
         },
         "it": "allora"
+      },
+      "image": {
+        "path": "images/at-that-time.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F625.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F625/"
+        }
       }
     },
     {
@@ -216,6 +286,16 @@
             "dopo"
           ]
         }
+      },
+      "image": {
+        "path": "images/then.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/%E9%84%A7%2C_%E9%82%93_-_D%C3%A8ng.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Lurkingherern",
+          "license": "CC0",
+          "licenseURL": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+          "page": "https://commons.wikimedia.org/wiki/File:%E9%84%A7,_%E9%82%93_-_D%C3%A8ng.png"
+        }
       }
     },
     {
@@ -241,6 +321,16 @@
         "es": "ya",
         "fr": "déjà",
         "it": "già"
+      },
+      "image": {
+        "path": "images/already.webp",
+        "source": "https://live.staticflickr.com/65535/51676879189_ac33f4cef4_b.jpg",
+        "attribution": {
+          "author": "Rachel Swallows (Core by Rachel Swallows)",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/34439842@N04/51676879189"
+        }
       }
     },
     {
@@ -288,6 +378,16 @@
           ]
         },
         "it": "ancora"
+      },
+      "image": {
+        "path": "images/still-adverb.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Still-Mairie1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Ji-Elle",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Still-Mairie1.jpg"
+        }
       }
     },
     {
@@ -308,6 +408,16 @@
         },
         "fr": "pas encore",
         "it": "non ancora"
+      },
+      "image": {
+        "path": "images/not-yet.webp",
+        "source": "https://live.staticflickr.com/65535/52212012595_642759ffce_b.jpg",
+        "attribution": {
+          "author": "James Webb Space Telescope",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/50785054@N03/52212012595"
+        }
       }
     },
     {
@@ -343,6 +453,16 @@
           "alternates": [
             "fra poco"
           ]
+        }
+      },
+      "image": {
+        "path": "images/soon.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F51C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F51C/"
         }
       }
     },
@@ -380,6 +500,16 @@
             "dopo"
           ]
         }
+      },
+      "image": {
+        "path": "images/later.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F44B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F44B/"
+        }
       }
     },
     {
@@ -395,6 +525,16 @@
         "es": "temprano",
         "fr": "tôt",
         "it": "presto"
+      },
+      "image": {
+        "path": "images/early-adverb.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Early_iowa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Bill Whittaker (talk)",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Early_iowa.jpg"
+        }
       }
     },
     {
@@ -410,6 +550,16 @@
         "es": "tarde",
         "fr": "tard",
         "it": "tardi"
+      },
+      "image": {
+        "path": "images/late.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/23F0.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-23F0/"
+        }
       }
     },
     {
@@ -451,6 +601,16 @@
           ]
         },
         "it": "prima"
+      },
+      "image": {
+        "path": "images/earlier.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/f0/W.E.F._Britten_-_The_Early_Poems_of_Alfred%2C_Lord_Tennyson_-_St._Simeon_Stylites.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "William Edward Frank Britten (1848–1916) Adam Cuerden (restoration)",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:W.E.F._Britten_-_The_Early_Poems_of_Alfred,_Lord_Tennyson_-_St._Simeon_Stylites.jpg"
+        }
       }
     },
     {
@@ -506,6 +666,16 @@
             "di recente"
           ]
         }
+      },
+      "image": {
+        "path": "images/recently.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/d0/William_Miller_obituary%2C_The_Graphic%2C_Feb_25%2C_1882.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "AnonymousUnknown author",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:William_Miller_obituary,_The_Graphic,_Feb_25,_1882.jpg"
+        }
       }
     },
     {
@@ -548,6 +718,16 @@
           "alternates": [
             "proprio ora"
           ]
+        }
+      },
+      "image": {
+        "path": "images/just-now.webp",
+        "source": "https://live.staticflickr.com/65535/54869349879_2ff50f8ce3_b.jpg",
+        "attribution": {
+          "author": "Marquette654",
+          "license": "CC0 1.0",
+          "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "page": "https://www.flickr.com/photos/199047989@N04/54869349879"
         }
       }
     },
@@ -605,6 +785,16 @@
             "immediatamente"
           ]
         }
+      },
+      "image": {
+        "path": "images/right-away.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4A8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4A8/"
+        }
       }
     },
     {
@@ -644,6 +834,16 @@
           "alternates": [
             "improvvisamente"
           ]
+        }
+      },
+      "image": {
+        "path": "images/suddenly.webp",
+        "source": "https://live.staticflickr.com/65535/51348147987_09bd19f03f_b.jpg",
+        "attribution": {
+          "author": "Night Photo",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/187543158@N07/51348147987"
         }
       }
     },
@@ -699,6 +899,16 @@
             "all'inizio"
           ]
         }
+      },
+      "image": {
+        "path": "images/at-first.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F313.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F313/"
+        }
       }
     },
     {
@@ -752,6 +962,16 @@
           "alternates": [
             "intanto"
           ]
+        }
+      },
+      "image": {
+        "path": "images/meanwhile.webp",
+        "source": "https://live.staticflickr.com/65535/51990716889_c8311d7332_b.jpg",
+        "attribution": {
+          "author": "₡ґǘșϯγ Ɗᶏ Ⱪᶅṏⱳդ",
+          "license": "CC0 1.0",
+          "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "page": "https://www.flickr.com/photos/148598741@N02/51990716889"
         }
       }
     },
@@ -808,6 +1028,16 @@
             "finora"
           ]
         }
+      },
+      "image": {
+        "path": "images/for-now.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/ef/NOW_Haber_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "NOW",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:NOW_Haber_Logo.png"
+        }
       }
     },
     {
@@ -847,6 +1077,16 @@
             "puntuale"
           ]
         }
+      },
+      "image": {
+        "path": "images/on-time.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F625.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F625/"
+        }
       }
     },
     {
@@ -878,6 +1118,16 @@
             "tanto tempo fa"
           ]
         }
+      },
+      "image": {
+        "path": "images/long-ago.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FA98.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FA98/"
+        }
       }
     },
     {
@@ -906,6 +1156,16 @@
             "per molto tempo"
           ]
         }
+      },
+      "image": {
+        "path": "images/for-a-long-time.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F625.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F625/"
+        }
       }
     },
     {
@@ -926,6 +1186,16 @@
         "es": "hace",
         "fr": "il y a",
         "it": "fa"
+      },
+      "image": {
+        "path": "images/ago.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/c/c5/LocationAngola.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "By Rei-artur pt en Rei-artur blog",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "page": "https://commons.wikimedia.org/wiki/File:LocationAngola.svg"
+        }
       }
     },
     {
@@ -941,6 +1211,16 @@
         "es": "para siempre",
         "fr": "pour toujours",
         "it": "per sempre"
+      },
+      "image": {
+        "path": "images/forever.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/267E.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-267E/"
+        }
       }
     },
     {
@@ -956,6 +1236,16 @@
         "es": "siempre",
         "fr": "toujours",
         "it": "sempre"
+      },
+      "image": {
+        "path": "images/always.webp",
+        "source": "https://live.staticflickr.com/65535/51716786948_4df153cb60_b.jpg",
+        "attribution": {
+          "author": "Sabine Mondestin",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/12932354@N05/51716786948"
+        }
       }
     },
     {
@@ -1003,6 +1293,16 @@
             "solitamente"
           ]
         }
+      },
+      "image": {
+        "path": "images/usually.webp",
+        "source": "https://live.staticflickr.com/65535/51439829732_5898feabc9_b.jpg",
+        "attribution": {
+          "author": "rallie1@yahoo.com",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/40129118@N08/51439829732"
+        }
       }
     },
     {
@@ -1024,6 +1324,16 @@
         },
         "fr": "souvent",
         "it": "spesso"
+      },
+      "image": {
+        "path": "images/often.webp",
+        "source": "https://live.staticflickr.com/65535/51010573740_92efbff02b_b.jpg",
+        "attribution": {
+          "author": "island deborah-",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/60612262@N08/51010573740"
+        }
       }
     },
     {
@@ -1062,6 +1372,16 @@
             "talvolta"
           ]
         }
+      },
+      "image": {
+        "path": "images/sometimes.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Never_Rarely_Sometimes_Always-0502.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Harald Krichel",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Never_Rarely_Sometimes_Always-0502.jpg"
+        }
       }
     },
     {
@@ -1091,6 +1411,16 @@
             "di rado"
           ]
         }
+      },
+      "image": {
+        "path": "images/rarely.webp",
+        "source": "https://live.staticflickr.com/65535/52093845562_30d86c9d25_b.jpg",
+        "attribution": {
+          "author": "Harold Litwiler, Poppy",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/116337886@N07/52093845562"
+        }
       }
     },
     {
@@ -1116,6 +1446,16 @@
         },
         "fr": "jamais",
         "it": "mai"
+      },
+      "image": {
+        "path": "images/never.webp",
+        "source": "https://live.staticflickr.com/65535/51855237421_a6db7ca1a1_m.jpg",
+        "attribution": {
+          "author": "kevin dooley",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/12836528@N00/51855237421"
+        }
       }
     },
     {
@@ -1156,6 +1496,16 @@
           ]
         },
         "it": "mai"
+      },
+      "image": {
+        "path": "images/ever.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/c/c9/World%27s_4th_a_Tree_Man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Monirul Alam",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:World%27s_4th_a_Tree_Man.jpg"
+        }
       }
     },
     {
@@ -1211,6 +1561,16 @@
             "ancora"
           ]
         }
+      },
+      "image": {
+        "path": "images/again.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F926.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F926/"
+        }
       }
     },
     {
@@ -1242,6 +1602,16 @@
         "es": "una vez",
         "fr": "une fois",
         "it": "una volta"
+      },
+      "image": {
+        "path": "images/once.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F502.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F502/"
+        }
       }
     }
   ]

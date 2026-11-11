@@ -14,6 +14,16 @@
         "es": "sí",
         "fr": "oui",
         "it": "sì"
+      },
+      "image": {
+        "path": "images/yes.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAE1.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAE1/"
+        }
       }
     },
     {
@@ -29,6 +39,16 @@
         "es": "no",
         "fr": "non",
         "it": "no"
+      },
+      "image": {
+        "path": "images/no.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F642-200D-2194-FE0F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F642-200D-2194-FE0F/"
+        }
       }
     },
     {
@@ -50,6 +70,16 @@
           ]
         },
         "it": "non"
+      },
+      "image": {
+        "path": "images/not.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F611.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F611/"
+        }
       }
     },
     {
@@ -65,6 +95,16 @@
         "es": "muy",
         "fr": "très",
         "it": "molto"
+      },
+      "image": {
+        "path": "images/very.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/d5/V%C3%A9ry_La_chapelle_Notre-Dame-de-la-Salette.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Aimelaime~commonswiki",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:V%C3%A9ry_La_chapelle_Notre-Dame-de-la-Salette.JPG"
+        }
       }
     },
     {
@@ -91,6 +131,16 @@
         "es": "demasiado",
         "fr": "trop",
         "it": "troppo"
+      },
+      "image": {
+        "path": "images/too.webp",
+        "source": "https://live.staticflickr.com/65535/49843224338_1b669e1e23_b.jpg",
+        "attribution": {
+          "author": "island deborah-",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/60612262@N08/49843224338"
+        }
       }
     },
     {
@@ -141,6 +191,16 @@
             "piuttosto"
           ]
         }
+      },
+      "image": {
+        "path": "images/quite.webp",
+        "source": "https://live.staticflickr.com/3941/32954114163_d3c058405d_b.jpg",
+        "attribution": {
+          "author": "PiktourUK",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/69706441@N03/32954114163"
+        }
       }
     },
     {
@@ -159,6 +219,16 @@
         "es": "casi",
         "fr": "presque",
         "it": "quasi"
+      },
+      "image": {
+        "path": "images/almost.webp",
+        "source": "https://live.staticflickr.com/65535/51513580601_53abc3494e_b.jpg",
+        "attribution": {
+          "author": "fusion-of-horizons",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/9019841@N08/51513580601"
+        }
       }
     },
     {
@@ -214,6 +284,16 @@
             "solamente"
           ]
         }
+      },
+      "image": {
+        "path": "images/only-adverb.webp",
+        "source": "https://live.staticflickr.com/65535/52405570555_c32c77e814.jpg",
+        "attribution": {
+          "author": "James Webb Space Telescope",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/50785054@N03/52405570555"
+        }
       }
     },
     {
@@ -245,6 +325,16 @@
             "anche"
           ]
         }
+      },
+      "image": {
+        "path": "images/even.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/even.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -275,6 +365,16 @@
         "es": "más",
         "fr": "plus",
         "it": "più"
+      },
+      "image": {
+        "path": "images/more.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/more.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -303,6 +403,16 @@
         "es": "menos",
         "fr": "moins",
         "it": "meno"
+      },
+      "image": {
+        "path": "images/less.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Less_Music.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "ladosis inc",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Less_Music.jpg"
+        }
       }
     },
     {
@@ -352,6 +462,16 @@
             "il più"
           ]
         }
+      },
+      "image": {
+        "path": "images/most.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/most.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -391,6 +511,16 @@
           "alternates": [
             "tanto"
           ]
+        }
+      },
+      "image": {
+        "path": "images/much-determiner.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Much_Hauptstrasse.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "The original uploader was Olbertz at German Wikipedia. (Original text: Olbertz)",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "http://creativecommons.org/licenses/by-sa/3.0/",
+          "page": "https://commons.wikimedia.org/wiki/File:Much_Hauptstrasse.jpg"
         }
       }
     },
@@ -439,6 +569,16 @@
             "tanti"
           ]
         }
+      },
+      "image": {
+        "path": "images/many.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/68/Eglise_Many.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Aimelaime",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Eglise_Many.JPG"
+        }
       }
     },
     {
@@ -483,6 +623,16 @@
           "alternates": [
             "un poco"
           ]
+        }
+      },
+      "image": {
+        "path": "images/a-little-determiner.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F90F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F90F/"
         }
       }
     },
@@ -535,6 +685,16 @@
             "poche"
           ]
         }
+      },
+      "image": {
+        "path": "images/little-determiner.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F90F.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F90F/"
+        }
       }
     },
     {
@@ -569,6 +729,16 @@
           "alternates": [
             "diversi"
           ]
+        }
+      },
+      "image": {
+        "path": "images/several-determiner.webp",
+        "source": "https://live.staticflickr.com/65535/52550410612_93280cb2b3_b.jpg",
+        "attribution": {
+          "author": "James Webb Space Telescope",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/50785054@N03/52550410612"
         }
       }
     },
@@ -618,6 +788,16 @@
             "basta"
           ]
         }
+      },
+      "image": {
+        "path": "images/enough-adverb.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/enough.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -659,6 +839,16 @@
           ]
         },
         "it": "così"
+      },
+      "image": {
+        "path": "images/like-this.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/261D.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-261D/"
+        }
       }
     },
     {
@@ -700,6 +890,16 @@
         },
         "fr": "peut-être",
         "it": "forse"
+      },
+      "image": {
+        "path": "images/maybe.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F937.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F937/"
+        }
       }
     },
     {
@@ -748,6 +948,16 @@
             "veramente"
           ]
         }
+      },
+      "image": {
+        "path": "images/really.webp",
+        "source": "https://live.staticflickr.com/65535/51369253037_f79267ec69_b.jpg",
+        "attribution": {
+          "author": "Charlie From Bristol",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/100915417@N07/51369253037"
+        }
       }
     },
     {
@@ -795,6 +1005,16 @@
           "alternates": [
             "proprio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/exactly.webp",
+        "source": "https://live.staticflickr.com/3935/33610367032_47aeb3b2c0_b.jpg",
+        "attribution": {
+          "author": "PiktourUK",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/69706441@N03/33610367032"
         }
       }
     },
@@ -855,6 +1075,16 @@
             "all'incirca"
           ]
         }
+      },
+      "image": {
+        "path": "images/approximately.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Approssimazione-geometrica-ellissoide-gen.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Hasanisawi",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Approssimazione-geometrica-ellissoide-gen.png"
+        }
       }
     },
     {
@@ -885,6 +1115,16 @@
         },
         "fr": "ensemble",
         "it": "insieme"
+      },
+      "image": {
+        "path": "images/together.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F932.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F932/"
+        }
       }
     },
     {
@@ -946,6 +1186,16 @@
             "solo"
           ]
         }
+      },
+      "image": {
+        "path": "images/alone-adverb.webp",
+        "source": "https://live.staticflickr.com/65535/51855237421_a6db7ca1a1_m.jpg",
+        "attribution": {
+          "author": "kevin dooley",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/12836528@N00/51855237421"
+        }
       }
     },
     {
@@ -961,6 +1211,16 @@
         "es": "bien",
         "fr": "bien",
         "it": "bene"
+      },
+      "image": {
+        "path": "images/well.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2764-FE0F-200D-1FA79.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2764-FE0F-200D-1FA79/"
+        }
       }
     },
     {
@@ -976,6 +1236,16 @@
         "es": "mal",
         "fr": "mal",
         "it": "male"
+      },
+      "image": {
+        "path": "images/badly.webp",
+        "source": "https://live.staticflickr.com/7825/47278047902_fa86914a6c_b.jpg",
+        "attribution": {
+          "author": "Ian Livesey",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/29488979@N06/47278047902"
+        }
       }
     },
     {
@@ -1000,6 +1270,16 @@
           "alternates": [
             "per piacere"
           ]
+        }
+      },
+      "image": {
+        "path": "images/please.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F97A.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F97A/"
         }
       }
     },
@@ -1039,6 +1319,16 @@
         "es": "gracias",
         "fr": "merci",
         "it": "grazie"
+      },
+      "image": {
+        "path": "images/thank-you.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F970.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F970/"
+        }
       }
     },
     {
@@ -1092,6 +1382,16 @@
             "scusa",
             "mi scusi"
           ]
+        }
+      },
+      "image": {
+        "path": "images/excuse-me.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Excuse_Me_%281925%29_-_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Metro-Goldwyn-Mayer",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Excuse_Me_(1925)_-_2.jpg"
         }
       }
     },
@@ -1153,6 +1453,16 @@
             "ok"
           ]
         }
+      },
+      "image": {
+        "path": "images/okay.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F44C.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F44C/"
+        }
       }
     },
     {
@@ -1199,6 +1509,16 @@
           ]
         },
         "it": "ecco"
+      },
+      "image": {
+        "path": "images/here-is.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F64B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F64B/"
+        }
       }
     }
   ]

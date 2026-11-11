@@ -36,6 +36,16 @@
             "computer"
           ]
         }
+      },
+      "image": {
+        "path": "images/computer.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9D1-200D-1F4BB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9D1-200D-1F4BB/"
+        }
       }
     },
     {
@@ -76,6 +86,16 @@
             "il laptop"
           ]
         }
+      },
+      "image": {
+        "path": "images/laptop.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4BB.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4BB/"
+        }
       }
     },
     {
@@ -110,6 +130,16 @@
           "alternates": [
             "dispositivo"
           ]
+        }
+      },
+      "image": {
+        "path": "images/device.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Computer_from_inside_018.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "kallerna",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Computer_from_inside_018.jpg"
         }
       }
     },
@@ -146,6 +176,16 @@
             "schermo"
           ]
         }
+      },
+      "image": {
+        "path": "images/screen.webp",
+        "source": "https://live.staticflickr.com/65535/52350271789_12ba32f7bf_b.jpg",
+        "attribution": {
+          "author": "Alexandre Dulaunoy",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0/",
+          "page": "https://www.flickr.com/photos/31797858@N00/52350271789"
+        }
       }
     },
     {
@@ -180,6 +220,16 @@
           "alternates": [
             "tastiera"
           ]
+        }
+      },
+      "image": {
+        "path": "images/keyboard.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2328.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2328/"
         }
       }
     },
@@ -231,7 +281,17 @@
             "it": "Non dare mai la tua password a nessuno."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/password.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F511.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F511/"
+        }
+      }
     },
     {
       "forms": {
@@ -277,6 +337,16 @@
             "app",
             "l'applicazione"
           ]
+        }
+      },
+      "image": {
+        "path": "images/app.webp",
+        "source": "https://live.staticflickr.com/65535/51537202045_046bf2421b_b.jpg",
+        "attribution": {
+          "author": "James Webb Space Telescope",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/50785054@N03/51537202045"
         }
       }
     },
@@ -327,6 +397,16 @@
             "il sito"
           ]
         }
+      },
+      "image": {
+        "path": "images/website.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Activite3.2.1_Pr%C3%A9parer_un_document_Web_%C3%A0_l%E2%80%99accessibilit%C3%A9.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Cned-PA",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Activite3.2.1_Pr%C3%A9parer_un_document_Web_%C3%A0_l%E2%80%99accessibilit%C3%A9.png"
+        }
       }
     },
     {
@@ -362,6 +442,16 @@
           "alternates": [
             "file"
           ]
+        }
+      },
+      "image": {
+        "path": "images/file.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4C1.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4C1/"
         }
       }
     },
@@ -402,6 +492,16 @@
           "alternates": [
             "cartella"
           ]
+        }
+      },
+      "image": {
+        "path": "images/folder.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4C1.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4C1/"
         }
       }
     },
@@ -449,6 +549,16 @@
             "batteria"
           ]
         }
+      },
+      "image": {
+        "path": "images/battery.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F50B.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F50B/"
+        }
       }
     },
     {
@@ -495,6 +605,16 @@
             "il caricatore"
           ]
         }
+      },
+      "image": {
+        "path": "images/charger.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Ladeger%C3%A4t.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Medvedev",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Ladeger%C3%A4t.jpg"
+        }
       }
     },
     {
@@ -530,6 +650,16 @@
           "alternates": [
             "aggiornamento"
           ]
+        }
+      },
+      "image": {
+        "path": "images/update.webp",
+        "source": "https://live.staticflickr.com/65535/48682896723_505b94dce4_b.jpg",
+        "attribution": {
+          "author": "nysdoh",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/155738025@N04/48682896723"
         }
       }
     },
@@ -578,6 +708,16 @@
             "i social"
           ]
         }
+      },
+      "image": {
+        "path": "images/social-media.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4DD.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4DD/"
+        }
       }
     },
     {
@@ -612,6 +752,16 @@
           "alternates": [
             "messaggio"
           ]
+        }
+      },
+      "image": {
+        "path": "images/message.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4AC.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4AC/"
         }
       }
     },
@@ -648,6 +798,16 @@
         "es": "descargar",
         "fr": "télécharger",
         "it": "scaricare"
+      },
+      "image": {
+        "path": "images/to-download.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/download.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
+        }
       }
     },
     {
@@ -683,6 +843,16 @@
           ]
         },
         "it": "caricare"
+      },
+      "image": {
+        "path": "images/to-upload.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Octicons-cloud-upload.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "GitHub",
+          "license": "MIT",
+          "licenseURL": "http://opensource.org/licenses/mit-license.php",
+          "page": "https://commons.wikimedia.org/wiki/File:Octicons-cloud-upload.svg"
+        }
       }
     },
     {
@@ -742,6 +912,16 @@
           ]
         },
         "it": "salvare"
+      },
+      "image": {
+        "path": "images/to-save.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6DF.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6DF/"
+        }
       }
     },
     {
@@ -811,6 +991,16 @@
             "eliminare"
           ]
         }
+      },
+      "image": {
+        "path": "images/to-delete.webp",
+        "source": "https://live.staticflickr.com/196/493242224_92a4b637e4.jpg",
+        "attribution": {
+          "author": "jon rubin",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/69803865@N00/493242224"
+        }
       }
     },
     {
@@ -836,6 +1026,16 @@
           ]
         },
         "it": "cercare"
+      },
+      "image": {
+        "path": "images/to-search.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F50D.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F50D/"
+        }
       }
     },
     {
@@ -883,6 +1083,16 @@
           "alternates": [
             "fare il login"
           ]
+        }
+      },
+      "image": {
+        "path": "images/to-log-in.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAB5.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAB5/"
         }
       }
     },
@@ -968,7 +1178,17 @@
             "it": "Devo caricare il telefono."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/to-charge.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4B3.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4B3/"
+        }
+      }
     },
     {
       "forms": {
@@ -1002,6 +1222,16 @@
           "alternates": [
             "Internet"
           ]
+        }
+      },
+      "image": {
+        "path": "images/internet.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F310.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F310/"
         }
       }
     },
@@ -1055,6 +1285,16 @@
             "wifi"
           ]
         }
+      },
+      "image": {
+        "path": "images/wi-fi.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6DC.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6DC/"
+        }
       }
     },
     {
@@ -1092,6 +1332,16 @@
             "smartphone"
           ]
         }
+      },
+      "image": {
+        "path": "images/smartphone.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6DC.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6DC/"
+        }
       }
     },
     {
@@ -1126,6 +1376,16 @@
           "alternates": [
             "tablet"
           ]
+        }
+      },
+      "image": {
+        "path": "images/tablet.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/5/56/Tablette_rituelle_d%27un_pr%C3%AAtre_lamentateur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Unknown artistUnknown artist",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Tablette_rituelle_d%27un_pr%C3%AAtre_lamentateur.jpg"
         }
       }
     },
@@ -1165,6 +1425,16 @@
             "cuffie",
             "auricolari"
           ]
+        }
+      },
+      "image": {
+        "path": "images/headphones.webp",
+        "source": "https://github.com/mulberrysymbols/mulberry-symbols/blob/master/EN/symbols/headphones.svg",
+        "attribution": {
+          "author": "Mulberry Symbols © Steve Lee",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://mulberrysymbols.org/"
         }
       }
     },
@@ -1218,6 +1488,16 @@
             "mouse"
           ]
         }
+      },
+      "image": {
+        "path": "images/computer-mouse.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F5B1.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F5B1/"
+        }
       }
     },
     {
@@ -1253,6 +1533,16 @@
             "stampante"
           ]
         }
+      },
+      "image": {
+        "path": "images/printer.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F5A8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F5A8/"
+        }
       }
     },
     {
@@ -1287,6 +1577,16 @@
           "alternates": [
             "intelligenza artificiale"
           ]
+        }
+      },
+      "image": {
+        "path": "images/artificial-intelligence.webp",
+        "source": "https://live.staticflickr.com/65535/51917430076_f988efa3bd_b.jpg",
+        "attribution": {
+          "author": "Wendelin Jacober",
+          "license": "CC0 1.0",
+          "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "page": "https://www.flickr.com/photos/91619724@N04/51917430076"
         }
       }
     },
@@ -1346,6 +1646,16 @@
             "mail"
           ]
         }
+      },
+      "image": {
+        "path": "images/email.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/2709.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-2709/"
+        }
       }
     },
     {
@@ -1380,6 +1690,16 @@
           "alternates": [
             "browser"
           ]
+        }
+      },
+      "image": {
+        "path": "images/browser.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Wiki_Smartphones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Samsung Galaxy Note 10",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Wiki_Smartphones.jpg"
         }
       }
     },
@@ -1439,6 +1759,16 @@
             "profilo"
           ]
         }
+      },
+      "image": {
+        "path": "images/user-account.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/System-users-3.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "The people from the Tango! project, modifications by User: Perhelion.",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:System-users-3.svg"
+        }
       }
     },
     {
@@ -1473,6 +1803,16 @@
           "alternates": [
             "dati"
           ]
+        }
+      },
+      "image": {
+        "path": "images/data.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4C8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4C8/"
         }
       }
     },
@@ -1541,6 +1881,16 @@
         },
         "fr": "cliquer",
         "it": "cliccare"
+      },
+      "image": {
+        "path": "images/to-click.webp",
+        "source": "https://live.staticflickr.com/65535/50521960062_0a902ca89f_b.jpg",
+        "attribution": {
+          "author": "sandro349",
+          "license": "CC0 1.0",
+          "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/",
+          "page": "https://www.flickr.com/photos/186236561@N02/50521960062"
+        }
       }
     },
     {
@@ -1595,6 +1945,16 @@
         "es": "instalar",
         "fr": "installer",
         "it": "installare"
+      },
+      "image": {
+        "path": "images/to-install.webp",
+        "source": "https://live.staticflickr.com/65535/51625898688_bed542fba7_b.jpg",
+        "attribution": {
+          "author": "Onasill - Bill Badzo - OFF- VACATION",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/7156765@N05/51625898688"
+        }
       }
     },
     {
@@ -1659,6 +2019,16 @@
         },
         "fr": "allumer",
         "it": "accendere"
+      },
+      "image": {
+        "path": "images/to-turn-on.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F6DE.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F6DE/"
+        }
       }
     },
     {
@@ -1718,6 +2088,16 @@
         "es": "apagar",
         "fr": "éteindre",
         "it": "spegnere"
+      },
+      "image": {
+        "path": "images/to-turn-off.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F4F4.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F4F4/"
+        }
       }
     },
     {
@@ -1777,6 +2157,16 @@
         "es": "imprimir",
         "fr": "imprimer",
         "it": "stampare"
+      },
+      "image": {
+        "path": "images/to-print.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F463.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F463/"
+        }
       }
     },
     {
@@ -1792,6 +2182,16 @@
         "es": "digital",
         "fr": "numérique",
         "it": "digitale"
+      },
+      "image": {
+        "path": "images/digital.webp",
+        "source": "https://live.staticflickr.com/3918/14376610420_cf56ecec8e_b.jpg",
+        "attribution": {
+          "author": "walmarc04",
+          "license": "Public Domain Mark",
+          "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+          "page": "https://www.flickr.com/photos/30924550@N04/14376610420"
+        }
       }
     },
     {
@@ -1807,6 +2207,16 @@
         "es": "en línea",
         "fr": "en ligne",
         "it": "online"
+      },
+      "image": {
+        "path": "images/online.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/7/76/O2_Wireless_Box_V.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Ken218",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:O2_Wireless_Box_V.jpg"
+        }
       }
     }
   ]

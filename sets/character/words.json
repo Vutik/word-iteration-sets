@@ -39,6 +39,16 @@
             "buono"
           ]
         }
+      },
+      "image": {
+        "path": "images/kind-adjective.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Child_laborer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Lewis W. Hine for the National Child Labor Committee",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Child_laborer.jpg"
+        }
       }
     },
     {
@@ -69,6 +79,16 @@
           ]
         },
         "it": "amichevole"
+      },
+      "image": {
+        "path": "images/friendly.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e6/3_barefoot_females_smiling_and_sitting_on_a_bench.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "JLS Media",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:3_barefoot_females_smiling_and_sitting_on_a_bench.jpg"
+        }
       }
     },
     {
@@ -98,6 +118,16 @@
           "alternates": [
             "cortese"
           ]
+        }
+      },
+      "image": {
+        "path": "images/polite.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Politeness_-_Punch_cartoon_-_Project_Gutenberg_eText_16619.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Politeness_-_Punch_cartoon_-_Project_Gutenberg_eText_16619.png"
         }
       }
     },
@@ -139,6 +169,9 @@
             "scortese"
           ]
         }
+      },
+      "image": {
+        "none": true
       }
     },
     {
@@ -174,6 +207,16 @@
             "sincero"
           ]
         }
+      },
+      "image": {
+        "path": "images/honest.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Diogenes_looking_for_a_man_-_attributed_to_JHW_Tischbein.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Attributed to Johann Heinrich Wilhelm Tischbein",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Diogenes_looking_for_a_man_-_attributed_to_JHW_Tischbein.jpg"
+        }
       }
     },
     {
@@ -189,6 +232,9 @@
         "es": "generoso",
         "fr": "généreux",
         "it": "generoso"
+      },
+      "image": {
+        "none": true
       }
     },
     {
@@ -209,6 +255,9 @@
         "es": "egoísta",
         "fr": "égoïste",
         "it": "egoista"
+      },
+      "image": {
+        "none": true
       }
     },
     {
@@ -234,6 +283,16 @@
         "es": "tímido",
         "fr": "timide",
         "it": "timido"
+      },
+      "image": {
+        "path": "images/shy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FAE3.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FAE3/"
+        }
       }
     },
     {
@@ -259,6 +318,16 @@
           ]
         },
         "it": "sicuro di sé"
+      },
+      "image": {
+        "path": "images/confident.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Young_Boy_in_Confident_Pose_-_Centro_Habana_-_Havana_-_Cuba.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Adam Jones Adam63",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Young_Boy_in_Confident_Pose_-_Centro_Habana_-_Havana_-_Cuba.JPG"
+        }
       }
     },
     {
@@ -279,6 +348,16 @@
         },
         "fr": "paresseux",
         "it": "pigro"
+      },
+      "image": {
+        "path": "images/lazy.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9A5.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9A5/"
+        }
       }
     },
     {
@@ -299,6 +378,16 @@
         "es": "trabajador",
         "fr": "travailleur",
         "it": "laborioso"
+      },
+      "image": {
+        "path": "images/hard-working.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/e/e4/A_hard_working_man.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Abdomd",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:A_hard_working_man.jpg"
+        }
       }
     },
     {
@@ -314,6 +403,16 @@
         "es": "paciente",
         "fr": "patient",
         "it": "paziente"
+      },
+      "image": {
+        "path": "images/patient-adjective.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Patiente_salaUNo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Salauno",
+          "license": "CC BY-SA 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Patiente_salaUNo.jpg"
+        }
       }
     },
     {
@@ -339,6 +438,16 @@
         },
         "fr": "fiable",
         "it": "affidabile"
+      },
+      "image": {
+        "path": "images/reliable.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/0/06/Reliable_Dayton_1909.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Calreyn88",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Reliable_Dayton_1909.jpg"
+        }
       }
     },
     {
@@ -389,6 +498,16 @@
             "buffo"
           ]
         }
+      },
+      "image": {
+        "path": "images/funny.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F923.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F923/"
+        }
       }
     },
     {
@@ -422,6 +541,16 @@
         },
         "fr": "intelligent",
         "it": "intelligente"
+      },
+      "image": {
+        "path": "images/clever.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F913.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F913/"
+        }
       }
     },
     {
@@ -467,7 +596,17 @@
             "it": "È troppo testardo per ammettere di aver sbagliato."
           }
         }
-      ]
+      ],
+      "image": {
+        "path": "images/stubborn.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1FACF.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1FACF/"
+        }
+      }
     },
     {
       "forms": {
@@ -497,6 +636,9 @@
         "es": "valiente",
         "fr": "courageux",
         "it": "coraggioso"
+      },
+      "image": {
+        "none": true
       }
     },
     {
@@ -547,6 +689,16 @@
             "attento"
           ]
         }
+      },
+      "image": {
+        "path": "images/careful.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/9/99/Be_careful_-_geograph.org.uk_-_3210350.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "ad acta",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Be_careful_-_geograph.org.uk_-_3210350.jpg"
+        }
       }
     },
     {
@@ -587,6 +739,9 @@
             "sensato"
           ]
         }
+      },
+      "image": {
+        "none": true
       }
     },
     {
@@ -617,6 +772,16 @@
         "es": "sensible",
         "fr": "sensible",
         "it": "sensibile"
+      },
+      "image": {
+        "path": "images/sensitive.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Sensitive_plant_flower.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Karthikasree",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Sensitive_plant_flower.jpg"
+        }
       }
     },
     {
@@ -657,6 +822,16 @@
             "invidioso"
           ]
         }
+      },
+      "image": {
+        "path": "images/jealous.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F610.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F610/"
+        }
       }
     },
     {
@@ -672,6 +847,16 @@
         "es": "optimista",
         "fr": "optimiste",
         "it": "ottimista"
+      },
+      "image": {
+        "path": "images/optimistic.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/2/2b/BerlinWallMonumentWestView.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Central Intelligence Agency",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:BerlinWallMonumentWestView.jpg"
+        }
       }
     },
     {
@@ -687,6 +872,16 @@
         "es": "pesimista",
         "fr": "pessimiste",
         "it": "pessimista"
+      },
+      "image": {
+        "path": "images/pessimistic.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Pessimistic_Face.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Barry Langdon-Lassagne",
+          "license": "CC BY 3.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Pessimistic_Face.jpg"
+        }
       }
     },
     {
@@ -717,6 +912,16 @@
         "es": "creativo",
         "fr": "créatif",
         "it": "creativo"
+      },
+      "image": {
+        "path": "images/creative.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F3A8.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F3A8/"
+        }
       }
     },
     {
@@ -742,6 +947,16 @@
         "es": "curioso",
         "fr": "curieux",
         "it": "curioso"
+      },
+      "image": {
+        "path": "images/curious.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F99D.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F99D/"
+        }
       }
     },
     {
@@ -787,6 +1002,16 @@
             "gioioso"
           ]
         }
+      },
+      "image": {
+        "path": "images/cheerful.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F600.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F600/"
+        }
       }
     },
     {
@@ -807,6 +1032,16 @@
         "es": "serio",
         "fr": "sérieux",
         "it": "serio"
+      },
+      "image": {
+        "path": "images/serious.webp",
+        "source": "https://github.com/microsoft/fluentui-emoji/blob/main/assets/Necktie/3D/necktie_3d.png",
+        "attribution": {
+          "author": "Microsoft",
+          "license": "MIT",
+          "licenseURL": "https://github.com/microsoft/fluentui-emoji/blob/main/LICENSE",
+          "page": "https://github.com/microsoft/fluentui-emoji/tree/main/assets/Necktie"
+        }
       }
     },
     {
@@ -822,6 +1057,16 @@
         "es": "modesto",
         "fr": "modeste",
         "it": "modesto"
+      },
+      "image": {
+        "path": "images/modest.webp",
+        "source": "https://live.staticflickr.com/8747/16974422645_02d4121802_b.jpg",
+        "attribution": {
+          "author": "Ronald Douglas Frazier",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/56377701@N07/16974422645"
+        }
       }
     },
     {
@@ -862,6 +1107,16 @@
           ]
         },
         "it": "arrogante"
+      },
+      "image": {
+        "path": "images/arrogant.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Arrogant-Caffieri-img_3200.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Philippe Caffieri",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Arrogant-Caffieri-img_3200.jpg"
+        }
       }
     },
     {
@@ -906,6 +1161,16 @@
           "alternates": [
             "chiacchierone"
           ]
+        }
+      },
+      "image": {
+        "path": "images/talkative.webp",
+        "source": "https://live.staticflickr.com/7498/16142323982_ebb6a0f866_b.jpg",
+        "attribution": {
+          "author": "RomitaGirl67",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/68923389@N02/16142323982"
         }
       }
     },
@@ -957,6 +1222,9 @@
             "fedele"
           ]
         }
+      },
+      "image": {
+        "none": true
       }
     },
     {
@@ -977,6 +1245,9 @@
         "es": "responsable",
         "fr": "responsable",
         "it": "responsabile"
+      },
+      "image": {
+        "none": true
       }
     },
     {
@@ -1002,6 +1273,16 @@
         "es": "ambicioso",
         "fr": "ambitieux",
         "it": "ambizioso"
+      },
+      "image": {
+        "path": "images/ambitious.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Ambitious_racehorse_IMG_2290_R_20150328.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Ogiyoshisan",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Ambitious_racehorse_IMG_2290_R_20150328.JPG"
+        }
       }
     },
     {
@@ -1047,6 +1328,9 @@
             "deciso"
           ]
         }
+      },
+      "image": {
+        "none": true
       }
     },
     {
@@ -1092,6 +1376,16 @@
             "tirchio"
           ]
         }
+      },
+      "image": {
+        "path": "images/stingy.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Maria_Fyodorovna-Miser.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Maria Feodorova",
+          "license": "Public domain",
+          "licenseURL": "",
+          "page": "https://commons.wikimedia.org/wiki/File:Maria_Fyodorovna-Miser.jpg"
+        }
       }
     },
     {
@@ -1107,6 +1401,16 @@
         "es": "impaciente",
         "fr": "impatient",
         "it": "impaziente"
+      },
+      "image": {
+        "path": "images/impatient.webp",
+        "source": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Getting_impatient_-_geograph.org.uk_-_950677.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "attribution": {
+          "author": "Evelyn Simak",
+          "license": "CC BY-SA 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+          "page": "https://commons.wikimedia.org/wiki/File:Getting_impatient_-_geograph.org.uk_-_950677.jpg"
+        }
       }
     },
     {
@@ -1157,6 +1461,16 @@
             "attento"
           ]
         }
+      },
+      "image": {
+        "path": "images/caring.webp",
+        "source": "https://live.staticflickr.com/65535/52512374389_0008718c90_b.jpg",
+        "attribution": {
+          "author": "Rob Oo",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/105105658@N03/52512374389"
+        }
       }
     },
     {
@@ -1192,6 +1506,16 @@
             "estroverso"
           ]
         }
+      },
+      "image": {
+        "path": "images/sociable.webp",
+        "source": "https://live.staticflickr.com/65535/50545056786_83145b952a_b.jpg",
+        "attribution": {
+          "author": "Jeanne Menjoulet",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/96925387@N00/50545056786"
+        }
       }
     },
     {
@@ -1207,6 +1531,16 @@
         "es": "sabio",
         "fr": "sage",
         "it": "saggio"
+      },
+      "image": {
+        "path": "images/wise.webp",
+        "source": "https://cdn.jsdelivr.net/gh/hfg-gmuend/openmoji@15.1.0/color/618x618/1F9D3.png",
+        "attribution": {
+          "author": "OpenMoji",
+          "license": "CC BY-SA 4.0",
+          "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0/",
+          "page": "https://openmoji.org/library/emoji-1F9D3/"
+        }
       }
     },
     {
@@ -1251,6 +1585,16 @@
           "alternates": [
             "aperto"
           ]
+        }
+      },
+      "image": {
+        "path": "images/open-minded.webp",
+        "source": "https://live.staticflickr.com/65535/51679462081_5005cfe502_b.jpg",
+        "attribution": {
+          "author": "kevin dooley",
+          "license": "CC BY 2.0",
+          "licenseURL": "https://creativecommons.org/licenses/by/2.0/",
+          "page": "https://www.flickr.com/photos/12836528@N00/51679462081"
         }
       }
     }
